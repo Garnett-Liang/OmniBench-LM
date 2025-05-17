@@ -1,0 +1,392 @@
+[
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q108809873",
+        "objectValue": "political conflict",
+        "anotherObject": "Q125092269",
+        "anotherObjectValue": "type of conflict"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q63241885",
+        "objectValue": "Joe Biden presidential campaign, 2020",
+        "anotherObject": "Q104879539",
+        "anotherObjectValue": "timeline of the Joe Biden presidency"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q108809873",
+        "objectValue": "political conflict",
+        "anotherObject": "Q66762677",
+        "anotherObjectValue": "political term"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q28877",
+        "anotherObjectValue": "goods"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q1047113",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q2267705",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P1542",
+        "predicateValue": "has effect",
+        "object": "Q127688165",
+        "objectValue": "withdrawal of Joe Biden from the 2024 United States presidential election",
+        "anotherObject": "Q127688121",
+        "anotherObjectValue": "Kamala Harris 2024 presidential campaign"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q190258",
+        "anotherObjectValue": "need"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P17",
+        "predicateValue": "country",
+        "object": "Q30",
+        "objectValue": "United States",
+        "anotherObject": "Q30",
+        "anotherObjectValue": "United States"
+    },
+    {
+        "subject": "Q123080564",
+        "subjectValue": "Age and health concerns about Joe Biden",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q117842677",
+        "objectValue": "Joe Biden 2024 presidential campaign",
+        "anotherObject": "Q104879539",
+        "anotherObjectValue": "timeline of the Joe Biden presidency"
+    },
+    {
+        "subject": "Q5076726",
+        "subjectValue": "Health of Charles Darwin",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q28877",
+        "anotherObjectValue": "goods"
+    },
+    {
+        "subject": "Q5076726",
+        "subjectValue": "Health of Charles Darwin",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q1047113",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q5076726",
+        "subjectValue": "Health of Charles Darwin",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q2267705",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q5076726",
+        "subjectValue": "Health of Charles Darwin",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q5076726",
+        "subjectValue": "Health of Charles Darwin",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q190258",
+        "anotherObjectValue": "need"
+    },
+    {
+        "subject": "Q4356352",
+        "subjectValue": "Health of Adolf Hitler",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q28877",
+        "anotherObjectValue": "goods"
+    },
+    {
+        "subject": "Q4356352",
+        "subjectValue": "Health of Adolf Hitler",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q1047113",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q4356352",
+        "subjectValue": "Health of Adolf Hitler",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q2267705",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q4356352",
+        "subjectValue": "Health of Adolf Hitler",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q4356352",
+        "subjectValue": "Health of Adolf Hitler",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q190258",
+        "anotherObjectValue": "need"
+    },
+    {
+        "subject": "Q9389533",
+        "subjectValue": "Mental health of Jesus",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q317309",
+        "objectValue": "mental health",
+        "anotherObject": "Q3968640",
+        "anotherObjectValue": "mental state"
+    },
+    {
+        "subject": "Q9389533",
+        "subjectValue": "Mental health of Jesus",
+        "predicate": "P1269",
+        "predicateValue": "facet of",
+        "object": "Q366886",
+        "objectValue": "psychopathy",
+        "anotherObject": "Q111041011",
+        "anotherObjectValue": "psychopath"
+    },
+    {
+        "subject": "Q7229184",
+        "subjectValue": "Health of Pope John Paul II",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q28877",
+        "anotherObjectValue": "goods"
+    },
+    {
+        "subject": "Q7229184",
+        "subjectValue": "Health of Pope John Paul II",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q1047113",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q7229184",
+        "subjectValue": "Health of Pope John Paul II",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q2267705",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q7229184",
+        "subjectValue": "Health of Pope John Paul II",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q7229184",
+        "subjectValue": "Health of Pope John Paul II",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q190258",
+        "anotherObjectValue": "need"
+    },
+    {
+        "subject": "Q5113246",
+        "subjectValue": "Asylum confinement of Christopher Smart",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q841236",
+        "objectValue": "imprisonment",
+        "anotherObject": "Q186361",
+        "anotherObjectValue": "punishment"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q108809873",
+        "objectValue": "political conflict",
+        "anotherObject": "Q125092269",
+        "anotherObjectValue": "type of conflict"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q108809873",
+        "objectValue": "political conflict",
+        "anotherObject": "Q66762677",
+        "anotherObjectValue": "political term"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q115227079",
+        "objectValue": "Donald Trump 2024 presidential campaign",
+        "anotherObject": "Q30251319",
+        "anotherObjectValue": "timeline of the presidencies of Donald Trump"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q28877",
+        "anotherObjectValue": "goods"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q115227079",
+        "objectValue": "Donald Trump 2024 presidential campaign",
+        "anotherObject": "Q101110072",
+        "anotherObjectValue": "2024 United States presidential election"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q1047113",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q2267705",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q12147",
+        "objectValue": "health",
+        "anotherObject": "Q190258",
+        "anotherObjectValue": "need"
+    },
+    {
+        "subject": "Q129155144",
+        "subjectValue": "Age and health concerns about Donald Trump",
+        "predicate": "P17",
+        "predicateValue": "country",
+        "object": "Q30",
+        "objectValue": "United States",
+        "anotherObject": "Q30",
+        "anotherObjectValue": "United States"
+    }
+]

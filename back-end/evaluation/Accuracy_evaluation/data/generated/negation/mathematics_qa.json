@@ -1,0 +1,36 @@
+[
+    {
+        "category": "mathematics",
+        "reasoning": "Negation Inference",
+        "description": "A divisibility rule is a shorthand and useful way of determining whether a given integer is divisible by a fixed divisor without performing the division, usually by examining its digits. Although there are divisibility tests for numbers in any radix, or base, and they are all different, this article presents rules and examples only for decimal, or base 10, numbers. Martin Gardner explained and popularized these rules in his September 1962 \"Mathematical Games\" column in Scientific American.\nCategory theory is a general theory of mathematical structures and their relations. It was introduced by Samuel Eilenberg and Saunders Mac Lane in the middle of the 20th century in their foundational work on algebraic topology. Category theory is used in almost all areas of mathematics. In particular, many constructions of new mathematical objects from previous ones that appear similarly in several contexts are conveniently expressed and unified in terms of categories. Examples include quotient spaces, direct products, completion, and duality.",
+        "subject": "Divisibility rule",
+        "predicate": "not_studied_in",
+        "object": "category theory",
+        "evidence": [
+            [
+                "Divisibility rule",
+                "studied in",
+                "mental calculation"
+            ]
+        ],
+        "question": "Is it true that Divisibility rule can not be studied in category theory?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Negation Inference",
+        "description": "This article gives a table of some common Lie groups and their associated Lie algebras.\nMental calculation consists of arithmetical calculations using only the human brain, with no help from any supplies or devices such as a calculator. People may use mental calculation when computing tools are not available, when it is faster than other means of calculation, or even in a competitive context. Mental calculation often involves the use of specific techniques devised for specific types of problems. People with unusually high ability to perform mental calculations are called mental calculators or lightning calculators.",
+        "subject": "Table of Lie groups",
+        "predicate": "not_studied_in",
+        "object": "mental calculation",
+        "evidence": [
+            [
+                "Table of Lie groups",
+                "studied in",
+                "category theory"
+            ]
+        ],
+        "question": "Could Table of Lie groups be studied in of mental calculation?",
+        "answer": "No."
+    }
+]

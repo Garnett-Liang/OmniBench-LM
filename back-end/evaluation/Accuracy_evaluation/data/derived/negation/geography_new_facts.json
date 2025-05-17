@@ -1,0 +1,287 @@
+[
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Hans Egede Medal is awarded by the Royal Danish Geographical Society for outstanding services to geography, \"principally for geographical studies and research in the Polar lands.\" It was instituted in 1916 and named after Hans Egede, a Danish missionary who established a mission in Greenland.\nThe Exploration Museum is dedicated to the history of human exploration, from the early explorers to the exploration of space. The museum is located in the center of H\u00fasav\u00edk in North Iceland, 50 kilometres (30\u00a0mi) from the Arctic Circle. The museum was founded in 2011 and formally opened in 2014 by the President of Iceland.",
+        "subject": "Hans Egede Medal",
+        "predicate": "not_conferred_by",
+        "object": "The Exploration Museum",
+        "evidence": [
+            [
+                "Hans Egede Medal",
+                "conferred by",
+                "Royal Danish Geographical Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Hans Egede Medal is awarded by the Royal Danish Geographical Society for outstanding services to geography, \"principally for geographical studies and research in the Polar lands.\" It was instituted in 1916 and named after Hans Egede, a Danish missionary who established a mission in Greenland.\nThe Soci\u00e9t\u00e9 de G\u00e9ographie, is the world's oldest geographical society. It was founded in 1821 as the first Geographic Society. Since 1878, its headquarters have been at 184 Boulevard Saint-Germain, Paris. The entrance is marked by two gigantic caryatids representing Land and Sea. It was here, in 1879, that the construction of the Panama Canal was decided.",
+        "subject": "Hans Egede Medal",
+        "predicate": "not_conferred_by",
+        "object": "Soci\u00e9t\u00e9 de G\u00e9ographie",
+        "evidence": [
+            [
+                "Hans Egede Medal",
+                "conferred by",
+                "Royal Danish Geographical Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Hans Egede Medal is awarded by the Royal Danish Geographical Society for outstanding services to geography, \"principally for geographical studies and research in the Polar lands.\" It was instituted in 1916 and named after Hans Egede, a Danish missionary who established a mission in Greenland.\nThe National Geographic Society, headquartered in Washington, D.C., United States, is one of the largest nonprofit scientific and educational organizations in the world.",
+        "subject": "Hans Egede Medal",
+        "predicate": "not_conferred_by",
+        "object": "National Geographic Society",
+        "evidence": [
+            [
+                "Hans Egede Medal",
+                "conferred by",
+                "Royal Danish Geographical Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Hans Egede Medal is awarded by the Royal Danish Geographical Society for outstanding services to geography, \"principally for geographical studies and research in the Polar lands.\" It was instituted in 1916 and named after Hans Egede, a Danish missionary who established a mission in Greenland.\nThe Royal Canadian Geographical Society is a Canadian nonprofit educational organization. It has dedicated itself to spreading a broader knowledge and deeper appreciation of Canada, including its people, places, natural and cultural heritage, as well as its environmental, social and economic challenges.",
+        "subject": "Hans Egede Medal",
+        "predicate": "not_conferred_by",
+        "object": "Royal Canadian Geographical Society",
+        "evidence": [
+            [
+                "Hans Egede Medal",
+                "conferred by",
+                "Royal Danish Geographical Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Leif Erikson Awards, sometimes referred to as the Exploration Awards, are awarded annually by the Exploration Museum in H\u00fasav\u00edk, Iceland, for achievements in exploration and for work in the field of exploration history. They are awarded in three categories; to an explorer for a lifetime achievement in exploration; to a young explorer under the age of 35 for achievements in exploration; and to a person or an organization that has worked to promote and preserve exploration history.\nThe Royal Danish Geographical Society is a scientific society. The society aims to furthethe knowledge of the Earth and its inhabitants and to disseminate interest in the science of geography.",
+        "subject": "Leif Erikson Awards",
+        "predicate": "not_conferred_by",
+        "object": "Royal Danish Geographical Society",
+        "evidence": [
+            [
+                "Leif Erikson Awards",
+                "conferred by",
+                "The Exploration Museum"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Leif Erikson Awards, sometimes referred to as the Exploration Awards, are awarded annually by the Exploration Museum in H\u00fasav\u00edk, Iceland, for achievements in exploration and for work in the field of exploration history. They are awarded in three categories; to an explorer for a lifetime achievement in exploration; to a young explorer under the age of 35 for achievements in exploration; and to a person or an organization that has worked to promote and preserve exploration history.\nThe Soci\u00e9t\u00e9 de G\u00e9ographie, is the world's oldest geographical society. It was founded in 1821 as the first Geographic Society. Since 1878, its headquarters have been at 184 Boulevard Saint-Germain, Paris. The entrance is marked by two gigantic caryatids representing Land and Sea. It was here, in 1879, that the construction of the Panama Canal was decided.",
+        "subject": "Leif Erikson Awards",
+        "predicate": "not_conferred_by",
+        "object": "Soci\u00e9t\u00e9 de G\u00e9ographie",
+        "evidence": [
+            [
+                "Leif Erikson Awards",
+                "conferred by",
+                "The Exploration Museum"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Leif Erikson Awards, sometimes referred to as the Exploration Awards, are awarded annually by the Exploration Museum in H\u00fasav\u00edk, Iceland, for achievements in exploration and for work in the field of exploration history. They are awarded in three categories; to an explorer for a lifetime achievement in exploration; to a young explorer under the age of 35 for achievements in exploration; and to a person or an organization that has worked to promote and preserve exploration history.\nThe National Geographic Society, headquartered in Washington, D.C., United States, is one of the largest nonprofit scientific and educational organizations in the world.",
+        "subject": "Leif Erikson Awards",
+        "predicate": "not_conferred_by",
+        "object": "National Geographic Society",
+        "evidence": [
+            [
+                "Leif Erikson Awards",
+                "conferred by",
+                "The Exploration Museum"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Leif Erikson Awards, sometimes referred to as the Exploration Awards, are awarded annually by the Exploration Museum in H\u00fasav\u00edk, Iceland, for achievements in exploration and for work in the field of exploration history. They are awarded in three categories; to an explorer for a lifetime achievement in exploration; to a young explorer under the age of 35 for achievements in exploration; and to a person or an organization that has worked to promote and preserve exploration history.\nThe Royal Canadian Geographical Society is a Canadian nonprofit educational organization. It has dedicated itself to spreading a broader knowledge and deeper appreciation of Canada, including its people, places, natural and cultural heritage, as well as its environmental, social and economic challenges.",
+        "subject": "Leif Erikson Awards",
+        "predicate": "not_conferred_by",
+        "object": "Royal Canadian Geographical Society",
+        "evidence": [
+            [
+                "Leif Erikson Awards",
+                "conferred by",
+                "The Exploration Museum"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Grande M\u00e9daille d'Or des Explorations et Voyages de D\u00e9couverte has been awarded since 1829 by the Soci\u00e9t\u00e9 de G\u00e9ographie of France for journeys whose outcomes have enhanced geographical knowledge.\nThe Royal Danish Geographical Society is a scientific society. The society aims to furthethe knowledge of the Earth and its inhabitants and to disseminate interest in the science of geography.",
+        "subject": "Grande M\u00e9daille d'Or des Explorations",
+        "predicate": "not_conferred_by",
+        "object": "Royal Danish Geographical Society",
+        "evidence": [
+            [
+                "Grande M\u00e9daille d'Or des Explorations",
+                "conferred by",
+                "Soci\u00e9t\u00e9 de G\u00e9ographie"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Grande M\u00e9daille d'Or des Explorations et Voyages de D\u00e9couverte has been awarded since 1829 by the Soci\u00e9t\u00e9 de G\u00e9ographie of France for journeys whose outcomes have enhanced geographical knowledge.\nThe Exploration Museum is dedicated to the history of human exploration, from the early explorers to the exploration of space. The museum is located in the center of H\u00fasav\u00edk in North Iceland, 50 kilometres (30\u00a0mi) from the Arctic Circle. The museum was founded in 2011 and formally opened in 2014 by the President of Iceland.",
+        "subject": "Grande M\u00e9daille d'Or des Explorations",
+        "predicate": "not_conferred_by",
+        "object": "The Exploration Museum",
+        "evidence": [
+            [
+                "Grande M\u00e9daille d'Or des Explorations",
+                "conferred by",
+                "Soci\u00e9t\u00e9 de G\u00e9ographie"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Grande M\u00e9daille d'Or des Explorations et Voyages de D\u00e9couverte has been awarded since 1829 by the Soci\u00e9t\u00e9 de G\u00e9ographie of France for journeys whose outcomes have enhanced geographical knowledge.\nThe National Geographic Society, headquartered in Washington, D.C., United States, is one of the largest nonprofit scientific and educational organizations in the world.",
+        "subject": "Grande M\u00e9daille d'Or des Explorations",
+        "predicate": "not_conferred_by",
+        "object": "National Geographic Society",
+        "evidence": [
+            [
+                "Grande M\u00e9daille d'Or des Explorations",
+                "conferred by",
+                "Soci\u00e9t\u00e9 de G\u00e9ographie"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Grande M\u00e9daille d'Or des Explorations et Voyages de D\u00e9couverte has been awarded since 1829 by the Soci\u00e9t\u00e9 de G\u00e9ographie of France for journeys whose outcomes have enhanced geographical knowledge.\nThe Royal Canadian Geographical Society is a Canadian nonprofit educational organization. It has dedicated itself to spreading a broader knowledge and deeper appreciation of Canada, including its people, places, natural and cultural heritage, as well as its environmental, social and economic challenges.",
+        "subject": "Grande M\u00e9daille d'Or des Explorations",
+        "predicate": "not_conferred_by",
+        "object": "Royal Canadian Geographical Society",
+        "evidence": [
+            [
+                "Grande M\u00e9daille d'Or des Explorations",
+                "conferred by",
+                "Soci\u00e9t\u00e9 de G\u00e9ographie"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Hubbard Medal is awarded by the National Geographic Society for distinction in exploration, discovery, and research. The medal is named for Gardiner Greene Hubbard, first National Geographic Society president. It is made of gold and is traditionally presented by the President of the United States.\nThe Royal Danish Geographical Society is a scientific society. The society aims to furthethe knowledge of the Earth and its inhabitants and to disseminate interest in the science of geography.",
+        "subject": "Hubbard Medal",
+        "predicate": "not_conferred_by",
+        "object": "Royal Danish Geographical Society",
+        "evidence": [
+            [
+                "Hubbard Medal",
+                "conferred by",
+                "National Geographic Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Hubbard Medal is awarded by the National Geographic Society for distinction in exploration, discovery, and research. The medal is named for Gardiner Greene Hubbard, first National Geographic Society president. It is made of gold and is traditionally presented by the President of the United States.\nThe Exploration Museum is dedicated to the history of human exploration, from the early explorers to the exploration of space. The museum is located in the center of H\u00fasav\u00edk in North Iceland, 50 kilometres (30\u00a0mi) from the Arctic Circle. The museum was founded in 2011 and formally opened in 2014 by the President of Iceland.",
+        "subject": "Hubbard Medal",
+        "predicate": "not_conferred_by",
+        "object": "The Exploration Museum",
+        "evidence": [
+            [
+                "Hubbard Medal",
+                "conferred by",
+                "National Geographic Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Hubbard Medal is awarded by the National Geographic Society for distinction in exploration, discovery, and research. The medal is named for Gardiner Greene Hubbard, first National Geographic Society president. It is made of gold and is traditionally presented by the President of the United States.\nThe Soci\u00e9t\u00e9 de G\u00e9ographie, is the world's oldest geographical society. It was founded in 1821 as the first Geographic Society. Since 1878, its headquarters have been at 184 Boulevard Saint-Germain, Paris. The entrance is marked by two gigantic caryatids representing Land and Sea. It was here, in 1879, that the construction of the Panama Canal was decided.",
+        "subject": "Hubbard Medal",
+        "predicate": "not_conferred_by",
+        "object": "Soci\u00e9t\u00e9 de G\u00e9ographie",
+        "evidence": [
+            [
+                "Hubbard Medal",
+                "conferred by",
+                "National Geographic Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Hubbard Medal is awarded by the National Geographic Society for distinction in exploration, discovery, and research. The medal is named for Gardiner Greene Hubbard, first National Geographic Society president. It is made of gold and is traditionally presented by the President of the United States.\nThe Royal Canadian Geographical Society is a Canadian nonprofit educational organization. It has dedicated itself to spreading a broader knowledge and deeper appreciation of Canada, including its people, places, natural and cultural heritage, as well as its environmental, social and economic challenges.",
+        "subject": "Hubbard Medal",
+        "predicate": "not_conferred_by",
+        "object": "Royal Canadian Geographical Society",
+        "evidence": [
+            [
+                "Hubbard Medal",
+                "conferred by",
+                "National Geographic Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Royal Canadian Geographical Society (RCGS) awards the Massey Medal annually to recognize outstanding personal achievement in the exploration, development or description of the geography of Canada. The award was established in 1959, by the Massey Foundation, named for industrialist Hart Massey.\nThe Royal Danish Geographical Society is a scientific society. The society aims to furthethe knowledge of the Earth and its inhabitants and to disseminate interest in the science of geography.",
+        "subject": "Massey Medal",
+        "predicate": "not_conferred_by",
+        "object": "Royal Danish Geographical Society",
+        "evidence": [
+            [
+                "Massey Medal",
+                "conferred by",
+                "Royal Canadian Geographical Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Royal Canadian Geographical Society (RCGS) awards the Massey Medal annually to recognize outstanding personal achievement in the exploration, development or description of the geography of Canada. The award was established in 1959, by the Massey Foundation, named for industrialist Hart Massey.\nThe Exploration Museum is dedicated to the history of human exploration, from the early explorers to the exploration of space. The museum is located in the center of H\u00fasav\u00edk in North Iceland, 50 kilometres (30\u00a0mi) from the Arctic Circle. The museum was founded in 2011 and formally opened in 2014 by the President of Iceland.",
+        "subject": "Massey Medal",
+        "predicate": "not_conferred_by",
+        "object": "The Exploration Museum",
+        "evidence": [
+            [
+                "Massey Medal",
+                "conferred by",
+                "Royal Canadian Geographical Society"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Negation Inference",
+        "description": "The Royal Canadian Geographical Society (RCGS) awards the Massey Medal annually to recognize outstanding personal achievement in the exploration, development or description of the geography of Canada. The award was established in 1959, by the Massey Foundation, named for industrialist Hart Massey.\nThe National Geographic Society, headquartered in Washington, D.C., United States, is one of the largest nonprofit scientific and educational organizations in the world.",
+        "subject": "Massey Medal",
+        "predicate": "not_conferred_by",
+        "object": "National Geographic Society",
+        "evidence": [
+            [
+                "Massey Medal",
+                "conferred by",
+                "Royal Canadian Geographical Society"
+            ]
+        ]
+    }
+]

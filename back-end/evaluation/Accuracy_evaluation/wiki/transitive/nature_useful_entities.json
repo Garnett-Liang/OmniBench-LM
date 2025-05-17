@@ -1,0 +1,882 @@
+[
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q369472",
+        "anotherObjectValue": "computational chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q177005",
+        "anotherObjectValue": "computational biology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q105582462",
+        "anotherObjectValue": "biology of colour"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q188847",
+        "objectValue": "environmental science",
+        "anotherObject": "Q618752",
+        "anotherObjectValue": "environmental psychology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q321355",
+        "anotherObjectValue": "environmental chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q183252",
+        "anotherObjectValue": "morphology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q188847",
+        "objectValue": "environmental science",
+        "anotherObject": "Q3631109",
+        "anotherObjectValue": "environmental biotechnology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q864928",
+        "objectValue": "life sciences",
+        "anotherObject": "Q431",
+        "anotherObjectValue": "zoology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q864928",
+        "objectValue": "life sciences",
+        "anotherObject": "Q514",
+        "anotherObjectValue": "anatomy"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q864928",
+        "objectValue": "life sciences",
+        "anotherObject": "Q7150",
+        "anotherObjectValue": "ecology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q864928",
+        "objectValue": "life sciences",
+        "anotherObject": "Q7162",
+        "anotherObjectValue": "genetics"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q188847",
+        "objectValue": "environmental science",
+        "anotherObject": "Q10418548",
+        "anotherObjectValue": "environmental biology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q750446",
+        "anotherObjectValue": "polymer chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q864928",
+        "objectValue": "life sciences",
+        "anotherObject": "Q101929",
+        "anotherObjectValue": "immunology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q864928",
+        "objectValue": "life sciences",
+        "anotherObject": "Q441",
+        "anotherObjectValue": "botany"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q864928",
+        "objectValue": "life sciences",
+        "anotherObject": "Q7193",
+        "anotherObjectValue": "microbiology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q7094",
+        "anotherObjectValue": "biochemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q2728012",
+        "anotherObjectValue": "neurobiology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q11165",
+        "anotherObjectValue": "inorganic chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q188847",
+        "objectValue": "environmental science",
+        "anotherObject": "Q321355",
+        "anotherObjectValue": "environmental chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q188847",
+        "objectValue": "environmental science",
+        "anotherObject": "Q5381194",
+        "anotherObjectValue": "environmental anthropology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q4785356",
+        "anotherObjectValue": "archaeobiology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q11372",
+        "anotherObjectValue": "physical chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q431",
+        "anotherObjectValue": "zoology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q514",
+        "anotherObjectValue": "anatomy"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q7150",
+        "anotherObjectValue": "ecology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q7162",
+        "anotherObjectValue": "genetics"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q7175",
+        "anotherObjectValue": "mycology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q7141",
+        "anotherObjectValue": "cell biology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q840400",
+        "anotherObjectValue": "evolutionary biology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q441",
+        "anotherObjectValue": "botany"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q7193",
+        "anotherObjectValue": "microbiology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q7094",
+        "anotherObjectValue": "biochemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q864928",
+        "objectValue": "life sciences",
+        "anotherObject": "Q521",
+        "anotherObjectValue": "physiology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q2346",
+        "anotherObjectValue": "analytical chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q11351",
+        "anotherObjectValue": "organic chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q321150",
+        "anotherObjectValue": "theoretical chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q864928",
+        "objectValue": "life sciences",
+        "anotherObject": "Q8269924",
+        "anotherObjectValue": "taxonomy"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q2465832",
+        "objectValue": "branch of science",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2329",
+        "objectValue": "chemistry",
+        "anotherObject": "Q910172",
+        "anotherObjectValue": "food chemistry"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q7100",
+        "anotherObjectValue": "biophysics"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q420",
+        "objectValue": "biology",
+        "anotherObject": "Q7108",
+        "anotherObjectValue": "biotechnology"
+    },
+    {
+        "subject": "Q7991",
+        "subjectValue": "Natural science",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q336",
+        "objectValue": "science",
+        "anotherObject": "Q105948247",
+        "anotherObjectValue": "knowledge system"
+    },
+    {
+        "subject": "Q85741989",
+        "subjectValue": "Anthropocene Working Group",
+        "predicate": "P749",
+        "predicateValue": "parent organization",
+        "object": "Q402104",
+        "objectValue": "International Commission on Stratigraphy",
+        "anotherObject": "Q579663",
+        "anotherObjectValue": "International Union of Geological Sciences"
+    },
+    {
+        "subject": "Q16937419",
+        "subjectValue": "Imperial College Faculty of Natural Sciences",
+        "predicate": "P17",
+        "predicateValue": "country",
+        "object": "Q145",
+        "objectValue": "United Kingdom",
+        "anotherObject": "Q145",
+        "anotherObjectValue": "United Kingdom"
+    },
+    {
+        "subject": "Q16937419",
+        "subjectValue": "Imperial College Faculty of Natural Sciences",
+        "predicate": "P131",
+        "predicateValue": "located in the administrative territorial entity",
+        "object": "Q84",
+        "objectValue": "London",
+        "anotherObject": "Q23306",
+        "anotherObjectValue": "Greater London"
+    },
+    {
+        "subject": "Q16937419",
+        "subjectValue": "Imperial College Faculty of Natural Sciences",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q180958",
+        "objectValue": "faculty",
+        "anotherObject": "Q112872396",
+        "anotherObjectValue": "type of educational institution"
+    },
+    {
+        "subject": "Q6980609",
+        "subjectValue": "Natural Sciences Collections Association",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q43229",
+        "objectValue": "organization",
+        "anotherObject": "Q131362181",
+        "anotherObjectValue": "social science concept"
+    },
+    {
+        "subject": "Q6980609",
+        "subjectValue": "Natural Sciences Collections Association",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q708676",
+        "objectValue": "charitable organization",
+        "anotherObject": "Q10541491",
+        "anotherObjectValue": "legal form"
+    },
+    {
+        "subject": "Q180445",
+        "subjectValue": "Nature (journal)",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q737498",
+        "objectValue": "academic journal",
+        "anotherObject": "Q21114848",
+        "anotherObjectValue": "magazine genre"
+    },
+    {
+        "subject": "Q180445",
+        "subjectValue": "Nature (journal)",
+        "predicate": "P8875",
+        "predicateValue": "indexed in bibliographic review",
+        "object": "Q104047209",
+        "objectValue": "Science Citation Index Expanded",
+        "anotherObject": "Q6496562",
+        "anotherObjectValue": "Latindex"
+    },
+    {
+        "subject": "Q180445",
+        "subjectValue": "Nature (journal)",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q5633421",
+        "objectValue": "scientific journal",
+        "anotherObject": "Q21114848",
+        "anotherObjectValue": "magazine genre"
+    },
+    {
+        "subject": "Q24965354",
+        "subjectValue": "Rangeland management",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q24965354",
+        "subjectValue": "Rangeland management",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q5333882",
+        "objectValue": "ecosystem management",
+        "anotherObject": "Q20113959",
+        "anotherObjectValue": "nature conservation"
+    },
+    {
+        "subject": "Q24965354",
+        "subjectValue": "Rangeland management",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q3743137",
+        "objectValue": "natural resource management",
+        "anotherObject": "Q29017603",
+        "anotherObjectValue": "control"
+    },
+    {
+        "subject": "Q24965354",
+        "subjectValue": "Rangeland management",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q1047113",
+        "objectValue": "field of study",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q7865526",
+        "subjectValue": "UPRRP College of Natural Sciences",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q3918",
+        "objectValue": "university",
+        "anotherObject": "Q112872396",
+        "anotherObjectValue": "type of educational institution"
+    },
+    {
+        "subject": "Q7865526",
+        "subjectValue": "UPRRP College of Natural Sciences",
+        "predicate": "P17",
+        "predicateValue": "country",
+        "object": "Q30",
+        "objectValue": "United States",
+        "anotherObject": "Q30",
+        "anotherObjectValue": "United States"
+    },
+    {
+        "subject": "Q16822873",
+        "subjectValue": "Become Ocean",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q105543609",
+        "objectValue": "musical work/composition",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q7723491",
+        "subjectValue": "The Cloud (poem)",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q5185279",
+        "objectValue": "poem",
+        "anotherObject": "Q4263830",
+        "anotherObjectValue": "literary form"
+    },
+    {
+        "subject": "Q7723491",
+        "subjectValue": "The Cloud (poem)",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q5185279",
+        "objectValue": "poem",
+        "anotherObject": "Q89522629",
+        "anotherObjectValue": "poetic form"
+    },
+    {
+        "subject": "Q3024076",
+        "subjectValue": "Des Canyons aux \u00e9toiles...",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q105543609",
+        "objectValue": "musical work/composition",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P750",
+        "predicateValue": "distributed by",
+        "object": "Q42328566",
+        "objectValue": "Humble Store",
+        "anotherObject": "Q59510068",
+        "anotherObjectValue": "Epic Games Store"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P400",
+        "predicateValue": "platform",
+        "object": "Q1406",
+        "objectValue": "Microsoft Windows",
+        "anotherObject": "Q916994",
+        "anotherObjectValue": "IA-64"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q7889",
+        "objectValue": "video game",
+        "anotherObject": "Q56055944",
+        "anotherObjectValue": "type of arts"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P400",
+        "predicateValue": "platform",
+        "object": "Q1406",
+        "objectValue": "Microsoft Windows",
+        "anotherObject": "Q527464",
+        "anotherObjectValue": "MIPS architecture"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P400",
+        "predicateValue": "platform",
+        "object": "Q1406",
+        "objectValue": "Microsoft Windows",
+        "anotherObject": "Q858065",
+        "anotherObjectValue": "DEC Alpha"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P400",
+        "predicateValue": "platform",
+        "object": "Q1406",
+        "objectValue": "Microsoft Windows",
+        "anotherObject": "Q209860",
+        "anotherObjectValue": "PowerPC"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P400",
+        "predicateValue": "platform",
+        "object": "Q1406",
+        "objectValue": "Microsoft Windows",
+        "anotherObject": "Q182933",
+        "anotherObjectValue": "x86"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P400",
+        "predicateValue": "platform",
+        "object": "Q1406",
+        "objectValue": "Microsoft Windows",
+        "anotherObject": "Q16980",
+        "anotherObjectValue": "ARM architecture"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P750",
+        "predicateValue": "distributed by",
+        "object": "Q337535",
+        "objectValue": "Steam",
+        "anotherObject": "Q79576",
+        "anotherObjectValue": "Google Play"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P750",
+        "predicateValue": "distributed by",
+        "object": "Q135288",
+        "objectValue": "Microsoft Store",
+        "anotherObject": "Q135288",
+        "anotherObjectValue": "Microsoft Store"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P750",
+        "predicateValue": "distributed by",
+        "object": "Q337535",
+        "objectValue": "Steam",
+        "anotherObject": "Q193559",
+        "anotherObjectValue": "Valve Corporation"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P750",
+        "predicateValue": "distributed by",
+        "object": "Q337535",
+        "objectValue": "Steam",
+        "anotherObject": "Q368215",
+        "anotherObjectValue": "App Store"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q7889",
+        "objectValue": "video game",
+        "anotherObject": "Q17155032",
+        "anotherObjectValue": "software category"
+    },
+    {
+        "subject": "Q39069683",
+        "subjectValue": "Fe (video game)",
+        "predicate": "P750",
+        "predicateValue": "distributed by",
+        "object": "Q337535",
+        "objectValue": "Steam",
+        "anotherObject": "Q135288",
+        "anotherObjectValue": "Microsoft Store"
+    },
+    {
+        "subject": "Q111973069",
+        "subjectValue": "Forest 404",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q24634210",
+        "objectValue": "podcast show",
+        "anotherObject": "Q389772",
+        "anotherObjectValue": "data transmission"
+    },
+    {
+        "subject": "Q111973069",
+        "subjectValue": "Forest 404",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q24634210",
+        "objectValue": "podcast show",
+        "anotherObject": "Q220499",
+        "anotherObjectValue": "streaming media"
+    },
+    {
+        "subject": "Q111953376",
+        "subjectValue": "Lenten ys come with love to toune",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q5185279",
+        "objectValue": "poem",
+        "anotherObject": "Q4263830",
+        "anotherObjectValue": "literary form"
+    },
+    {
+        "subject": "Q111953376",
+        "subjectValue": "Lenten ys come with love to toune",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q5185279",
+        "objectValue": "poem",
+        "anotherObject": "Q89522629",
+        "anotherObjectValue": "poetic form"
+    },
+    {
+        "subject": "Q2365608",
+        "subjectValue": "Swamp Legend",
+        "predicate": "P186",
+        "predicateValue": "made from material",
+        "object": "Q296955",
+        "objectValue": "oil paint",
+        "anotherObject": "Q2549301",
+        "anotherObjectValue": "drying oil"
+    },
+    {
+        "subject": "Q2365608",
+        "subjectValue": "Swamp Legend",
+        "predicate": "P276",
+        "predicateValue": "location",
+        "object": "Q314082",
+        "objectValue": "Landesmuseum Hannover",
+        "anotherObject": "Q1715",
+        "anotherObjectValue": "Hanover"
+    },
+    {
+        "subject": "Q2365608",
+        "subjectValue": "Swamp Legend",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q3305213",
+        "objectValue": "painting",
+        "anotherObject": "Q116474095",
+        "anotherObjectValue": "type of work of art"
+    },
+    {
+        "subject": "Q2365608",
+        "subjectValue": "Swamp Legend",
+        "predicate": "P186",
+        "predicateValue": "made from material",
+        "object": "Q296955",
+        "objectValue": "oil paint",
+        "anotherObject": "Q161179",
+        "anotherObjectValue": "pigment"
+    },
+    {
+        "subject": "Q553036",
+        "subjectValue": "Natural regions of Germany",
+        "predicate": "P17",
+        "predicateValue": "country",
+        "object": "Q183",
+        "objectValue": "Germany",
+        "anotherObject": "Q183",
+        "anotherObjectValue": "Germany"
+    },
+    {
+        "subject": "Q553036",
+        "subjectValue": "Natural regions of Germany",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1970725",
+        "objectValue": "natural region",
+        "anotherObject": "Q82794",
+        "anotherObjectValue": "geographic region"
+    },
+    {
+        "subject": "Q553036",
+        "subjectValue": "Natural regions of Germany",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1970725",
+        "objectValue": "natural region",
+        "anotherObject": "Q27096220",
+        "anotherObjectValue": "natural geographic entity"
+    }
+]

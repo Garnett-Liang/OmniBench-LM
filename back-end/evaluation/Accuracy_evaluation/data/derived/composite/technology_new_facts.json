@@ -1,0 +1,462 @@
+[
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Inca technology includes devices, technologies and construction methods used by the Inca people of western South America, including the methods Inca engineers used to construct the cities and road network of the Inca Empire.\nThe ancient Egyptians were one of the first cultures to widely divide days into generally agreed-upon equal parts, using early timekeeping devices such as sundials, shadow clocks, and merkhets .\nThe clock was split into daytime and nighttime, and then into smaller hours.",
+        "subject": "Inca technology",
+        "predicate": "same_instance_of",
+        "object": "History of timekeeping devices in Egypt",
+        "evidence": [
+            [
+                "Inca technology",
+                "instance of",
+                "aspect of history"
+            ],
+            [
+                "History of timekeeping devices in Egypt",
+                "instance of",
+                "aspect of history"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Prehistoric technology is technology that predates recorded history. History is the study of the past using written records. Anything prior to the first written accounts of history is prehistoric, including earlier technologies. About 2.5 million years before writing was developed, technology began with the earliest hominids who used stone tools, which they first used to hunt food, and later to cook.\nHigh technology, also known as advanced technology or exotechnology, is technology that is at the cutting edge: the highest form of technology available. It can be defined as either the most complex or the newest technology on the market. The opposite of high tech is low technology, referring to simple, often traditional or mechanical technology; for example, a slide rule is a low-tech calculating device. When high tech becomes old, it becomes low tech, for example vacuum tube electronics. Further, high tech is related to the concept of mid-tech, that is a balance between the two opposite extreme qualities of low-tech and high tech. Mid-tech could be understood as an inclusive middle that combines the efficiency and versatility of digital/automated technology with low-tech's potential for autonomy and resilience.",
+        "subject": "Prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "High tech",
+        "evidence": [
+            [
+                "Prehistoric technology",
+                "instance of",
+                "type of technology"
+            ],
+            [
+                "High tech",
+                "instance of",
+                "type of technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Prehistoric technology is technology that predates recorded history. History is the study of the past using written records. Anything prior to the first written accounts of history is prehistoric, including earlier technologies. About 2.5 million years before writing was developed, technology began with the earliest hominids who used stone tools, which they first used to hunt food, and later to cook.\nIndustrial technology is the use of engineering and manufacturing technology to make production faster, simpler, and more efficient. The industrial technology field employs creative and technically proficient individuals who can help a company achieve efficient and profitable productivity.",
+        "subject": "Prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "Industrial technology",
+        "evidence": [
+            [
+                "Prehistoric technology",
+                "instance of",
+                "type of technology"
+            ],
+            [
+                "Industrial technology",
+                "instance of",
+                "type of technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Prehistoric technology is technology that predates recorded history. History is the study of the past using written records. Anything prior to the first written accounts of history is prehistoric, including earlier technologies. About 2.5 million years before writing was developed, technology began with the earliest hominids who used stone tools, which they first used to hunt food, and later to cook.\nLow technology is simple technology, as opposed to high technology. In addition, low tech is related to the concept of mid-tech, that is a balance between low-tech and high-tech, which combines the efficiency and versatility of high tech with low tech's potential for autonomy and resilience.",
+        "subject": "Prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "low technology",
+        "evidence": [
+            [
+                "Prehistoric technology",
+                "instance of",
+                "type of technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Prehistoric technology is technology that predates recorded history. History is the study of the past using written records. Anything prior to the first written accounts of history is prehistoric, including earlier technologies. About 2.5 million years before writing was developed, technology began with the earliest hominids who used stone tools, which they first used to hunt food, and later to cook.\nMicrotechnology is technology whose features have dimensions of the order of one micrometre. It focuses on physical and chemical processes as well as the production or manipulation of structures with one-micrometre magnitude.",
+        "subject": "Prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "Microtechnology",
+        "evidence": [
+            [
+                "Prehistoric technology",
+                "instance of",
+                "type of technology"
+            ],
+            [
+                "Microtechnology",
+                "instance of",
+                "type of technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Prehistoric technology is technology that predates recorded history. History is the study of the past using written records. Anything prior to the first written accounts of history is prehistoric, including earlier technologies. About 2.5 million years before writing was developed, technology began with the earliest hominids who used stone tools, which they first used to hunt food, and later to cook.\nOpen-source appropriate technology (OSAT) is appropriate technology developed through the principles of the open-design movement. Appropriate technology is technology designed with special consideration for the environmental, ethical, cultural, social, political, and economic aspects of the community it is intended for. Open design is public and licensed to allow it to be used, modified, and distributed freely.",
+        "subject": "Prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "Open-source appropriate technology",
+        "evidence": [
+            [
+                "Prehistoric technology",
+                "instance of",
+                "type of technology"
+            ],
+            [
+                "Open-source appropriate technology",
+                "instance of",
+                "type of technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Prehistoric technology is technology that predates recorded history. History is the study of the past using written records. Anything prior to the first written accounts of history is prehistoric, including earlier technologies. About 2.5 million years before writing was developed, technology began with the earliest hominids who used stone tools, which they first used to hunt food, and later to cook.\nAgricultural technology or agrotechnology is the use of technology in agriculture, horticulture, and aquaculture with the aim of improving yield, efficiency, and profitability. Agricultural technology can be products, services or applications derived from agriculture that improve various input and output processes.",
+        "subject": "Prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "Agricultural technology",
+        "evidence": [
+            [
+                "Prehistoric technology",
+                "instance of",
+                "type of technology"
+            ],
+            [
+                "Agricultural technology",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Agricultural technology",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Agricultural technology",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Agricultural technology",
+                "instance of",
+                "type of technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to prehistoric technology.\nThe following outline is provided as an overview of and topical guide to manufacturing:",
+        "subject": "Outline of prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "Outline of manufacturing",
+        "evidence": [
+            [
+                "Outline of prehistoric technology",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of manufacturing",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to prehistoric technology.\nThe following outline is provided as an overview of and topical guide to mining:",
+        "subject": "Outline of prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "Outline of mining",
+        "evidence": [
+            [
+                "Outline of prehistoric technology",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of mining",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to prehistoric technology.\nThe following outline is provided as an overview of and topical guide to production:",
+        "subject": "Outline of prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "Outline of production",
+        "evidence": [
+            [
+                "Outline of prehistoric technology",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of production",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to prehistoric technology.\nThe following outline is provided as an overview of and topical guide to rocketry:",
+        "subject": "Outline of prehistoric technology",
+        "predicate": "same_instance_of",
+        "object": "Outline of rocketry",
+        "evidence": [
+            [
+                "Outline of prehistoric technology",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of rocketry",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nInca technology includes devices, technologies and construction methods used by the Inca people of western South America, including the methods Inca engineers used to construct the cities and road network of the Inca Empire.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Inca technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Inca technology",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nMedieval technology is the technology used in medieval Europe under Christian rule. After the Renaissance of the 12th century, medieval Europe saw a radical change in the rate of new inventions, innovations in the ways of managing traditional means of production, and economic growth. The period saw major technological advances, including the adoption of gunpowder, the invention of vertical windmills, spectacles, mechanical clocks, and greatly improved water mills, building techniques, and agriculture in general.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Medieval technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Medieval technology",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nPrehistoric technology is technology that predates recorded history. History is the study of the past using written records. Anything prior to the first written accounts of history is prehistoric, including earlier technologies. About 2.5 million years before writing was developed, technology began with the earliest hominids who used stone tools, which they first used to hunt food, and later to cook.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Prehistoric technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Prehistoric technology",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nRenaissance technology was the set of European artifacts and inventions which spread through the Renaissance period, roughly the 14th century through the 16th century. The era is marked by profound technical advancements such as the printing press, linear perspective in drawing, patent law, double shell domes and bastion fortresses. Sketchbooks from artisans of the period give a deep insight into the mechanical technology then known and applied.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Renaissance technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Renaissance technology",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nAlternative technology is a term used to refer to technologies that are more environmentally friendly than the functionally equivalent technologies dominant in current practice. The term was coined by Peter Harper, one of the founders of the Centre for Alternative Technology, North Wales, in Undercurrents (magazine) in the 1970s. Alternative Technologies are created to be safer, cleaner, and overall more efficient. The goals of alternative technology are to decrease demand for critical elements by ensuring a secure supply of technology that is environmentally friendly, increased efficiency with lower costs, and with more common materials to avoid potential future materials crises. Alternative technologies use renewable energy sources such as solar power and wind energy. Some alternative technologies have in the past or may in the future become widely adopted, after which they might no longer be considered \"alternative.\" For example, the use of wind turbines to produce electricity.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Alternative technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Alternative technology",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nAnimal technology refers to the practices of keeping, breeding and providing care for animals that are used for scientific purposes, such as captive in a laboratory. Animal technology is one of the recognized professional areas held by registered science technicians, and animal technologists, also called animal technicians, play a key role in supporting biomedical research by ensuring that animals are available for study. Principal areas of animal technology include animal husbandry and breeding, providing day-to-day care for laboratory animals, ensuring compliance with animal welfare practices and legal issues and performing essential scientific procedures. Technical qualifications for animal technologists and the regulations they must adhere to vary by country, but in many parts of the world animal technology is a highly structured profession that forms part of laboratory management. Animal technology is related to the field of animal management and technologists are often specialize in working with particular species of animals, either in the laboratory or in the field.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Animal technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Animal technology",
+                "subclass of",
+                "animal care"
+            ],
+            [
+                "Animal technology",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nArchitectural technology, or building technology, is the application of technology to the design of buildings. It is a component of architecture and building engineering and is sometimes viewed as a distinct discipline or sub-category. New materials and technologies generated new design challenges and construction methods throughout the evolution of building, especially since the advent of industrialisation in the 19th century. Architectural technology is related to the different elements of a building and their interactions; it is closely aligned with advances in building science.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Architectural technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Architectural technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Architectural technology",
+                "subclass of",
+                "architecture"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nElectrical/Electronics engineering technology (EET) is an engineering technology field that implements and applies the principles of electrical engineering. Like electrical engineering, EET deals with the \"design, application, installation, manufacturing, operation or maintenance of electrical/electronic(s) systems.\" However, EET is a specialized discipline that has more focus on application, theory, and applied design, and implementation, while electrical engineering may focus more of a generalized emphasis on theory and conceptual design. Electrical/Electronic engineering technology is the largest branch of engineering technology and includes a diverse range of sub-disciplines, such as applied design, electronics, embedded systems, control systems, instrumentation, telecommunications, and power systems.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Electrical engineering technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Electrical engineering technology",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nAn enabling technology is an invention or innovation that can be applied to drive radical change in the capabilities of a user or culture. Enabling technologies are characterized by rapid development of subsequent derivative technologies, often in diverse fields. See General purpose technology.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Enabling technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Enabling technology",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nHigh technology, also known as advanced technology or exotechnology, is technology that is at the cutting edge: the highest form of technology available. It can be defined as either the most complex or the newest technology on the market. The opposite of high tech is low technology, referring to simple, often traditional or mechanical technology; for example, a slide rule is a low-tech calculating device. When high tech becomes old, it becomes low tech, for example vacuum tube electronics. Further, high tech is related to the concept of mid-tech, that is a balance between the two opposite extreme qualities of low-tech and high tech. Mid-tech could be understood as an inclusive middle that combines the efficiency and versatility of digital/automated technology with low-tech's potential for autonomy and resilience.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "High tech",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "High tech",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "category": "technology",
+        "reasoning": "Composite Inference",
+        "description": "Ancient Greek technology developed during the 5th century BC, continuing up to and including the Roman period, and beyond. Inventions that are credited to the ancient Greeks include the gear, screw, rotary mills, bronze casting techniques, water clock, water organ, the torsion catapult, the use of steam to operate some experimental machines and toys, and a chart to find prime numbers. Many of these inventions occurred late in the Greek period, often inspired by the need to improve weapons and tactics in war. However, peaceful uses are shown by their early development of the watermill, a device which pointed to further exploitation on a large scale under the Romans. They developed surveying and mathematics to an advanced state, and many of their technical advances were published by philosophers, like Archimedes and Heron.\nIndustrial technology is the use of engineering and manufacturing technology to make production faster, simpler, and more efficient. The industrial technology field employs creative and technically proficient individuals who can help a company achieve efficient and profitable productivity.",
+        "subject": "Ancient Greek technology",
+        "predicate": "same_subclass_of",
+        "object": "Industrial technology",
+        "evidence": [
+            [
+                "Ancient Greek technology",
+                "subclass of",
+                "technology"
+            ],
+            [
+                "Industrial technology",
+                "subclass of",
+                "technology"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "entity": "Q133564173",
+        "entityLabel": "Yaroslavich",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11455398",
+        "valueLabel": "patronymic family name"
+    },
+    {
+        "entity": "Q48835067",
+        "entityLabel": "Outline of Albert Einstein",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q937",
+        "valueLabel": "Albert Einstein"
+    },
+    {
+        "entity": "Q48835067",
+        "entityLabel": "Outline of Albert Einstein",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q65090221",
+        "entityLabel": "Outline of Henry Ford",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q62036531",
+        "entityLabel": "Outline of Jesus",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q55628145",
+        "entityLabel": "Outline of Gottfried Wilhelm Leibniz",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q28402356",
+        "entityLabel": "Outline of Abraham Lincoln",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q29025048",
+        "entityLabel": "Outline of Bob Marley",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q29025048",
+        "entityLabel": "Outline of Bob Marley",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q409",
+        "valueLabel": "Bob Marley"
+    },
+    {
+        "entity": "Q6594608",
+        "entityLabel": "Outline of Prem Rawat",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q6594608",
+        "entityLabel": "Outline of Prem Rawat",
+        "property": "P1754",
+        "propertyLabel": "category related to list",
+        "value": "Q8790120",
+        "valueLabel": "Category:Prem Rawat"
+    },
+    {
+        "entity": "Q27684061",
+        "entityLabel": "Outline of William Shakespeare",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q36180",
+        "valueLabel": "writer"
+    },
+    {
+        "entity": "Q27684061",
+        "entityLabel": "Outline of William Shakespeare",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q28228935",
+        "entityLabel": "Outline of Joseph Smith",
+        "property": "P17",
+        "propertyLabel": "country",
+        "value": "Q30",
+        "valueLabel": "United States"
+    },
+    {
+        "entity": "Q28228935",
+        "entityLabel": "Outline of Joseph Smith",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q43078966",
+        "entityLabel": "Bibliography of John Adams",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q1631107",
+        "valueLabel": "bibliography"
+    },
+    {
+        "entity": "Q56722555",
+        "entityLabel": "Bibliography of John Quincy Adams",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q134995",
+        "valueLabel": "bibliography"
+    },
+    {
+        "entity": "Q22943564",
+        "entityLabel": "Bibliography of Gianni Berengo Gardin",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q134995",
+        "valueLabel": "bibliography"
+    },
+    {
+        "entity": "Q4903397",
+        "entityLabel": "Bibliography of Subhas Chandra Bose",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q1631107",
+        "valueLabel": "bibliography"
+    }
+]

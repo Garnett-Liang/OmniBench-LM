@@ -1,0 +1,596 @@
+Error occurred while processing entity 'Q23580836': [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2637)
+Error occurred while processing entity 'Q97358163': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing entity 'Q14932259': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing entity 'Q16820782': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing entity 'Q169010': The read operation timed out
+Error occurred while processing entity 'Q1046537': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing entity 'Q982671': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing entity 'Q7056256': The read operation timed out
+Error occurred while processing entity 'Q1194350': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /api/rest_v1/page/summary/Indoor%20positioning%20system (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1133)')))
+Error occurred while processing: HTTPSConnectionPool(host='www.wikidata.org', port=443): Max retries exceeded with url: /wiki/Special:EntityData/Q101314624.json (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1133)')))
+Error occurred while processing entity 'Q4903418': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing: HTTPSConnectionPool(host='www.wikidata.org', port=443): Max retries exceeded with url: /wiki/Special:EntityData/Q25036877.json (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1133)')))
+Error occurred while processing: HTTPSConnectionPool(host='www.wikidata.org', port=443): Max retries exceeded with url: /wiki/Special:EntityData/Q15179.json (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1133)')))
+Error occurred while processing entity 'Q28223385': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'oil_paint' is not in list
+Error occurred while processing: 'canvas' is not in list
+Error occurred while processing: 'fashion' is not in list
+Error occurred while processing: 'disguise' is not in list
+Error occurred while processing: 'performing_arts' is not in list
+Error occurred while processing: 'deterrence' is not in list
+Error occurred while processing: 'marcel_duchamp' is not in list
+Error occurred while processing: 'found_object' is not in list
+Error occurred while processing: 'formalism' is not in list
+Error occurred while processing: 'art_style' is not in list
+Error occurred while processing: 'art_genre' is not in list
+Error occurred while processing: 'classificatory_disputes_about_art' is not in list
+Error occurred while processing: 'type_of_arts' is not in list
+Error occurred while processing: 'q23058420' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'moustache' is not in list
+Error occurred while processing: 'security_camera' is not in list
+Error occurred while processing entity 'Q96372398': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing entity 'Q130741980': The read operation timed out
+Error occurred while processing entity 'Q430727': The read operation timed out
+Error occurred while processing entity 'Q1757923': The read operation timed out
+Error occurred while processing entity 'Q60772535': The read operation timed out
+Error occurred while processing entity 'Q130741980': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing entity 'Q5672291': <urlopen error TLS/SSL connection has been closed (EOF) (_ssl.c:1133)>
+Error occurred while processing entity 'Q131265': The read operation timed out
+Error occurred while processing entity 'Q23808211': The read operation timed out
+Error occurred while processing entity 'Q17008076': The read operation timed out
+Error occurred while processing entity 'Q8012311': The read operation timed out
+Error occurred while processing entity 'Q130741980': The read operation timed out
+Error occurred while processing entity 'Q430727': Remote end closed connection without response
+Error occurred while processing entity 'Q1757923': Remote end closed connection without response
+Error occurred while processing entity 'Q60772535': The read operation timed out
+Error occurred while processing entity 'Q430727': The read operation timed out
+Error occurred while processing entity 'Q4987247': The read operation timed out
+Error occurred while processing entity 'Q17008076': The read operation timed out
+Error occurred while processing entity 'Q60463402': The read operation timed out
+Error occurred while processing entity 'Q687900': The read operation timed out
+Error occurred while processing entity 'Q1530061': The read operation timed out
+Error occurred while processing entity 'Q209672': The read operation timed out
+Error occurred while processing entity 'Q131007544': The read operation timed out
+Error occurred while processing entity 'Q13427002': The read operation timed out
+Error occurred while processing entity 'Q1757923': The read operation timed out
+Error occurred while processing entity 'Q209672': The read operation timed out
+Error occurred while processing entity 'Q8012311': The read operation timed out
+Error occurred while processing entity 'Q131007544': The read operation timed out
+Error occurred while processing entity 'Q188907': The read operation timed out
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'oil_paint' is not in list
+Error occurred while processing: 'canvas' is not in list
+Error occurred while processing: 'oil_paint' is not in list
+Error occurred while processing: 'canvas' is not in list
+Error occurred while processing: 'albumin_paper' is not in list
+Error occurred while processing: 'cardboard' is not in list
+Error occurred while processing: 'fake_moustache' is not in list
+Error occurred while processing: 'disguise' is not in list
+Error occurred while processing: 'performing_arts' is not in list
+Error occurred while processing: 'deterrence' is not in list
+Error occurred while processing: 'fake_moustache' is not in list
+Error occurred while processing: 'disguise' is not in list
+Error occurred while processing: 'performing_arts' is not in list
+Error occurred while processing: 'deterrence' is not in list
+Error occurred while processing: 'politeness' is not in list
+Error occurred while processing: 'marcel_duchamp' is not in list
+Error occurred while processing: 'found_object' is not in list
+Error occurred while processing: 'formalism' is not in list
+Error occurred while processing: 'marcel_duchamp' is not in list
+Error occurred while processing: 'found_object' is not in list
+Error occurred while processing: 'formalism' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'art_style' is not in list
+Error occurred while processing: 'art_genre' is not in list
+Error occurred while processing: 'classificatory_disputes_about_art' is not in list
+Error occurred while processing: 'type_of_arts' is not in list
+Error occurred while processing: 'q23058420' is not in list
+Error occurred while processing: 'art_style' is not in list
+Error occurred while processing: 'art_genre' is not in list
+Error occurred while processing: 'classificatory_disputes_about_art' is not in list
+Error occurred while processing: 'type_of_arts' is not in list
+Error occurred while processing: 'q23058420' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'moustache' is not in list
+Error occurred while processing: 'security_camera' is not in list
+Error occurred while processing: 'moustache' is not in list
+Error occurred while processing: 'security_camera' is not in list
+Error occurred while processing entity 'Q131265': The read operation timed out
+Error occurred while processing entity 'Q130741980': The read operation timed out
+Error occurred while processing entity 'Q1530061': The read operation timed out
+Error occurred while processing entity 'Q209672': The read operation timed out
+Error occurred while processing entity 'Q8012311': The read operation timed out
+Error occurred while processing entity 'Q5672291': The read operation timed out
+Error occurred while processing entity 'Q115818673': The read operation timed out
+Error occurred while processing entity 'Q131265': The read operation timed out
+Error occurred while processing entity 'Q130741980': The read operation timed out
+Error occurred while processing entity 'Q1757923': The read operation timed out
+Error occurred while processing entity 'Q23808211': The read operation timed out
+Error occurred while processing entity 'Q115803498': The read operation timed out
+Error occurred while processing entity 'Q687900': The read operation timed out
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'oil_paint' is not in list
+Error occurred while processing: 'canvas' is not in list
+Error occurred while processing: 'oil_paint' is not in list
+Error occurred while processing: 'canvas' is not in list
+Error occurred while processing: 'albumin_paper' is not in list
+Error occurred while processing: 'cardboard' is not in list
+Error occurred while processing: 'fake_moustache' is not in list
+Error occurred while processing: 'disguise' is not in list
+Error occurred while processing: 'performing_arts' is not in list
+Error occurred while processing: 'deterrence' is not in list
+Error occurred while processing: 'fake_moustache' is not in list
+Error occurred while processing: 'disguise' is not in list
+Error occurred while processing: 'performing_arts' is not in list
+Error occurred while processing: 'deterrence' is not in list
+Error occurred while processing: 'marcel_duchamp' is not in list
+Error occurred while processing: 'found_object' is not in list
+Error occurred while processing: 'formalism' is not in list
+Error occurred while processing: 'marcel_duchamp' is not in list
+Error occurred while processing: 'found_object' is not in list
+Error occurred while processing: 'formalism' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'art_style' is not in list
+Error occurred while processing: 'art_genre' is not in list
+Error occurred while processing: 'classificatory_disputes_about_art' is not in list
+Error occurred while processing: 'type_of_arts' is not in list
+Error occurred while processing: 'q23058420' is not in list
+Error occurred while processing: 'art_style' is not in list
+Error occurred while processing: 'art_genre' is not in list
+Error occurred while processing: 'classificatory_disputes_about_art' is not in list
+Error occurred while processing: 'type_of_arts' is not in list
+Error occurred while processing: 'q23058420' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'moustache' is not in list
+Error occurred while processing: 'security_camera' is not in list
+Error occurred while processing: 'moustache' is not in list
+Error occurred while processing: 'security_camera' is not in list
+Error occurred while processing entity 'Q4704909': The read operation timed out
+Error occurred while processing entity 'Q3180036': The read operation timed out
+Error occurred while processing entity 'Q7312473': The read operation timed out
+Error occurred while processing entity 'Q3499620': The read operation timed out
+Error occurred while processing entity 'Q96572804': The read operation timed out
+Error occurred while processing entity 'Q5264382': The read operation timed out
+Error occurred while processing entity 'Q1192297': The read operation timed out
+Error occurred while processing entity 'Q5380492': The read operation timed out
+Error occurred while processing entity 'Q466410': The read operation timed out
+Error occurred while processing entity 'Q7312473': The read operation timed out
+Error occurred while processing entity 'Q96572804': The read operation timed out
+Error occurred while processing entity 'Q4787070': The read operation timed out
+Error occurred while processing entity 'Q5264382': The read operation timed out
+Error occurred while processing entity 'Q5357718': The read operation timed out
+Error occurred while processing entity 'Q5380492': The read operation timed out
+Error occurred while processing entity 'Q466410': The read operation timed out
+Error occurred while processing: 'arecibo' is not in list
+Error occurred while processing: 'arecibo' is not in list
+Error occurred while processing: 'communication_with_extraterrestrial_intelligence' is not in list
+Error occurred while processing: 'communication_with_extraterrestrial_intelligence' is not in list
+Error occurred while processing: 'spatial_science' is not in list
+Error occurred while processing: 'magnificent_seven' is not in list
+Error occurred while processing: 'spatial_science' is not in list
+Error occurred while processing: 'magnificent_seven' is not in list
+Error occurred while processing entity 'Q130741980': The read operation timed out
+Error occurred while processing entity 'Q430727': The read operation timed out
+Error occurred while processing entity 'Q4817248': The read operation timed out
+Error occurred while processing entity 'Q4987247': Remote end closed connection without response
+Error occurred while processing entity 'Q17008076': The read operation timed out
+Error occurred while processing entity 'Q60463402': The read operation timed out
+Error occurred while processing entity 'Q1530061': The read operation timed out
+Error occurred while processing entity 'Q209672': The read operation timed out
+Error occurred while processing entity 'Q115818673': The read operation timed out
+Error occurred while processing entity 'Q131265': The read operation timed out
+Error occurred while processing entity 'Q130741980': The read operation timed out
+Error occurred while processing entity 'Q1757923': The read operation timed out
+Error occurred while processing entity 'Q8012311': The read operation timed out
+Error occurred while processing entity 'Q13427002': The read operation timed out
+Error occurred while processing entity 'Q5672291': The read operation timed out
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'new_7_wonders_foundation' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'rome' is not in list
+Error occurred while processing: 'oil_paint' is not in list
+Error occurred while processing: 'canvas' is not in list
+Error occurred while processing: 'oil_paint' is not in list
+Error occurred while processing: 'canvas' is not in list
+Error occurred while processing: 'albumin_paper' is not in list
+Error occurred while processing: 'cardboard' is not in list
+Error occurred while processing: 'fake_moustache' is not in list
+Error occurred while processing: 'disguise' is not in list
+Error occurred while processing: 'performing_arts' is not in list
+Error occurred while processing: 'deterrence' is not in list
+Error occurred while processing: 'fake_moustache' is not in list
+Error occurred while processing: 'disguise' is not in list
+Error occurred while processing: 'performing_arts' is not in list
+Error occurred while processing: 'deterrence' is not in list
+Error occurred while processing: 'marcel_duchamp' is not in list
+Error occurred while processing: 'found_object' is not in list
+Error occurred while processing: 'formalism' is not in list
+Error occurred while processing: 'marcel_duchamp' is not in list
+Error occurred while processing: 'found_object' is not in list
+Error occurred while processing: 'formalism' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'european_union' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'mythological_cycle' is not in list
+Error occurred while processing: 'art_style' is not in list
+Error occurred while processing: 'art_genre' is not in list
+Error occurred while processing: 'classificatory_disputes_about_art' is not in list
+Error occurred while processing: 'type_of_arts' is not in list
+Error occurred while processing: 'q23058420' is not in list
+Error occurred while processing: 'art_style' is not in list
+Error occurred while processing: 'art_genre' is not in list
+Error occurred while processing: 'classificatory_disputes_about_art' is not in list
+Error occurred while processing: 'type_of_arts' is not in list
+Error occurred while processing: 'q23058420' is not in list
+Error occurred while processing: 'popularity' is not in list
+Error occurred while processing: 'popularity' is not in list
+Error occurred while processing: 'popularity' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'udwan' is not in list
+Error occurred while processing: 'moustache' is not in list
+Error occurred while processing: 'security_camera' is not in list
+Error occurred while processing: 'moustache' is not in list
+Error occurred while processing: 'security_camera' is not in list

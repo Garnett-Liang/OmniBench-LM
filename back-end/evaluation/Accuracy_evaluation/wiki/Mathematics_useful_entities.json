@@ -1,0 +1,82 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q5571725",
+        "entityLabel": "Glossary of areas of mathematics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q967960",
+        "entityLabel": "Mathematics Subject Classification"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q837863",
+        "entityLabel": "Pure mathematics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3240104",
+        "entityLabel": "Lists of mathematics topics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3532100",
+        "entityLabel": "Index of accounting articles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7112546",
+        "entityLabel": "Outline of algebra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7112547",
+        "entityLabel": "Outline of algebraic structures"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7112559",
+        "entityLabel": "Outline of arithmetic"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7112574",
+        "entityLabel": "Outline of calculus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7112576",
+        "entityLabel": "Outline of category theory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q60792514",
+        "entityLabel": "Classification of low-dimensional real Lie algebras"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17003192",
+        "entityLabel": "Index of combinatorics articles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7112584",
+        "entityLabel": "Outline of combinatorics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5156019",
+        "entityLabel": "Comparison of vector algebra and geometric algebra"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5157305",
+        "entityLabel": "Computational complexity of mathematical operations"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6018859",
+        "entityLabel": "Index of cryptography articles"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1079958",
+        "entityLabel": "Differentiation rules"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7112619",
+        "entityLabel": "Outline of discrete mathematics"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q858520",
+        "entityLabel": "Divisibility rule"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2298491",
+        "entityLabel": "Table of divisors"
+    }
+]

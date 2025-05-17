@@ -1,0 +1,72 @@
+[
+    {
+        "subject": "Q28228935",
+        "subjectValue": "Outline of Joseph Smith",
+        "predicate": "P17",
+        "predicateValue": "country",
+        "object": "Q30",
+        "objectValue": "United States",
+        "anotherObject": "Q30",
+        "anotherObjectValue": "United States"
+    },
+    {
+        "subject": "Q43078966",
+        "subjectValue": "Bibliography of John Adams",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q1631107",
+        "objectValue": "bibliography",
+        "anotherObject": "Q4263830",
+        "anotherObjectValue": "literary form"
+    },
+    {
+        "subject": "Q56722555",
+        "subjectValue": "Bibliography of John Quincy Adams",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q134995",
+        "objectValue": "bibliography",
+        "anotherObject": "Q1047113",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q56722555",
+        "subjectValue": "Bibliography of John Quincy Adams",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q134995",
+        "objectValue": "bibliography",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q22943564",
+        "subjectValue": "Bibliography of Gianni Berengo Gardin",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q134995",
+        "objectValue": "bibliography",
+        "anotherObject": "Q1047113",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q22943564",
+        "subjectValue": "Bibliography of Gianni Berengo Gardin",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q134995",
+        "objectValue": "bibliography",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q4903397",
+        "subjectValue": "Bibliography of Subhas Chandra Bose",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q1631107",
+        "objectValue": "bibliography",
+        "anotherObject": "Q4263830",
+        "anotherObjectValue": "literary form"
+    }
+]

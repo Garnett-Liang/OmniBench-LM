@@ -1,0 +1,3148 @@
+[
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Sophie Lissitzky-Küppers (1891–1978), born Sophie Schneider, was a German art historian, patron of the avant-garde, author, and art collector.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Sophie Lissitzky-Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Statement: It's not true that Sophie Lissitzky-Küppers could be own of Swamp Legend. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Hildebrand Gurlitt was a German art historian and art gallery director who dealt in Nazi-looted art as one of Hitler's and Goering's four authorized dealers for \"degenerate art\".\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Hildebrand Gurlitt",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Is there any possibility that Hildebrand Gurlitt could not be own of Swamp Legend?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Munich is the capital and most populous city of Bavaria, Germany. With a population of 1,604,384 inhabitants as of 30 November 2024, it is the third-largest city by population in Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as well as the 11th-largest city in the European Union. The Munich metropolitan area – including suburbs and satellite towns – has 3 million inhabitants; and the city's metropolitan region is home to about 6.2 million people and is the third largest metropolitan region by GDP in the European Union.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Munich",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Does Munich have the possibility to be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paul Küppers was a German art historian and first husband of Sophie Lissitzky-Küppers. He was a co-founder of the Kestner Society and brought contemporary art to Hanover.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Paul Erich Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Is it true that Paul Erich Küppers could or could be own Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Ernst Beyeler was a Swiss art dealer and collector, who became \"Europe’s pre-eminent dealer in modern art\", according to The New York Times, and \"the greatest art dealer since the war\", according to The Daily Telegraph. In 1982, he and his wife founded the Beyeler Foundation to show his private collection, which on his death was valued at US$1.85 billion.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Ernst Beyeler",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Could Ernst Beyeler be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Sophie Lissitzky-Küppers (1891–1978), born Sophie Schneider, was a German art historian, patron of the avant-garde, author, and art collector.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Sophie Lissitzky-Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Could Sophie Lissitzky-Küppers be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Hildebrand Gurlitt was a German art historian and art gallery director who dealt in Nazi-looted art as one of Hitler's and Goering's four authorized dealers for \"degenerate art\".\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Hildebrand Gurlitt",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Does Hildebrand Gurlitt have the possibility to be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Munich is the capital and most populous city of Bavaria, Germany. With a population of 1,604,384 inhabitants as of 30 November 2024, it is the third-largest city by population in Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as well as the 11th-largest city in the European Union. The Munich metropolitan area – including suburbs and satellite towns – has 3 million inhabitants; and the city's metropolitan region is home to about 6.2 million people and is the third largest metropolitan region by GDP in the European Union.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Munich",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Is there any possibility that Munich could not be own of Swamp Legend?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paul Küppers was a German art historian and first husband of Sophie Lissitzky-Küppers. He was a co-founder of the Kestner Society and brought contemporary art to Hanover.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Paul Erich Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Statement: It's not true that Paul Erich Küppers could be own of Swamp Legend. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Ernst Beyeler was a Swiss art dealer and collector, who became \"Europe’s pre-eminent dealer in modern art\", according to The New York Times, and \"the greatest art dealer since the war\", according to The Daily Telegraph. In 1982, he and his wife founded the Beyeler Foundation to show his private collection, which on his death was valued at US$1.85 billion.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Ernst Beyeler",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Does Ernst Beyeler have the possibility to be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Sophie Lissitzky-Küppers (1891–1978), born Sophie Schneider, was a German art historian, patron of the avant-garde, author, and art collector.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Sophie Lissitzky-Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Could Sophie Lissitzky-Küppers be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Hildebrand Gurlitt was a German art historian and art gallery director who dealt in Nazi-looted art as one of Hitler's and Goering's four authorized dealers for \"degenerate art\".\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Hildebrand Gurlitt",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Is there any possibility that Hildebrand Gurlitt could not be own of Swamp Legend?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Munich is the capital and most populous city of Bavaria, Germany. With a population of 1,604,384 inhabitants as of 30 November 2024, it is the third-largest city by population in Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as well as the 11th-largest city in the European Union. The Munich metropolitan area – including suburbs and satellite towns – has 3 million inhabitants; and the city's metropolitan region is home to about 6.2 million people and is the third largest metropolitan region by GDP in the European Union.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Munich",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Is it true that Munich could or could be own Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paul Küppers was a German art historian and first husband of Sophie Lissitzky-Küppers. He was a co-founder of the Kestner Society and brought contemporary art to Hanover.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Paul Erich Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Is it true that Paul Erich Küppers could or could be own Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Ernst Beyeler was a Swiss art dealer and collector, who became \"Europe’s pre-eminent dealer in modern art\", according to The New York Times, and \"the greatest art dealer since the war\", according to The Daily Telegraph. In 1982, he and his wife founded the Beyeler Foundation to show his private collection, which on his death was valued at US$1.85 billion.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Ernst Beyeler",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Is it true that Ernst Beyeler could or could be own Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Sophie Lissitzky-Küppers (1891–1978), born Sophie Schneider, was a German art historian, patron of the avant-garde, author, and art collector.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Sophie Lissitzky-Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Is it true that Sophie Lissitzky-Küppers could or could be own Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Hildebrand Gurlitt was a German art historian and art gallery director who dealt in Nazi-looted art as one of Hitler's and Goering's four authorized dealers for \"degenerate art\".\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Hildebrand Gurlitt",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Could Hildebrand Gurlitt be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Munich is the capital and most populous city of Bavaria, Germany. With a population of 1,604,384 inhabitants as of 30 November 2024, it is the third-largest city by population in Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as well as the 11th-largest city in the European Union. The Munich metropolitan area – including suburbs and satellite towns – has 3 million inhabitants; and the city's metropolitan region is home to about 6.2 million people and is the third largest metropolitan region by GDP in the European Union.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Munich",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Does Munich have the possibility to be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paul Küppers was a German art historian and first husband of Sophie Lissitzky-Küppers. He was a co-founder of the Kestner Society and brought contemporary art to Hanover.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Paul Erich Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Statement: It's not true that Paul Erich Küppers could be own of Swamp Legend. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Ernst Beyeler was a Swiss art dealer and collector, who became \"Europe’s pre-eminent dealer in modern art\", according to The New York Times, and \"the greatest art dealer since the war\", according to The Daily Telegraph. In 1982, he and his wife founded the Beyeler Foundation to show his private collection, which on his death was valued at US$1.85 billion.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Ernst Beyeler",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Statement: It's not true that Ernst Beyeler could be own of Swamp Legend. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Sophie Lissitzky-Küppers (1891–1978), born Sophie Schneider, was a German art historian, patron of the avant-garde, author, and art collector.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Sophie Lissitzky-Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Is there any possibility that Sophie Lissitzky-Küppers could not be own of Swamp Legend?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Hildebrand Gurlitt was a German art historian and art gallery director who dealt in Nazi-looted art as one of Hitler's and Goering's four authorized dealers for \"degenerate art\".\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Hildebrand Gurlitt",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Does Hildebrand Gurlitt have the possibility to be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Munich is the capital and most populous city of Bavaria, Germany. With a population of 1,604,384 inhabitants as of 30 November 2024, it is the third-largest city by population in Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as well as the 11th-largest city in the European Union. The Munich metropolitan area – including suburbs and satellite towns – has 3 million inhabitants; and the city's metropolitan region is home to about 6.2 million people and is the third largest metropolitan region by GDP in the European Union.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Munich",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Could Munich be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paul Küppers was a German art historian and first husband of Sophie Lissitzky-Küppers. He was a co-founder of the Kestner Society and brought contemporary art to Hanover.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Paul Erich Küppers",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Does Paul Erich Küppers have the possibility to be own of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Ernst Beyeler was a Swiss art dealer and collector, who became \"Europe’s pre-eminent dealer in modern art\", according to The New York Times, and \"the greatest art dealer since the war\", according to The Daily Telegraph. In 1982, he and his wife founded the Beyeler Foundation to show his private collection, which on his death was valued at US$1.85 billion.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "Ernst Beyeler",
+        "predicate": "own",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "owned by",
+                "Sophie Lissitzky-Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Hildebrand Gurlitt"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Munich"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Paul Erich Küppers"
+            ],
+            [
+                "Swamp Legend",
+                "owned by",
+                "Ernst Beyeler"
+            ]
+        ],
+        "question": "Statement: It's not true that Ernst Beyeler could be own of Swamp Legend. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. Its wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the centuries-long host of the national government and parliament. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century, the name \"London\" has referred to the metropolis around the City of London, historically split between the counties of Middlesex, Essex, Surrey, Kent, and Hertfordshire, which since 1965 has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "London",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "located in the administrative territorial entity",
+                "London"
+            ]
+        ],
+        "question": "Could London be the administrative territorial entity contains of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Located about 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic in the Greater Antilles and the U.S. Virgin Islands in the Lesser Antilles, it consists of the eponymous main island and numerous smaller islands, including Vieques, Culebra, and Mona. With approximately 3.2 million residents, it is divided into 78 municipalities, of which the most populous is the capital municipality of San Juan, followed by those within the San Juan metropolitan area. Spanish and English are the official languages of the government, though Spanish predominates.\nThe College of Natural Sciences of the University of Puerto Rico, Río Piedras, was established in 1943. It is one of several colleges that make up the University of Puerto Rico, Rio Piedras campus. Facundo Bueso Sanllehí was its first dean. It is located in the city of San Juan, the capital of Puerto Rico.",
+        "subject": "Puerto Rico",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "UPRRP College of Natural Sciences",
+        "evidence": [
+            [
+                "UPRRP College of Natural Sciences",
+                "located in the administrative territorial entity",
+                "Puerto Rico"
+            ]
+        ],
+        "question": "Is it true that Puerto Rico could or could be the administrative territorial entity contains UPRRP College of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. Its wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the centuries-long host of the national government and parliament. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century, the name \"London\" has referred to the metropolis around the City of London, historically split between the counties of Middlesex, Essex, Surrey, Kent, and Hertfordshire, which since 1965 has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "London",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "located in the administrative territorial entity",
+                "London"
+            ]
+        ],
+        "question": "Statement: It's not true that London could be the administrative territorial entity contains of Imperial College Faculty of Natural Sciences. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Located about 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic in the Greater Antilles and the U.S. Virgin Islands in the Lesser Antilles, it consists of the eponymous main island and numerous smaller islands, including Vieques, Culebra, and Mona. With approximately 3.2 million residents, it is divided into 78 municipalities, of which the most populous is the capital municipality of San Juan, followed by those within the San Juan metropolitan area. Spanish and English are the official languages of the government, though Spanish predominates.\nThe College of Natural Sciences of the University of Puerto Rico, Río Piedras, was established in 1943. It is one of several colleges that make up the University of Puerto Rico, Rio Piedras campus. Facundo Bueso Sanllehí was its first dean. It is located in the city of San Juan, the capital of Puerto Rico.",
+        "subject": "Puerto Rico",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "UPRRP College of Natural Sciences",
+        "evidence": [
+            [
+                "UPRRP College of Natural Sciences",
+                "located in the administrative territorial entity",
+                "Puerto Rico"
+            ]
+        ],
+        "question": "Is it true that Puerto Rico could or could be the administrative territorial entity contains UPRRP College of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. Its wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the centuries-long host of the national government and parliament. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century, the name \"London\" has referred to the metropolis around the City of London, historically split between the counties of Middlesex, Essex, Surrey, Kent, and Hertfordshire, which since 1965 has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "London",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "located in the administrative territorial entity",
+                "London"
+            ]
+        ],
+        "question": "Could London be the administrative territorial entity contains of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Located about 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic in the Greater Antilles and the U.S. Virgin Islands in the Lesser Antilles, it consists of the eponymous main island and numerous smaller islands, including Vieques, Culebra, and Mona. With approximately 3.2 million residents, it is divided into 78 municipalities, of which the most populous is the capital municipality of San Juan, followed by those within the San Juan metropolitan area. Spanish and English are the official languages of the government, though Spanish predominates.\nThe College of Natural Sciences of the University of Puerto Rico, Río Piedras, was established in 1943. It is one of several colleges that make up the University of Puerto Rico, Rio Piedras campus. Facundo Bueso Sanllehí was its first dean. It is located in the city of San Juan, the capital of Puerto Rico.",
+        "subject": "Puerto Rico",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "UPRRP College of Natural Sciences",
+        "evidence": [
+            [
+                "UPRRP College of Natural Sciences",
+                "located in the administrative territorial entity",
+                "Puerto Rico"
+            ]
+        ],
+        "question": "Is it true that Puerto Rico could or could be the administrative territorial entity contains UPRRP College of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. Its wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the centuries-long host of the national government and parliament. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century, the name \"London\" has referred to the metropolis around the City of London, historically split between the counties of Middlesex, Essex, Surrey, Kent, and Hertfordshire, which since 1965 has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "London",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "located in the administrative territorial entity",
+                "London"
+            ]
+        ],
+        "question": "Is there any possibility that London could not be the administrative territorial entity contains of Imperial College Faculty of Natural Sciences?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Located about 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic in the Greater Antilles and the U.S. Virgin Islands in the Lesser Antilles, it consists of the eponymous main island and numerous smaller islands, including Vieques, Culebra, and Mona. With approximately 3.2 million residents, it is divided into 78 municipalities, of which the most populous is the capital municipality of San Juan, followed by those within the San Juan metropolitan area. Spanish and English are the official languages of the government, though Spanish predominates.\nThe College of Natural Sciences of the University of Puerto Rico, Río Piedras, was established in 1943. It is one of several colleges that make up the University of Puerto Rico, Rio Piedras campus. Facundo Bueso Sanllehí was its first dean. It is located in the city of San Juan, the capital of Puerto Rico.",
+        "subject": "Puerto Rico",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "UPRRP College of Natural Sciences",
+        "evidence": [
+            [
+                "UPRRP College of Natural Sciences",
+                "located in the administrative territorial entity",
+                "Puerto Rico"
+            ]
+        ],
+        "question": "Does Puerto Rico have the possibility to be the administrative territorial entity contains of UPRRP College of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. Its wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the centuries-long host of the national government and parliament. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century, the name \"London\" has referred to the metropolis around the City of London, historically split between the counties of Middlesex, Essex, Surrey, Kent, and Hertfordshire, which since 1965 has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "London",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "located in the administrative territorial entity",
+                "London"
+            ]
+        ],
+        "question": "Could London be the administrative territorial entity contains of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Located about 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic in the Greater Antilles and the U.S. Virgin Islands in the Lesser Antilles, it consists of the eponymous main island and numerous smaller islands, including Vieques, Culebra, and Mona. With approximately 3.2 million residents, it is divided into 78 municipalities, of which the most populous is the capital municipality of San Juan, followed by those within the San Juan metropolitan area. Spanish and English are the official languages of the government, though Spanish predominates.\nThe College of Natural Sciences of the University of Puerto Rico, Río Piedras, was established in 1943. It is one of several colleges that make up the University of Puerto Rico, Rio Piedras campus. Facundo Bueso Sanllehí was its first dean. It is located in the city of San Juan, the capital of Puerto Rico.",
+        "subject": "Puerto Rico",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "UPRRP College of Natural Sciences",
+        "evidence": [
+            [
+                "UPRRP College of Natural Sciences",
+                "located in the administrative territorial entity",
+                "Puerto Rico"
+            ]
+        ],
+        "question": "Is it true that Puerto Rico could or could be the administrative territorial entity contains UPRRP College of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. Its wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the centuries-long host of the national government and parliament. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century, the name \"London\" has referred to the metropolis around the City of London, historically split between the counties of Middlesex, Essex, Surrey, Kent, and Hertfordshire, which since 1965 has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "London",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "located in the administrative territorial entity",
+                "London"
+            ]
+        ],
+        "question": "Is there any possibility that London could not be the administrative territorial entity contains of Imperial College Faculty of Natural Sciences?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Located about 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic in the Greater Antilles and the U.S. Virgin Islands in the Lesser Antilles, it consists of the eponymous main island and numerous smaller islands, including Vieques, Culebra, and Mona. With approximately 3.2 million residents, it is divided into 78 municipalities, of which the most populous is the capital municipality of San Juan, followed by those within the San Juan metropolitan area. Spanish and English are the official languages of the government, though Spanish predominates.\nThe College of Natural Sciences of the University of Puerto Rico, Río Piedras, was established in 1943. It is one of several colleges that make up the University of Puerto Rico, Rio Piedras campus. Facundo Bueso Sanllehí was its first dean. It is located in the city of San Juan, the capital of Puerto Rico.",
+        "subject": "Puerto Rico",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "UPRRP College of Natural Sciences",
+        "evidence": [
+            [
+                "UPRRP College of Natural Sciences",
+                "located in the administrative territorial entity",
+                "Puerto Rico"
+            ]
+        ],
+        "question": "Is it true that Puerto Rico could or could be the administrative territorial entity contains UPRRP College of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "London is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. Its wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the centuries-long host of the national government and parliament. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century, the name \"London\" has referred to the metropolis around the City of London, historically split between the counties of Middlesex, Essex, Surrey, Kent, and Hertfordshire, which since 1965 has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "London",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "located in the administrative territorial entity",
+                "London"
+            ]
+        ],
+        "question": "Is it true that London could or could be the administrative territorial entity contains Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Puerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Located about 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic in the Greater Antilles and the U.S. Virgin Islands in the Lesser Antilles, it consists of the eponymous main island and numerous smaller islands, including Vieques, Culebra, and Mona. With approximately 3.2 million residents, it is divided into 78 municipalities, of which the most populous is the capital municipality of San Juan, followed by those within the San Juan metropolitan area. Spanish and English are the official languages of the government, though Spanish predominates.\nThe College of Natural Sciences of the University of Puerto Rico, Río Piedras, was established in 1943. It is one of several colleges that make up the University of Puerto Rico, Rio Piedras campus. Facundo Bueso Sanllehí was its first dean. It is located in the city of San Juan, the capital of Puerto Rico.",
+        "subject": "Puerto Rico",
+        "predicate": "the_administrative_territorial_entity_contains",
+        "object": "UPRRP College of Natural Sciences",
+        "evidence": [
+            [
+                "UPRRP College of Natural Sciences",
+                "located in the administrative territorial entity",
+                "Puerto Rico"
+            ]
+        ],
+        "question": "Is there any possibility that Puerto Rico could not be the administrative territorial entity contains of UPRRP College of Natural Sciences?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Oil paint is a type of slow-drying paint that consists of particles of pigment suspended in a drying oil, commonly linseed oil. Oil paint also has practical advantages over other paints, mainly because it is waterproof.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "oil paint",
+        "predicate": "be_used_to_make",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "made from material",
+                "oil paint"
+            ]
+        ],
+        "question": "Is there any possibility that oil paint could not be be used to make of Swamp Legend?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Oil paint is a type of slow-drying paint that consists of particles of pigment suspended in a drying oil, commonly linseed oil. Oil paint also has practical advantages over other paints, mainly because it is waterproof.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "oil paint",
+        "predicate": "be_used_to_make",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "made from material",
+                "oil paint"
+            ]
+        ],
+        "question": "Statement: It's not true that oil paint could be be used to make of Swamp Legend. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Oil paint is a type of slow-drying paint that consists of particles of pigment suspended in a drying oil, commonly linseed oil. Oil paint also has practical advantages over other paints, mainly because it is waterproof.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "oil paint",
+        "predicate": "be_used_to_make",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "made from material",
+                "oil paint"
+            ]
+        ],
+        "question": "Does oil paint have the possibility to be be used to make of Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Oil paint is a type of slow-drying paint that consists of particles of pigment suspended in a drying oil, commonly linseed oil. Oil paint also has practical advantages over other paints, mainly because it is waterproof.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "oil paint",
+        "predicate": "be_used_to_make",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "made from material",
+                "oil paint"
+            ]
+        ],
+        "question": "Is there any possibility that oil paint could not be be used to make of Swamp Legend?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Oil paint is a type of slow-drying paint that consists of particles of pigment suspended in a drying oil, commonly linseed oil. Oil paint also has practical advantages over other paints, mainly because it is waterproof.\nSwamp Legend (\"Sumpflegende\") is a 1919 oil-on-cardboard painting by Swiss German painter Paul Klee. It has been in the Städtische Galerie im Lenbachhaus in Munich since 1982, but its ownership was disputed due to its provenance. The painting was one of the works that the Nazis declared \"degenerate art\", and they confiscated it from the Landesmuseum Hannover in 1937. However, it was not owned by the museum, but was there on a loan from the art historian Sophie Lissitzky-Küppers. In July 2017 it became known that her heirs had reached an agreement with the city of Munich abouts its ownership.",
+        "subject": "oil paint",
+        "predicate": "be_used_to_make",
+        "object": "Swamp Legend",
+        "evidence": [
+            [
+                "Swamp Legend",
+                "made from material",
+                "oil paint"
+            ]
+        ],
+        "question": "Is it true that oil paint could or could be be used to make Swamp Legend?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Department of Chemistry is responsible for chemistry teaching and research at Imperial College, London.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Department of Chemistry, Imperial College London",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Is it true that Department of Chemistry, Imperial College London could or could be be a subsidiary of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Centre for Environmental Policy (CEP) is a department at Imperial College London in the Faculty of Natural Sciences. Its aim is to influence a wide range of environmental issues through research on the environmental, energy and health aspects of global problems. CEP's current director is Professor Mark Burgman.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Centre for Environmental Policy",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Statement: It's not true that Centre for Environmental Policy could be be a subsidiary of of Imperial College Faculty of Natural Sciences. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Blackett Laboratory is part of the Imperial College Faculty of Natural Sciences and has housed the Department of Physics at Imperial College London since its completion in 1961. Named after experimental physicist Patrick Blackett who established a laboratory at the college, the building is located on the corner of Prince Consort Road and Queen's Gate, Kensington. The department ranks 12th on QS's 2025 world university rankings.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Blackett Laboratory",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Does Blackett Laboratory have the possibility to be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Department of Chemistry is responsible for chemistry teaching and research at Imperial College, London.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Department of Chemistry, Imperial College London",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Statement: It's not true that Department of Chemistry, Imperial College London could be be a subsidiary of of Imperial College Faculty of Natural Sciences. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Centre for Environmental Policy (CEP) is a department at Imperial College London in the Faculty of Natural Sciences. Its aim is to influence a wide range of environmental issues through research on the environmental, energy and health aspects of global problems. CEP's current director is Professor Mark Burgman.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Centre for Environmental Policy",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Statement: It's not true that Centre for Environmental Policy could be be a subsidiary of of Imperial College Faculty of Natural Sciences. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Blackett Laboratory is part of the Imperial College Faculty of Natural Sciences and has housed the Department of Physics at Imperial College London since its completion in 1961. Named after experimental physicist Patrick Blackett who established a laboratory at the college, the building is located on the corner of Prince Consort Road and Queen's Gate, Kensington. The department ranks 12th on QS's 2025 world university rankings.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Blackett Laboratory",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Is there any possibility that Blackett Laboratory could not be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Department of Chemistry is responsible for chemistry teaching and research at Imperial College, London.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Department of Chemistry, Imperial College London",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Is there any possibility that Department of Chemistry, Imperial College London could not be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Centre for Environmental Policy (CEP) is a department at Imperial College London in the Faculty of Natural Sciences. Its aim is to influence a wide range of environmental issues through research on the environmental, energy and health aspects of global problems. CEP's current director is Professor Mark Burgman.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Centre for Environmental Policy",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Is there any possibility that Centre for Environmental Policy could not be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Blackett Laboratory is part of the Imperial College Faculty of Natural Sciences and has housed the Department of Physics at Imperial College London since its completion in 1961. Named after experimental physicist Patrick Blackett who established a laboratory at the college, the building is located on the corner of Prince Consort Road and Queen's Gate, Kensington. The department ranks 12th on QS's 2025 world university rankings.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Blackett Laboratory",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Statement: It's not true that Blackett Laboratory could be be a subsidiary of of Imperial College Faculty of Natural Sciences. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Department of Chemistry is responsible for chemistry teaching and research at Imperial College, London.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Department of Chemistry, Imperial College London",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Could Department of Chemistry, Imperial College London be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Centre for Environmental Policy (CEP) is a department at Imperial College London in the Faculty of Natural Sciences. Its aim is to influence a wide range of environmental issues through research on the environmental, energy and health aspects of global problems. CEP's current director is Professor Mark Burgman.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Centre for Environmental Policy",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Is it true that Centre for Environmental Policy could or could be be a subsidiary of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Blackett Laboratory is part of the Imperial College Faculty of Natural Sciences and has housed the Department of Physics at Imperial College London since its completion in 1961. Named after experimental physicist Patrick Blackett who established a laboratory at the college, the building is located on the corner of Prince Consort Road and Queen's Gate, Kensington. The department ranks 12th on QS's 2025 world university rankings.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Blackett Laboratory",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Does Blackett Laboratory have the possibility to be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Department of Chemistry is responsible for chemistry teaching and research at Imperial College, London.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Department of Chemistry, Imperial College London",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Is it true that Department of Chemistry, Imperial College London could or could be be a subsidiary of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Centre for Environmental Policy (CEP) is a department at Imperial College London in the Faculty of Natural Sciences. Its aim is to influence a wide range of environmental issues through research on the environmental, energy and health aspects of global problems. CEP's current director is Professor Mark Burgman.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Centre for Environmental Policy",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Is there any possibility that Centre for Environmental Policy could not be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Blackett Laboratory is part of the Imperial College Faculty of Natural Sciences and has housed the Department of Physics at Imperial College London since its completion in 1961. Named after experimental physicist Patrick Blackett who established a laboratory at the college, the building is located on the corner of Prince Consort Road and Queen's Gate, Kensington. The department ranks 12th on QS's 2025 world university rankings.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Blackett Laboratory",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Could Blackett Laboratory be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Department of Chemistry is responsible for chemistry teaching and research at Imperial College, London.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Department of Chemistry, Imperial College London",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Could Department of Chemistry, Imperial College London be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Centre for Environmental Policy (CEP) is a department at Imperial College London in the Faculty of Natural Sciences. Its aim is to influence a wide range of environmental issues through research on the environmental, energy and health aspects of global problems. CEP's current director is Professor Mark Burgman.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Centre for Environmental Policy",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Statement: It's not true that Centre for Environmental Policy could be be a subsidiary of of Imperial College Faculty of Natural Sciences. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Blackett Laboratory is part of the Imperial College Faculty of Natural Sciences and has housed the Department of Physics at Imperial College London since its completion in 1961. Named after experimental physicist Patrick Blackett who established a laboratory at the college, the building is located on the corner of Prince Consort Road and Queen's Gate, Kensington. The department ranks 12th on QS's 2025 world university rankings.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Blackett Laboratory",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Could Blackett Laboratory be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Department of Chemistry is responsible for chemistry teaching and research at Imperial College, London.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Department of Chemistry, Imperial College London",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Statement: It's not true that Department of Chemistry, Imperial College London could be be a subsidiary of of Imperial College Faculty of Natural Sciences. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Centre for Environmental Policy (CEP) is a department at Imperial College London in the Faculty of Natural Sciences. Its aim is to influence a wide range of environmental issues through research on the environmental, energy and health aspects of global problems. CEP's current director is Professor Mark Burgman.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Centre for Environmental Policy",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Is there any possibility that Centre for Environmental Policy could not be be a subsidiary of of Imperial College Faculty of Natural Sciences?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Blackett Laboratory is part of the Imperial College Faculty of Natural Sciences and has housed the Department of Physics at Imperial College London since its completion in 1961. Named after experimental physicist Patrick Blackett who established a laboratory at the college, the building is located on the corner of Prince Consort Road and Queen's Gate, Kensington. The department ranks 12th on QS's 2025 world university rankings.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Blackett Laboratory",
+        "predicate": "be_a_subsidiary_of",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Life Sciences, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Chemistry, Imperial College London"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Centre for Environmental Policy"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Blackett Laboratory"
+            ],
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "has subsidiary",
+                "Department of Mathematics, Imperial College London"
+            ]
+        ],
+        "question": "Statement: It's not true that Blackett Laboratory could be be a subsidiary of of Imperial College Faculty of Natural Sciences. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Steam is a digital distribution service and storefront developed by Valve. It was launched as a software client in September 2003 to provide game updates automatically for Valve's games and expanded to distributing third-party titles in late 2005. Steam offers various features, such as game server matchmaking with Valve Anti-Cheat (VAC) measures, social networking, and game streaming services. The Steam client functions include update maintenance, cloud storage, and community features such as direct messaging, an in-game overlay, discussion forums, and a virtual collectable marketplace. The storefront also offers productivity software, game soundtracks, videos, and sells hardware made by Valve, such as the Valve Index and the Steam Deck.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Steam",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is there any possibility that Steam could not be be the distributor of the work  of Fe (video game)?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "PlayStation Store is a digital distribution service for users of Sony's PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5 game consoles via PlayStation Network.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "PlayStation Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Does PlayStation Store have the possibility to be be the distributor of the work  of Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Nintendo eShop is a digital distribution service for the Nintendo Switch, and formerly available via the Nintendo Network for the Wii U and Nintendo 3DS. Launched in June 2011 on the Nintendo 3DS, the Nintendo eShop served as the successor to both the Wii Shop Channel and DSi Shop. It is also a multitasking application, which means it is easily accessible even when a game is already running in the background through the system software. The Nintendo eShop features downloadable games, demos, applications, streaming videos, consumer rating feedback, and other information on upcoming game releases. The service was discontinued globally for the Wii U and Nintendo 3DS in March 2023, continuing only on the Switch.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Nintendo eShop",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is there any possibility that Nintendo eShop could not be be the distributor of the work  of Fe (video game)?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Microsoft Store is a digital distribution platform operated by Microsoft. It was created as an app store for Windows 8 as the primary means of distributing Universal Windows Platform apps. With Windows 10 1803, Microsoft merged its other distribution platforms into Microsoft Store, making it a unified distribution point for apps, console games, and digital videos. Digital music was included until the end of 2017, and E-books were included until 2019.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Microsoft Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Does Microsoft Store have the possibility to be be the distributor of the work  of Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "BBC Radio is an operational business division and service of the British Broadcasting Corporation (BBC) which has operated in the United Kingdom under the terms of a royal charter since 1927. The service provides national radio stations covering the majority of musical genres, as well as local radio stations covering local news, affairs, and interests. It also oversees online audio content.\nForest 404 was a science fiction podcast produced by the BBC that starred Pearl Mackie. The series debuted in 2019 on BBC Sounds and was later broadcast on BBC Radio 4. The 27-part show was composed of nine narrative episodes, each accompanied by a soundscape and a discussion on the show's themes. The story was written by Timothy X Atak, and the theme music was by Bonobo.",
+        "subject": "BBC Radio",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Forest 404",
+        "evidence": [
+            [
+                "Forest 404",
+                "distributed by",
+                "BBC Radio"
+            ]
+        ],
+        "question": "Is it true that BBC Radio could or could be be the distributor of the work  Forest 404?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Steam is a digital distribution service and storefront developed by Valve. It was launched as a software client in September 2003 to provide game updates automatically for Valve's games and expanded to distributing third-party titles in late 2005. Steam offers various features, such as game server matchmaking with Valve Anti-Cheat (VAC) measures, social networking, and game streaming services. The Steam client functions include update maintenance, cloud storage, and community features such as direct messaging, an in-game overlay, discussion forums, and a virtual collectable marketplace. The storefront also offers productivity software, game soundtracks, videos, and sells hardware made by Valve, such as the Valve Index and the Steam Deck.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Steam",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Does Steam have the possibility to be be the distributor of the work  of Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "PlayStation Store is a digital distribution service for users of Sony's PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5 game consoles via PlayStation Network.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "PlayStation Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is there any possibility that PlayStation Store could not be be the distributor of the work  of Fe (video game)?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Nintendo eShop is a digital distribution service for the Nintendo Switch, and formerly available via the Nintendo Network for the Wii U and Nintendo 3DS. Launched in June 2011 on the Nintendo 3DS, the Nintendo eShop served as the successor to both the Wii Shop Channel and DSi Shop. It is also a multitasking application, which means it is easily accessible even when a game is already running in the background through the system software. The Nintendo eShop features downloadable games, demos, applications, streaming videos, consumer rating feedback, and other information on upcoming game releases. The service was discontinued globally for the Wii U and Nintendo 3DS in March 2023, continuing only on the Switch.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Nintendo eShop",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Statement: It's not true that Nintendo eShop could be be the distributor of the work  of Fe (video game). Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Microsoft Store is a digital distribution platform operated by Microsoft. It was created as an app store for Windows 8 as the primary means of distributing Universal Windows Platform apps. With Windows 10 1803, Microsoft merged its other distribution platforms into Microsoft Store, making it a unified distribution point for apps, console games, and digital videos. Digital music was included until the end of 2017, and E-books were included until 2019.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Microsoft Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is it true that Microsoft Store could or could be be the distributor of the work  Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "BBC Radio is an operational business division and service of the British Broadcasting Corporation (BBC) which has operated in the United Kingdom under the terms of a royal charter since 1927. The service provides national radio stations covering the majority of musical genres, as well as local radio stations covering local news, affairs, and interests. It also oversees online audio content.\nForest 404 was a science fiction podcast produced by the BBC that starred Pearl Mackie. The series debuted in 2019 on BBC Sounds and was later broadcast on BBC Radio 4. The 27-part show was composed of nine narrative episodes, each accompanied by a soundscape and a discussion on the show's themes. The story was written by Timothy X Atak, and the theme music was by Bonobo.",
+        "subject": "BBC Radio",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Forest 404",
+        "evidence": [
+            [
+                "Forest 404",
+                "distributed by",
+                "BBC Radio"
+            ]
+        ],
+        "question": "Does BBC Radio have the possibility to be be the distributor of the work  of Forest 404?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Steam is a digital distribution service and storefront developed by Valve. It was launched as a software client in September 2003 to provide game updates automatically for Valve's games and expanded to distributing third-party titles in late 2005. Steam offers various features, such as game server matchmaking with Valve Anti-Cheat (VAC) measures, social networking, and game streaming services. The Steam client functions include update maintenance, cloud storage, and community features such as direct messaging, an in-game overlay, discussion forums, and a virtual collectable marketplace. The storefront also offers productivity software, game soundtracks, videos, and sells hardware made by Valve, such as the Valve Index and the Steam Deck.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Steam",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is there any possibility that Steam could not be be the distributor of the work  of Fe (video game)?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "PlayStation Store is a digital distribution service for users of Sony's PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5 game consoles via PlayStation Network.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "PlayStation Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Statement: It's not true that PlayStation Store could be be the distributor of the work  of Fe (video game). Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Nintendo eShop is a digital distribution service for the Nintendo Switch, and formerly available via the Nintendo Network for the Wii U and Nintendo 3DS. Launched in June 2011 on the Nintendo 3DS, the Nintendo eShop served as the successor to both the Wii Shop Channel and DSi Shop. It is also a multitasking application, which means it is easily accessible even when a game is already running in the background through the system software. The Nintendo eShop features downloadable games, demos, applications, streaming videos, consumer rating feedback, and other information on upcoming game releases. The service was discontinued globally for the Wii U and Nintendo 3DS in March 2023, continuing only on the Switch.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Nintendo eShop",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is it true that Nintendo eShop could or could be be the distributor of the work  Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Microsoft Store is a digital distribution platform operated by Microsoft. It was created as an app store for Windows 8 as the primary means of distributing Universal Windows Platform apps. With Windows 10 1803, Microsoft merged its other distribution platforms into Microsoft Store, making it a unified distribution point for apps, console games, and digital videos. Digital music was included until the end of 2017, and E-books were included until 2019.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Microsoft Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Could Microsoft Store be be the distributor of the work  of Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "BBC Radio is an operational business division and service of the British Broadcasting Corporation (BBC) which has operated in the United Kingdom under the terms of a royal charter since 1927. The service provides national radio stations covering the majority of musical genres, as well as local radio stations covering local news, affairs, and interests. It also oversees online audio content.\nForest 404 was a science fiction podcast produced by the BBC that starred Pearl Mackie. The series debuted in 2019 on BBC Sounds and was later broadcast on BBC Radio 4. The 27-part show was composed of nine narrative episodes, each accompanied by a soundscape and a discussion on the show's themes. The story was written by Timothy X Atak, and the theme music was by Bonobo.",
+        "subject": "BBC Radio",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Forest 404",
+        "evidence": [
+            [
+                "Forest 404",
+                "distributed by",
+                "BBC Radio"
+            ]
+        ],
+        "question": "Could BBC Radio be be the distributor of the work  of Forest 404?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Steam is a digital distribution service and storefront developed by Valve. It was launched as a software client in September 2003 to provide game updates automatically for Valve's games and expanded to distributing third-party titles in late 2005. Steam offers various features, such as game server matchmaking with Valve Anti-Cheat (VAC) measures, social networking, and game streaming services. The Steam client functions include update maintenance, cloud storage, and community features such as direct messaging, an in-game overlay, discussion forums, and a virtual collectable marketplace. The storefront also offers productivity software, game soundtracks, videos, and sells hardware made by Valve, such as the Valve Index and the Steam Deck.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Steam",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is there any possibility that Steam could not be be the distributor of the work  of Fe (video game)?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "PlayStation Store is a digital distribution service for users of Sony's PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5 game consoles via PlayStation Network.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "PlayStation Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Could PlayStation Store be be the distributor of the work  of Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Nintendo eShop is a digital distribution service for the Nintendo Switch, and formerly available via the Nintendo Network for the Wii U and Nintendo 3DS. Launched in June 2011 on the Nintendo 3DS, the Nintendo eShop served as the successor to both the Wii Shop Channel and DSi Shop. It is also a multitasking application, which means it is easily accessible even when a game is already running in the background through the system software. The Nintendo eShop features downloadable games, demos, applications, streaming videos, consumer rating feedback, and other information on upcoming game releases. The service was discontinued globally for the Wii U and Nintendo 3DS in March 2023, continuing only on the Switch.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Nintendo eShop",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Statement: It's not true that Nintendo eShop could be be the distributor of the work  of Fe (video game). Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Microsoft Store is a digital distribution platform operated by Microsoft. It was created as an app store for Windows 8 as the primary means of distributing Universal Windows Platform apps. With Windows 10 1803, Microsoft merged its other distribution platforms into Microsoft Store, making it a unified distribution point for apps, console games, and digital videos. Digital music was included until the end of 2017, and E-books were included until 2019.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Microsoft Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Statement: It's not true that Microsoft Store could be be the distributor of the work  of Fe (video game). Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Steam is a digital distribution service and storefront developed by Valve. It was launched as a software client in September 2003 to provide game updates automatically for Valve's games and expanded to distributing third-party titles in late 2005. Steam offers various features, such as game server matchmaking with Valve Anti-Cheat (VAC) measures, social networking, and game streaming services. The Steam client functions include update maintenance, cloud storage, and community features such as direct messaging, an in-game overlay, discussion forums, and a virtual collectable marketplace. The storefront also offers productivity software, game soundtracks, videos, and sells hardware made by Valve, such as the Valve Index and the Steam Deck.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Steam",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is there any possibility that Steam could not be be the distributor of the work  of Fe (video game)?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "PlayStation Store is a digital distribution service for users of Sony's PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5 game consoles via PlayStation Network.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "PlayStation Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is it true that PlayStation Store could or could be be the distributor of the work  Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Nintendo eShop is a digital distribution service for the Nintendo Switch, and formerly available via the Nintendo Network for the Wii U and Nintendo 3DS. Launched in June 2011 on the Nintendo 3DS, the Nintendo eShop served as the successor to both the Wii Shop Channel and DSi Shop. It is also a multitasking application, which means it is easily accessible even when a game is already running in the background through the system software. The Nintendo eShop features downloadable games, demos, applications, streaming videos, consumer rating feedback, and other information on upcoming game releases. The service was discontinued globally for the Wii U and Nintendo 3DS in March 2023, continuing only on the Switch.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Nintendo eShop",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Statement: It's not true that Nintendo eShop could be be the distributor of the work  of Fe (video game). Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Microsoft Store is a digital distribution platform operated by Microsoft. It was created as an app store for Windows 8 as the primary means of distributing Universal Windows Platform apps. With Windows 10 1803, Microsoft merged its other distribution platforms into Microsoft Store, making it a unified distribution point for apps, console games, and digital videos. Digital music was included until the end of 2017, and E-books were included until 2019.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Microsoft Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Statement: It's not true that Microsoft Store could be be the distributor of the work  of Fe (video game). Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Steam is a digital distribution service and storefront developed by Valve. It was launched as a software client in September 2003 to provide game updates automatically for Valve's games and expanded to distributing third-party titles in late 2005. Steam offers various features, such as game server matchmaking with Valve Anti-Cheat (VAC) measures, social networking, and game streaming services. The Steam client functions include update maintenance, cloud storage, and community features such as direct messaging, an in-game overlay, discussion forums, and a virtual collectable marketplace. The storefront also offers productivity software, game soundtracks, videos, and sells hardware made by Valve, such as the Valve Index and the Steam Deck.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Steam",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is it true that Steam could or could be be the distributor of the work  Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "PlayStation Store is a digital distribution service for users of Sony's PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5 game consoles via PlayStation Network.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "PlayStation Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is it true that PlayStation Store could or could be be the distributor of the work  Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Nintendo eShop is a digital distribution service for the Nintendo Switch, and formerly available via the Nintendo Network for the Wii U and Nintendo 3DS. Launched in June 2011 on the Nintendo 3DS, the Nintendo eShop served as the successor to both the Wii Shop Channel and DSi Shop. It is also a multitasking application, which means it is easily accessible even when a game is already running in the background through the system software. The Nintendo eShop features downloadable games, demos, applications, streaming videos, consumer rating feedback, and other information on upcoming game releases. The service was discontinued globally for the Wii U and Nintendo 3DS in March 2023, continuing only on the Switch.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Nintendo eShop",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Statement: It's not true that Nintendo eShop could be be the distributor of the work  of Fe (video game). Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Microsoft Store is a digital distribution platform operated by Microsoft. It was created as an app store for Windows 8 as the primary means of distributing Universal Windows Platform apps. With Windows 10 1803, Microsoft merged its other distribution platforms into Microsoft Store, making it a unified distribution point for apps, console games, and digital videos. Digital music was included until the end of 2017, and E-books were included until 2019.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Microsoft Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is there any possibility that Microsoft Store could not be be the distributor of the work  of Fe (video game)?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "BBC Radio is an operational business division and service of the British Broadcasting Corporation (BBC) which has operated in the United Kingdom under the terms of a royal charter since 1927. The service provides national radio stations covering the majority of musical genres, as well as local radio stations covering local news, affairs, and interests. It also oversees online audio content.\nForest 404 was a science fiction podcast produced by the BBC that starred Pearl Mackie. The series debuted in 2019 on BBC Sounds and was later broadcast on BBC Radio 4. The 27-part show was composed of nine narrative episodes, each accompanied by a soundscape and a discussion on the show's themes. The story was written by Timothy X Atak, and the theme music was by Bonobo.",
+        "subject": "BBC Radio",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Forest 404",
+        "evidence": [
+            [
+                "Forest 404",
+                "distributed by",
+                "BBC Radio"
+            ]
+        ],
+        "question": "Is it true that BBC Radio could or could be be the distributor of the work  Forest 404?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "Steam is a digital distribution service and storefront developed by Valve. It was launched as a software client in September 2003 to provide game updates automatically for Valve's games and expanded to distributing third-party titles in late 2005. Steam offers various features, such as game server matchmaking with Valve Anti-Cheat (VAC) measures, social networking, and game streaming services. The Steam client functions include update maintenance, cloud storage, and community features such as direct messaging, an in-game overlay, discussion forums, and a virtual collectable marketplace. The storefront also offers productivity software, game soundtracks, videos, and sells hardware made by Valve, such as the Valve Index and the Steam Deck.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Steam",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is it true that Steam could or could be be the distributor of the work  Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "PlayStation Store is a digital distribution service for users of Sony's PlayStation 3, PlayStation Vita, PlayStation 4 and PlayStation 5 game consoles via PlayStation Network.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "PlayStation Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Statement: It's not true that PlayStation Store could be be the distributor of the work  of Fe (video game). Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Nintendo eShop is a digital distribution service for the Nintendo Switch, and formerly available via the Nintendo Network for the Wii U and Nintendo 3DS. Launched in June 2011 on the Nintendo 3DS, the Nintendo eShop served as the successor to both the Wii Shop Channel and DSi Shop. It is also a multitasking application, which means it is easily accessible even when a game is already running in the background through the system software. The Nintendo eShop features downloadable games, demos, applications, streaming videos, consumer rating feedback, and other information on upcoming game releases. The service was discontinued globally for the Wii U and Nintendo 3DS in March 2023, continuing only on the Switch.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Nintendo eShop",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Is it true that Nintendo eShop could or could be be the distributor of the work  Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "The Microsoft Store is a digital distribution platform operated by Microsoft. It was created as an app store for Windows 8 as the primary means of distributing Universal Windows Platform apps. With Windows 10 1803, Microsoft merged its other distribution platforms into Microsoft Store, making it a unified distribution point for apps, console games, and digital videos. Digital music was included until the end of 2017, and E-books were included until 2019.\nFe is a platform-adventure game developed by Zoink and published by Electronic Arts under its EA Originals program. It was released on February 16, 2018 for Microsoft Windows, Nintendo Switch, PlayStation 4 and Xbox One. In it, the player controls Fe, a fox-like creature in a forest setting, attempting to defend it from hostile entities called the Silent Ones, gaining help from other forest creatures by guiding them to complete tasks and learning new abilities from those it helps.",
+        "subject": "Microsoft Store",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Fe (video game)",
+        "evidence": [
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Steam"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "PlayStation Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Nintendo eShop"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Microsoft Store"
+            ],
+            [
+                "Fe (video game)",
+                "distributed by",
+                "Humble Store"
+            ]
+        ],
+        "question": "Could Microsoft Store be be the distributor of the work  of Fe (video game)?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Inverse Function Inference",
+        "description": "BBC Radio is an operational business division and service of the British Broadcasting Corporation (BBC) which has operated in the United Kingdom under the terms of a royal charter since 1927. The service provides national radio stations covering the majority of musical genres, as well as local radio stations covering local news, affairs, and interests. It also oversees online audio content.\nForest 404 was a science fiction podcast produced by the BBC that starred Pearl Mackie. The series debuted in 2019 on BBC Sounds and was later broadcast on BBC Radio 4. The 27-part show was composed of nine narrative episodes, each accompanied by a soundscape and a discussion on the show's themes. The story was written by Timothy X Atak, and the theme music was by Bonobo.",
+        "subject": "BBC Radio",
+        "predicate": "be_the_distributor_of_the_work_",
+        "object": "Forest 404",
+        "evidence": [
+            [
+                "Forest 404",
+                "distributed by",
+                "BBC Radio"
+            ]
+        ],
+        "question": "Is it true that BBC Radio could or could be be the distributor of the work  Forest 404?",
+        "answer": "Yes."
+    }
+]

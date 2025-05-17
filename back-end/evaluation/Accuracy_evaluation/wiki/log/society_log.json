@@ -1,0 +1,1050 @@
+[
+    {
+        "entity": "Q56064315",
+        "entityLabel": "Wahkohtowin",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q111955892",
+        "valueLabel": "Canadian Indigenous law"
+    },
+    {
+        "entity": "Q56064315",
+        "entityLabel": "Wahkohtowin",
+        "property": "P2596",
+        "propertyLabel": "culture",
+        "value": "Q117191",
+        "valueLabel": "Cree"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q16889133",
+        "valueLabel": "class"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q4671286",
+        "valueLabel": "academic major"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q2267705",
+        "valueLabel": "field of study"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q1047113",
+        "valueLabel": "field of study"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q14565700",
+        "valueLabel": "social studies"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q944537",
+        "valueLabel": "Geisteswissenschaften"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q34187",
+        "valueLabel": "religious studies"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q27654",
+        "valueLabel": "history of philosophy"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q315",
+        "valueLabel": "language"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q8242",
+        "valueLabel": "literature"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q309",
+        "valueLabel": "history"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P460",
+        "propertyLabel": "said to be the same as",
+        "value": "Q1587903",
+        "valueLabel": "human science"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q459381",
+        "valueLabel": "literary theory"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q34749",
+        "valueLabel": "social science"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q8162",
+        "valueLabel": "linguistics"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q179805",
+        "valueLabel": "political philosophy"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P1424",
+        "propertyLabel": "topic's main template",
+        "value": "Q6684096",
+        "valueLabel": "Template:Humanities"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q23404",
+        "valueLabel": "anthropology"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q23498",
+        "valueLabel": "archaeology"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q735",
+        "valueLabel": "art"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q33122512",
+        "valueLabel": "social sciences and humanities"
+    },
+    {
+        "entity": "Q80083",
+        "entityLabel": "Humanities",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q5891",
+        "valueLabel": "philosophy"
+    },
+    {
+        "entity": "Q16149747",
+        "entityLabel": "Humanities Indicators",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q43229",
+        "valueLabel": "organization"
+    },
+    {
+        "entity": "Q7112793",
+        "entityLabel": "Outline of the humanities",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q22811234",
+        "valueLabel": "branch of philosophy"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q1047113",
+        "valueLabel": "field of study"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q2267705",
+        "valueLabel": "field of study"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P1424",
+        "propertyLabel": "topic's main template",
+        "value": "Q6670897",
+        "valueLabel": "Template:Aesthetics"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q3181656",
+        "valueLabel": "The Nuttall Encyclop\u00e6dia"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q186531",
+        "valueLabel": "axiology"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q63284758",
+        "valueLabel": "Desktop Encyclopedic Dictionary"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q19180675",
+        "valueLabel": "Small Brockhaus and Efron Encyclopedic Dictionary"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q8807864",
+        "valueLabel": "Category:Aesthetics"
+    },
+    {
+        "entity": "Q35986",
+        "entityLabel": "Aesthetics",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q7210394",
+        "valueLabel": "Category:Theories of aesthetics"
+    },
+    {
+        "entity": "Q928786",
+        "entityLabel": "Area studies",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q928786",
+        "entityLabel": "Area studies",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1665984",
+        "valueLabel": "interdisciplinary science"
+    },
+    {
+        "entity": "Q928786",
+        "entityLabel": "Area studies",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q23010558",
+        "valueLabel": "area, ethnic, cultural, gender, and group studies"
+    },
+    {
+        "entity": "Q928786",
+        "entityLabel": "Area studies",
+        "property": "P460",
+        "propertyLabel": "said to be the same as",
+        "value": "Q1595873",
+        "valueLabel": "domestic studies"
+    },
+    {
+        "entity": "Q928786",
+        "entityLabel": "Area studies",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q1781695",
+        "valueLabel": "regional science"
+    },
+    {
+        "entity": "Q928786",
+        "entityLabel": "Area studies",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1143546",
+        "valueLabel": "cultural studies"
+    },
+    {
+        "entity": "Q928786",
+        "entityLabel": "Area studies",
+        "property": "P3095",
+        "propertyLabel": "practiced by",
+        "value": "Q17135920",
+        "valueLabel": "scholar of area studies"
+    },
+    {
+        "entity": "Q928786",
+        "entityLabel": "Area studies",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q7007113",
+        "valueLabel": "Category:Area studies"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q50641",
+        "valueLabel": "history of art"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q80083",
+        "valueLabel": "humanities"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P3095",
+        "propertyLabel": "practiced by",
+        "value": "Q1792450",
+        "valueLabel": "art historian"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q9560932",
+        "valueLabel": "Category:Art history"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1757598",
+        "valueLabel": "visual art education"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q50641",
+        "valueLabel": "history of art"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q62302889",
+        "valueLabel": "art practice"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q98641248",
+        "valueLabel": "curatorial studies"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q944537",
+        "valueLabel": "Geisteswissenschaften"
+    },
+    {
+        "entity": "Q50637",
+        "entityLabel": "Art history",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q838948",
+        "valueLabel": "work of art"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q3958441",
+        "valueLabel": "economic sector"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P2184",
+        "propertyLabel": "history of topic",
+        "value": "Q50641",
+        "valueLabel": "history of art"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q451967",
+        "valueLabel": "intentional human activity"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q42314818",
+        "valueLabel": "art"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q4104783",
+        "valueLabel": "Category:The arts"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q11042",
+        "valueLabel": "culture"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q80083",
+        "valueLabel": "humanities"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q3918365",
+        "valueLabel": "Portal:Arts"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q101314624",
+        "valueLabel": "Lean Logic"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q735",
+        "valueLabel": "art"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q3181656",
+        "valueLabel": "The Nuttall Encyclop\u00e6dia"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q735",
+        "valueLabel": "art"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q56441911",
+        "valueLabel": "The Domestic Encyclop\u00e6dia; Or, A Dictionary Of Facts, And Useful Knowledge"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q124737604",
+        "valueLabel": "Armenian Soviet Encyclopedia, vol. 2"
+    },
+    {
+        "entity": "Q2018526",
+        "entityLabel": "The arts",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q838948",
+        "valueLabel": "work of art"
+    },
+    {
+        "entity": "Q41259",
+        "entityLabel": "Caucasology",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q4806809",
+        "valueLabel": "Asian studies"
+    },
+    {
+        "entity": "Q41259",
+        "entityLabel": "Caucasology",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q12237297",
+        "valueLabel": "languages of the Caucasus"
+    },
+    {
+        "entity": "Q41259",
+        "entityLabel": "Caucasology",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1377029",
+        "valueLabel": "European studies"
+    },
+    {
+        "entity": "Q41259",
+        "entityLabel": "Caucasology",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q10173107",
+        "valueLabel": "Category:Caucasology"
+    },
+    {
+        "entity": "Q41259",
+        "entityLabel": "Caucasology",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q928786",
+        "valueLabel": "area studies"
+    },
+    {
+        "entity": "Q41259",
+        "entityLabel": "Caucasology",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q18869",
+        "valueLabel": "Caucasus"
+    },
+    {
+        "entity": "Q41259",
+        "entityLabel": "Caucasology",
+        "property": "P3095",
+        "propertyLabel": "practiced by",
+        "value": "Q116234171",
+        "valueLabel": "Caucasologist"
+    },
+    {
+        "entity": "Q41259",
+        "entityLabel": "Caucasology",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q124737632",
+        "valueLabel": "Armenian Soviet Encyclopedia, vol. 5"
+    },
+    {
+        "entity": "Q26697825",
+        "entityLabel": "Change and continuity",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q10361123",
+        "valueLabel": "dichotomy"
+    },
+    {
+        "entity": "Q26697825",
+        "entityLabel": "Change and continuity",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q1150070",
+        "valueLabel": "change"
+    },
+    {
+        "entity": "Q26697825",
+        "entityLabel": "Change and continuity",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q12030090",
+        "valueLabel": "continuity"
+    },
+    {
+        "entity": "Q2088593",
+        "entityLabel": "Chorography",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q10916116",
+        "valueLabel": "history book"
+    },
+    {
+        "entity": "Q2088593",
+        "entityLabel": "Chorography",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q9604682",
+        "valueLabel": "Category:Chorographies"
+    },
+    {
+        "entity": "Q2088593",
+        "entityLabel": "Chorography",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q223393",
+        "valueLabel": "literary genre"
+    },
+    {
+        "entity": "Q2088593",
+        "entityLabel": "Chorography",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q105726199",
+        "valueLabel": "Early Modern Chorographies"
+    },
+    {
+        "entity": "Q2088593",
+        "entityLabel": "Chorography",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q42515",
+        "valueLabel": "cartography"
+    },
+    {
+        "entity": "Q2088593",
+        "entityLabel": "Chorography",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q867541",
+        "valueLabel": "Encyclop\u00e6dia Britannica 11th edition"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q4671286",
+        "valueLabel": "academic major"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q928786",
+        "valueLabel": "area studies"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q35497",
+        "valueLabel": "Ancient Greek"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P3095",
+        "propertyLabel": "practiced by",
+        "value": "Q2468727",
+        "valueLabel": "classical scholar"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q309",
+        "valueLabel": "history"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q7007177",
+        "valueLabel": "Category:Classical studies"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q541923",
+        "valueLabel": "ancient literature"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q397",
+        "valueLabel": "Latin"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q439072",
+        "valueLabel": "classical studies"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q495527",
+        "valueLabel": "classical philology"
+    },
+    {
+        "entity": "Q841090",
+        "entityLabel": "Classics",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q124737616",
+        "valueLabel": "Armenian Soviet Encyclopedia, vol. 3"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P61",
+        "propertyLabel": "discoverer or inventor",
+        "value": "Q76826",
+        "valueLabel": "Max Horkheimer"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q105760881",
+        "valueLabel": "branch of sociology"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q119007932",
+        "valueLabel": "sociological methodology"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q7472393",
+        "valueLabel": "Category:Critical theory"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q4455170",
+        "valueLabel": "social conflict theory"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1639471",
+        "valueLabel": "Marxist philosophy"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q1144757",
+        "valueLabel": "Marxist sociology"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P1535",
+        "propertyLabel": "used by",
+        "value": "Q4455170",
+        "valueLabel": "social conflict theory"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P1424",
+        "propertyLabel": "topic's main template",
+        "value": "Q7741887",
+        "valueLabel": "Template:Critical theory"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q20743760",
+        "valueLabel": "Encyclopedia of Political Theory"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q151843",
+        "valueLabel": "Frankfurt School"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1377163",
+        "valueLabel": "sociological theory"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q110353090",
+        "valueLabel": "critical social theory"
+    },
+    {
+        "entity": "Q301751",
+        "entityLabel": "Critical theory",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q44850682",
+        "valueLabel": "normative sociology"
+    },
+    {
+        "entity": "Q166153",
+        "entityLabel": "German studies",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q181287",
+        "valueLabel": "German-language literature"
+    },
+    {
+        "entity": "Q166153",
+        "entityLabel": "German studies",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q188",
+        "valueLabel": "German"
+    },
+    {
+        "entity": "Q166153",
+        "entityLabel": "German studies",
+        "property": "P3095",
+        "propertyLabel": "practiced by",
+        "value": "Q2599593",
+        "valueLabel": "germanist"
+    },
+    {
+        "entity": "Q166153",
+        "entityLabel": "German studies",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q1047113",
+        "valueLabel": "field of study"
+    },
+    {
+        "entity": "Q166153",
+        "entityLabel": "German studies",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q2620112",
+        "valueLabel": "Germanic philology"
+    },
+    {
+        "entity": "Q166153",
+        "entityLabel": "German studies",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q8491004",
+        "valueLabel": "Category:Germanic philology"
+    },
+    {
+        "entity": "Q166153",
+        "entityLabel": "German studies",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q309",
+        "entityLabel": "History",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q1457595",
+        "valueLabel": "Category:History"
+    },
+    {
+        "entity": "Q309",
+        "entityLabel": "History",
+        "property": "P2670",
+        "propertyLabel": "has part(s) of the class",
+        "value": "Q209815",
+        "valueLabel": "oral tradition"
+    },
+    {
+        "entity": "Q309",
+        "entityLabel": "History",
+        "property": "P2959",
+        "propertyLabel": "permanent duplicated item",
+        "value": "Q58237100",
+        "valueLabel": "Q58237100"
+    },
+    {
+        "entity": "Q309",
+        "entityLabel": "History",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q19219752",
+        "valueLabel": "Meyers Konversations-Lexikon, 4th edition (1885\u20131890)"
+    },
+    {
+        "entity": "Q309",
+        "entityLabel": "History",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q192630",
+        "valueLabel": "past"
+    },
+    {
+        "entity": "Q309",
+        "entityLabel": "History",
+        "property": "P2959",
+        "propertyLabel": "permanent duplicated item",
+        "value": "Q20829341",
+        "valueLabel": "Q20829341"
+    },
+    {
+        "entity": "Q309",
+        "entityLabel": "History",
+        "property": "P2579",
+        "propertyLabel": "studied by",
+        "value": "Q1066186",
+        "valueLabel": "study of history"
+    },
+    {
+        "entity": "Q309",
+        "entityLabel": "History",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q1066186",
+        "valueLabel": "study of history"
+    },
+    {
+        "entity": "Q5939567",
+        "entityLabel": "Humanities in the United States",
+        "property": "P17",
+        "propertyLabel": "country",
+        "value": "Q30",
+        "valueLabel": "United States"
+    }
+]

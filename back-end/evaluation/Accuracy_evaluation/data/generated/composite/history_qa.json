@@ -1,0 +1,1098 @@
+[
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "In historiography, periodization is the process or study of categorizing the past into discrete, quantified, and named blocks of time for the purpose of study or analysis. This is usually done to understand current and historical processes, and the causality that might have linked those events.\nChurch history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.",
+        "subject": "Periodization",
+        "predicate": "same_instance_of",
+        "object": "Church history",
+        "evidence": [
+            [
+                "Periodization",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Church history",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Church history",
+                "instance of",
+                "aspect of history"
+            ],
+            [
+                "Church history",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Church history",
+                "instance of",
+                "branch of history"
+            ]
+        ],
+        "question": "Statement: It's not true that Periodization and Church history have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "In historiography, periodization is the process or study of categorizing the past into discrete, quantified, and named blocks of time for the purpose of study or analysis. This is usually done to understand current and historical processes, and the causality that might have linked those events.\nIn medicine, a social history is a portion of the medical history addressing familial, occupational, and recreational aspects of the patient's personal life that have the potential to be clinically significant.",
+        "subject": "Periodization",
+        "predicate": "same_instance_of",
+        "object": "social history",
+        "evidence": [
+            [
+                "Periodization",
+                "instance of",
+                "field of study"
+            ]
+        ],
+        "question": "Is it true that Periodization and social history have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Administrative history is a historiographic field which looks at the history of state administrations and bureaucracies. Originally considered a sub-field of Administrative Sciences that was intended to improve contemporary governance, administrative history has become an increasingly separate field. Administrative historians study the changes in administrative ideologies and administrative law while also looking at civil servants and the relationship between government and society. It is related to political and constitutional history. The discipline is most common in France, Germany, the United Kingdom, and Italy. In 1965, when fields like social history were becoming ever more popular, G. R. Elton defended administrative history as the only field which can explain how the machinery of government actually worked in the past.\nChurch history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.",
+        "subject": "Administrative history",
+        "predicate": "same_instance_of",
+        "object": "Church history",
+        "evidence": [
+            [
+                "Administrative history",
+                "instance of",
+                "branch of history"
+            ],
+            [
+                "Church history",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Church history",
+                "instance of",
+                "aspect of history"
+            ],
+            [
+                "Church history",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Church history",
+                "instance of",
+                "branch of history"
+            ]
+        ],
+        "question": "Does Administrative history and Church history share totally different instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Administrative history is a historiographic field which looks at the history of state administrations and bureaucracies. Originally considered a sub-field of Administrative Sciences that was intended to improve contemporary governance, administrative history has become an increasingly separate field. Administrative historians study the changes in administrative ideologies and administrative law while also looking at civil servants and the relationship between government and society. It is related to political and constitutional history. The discipline is most common in France, Germany, the United Kingdom, and Italy. In 1965, when fields like social history were becoming ever more popular, G. R. Elton defended administrative history as the only field which can explain how the machinery of government actually worked in the past.\nCultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818–1897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.",
+        "subject": "Administrative history",
+        "predicate": "same_instance_of",
+        "object": "Cultural history",
+        "evidence": [
+            [
+                "Administrative history",
+                "instance of",
+                "branch of history"
+            ],
+            [
+                "Cultural history",
+                "instance of",
+                "branch of history"
+            ],
+            [
+                "Cultural history",
+                "instance of",
+                "aspect of history"
+            ]
+        ],
+        "question": "Does Administrative history and Cultural history have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Administrative history is a historiographic field which looks at the history of state administrations and bureaucracies. Originally considered a sub-field of Administrative Sciences that was intended to improve contemporary governance, administrative history has become an increasingly separate field. Administrative historians study the changes in administrative ideologies and administrative law while also looking at civil servants and the relationship between government and society. It is related to political and constitutional history. The discipline is most common in France, Germany, the United Kingdom, and Italy. In 1965, when fields like social history were becoming ever more popular, G. R. Elton defended administrative history as the only field which can explain how the machinery of government actually worked in the past.\nEconomic history is the study of history using methodological tools from economics or with a special attention to economic phenomena. Research is conducted using a combination of historical methods, statistical methods and the application of economic theory to historical situations and institutions. The field can encompass a wide variety of topics, including equality, finance, technology, labour, and business. It emphasizes historicizing the economy itself, analyzing it as a dynamic entity and attempting to provide insights into the way it is structured and conceived.",
+        "subject": "Administrative history",
+        "predicate": "same_instance_of",
+        "object": "Economic history",
+        "evidence": [
+            [
+                "Administrative history",
+                "instance of",
+                "branch of history"
+            ],
+            [
+                "Economic history",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Economic history",
+                "instance of",
+                "branch of history"
+            ]
+        ],
+        "question": "Statement: It's not true that Administrative history and Economic history have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Administrative history is a historiographic field which looks at the history of state administrations and bureaucracies. Originally considered a sub-field of Administrative Sciences that was intended to improve contemporary governance, administrative history has become an increasingly separate field. Administrative historians study the changes in administrative ideologies and administrative law while also looking at civil servants and the relationship between government and society. It is related to political and constitutional history. The discipline is most common in France, Germany, the United Kingdom, and Italy. In 1965, when fields like social history were becoming ever more popular, G. R. Elton defended administrative history as the only field which can explain how the machinery of government actually worked in the past.\nEthnic history is a branch of social history that studies ethnic groups and immigrants. Barkan (2007) argues that the field allows historians to use alternate models of interpretation, unite qualitative and quantitative data, apply sociological models to historical patterns, examine more deeply macro-level policies and decisions, and, especially, empathize with the ethnic groups under study.",
+        "subject": "Administrative history",
+        "predicate": "same_instance_of",
+        "object": "Ethnic history",
+        "evidence": [
+            [
+                "Administrative history",
+                "instance of",
+                "branch of history"
+            ],
+            [
+                "Ethnic history",
+                "instance of",
+                "branch of history"
+            ]
+        ],
+        "question": "Is it true that Administrative history and Ethnic history have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Administrative history is a historiographic field which looks at the history of state administrations and bureaucracies. Originally considered a sub-field of Administrative Sciences that was intended to improve contemporary governance, administrative history has become an increasingly separate field. Administrative historians study the changes in administrative ideologies and administrative law while also looking at civil servants and the relationship between government and society. It is related to political and constitutional history. The discipline is most common in France, Germany, the United Kingdom, and Italy. In 1965, when fields like social history were becoming ever more popular, G. R. Elton defended administrative history as the only field which can explain how the machinery of government actually worked in the past.\nEthnohistory is the study of cultures and indigenous peoples customs by examining historical records as well as other sources of information on their lives and history. It is also the study of the history of various ethnic groups that may or may not still exist. The term is most commonly used in writing about the history of the Americas.",
+        "subject": "Administrative history",
+        "predicate": "same_instance_of",
+        "object": "Ethnohistory",
+        "evidence": [
+            [
+                "Administrative history",
+                "instance of",
+                "branch of history"
+            ],
+            [
+                "Ethnohistory",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Ethnohistory",
+                "instance of",
+                "branch of history"
+            ]
+        ],
+        "question": "Does Administrative history and Ethnohistory have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Administrative history is a historiographic field which looks at the history of state administrations and bureaucracies. Originally considered a sub-field of Administrative Sciences that was intended to improve contemporary governance, administrative history has become an increasingly separate field. Administrative historians study the changes in administrative ideologies and administrative law while also looking at civil servants and the relationship between government and society. It is related to political and constitutional history. The discipline is most common in France, Germany, the United Kingdom, and Italy. In 1965, when fields like social history were becoming ever more popular, G. R. Elton defended administrative history as the only field which can explain how the machinery of government actually worked in the past.\nIn medicine, a social history is a portion of the medical history addressing familial, occupational, and recreational aspects of the patient's personal life that have the potential to be clinically significant.",
+        "subject": "Administrative history",
+        "predicate": "same_instance_of",
+        "object": "social history",
+        "evidence": [
+            [
+                "Administrative history",
+                "instance of",
+                "branch of history"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Administrative history also related with social history?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Historical anthropology is a historiographical movement which applies methodologies and objectives from social and cultural anthropology to the study of historical societies. Like most such movements, it is understood in different ways by different scholars, and to some may be synonymous with the history of mentalities, cultural history, ethnohistory, microhistory, history from below or Alltagsgeschichte. Anthropologists whose work has been particularly inspirational to historical anthropology include Emile Durkheim, Heinrich Schurtz, Arnold van Gennep, Lucien Lévy-Bruhl, Marcel Mauss, Clifford Geertz, Jack Goody, and Victor Turner.\nApplied history is the effort to apply insights grounded in the study of the past to the challenges of the present, particularly in the area of policy-making. Applied history is closely associated with the field of public history, and the terms today are sometimes used interchangeably, though historically, public history has been a more encompassing term, engaging a broad range of audiences, subjects and methods, while applied history has been more narrowly focused on work associated with the development of domestic and foreign policy.",
+        "subject": "Historical anthropology",
+        "predicate": "same_instance_of",
+        "object": "Applied history",
+        "evidence": [
+            [
+                "Historical anthropology",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Historical anthropology",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Historical anthropology",
+                "instance of",
+                "branch of anthropology"
+            ],
+            [
+                "Applied history",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Historical anthropology also related with Applied history?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Historical anthropology is a historiographical movement which applies methodologies and objectives from social and cultural anthropology to the study of historical societies. Like most such movements, it is understood in different ways by different scholars, and to some may be synonymous with the history of mentalities, cultural history, ethnohistory, microhistory, history from below or Alltagsgeschichte. Anthropologists whose work has been particularly inspirational to historical anthropology include Emile Durkheim, Heinrich Schurtz, Arnold van Gennep, Lucien Lévy-Bruhl, Marcel Mauss, Clifford Geertz, Jack Goody, and Victor Turner.\nArt history is, briefly, the history of art—or the study of a specific type of objects created in the past.",
+        "subject": "Historical anthropology",
+        "predicate": "same_instance_of",
+        "object": "Art history",
+        "evidence": [
+            [
+                "Historical anthropology",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Historical anthropology",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Historical anthropology",
+                "instance of",
+                "branch of anthropology"
+            ],
+            [
+                "Art history",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Historical anthropology also related with Art history?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Historical anthropology is a historiographical movement which applies methodologies and objectives from social and cultural anthropology to the study of historical societies. Like most such movements, it is understood in different ways by different scholars, and to some may be synonymous with the history of mentalities, cultural history, ethnohistory, microhistory, history from below or Alltagsgeschichte. Anthropologists whose work has been particularly inspirational to historical anthropology include Emile Durkheim, Heinrich Schurtz, Arnold van Gennep, Lucien Lévy-Bruhl, Marcel Mauss, Clifford Geertz, Jack Goody, and Victor Turner.\nAuxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.",
+        "subject": "Historical anthropology",
+        "predicate": "same_instance_of",
+        "object": "Auxiliary sciences of history",
+        "evidence": [
+            [
+                "Historical anthropology",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Historical anthropology",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Historical anthropology",
+                "instance of",
+                "branch of anthropology"
+            ],
+            [
+                "Auxiliary sciences of history",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Does Historical anthropology and Auxiliary sciences of history have completely separate instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Applied history is the effort to apply insights grounded in the study of the past to the challenges of the present, particularly in the area of policy-making. Applied history is closely associated with the field of public history, and the terms today are sometimes used interchangeably, though historically, public history has been a more encompassing term, engaging a broad range of audiences, subjects and methods, while applied history has been more narrowly focused on work associated with the development of domestic and foreign policy.\nComparative history is the comparison of different societies which existed during the same time period or shared similar cultural conditions.",
+        "subject": "Applied history",
+        "predicate": "same_subclass_of",
+        "object": "Comparative history",
+        "evidence": [
+            [
+                "Applied history",
+                "subclass of",
+                "history"
+            ],
+            [
+                "Comparative history",
+                "subclass of",
+                "history"
+            ]
+        ],
+        "question": "Statement: It's not true that Applied history and Comparative history have the same subclass of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Applied history is the effort to apply insights grounded in the study of the past to the challenges of the present, particularly in the area of policy-making. Applied history is closely associated with the field of public history, and the terms today are sometimes used interchangeably, though historically, public history has been a more encompassing term, engaging a broad range of audiences, subjects and methods, while applied history has been more narrowly focused on work associated with the development of domestic and foreign policy.\nCultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818–1897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.",
+        "subject": "Applied history",
+        "predicate": "same_subclass_of",
+        "object": "Cultural history",
+        "evidence": [
+            [
+                "Applied history",
+                "subclass of",
+                "history"
+            ],
+            [
+                "Cultural history",
+                "subclass of",
+                "cultural studies"
+            ],
+            [
+                "Cultural history",
+                "subclass of",
+                "history"
+            ],
+            [
+                "Cultural history",
+                "subclass of",
+                "study of history"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Applied history also related with Cultural history?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Applied history is the effort to apply insights grounded in the study of the past to the challenges of the present, particularly in the area of policy-making. Applied history is closely associated with the field of public history, and the terms today are sometimes used interchangeably, though historically, public history has been a more encompassing term, engaging a broad range of audiences, subjects and methods, while applied history has been more narrowly focused on work associated with the development of domestic and foreign policy.\nEnvironmental history is the study of human interaction with the natural world over time, emphasising the active role nature plays in influencing human affairs and vice versa.",
+        "subject": "Applied history",
+        "predicate": "same_subclass_of",
+        "object": "Environmental history",
+        "evidence": [
+            [
+                "Applied history",
+                "subclass of",
+                "history"
+            ],
+            [
+                "Environmental history",
+                "subclass of",
+                "history"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Applied history also related with Environmental history?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Applied history is the effort to apply insights grounded in the study of the past to the challenges of the present, particularly in the area of policy-making. Applied history is closely associated with the field of public history, and the terms today are sometimes used interchangeably, though historically, public history has been a more encompassing term, engaging a broad range of audiences, subjects and methods, while applied history has been more narrowly focused on work associated with the development of domestic and foreign policy.\nLandscape history is the study of the way in which humanity has changed the physical appearance of the environment – both present and past. It is sometimes referred to as landscape archaeology. It was first recognised as a separate area of study during the 20th century and uses evidence and approaches from other disciplines including archaeology, architecture, ecology, aerial photography, rephotography, local history and historical geography.",
+        "subject": "Applied history",
+        "predicate": "same_subclass_of",
+        "object": "Landscape history",
+        "evidence": [
+            [
+                "Applied history",
+                "subclass of",
+                "history"
+            ],
+            [
+                "Landscape history",
+                "subclass of",
+                "history"
+            ]
+        ],
+        "question": "Is it true that Applied history and Landscape history have the same subclass of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Applied history is the effort to apply insights grounded in the study of the past to the challenges of the present, particularly in the area of policy-making. Applied history is closely associated with the field of public history, and the terms today are sometimes used interchangeably, though historically, public history has been a more encompassing term, engaging a broad range of audiences, subjects and methods, while applied history has been more narrowly focused on work associated with the development of domestic and foreign policy.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "Applied history",
+        "predicate": "same_subclass_of",
+        "object": "Public history",
+        "evidence": [
+            [
+                "Applied history",
+                "subclass of",
+                "history"
+            ],
+            [
+                "Public history",
+                "subclass of",
+                "history"
+            ]
+        ],
+        "question": "Does Applied history and Public history share totally different subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Applied history is the effort to apply insights grounded in the study of the past to the challenges of the present, particularly in the area of policy-making. Applied history is closely associated with the field of public history, and the terms today are sometimes used interchangeably, though historically, public history has been a more encompassing term, engaging a broad range of audiences, subjects and methods, while applied history has been more narrowly focused on work associated with the development of domestic and foreign policy.\nIn historiography, rural history is a field of study focusing on the history of societies in rural areas. At its inception, the field was based on the economic history of agriculture. Since the 1980s it has become increasingly influenced by social history and has diverged from the economic and technological focuses of \"agricultural history\". It is a counterpart to urban history.",
+        "subject": "Applied history",
+        "predicate": "same_subclass_of",
+        "object": "Rural history",
+        "evidence": [
+            [
+                "Applied history",
+                "subclass of",
+                "history"
+            ],
+            [
+                "Rural history",
+                "subclass of",
+                "history"
+            ]
+        ],
+        "question": "Does Applied history and Rural history have completely separate subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Applied history is the effort to apply insights grounded in the study of the past to the challenges of the present, particularly in the area of policy-making. Applied history is closely associated with the field of public history, and the terms today are sometimes used interchangeably, though historically, public history has been a more encompassing term, engaging a broad range of audiences, subjects and methods, while applied history has been more narrowly focused on work associated with the development of domestic and foreign policy.\nIn medicine, a social history is a portion of the medical history addressing familial, occupational, and recreational aspects of the patient's personal life that have the potential to be clinically significant.",
+        "subject": "Applied history",
+        "predicate": "same_subclass_of",
+        "object": "social history",
+        "evidence": [
+            [
+                "Applied history",
+                "subclass of",
+                "history"
+            ]
+        ],
+        "question": "Statement: It's not true that Applied history and social history have the same subclass of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Applied history is the effort to apply insights grounded in the study of the past to the challenges of the present, particularly in the area of policy-making. Applied history is closely associated with the field of public history, and the terms today are sometimes used interchangeably, though historically, public history has been a more encompassing term, engaging a broad range of audiences, subjects and methods, while applied history has been more narrowly focused on work associated with the development of domestic and foreign policy.\n\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.",
+        "subject": "Applied history",
+        "predicate": "same_subclass_of",
+        "object": "Urban history",
+        "evidence": [
+            [
+                "Applied history",
+                "subclass of",
+                "history"
+            ],
+            [
+                "Urban history",
+                "subclass of",
+                "history"
+            ]
+        ],
+        "question": "Does Applied history and Urban history have completely separate subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Auxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.\nCultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818–1897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.",
+        "subject": "Auxiliary sciences of history",
+        "predicate": "same_subclass_of",
+        "object": "Cultural history",
+        "evidence": [
+            [
+                "Auxiliary sciences of history",
+                "subclass of",
+                "study of history"
+            ],
+            [
+                "Auxiliary sciences of history",
+                "subclass of",
+                "auxiliary science"
+            ],
+            [
+                "Cultural history",
+                "subclass of",
+                "cultural studies"
+            ],
+            [
+                "Cultural history",
+                "subclass of",
+                "history"
+            ],
+            [
+                "Cultural history",
+                "subclass of",
+                "study of history"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Auxiliary sciences of history also related with Cultural history?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Auxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.\nEthnohistory is the study of cultures and indigenous peoples customs by examining historical records as well as other sources of information on their lives and history. It is also the study of the history of various ethnic groups that may or may not still exist. The term is most commonly used in writing about the history of the Americas.",
+        "subject": "Auxiliary sciences of history",
+        "predicate": "same_subclass_of",
+        "object": "Ethnohistory",
+        "evidence": [
+            [
+                "Auxiliary sciences of history",
+                "subclass of",
+                "study of history"
+            ],
+            [
+                "Auxiliary sciences of history",
+                "subclass of",
+                "auxiliary science"
+            ],
+            [
+                "Ethnohistory",
+                "subclass of",
+                "social anthropology"
+            ],
+            [
+                "Ethnohistory",
+                "subclass of",
+                "study of history"
+            ]
+        ],
+        "question": "Is it true that Auxiliary sciences of history and Ethnohistory have the same subclass of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Auxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.\nHistorical demography is the quantitative study of human population in the past. It is concerned with population size, with the three basic components of population change, and with population characteristics related to those components, such as marriage, socioeconomic status, and the configuration of families.",
+        "subject": "Auxiliary sciences of history",
+        "predicate": "same_subclass_of",
+        "object": "Historical demography",
+        "evidence": [
+            [
+                "Auxiliary sciences of history",
+                "subclass of",
+                "study of history"
+            ],
+            [
+                "Auxiliary sciences of history",
+                "subclass of",
+                "auxiliary science"
+            ],
+            [
+                "Historical demography",
+                "subclass of",
+                "demography"
+            ],
+            [
+                "Historical demography",
+                "subclass of",
+                "study of history"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Auxiliary sciences of history also related with Historical demography?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "In historiography, periodization is the process or study of categorizing the past into discrete, quantified, and named blocks of time for the purpose of study or analysis. This is usually done to understand current and historical processes, and the causality that might have linked those events.\nAuxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.",
+        "subject": "Periodization",
+        "predicate": "same_part_of",
+        "object": "Auxiliary sciences of history",
+        "evidence": [
+            [
+                "Periodization",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Auxiliary sciences of history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Is it true that Periodization and Auxiliary sciences of history have the same part of the series?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "In historiography, periodization is the process or study of categorizing the past into discrete, quantified, and named blocks of time for the purpose of study or analysis. This is usually done to understand current and historical processes, and the causality that might have linked those events.\n\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.",
+        "subject": "Periodization",
+        "predicate": "same_part_of",
+        "object": "Urban history",
+        "evidence": [
+            [
+                "Periodization",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Urban history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Is there any possibility for the part of the series of Periodization also related with Urban history?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "In historiography, periodization is the process or study of categorizing the past into discrete, quantified, and named blocks of time for the purpose of study or analysis. This is usually done to understand current and historical processes, and the causality that might have linked those events.\nAuxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.",
+        "subject": "Periodization",
+        "predicate": "same_part_of",
+        "object": "Auxiliary sciences of history",
+        "evidence": [
+            [
+                "Periodization",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Auxiliary sciences of history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Statement: It's not true that Periodization and Auxiliary sciences of history have the same part of the series. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Auxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.\nIn historiography, periodization is the process or study of categorizing the past into discrete, quantified, and named blocks of time for the purpose of study or analysis. This is usually done to understand current and historical processes, and the causality that might have linked those events.",
+        "subject": "Auxiliary sciences of history",
+        "predicate": "same_part_of",
+        "object": "Periodization",
+        "evidence": [
+            [
+                "Periodization",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Auxiliary sciences of history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Does Auxiliary sciences of history and Periodization have completely separate part of the series?",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Auxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.\n\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.",
+        "subject": "Auxiliary sciences of history",
+        "predicate": "same_part_of",
+        "object": "Urban history",
+        "evidence": [
+            [
+                "Auxiliary sciences of history",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Urban history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Does Auxiliary sciences of history and Urban history have the same part of the series?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.\nIn historiography, periodization is the process or study of categorizing the past into discrete, quantified, and named blocks of time for the purpose of study or analysis. This is usually done to understand current and historical processes, and the causality that might have linked those events.",
+        "subject": "Urban history",
+        "predicate": "same_part_of",
+        "object": "Periodization",
+        "evidence": [
+            [
+                "Periodization",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Urban history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Is there any possibility for the part of the series of Urban history also related with Periodization?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.\nAuxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.",
+        "subject": "Urban history",
+        "predicate": "same_part_of",
+        "object": "Auxiliary sciences of history",
+        "evidence": [
+            [
+                "Auxiliary sciences of history",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Urban history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Does Urban history and Auxiliary sciences of history have the same part of the series?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.\nAuxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.",
+        "subject": "Urban history",
+        "predicate": "same_part_of",
+        "object": "Auxiliary sciences of history",
+        "evidence": [
+            [
+                "Auxiliary sciences of history",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Urban history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Is there any possibility for the part of the series of Urban history also related with Auxiliary sciences of history?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Auxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.\nIn historiography, periodization is the process or study of categorizing the past into discrete, quantified, and named blocks of time for the purpose of study or analysis. This is usually done to understand current and historical processes, and the causality that might have linked those events.",
+        "subject": "Auxiliary sciences of history",
+        "predicate": "same_part_of",
+        "object": "Periodization",
+        "evidence": [
+            [
+                "Periodization",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Auxiliary sciences of history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Is it true that Auxiliary sciences of history and Periodization have the same part of the series?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Auxiliary sciences of history are scholarly disciplines which help evaluate and use historical sources and are seen as auxiliary for historical research. Many of these areas of study, classification and analysis were originally developed between the 16th and 19th centuries by antiquaries, and would then have been regarded as falling under the broad heading of antiquarianism. \"History\" was at that time regarded as a largely literary skill. However, with the spread of the principles of empirical source-based history championed by the Göttingen school of history in the late 18th century and later by Leopold von Ranke from the mid-19th century onwards, they have been increasingly regarded as falling within the skill-set of the trained historian.\n\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.",
+        "subject": "Auxiliary sciences of history",
+        "predicate": "same_part_of",
+        "object": "Urban history",
+        "evidence": [
+            [
+                "Auxiliary sciences of history",
+                "part of",
+                "study of history"
+            ],
+            [
+                "Urban history",
+                "part of",
+                "study of history"
+            ]
+        ],
+        "question": "Statement: It's not true that Auxiliary sciences of history and Urban history have the same part of the series. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Archaeology or archeology is the study of human activity through the recovery and analysis of material culture. The archaeological record consists of artifacts, architecture, biofacts or ecofacts, sites, and cultural landscapes. Archaeology can be considered both a social science and a branch of the humanities. It is usually considered an independent academic discipline, but may also be classified as part of anthropology, history or geography. The discipline involves surveying, excavation, and eventually analysis of data collected, to learn more about the past. In broad scope, archaeology relies on cross-disciplinary research.\nEconomic history is the study of history using methodological tools from economics or with a special attention to economic phenomena. Research is conducted using a combination of historical methods, statistical methods and the application of economic theory to historical situations and institutions. The field can encompass a wide variety of topics, including equality, finance, technology, labour, and business. It emphasizes historicizing the economy itself, analyzing it as a dynamic entity and attempting to provide insights into the way it is structured and conceived.",
+        "subject": "Archaeology",
+        "predicate": "same_described_by_source",
+        "object": "Economic history",
+        "evidence": [
+            [
+                "Archaeology",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Archaeology",
+                "described by source",
+                "Sytin Military Encyclopedia"
+            ],
+            [
+                "Archaeology",
+                "described by source",
+                "Jewish Encyclopedia of Brockhaus and Efron"
+            ],
+            [
+                "Economic history",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ]
+        ],
+        "question": "Does Archaeology and Economic history share totally different described by source?",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Archaeology or archeology is the study of human activity through the recovery and analysis of material culture. The archaeological record consists of artifacts, architecture, biofacts or ecofacts, sites, and cultural landscapes. Archaeology can be considered both a social science and a branch of the humanities. It is usually considered an independent academic discipline, but may also be classified as part of anthropology, history or geography. The discipline involves surveying, excavation, and eventually analysis of data collected, to learn more about the past. In broad scope, archaeology relies on cross-disciplinary research.\nIn medicine, a social history is a portion of the medical history addressing familial, occupational, and recreational aspects of the patient's personal life that have the potential to be clinically significant.",
+        "subject": "Archaeology",
+        "predicate": "same_described_by_source",
+        "object": "social history",
+        "evidence": [
+            [
+                "Archaeology",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Archaeology",
+                "described by source",
+                "Sytin Military Encyclopedia"
+            ],
+            [
+                "Archaeology",
+                "described by source",
+                "Jewish Encyclopedia of Brockhaus and Efron"
+            ]
+        ],
+        "question": "Is it true that Archaeology and social history have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Archaeology or archeology is the study of human activity through the recovery and analysis of material culture. The archaeological record consists of artifacts, architecture, biofacts or ecofacts, sites, and cultural landscapes. Archaeology can be considered both a social science and a branch of the humanities. It is usually considered an independent academic discipline, but may also be classified as part of anthropology, history or geography. The discipline involves surveying, excavation, and eventually analysis of data collected, to learn more about the past. In broad scope, archaeology relies on cross-disciplinary research.\nThe Ages of Man are the historical stages of human existence according to Greek mythology and its subsequent Roman interpretation.",
+        "subject": "Archaeology",
+        "predicate": "same_described_by_source",
+        "object": "Ages of Man",
+        "evidence": [
+            [
+                "Archaeology",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Archaeology",
+                "described by source",
+                "Sytin Military Encyclopedia"
+            ],
+            [
+                "Archaeology",
+                "described by source",
+                "Jewish Encyclopedia of Brockhaus and Efron"
+            ],
+            [
+                "Ages of Man",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ],
+            [
+                "Ages of Man",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ]
+        ],
+        "question": "Statement: It's not true that Archaeology and Ages of Man have the same described by source. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Chorography is the art of describing or mapping a region or district, and by extension such a description or map. This term derives from the writings of the ancient geographer Pomponius Mela and Ptolemy, where it meant the geographical description of regions. However, its resonances of meaning have varied at different times. Richard Helgerson states that \"chorography defines itself by opposition to chronicle. It is the genre devoted to place, and chronicle is the genre devoted to time\". Darrell Rohl prefers a broad definition of \"the representation of space or place\".\nAn antiquarian or antiquary is an aficionado or student of antiquities or things of the past. More specifically, the term is used for those who study history with particular attention to ancient artefacts, archaeological and historic sites, or historic archives and manuscripts. The essence of antiquarianism is a focus on the empirical evidence of the past, and is perhaps best encapsulated in the motto adopted by the 18th-century antiquary Sir Richard Colt Hoare, \"We speak from facts, not theory.\"",
+        "subject": "Chorography",
+        "predicate": "same_described_by_source",
+        "object": "Antiquarian",
+        "evidence": [
+            [
+                "Chorography",
+                "described by source",
+                "Early Modern Chorographies"
+            ],
+            [
+                "Chorography",
+                "described by source",
+                "Encyclopædia Britannica 11th edition"
+            ],
+            [
+                "Antiquarian",
+                "described by source",
+                "Encyclopædia Britannica 11th edition"
+            ]
+        ],
+        "question": "Is it true that Chorography and Antiquarian have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Church history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.\nCultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818–1897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.",
+        "subject": "Church history",
+        "predicate": "same_described_by_source",
+        "object": "Cultural history",
+        "evidence": [
+            [
+                "Church history",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ],
+            [
+                "Cultural history",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ]
+        ],
+        "question": "Statement: It's not true that Church history and Cultural history have the same described by source. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Church history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.\nHistorical demography is the quantitative study of human population in the past. It is concerned with population size, with the three basic components of population change, and with population characteristics related to those components, such as marriage, socioeconomic status, and the configuration of families.",
+        "subject": "Church history",
+        "predicate": "same_described_by_source",
+        "object": "Historical demography",
+        "evidence": [
+            [
+                "Church history",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ],
+            [
+                "Historical demography",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ]
+        ],
+        "question": "Is there any possibility for the described by source of Church history also related with Historical demography?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Church history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.\nThe Ages of Man are the historical stages of human existence according to Greek mythology and its subsequent Roman interpretation.",
+        "subject": "Church history",
+        "predicate": "same_described_by_source",
+        "object": "Ages of Man",
+        "evidence": [
+            [
+                "Church history",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ],
+            [
+                "Ages of Man",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ],
+            [
+                "Ages of Man",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ]
+        ],
+        "question": "Is there any possibility for the described by source of Church history also related with Ages of Man?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Cultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818–1897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.\nChurch history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.",
+        "subject": "Cultural history",
+        "predicate": "same_described_by_source",
+        "object": "Church history",
+        "evidence": [
+            [
+                "Church history",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ],
+            [
+                "Cultural history",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ]
+        ],
+        "question": "Does Cultural history and Church history have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Cultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818–1897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.\nHistorical demography is the quantitative study of human population in the past. It is concerned with population size, with the three basic components of population change, and with population characteristics related to those components, such as marriage, socioeconomic status, and the configuration of families.",
+        "subject": "Cultural history",
+        "predicate": "same_described_by_source",
+        "object": "Historical demography",
+        "evidence": [
+            [
+                "Cultural history",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ],
+            [
+                "Historical demography",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ]
+        ],
+        "question": "Statement: It's not true that Cultural history and Historical demography have the same described by source. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Economic history is the study of history using methodological tools from economics or with a special attention to economic phenomena. Research is conducted using a combination of historical methods, statistical methods and the application of economic theory to historical situations and institutions. The field can encompass a wide variety of topics, including equality, finance, technology, labour, and business. It emphasizes historicizing the economy itself, analyzing it as a dynamic entity and attempting to provide insights into the way it is structured and conceived.\nArchaeology or archeology is the study of human activity through the recovery and analysis of material culture. The archaeological record consists of artifacts, architecture, biofacts or ecofacts, sites, and cultural landscapes. Archaeology can be considered both a social science and a branch of the humanities. It is usually considered an independent academic discipline, but may also be classified as part of anthropology, history or geography. The discipline involves surveying, excavation, and eventually analysis of data collected, to learn more about the past. In broad scope, archaeology relies on cross-disciplinary research.",
+        "subject": "Economic history",
+        "predicate": "same_described_by_source",
+        "object": "Archaeology",
+        "evidence": [
+            [
+                "Archaeology",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Archaeology",
+                "described by source",
+                "Sytin Military Encyclopedia"
+            ],
+            [
+                "Archaeology",
+                "described by source",
+                "Jewish Encyclopedia of Brockhaus and Efron"
+            ],
+            [
+                "Economic history",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ]
+        ],
+        "question": "Statement: It's not true that Economic history and Archaeology have the same described by source. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "history",
+        "reasoning": "Composite Inference",
+        "description": "Economic history is the study of history using methodological tools from economics or with a special attention to economic phenomena. Research is conducted using a combination of historical methods, statistical methods and the application of economic theory to historical situations and institutions. The field can encompass a wide variety of topics, including equality, finance, technology, labour, and business. It emphasizes historicizing the economy itself, analyzing it as a dynamic entity and attempting to provide insights into the way it is structured and conceived.\nIn medicine, a social history is a portion of the medical history addressing familial, occupational, and recreational aspects of the patient's personal life that have the potential to be clinically significant.",
+        "subject": "Economic history",
+        "predicate": "same_described_by_source",
+        "object": "social history",
+        "evidence": [
+            [
+                "Economic history",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ]
+        ],
+        "question": "Does Economic history and social history share totally different described by source?",
+        "answer": "No."
+    }
+]

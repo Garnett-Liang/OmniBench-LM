@@ -1,0 +1,82 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q3823319",
+        "entityLabel": "Ancient Egyptian technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4704909",
+        "entityLabel": "Ancient Greek technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17073664",
+        "entityLabel": "Inca technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3180036",
+        "entityLabel": "Medieval technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6822924",
+        "entityLabel": "Metallurgy during the Copper Age in Europe"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7112702",
+        "entityLabel": "Prehistoric technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q15855916",
+        "entityLabel": "Outline of prehistoric technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7312473",
+        "entityLabel": "Renaissance technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9031060",
+        "entityLabel": "History of timekeeping devices in Egypt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3499620",
+        "entityLabel": "Alternative technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q96572804",
+        "entityLabel": "Animal technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4787070",
+        "entityLabel": "Architectural technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3603312",
+        "entityLabel": "Clothing technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q16930522",
+        "entityLabel": "Creative technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5264382",
+        "entityLabel": "Design technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1192297",
+        "entityLabel": "Disruptive innovation"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5357718",
+        "entityLabel": "Electrical engineering technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5375154",
+        "entityLabel": "Enabling technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5380492",
+        "entityLabel": "Entertainment technology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q466410",
+        "entityLabel": "High tech"
+    }
+]

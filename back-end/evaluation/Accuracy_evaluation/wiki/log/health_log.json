@@ -1,0 +1,466 @@
+[
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q12147",
+        "valueLabel": "health"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q6279",
+        "valueLabel": "Joe Biden"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q123928941",
+        "valueLabel": "concern"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q108809873",
+        "valueLabel": "political conflict"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q101369347",
+        "valueLabel": "presidency of Joe Biden"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q63241885",
+        "valueLabel": "Joe Biden presidential campaign, 2020"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q117842677",
+        "valueLabel": "Joe Biden 2024 presidential campaign"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P1542",
+        "propertyLabel": "has effect",
+        "value": "Q127688165",
+        "valueLabel": "withdrawal of Joe Biden from the 2024 United States presidential election"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P17",
+        "propertyLabel": "country",
+        "value": "Q30",
+        "valueLabel": "United States"
+    },
+    {
+        "entity": "Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q129155144",
+        "valueLabel": "age and health concerns about Donald Trump"
+    },
+    {
+        "entity": "Q5104829",
+        "entityLabel": "Health of Fr\u00e9d\u00e9ric Chopin",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    },
+    {
+        "entity": "Q5104829",
+        "entityLabel": "Health of Fr\u00e9d\u00e9ric Chopin",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q1268",
+        "valueLabel": "Fr\u00e9d\u00e9ric Chopin"
+    },
+    {
+        "entity": "Q5076726",
+        "entityLabel": "Health of Charles Darwin",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    },
+    {
+        "entity": "Q5076726",
+        "entityLabel": "Health of Charles Darwin",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q1035",
+        "valueLabel": "Charles Darwin"
+    },
+    {
+        "entity": "Q5076726",
+        "entityLabel": "Health of Charles Darwin",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q12147",
+        "valueLabel": "health"
+    },
+    {
+        "entity": "Q4356352",
+        "entityLabel": "Health of Adolf Hitler",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q352",
+        "valueLabel": "Adolf Hitler"
+    },
+    {
+        "entity": "Q4356352",
+        "entityLabel": "Health of Adolf Hitler",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    },
+    {
+        "entity": "Q4356352",
+        "entityLabel": "Health of Adolf Hitler",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q12147",
+        "valueLabel": "health"
+    },
+    {
+        "entity": "Q4684101",
+        "entityLabel": "Possible monorchism of Adolf Hitler",
+        "property": "P1552",
+        "propertyLabel": "has characteristic",
+        "value": "Q21170479",
+        "valueLabel": "possibility"
+    },
+    {
+        "entity": "Q4684101",
+        "entityLabel": "Possible monorchism of Adolf Hitler",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q2495346",
+        "valueLabel": "Monorchism"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q28281039",
+        "valueLabel": "The role of psychotic disorders in religious history considered"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q366886",
+        "valueLabel": "psychopathy"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q108642591",
+        "valueLabel": "Moderne Leben-Jesu-Forschung unter dem Einflusse der Psychiatrie"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q317309",
+        "valueLabel": "mental health"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q57568675",
+        "valueLabel": "On the Mental Health of Jesus Christ"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q60034179",
+        "valueLabel": "Psychobiography of Jesus Christ in view of W\u0142adys\u0142aw Witwicki\u2019s theory of cratism"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q302",
+        "valueLabel": "Jesus"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q9208216",
+        "valueLabel": "The Good News according to Matthew and Mark"
+    },
+    {
+        "entity": "Q9389533",
+        "entityLabel": "Mental health of Jesus",
+        "property": "P2579",
+        "propertyLabel": "studied by",
+        "value": "Q624758",
+        "valueLabel": "psychopathology"
+    },
+    {
+        "entity": "Q7229184",
+        "entityLabel": "Health of Pope John Paul II",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q989",
+        "valueLabel": "John Paul II"
+    },
+    {
+        "entity": "Q7229184",
+        "entityLabel": "Health of Pope John Paul II",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q12147",
+        "valueLabel": "health"
+    },
+    {
+        "entity": "Q3968625",
+        "entityLabel": "Health of Samuel Johnson",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q183266",
+        "valueLabel": "Samuel Johnson"
+    },
+    {
+        "entity": "Q3968625",
+        "entityLabel": "Health of Samuel Johnson",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q36180",
+        "valueLabel": "writer"
+    },
+    {
+        "entity": "Q17089900",
+        "entityLabel": "Health of Abraham Lincoln",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    },
+    {
+        "entity": "Q17089900",
+        "entityLabel": "Health of Abraham Lincoln",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q91",
+        "valueLabel": "Abraham Lincoln"
+    },
+    {
+        "entity": "Q2578140",
+        "entityLabel": "Health and appearance of Michael Jackson",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q2831",
+        "valueLabel": "Michael Jackson"
+    },
+    {
+        "entity": "Q6927913",
+        "entityLabel": "Mozart and smallpox",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q254",
+        "valueLabel": "Wolfgang Amadeus Mozart"
+    },
+    {
+        "entity": "Q113518832",
+        "entityLabel": "Claims of Vladimir Putin's incapacity and death",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    },
+    {
+        "entity": "Q113518832",
+        "entityLabel": "Claims of Vladimir Putin's incapacity and death",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q7747",
+        "valueLabel": "Vladimir Putin"
+    },
+    {
+        "entity": "Q5491443",
+        "entityLabel": "Paralytic illness of Franklin D. Roosevelt",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    },
+    {
+        "entity": "Q5491443",
+        "entityLabel": "Paralytic illness of Franklin D. Roosevelt",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q8007",
+        "valueLabel": "Franklin Delano Roosevelt"
+    },
+    {
+        "entity": "Q7703619",
+        "entityLabel": "Terri Schiavo timeline",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q186117",
+        "valueLabel": "timeline"
+    },
+    {
+        "entity": "Q5113246",
+        "entityLabel": "Asylum confinement of Christopher Smart",
+        "property": "P710",
+        "propertyLabel": "participant",
+        "value": "Q2617795",
+        "valueLabel": "Christopher Smart"
+    },
+    {
+        "entity": "Q5113246",
+        "entityLabel": "Asylum confinement of Christopher Smart",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q841236",
+        "valueLabel": "imprisonment"
+    },
+    {
+        "entity": "Q5113246",
+        "entityLabel": "Asylum confinement of Christopher Smart",
+        "property": "P276",
+        "propertyLabel": "location",
+        "value": "Q7594066",
+        "valueLabel": "St Luke's Hospital for Lunatics"
+    },
+    {
+        "entity": "Q5113246",
+        "entityLabel": "Asylum confinement of Christopher Smart",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q1190554",
+        "valueLabel": "occurrence"
+    },
+    {
+        "entity": "Q129155144",
+        "entityLabel": "Age and health concerns about Donald Trump",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q12147",
+        "valueLabel": "health"
+    },
+    {
+        "entity": "Q129155144",
+        "entityLabel": "Age and health concerns about Donald Trump",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    },
+    {
+        "entity": "Q129155144",
+        "entityLabel": "Age and health concerns about Donald Trump",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q123928941",
+        "valueLabel": "concern"
+    },
+    {
+        "entity": "Q129155144",
+        "entityLabel": "Age and health concerns about Donald Trump",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q108809873",
+        "valueLabel": "political conflict"
+    },
+    {
+        "entity": "Q129155144",
+        "entityLabel": "Age and health concerns about Donald Trump",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q115227079",
+        "valueLabel": "Donald Trump 2024 presidential campaign"
+    },
+    {
+        "entity": "Q129155144",
+        "entityLabel": "Age and health concerns about Donald Trump",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q22686",
+        "valueLabel": "Donald Trump"
+    },
+    {
+        "entity": "Q129155144",
+        "entityLabel": "Age and health concerns about Donald Trump",
+        "property": "P17",
+        "propertyLabel": "country",
+        "value": "Q30",
+        "valueLabel": "United States"
+    },
+    {
+        "entity": "Q129155144",
+        "entityLabel": "Age and health concerns about Donald Trump",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q123080564",
+        "valueLabel": "age and health concerns about Joe Biden"
+    },
+    {
+        "entity": "Q7932136",
+        "entityLabel": "Health of Vincent van Gogh",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q5582",
+        "valueLabel": "Vincent van Gogh"
+    },
+    {
+        "entity": "Q7932136",
+        "entityLabel": "Health of Vincent van Gogh",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q20127274",
+        "valueLabel": "certain aspects of a person's life"
+    }
+]

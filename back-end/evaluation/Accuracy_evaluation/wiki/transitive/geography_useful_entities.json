@@ -1,0 +1,222 @@
+[
+    {
+        "subject": "Q3231442",
+        "subjectValue": "Philosophy of geography",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q22811234",
+        "objectValue": "branch of philosophy",
+        "anotherObject": "Q109542218",
+        "anotherObjectValue": "class of parts"
+    },
+    {
+        "subject": "Q3231442",
+        "subjectValue": "Philosophy of geography",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q19935939",
+        "objectValue": "branch of geography",
+        "anotherObject": "Q24017414",
+        "anotherObjectValue": "second-order class"
+    },
+    {
+        "subject": "Q3231442",
+        "subjectValue": "Philosophy of geography",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q19935939",
+        "objectValue": "branch of geography",
+        "anotherObject": "Q5962346",
+        "anotherObjectValue": "classification scheme"
+    },
+    {
+        "subject": "Q3231442",
+        "subjectValue": "Philosophy of geography",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q22811234",
+        "objectValue": "branch of philosophy",
+        "anotherObject": "Q5962346",
+        "anotherObjectValue": "classification scheme"
+    },
+    {
+        "subject": "Q3231442",
+        "subjectValue": "Philosophy of geography",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q22811234",
+        "objectValue": "branch of philosophy",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q901402",
+        "subjectValue": "Geographer",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q28640",
+        "objectValue": "profession",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q901402",
+        "subjectValue": "Geographer",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q11424604",
+        "objectValue": "earth scientist",
+        "anotherObject": "Q901",
+        "anotherObjectValue": "scientist"
+    },
+    {
+        "subject": "Q901402",
+        "subjectValue": "Geographer",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q28640",
+        "objectValue": "profession",
+        "anotherObject": "Q24017414",
+        "anotherObjectValue": "second-order class"
+    },
+    {
+        "subject": "Q223602",
+        "subjectValue": "Ladislav Bartolomeides",
+        "predicate": "P140",
+        "predicateValue": "religion or worldview",
+        "object": "Q75809",
+        "objectValue": "Lutheranism",
+        "anotherObject": "Q5043",
+        "anotherObjectValue": "Christianity"
+    },
+    {
+        "subject": "Q223602",
+        "subjectValue": "Ladislav Bartolomeides",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q5",
+        "objectValue": "human",
+        "anotherObject": "Q55983715",
+        "anotherObjectValue": "organisms known by a particular common name"
+    },
+    {
+        "subject": "Q3134653",
+        "subjectValue": "Herv\u00e9 Th\u00e9ry",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q5",
+        "objectValue": "human",
+        "anotherObject": "Q55983715",
+        "anotherObjectValue": "organisms known by a particular common name"
+    },
+    {
+        "subject": "Q19891832",
+        "subjectValue": "Circumnavigation world record progression",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q688615",
+        "objectValue": "world record",
+        "anotherObject": "Q1789452",
+        "anotherObjectValue": "criterion"
+    },
+    {
+        "subject": "Q19891832",
+        "subjectValue": "Circumnavigation world record progression",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q688615",
+        "objectValue": "world record",
+        "anotherObject": "Q1207505",
+        "anotherObjectValue": "quality"
+    },
+    {
+        "subject": "Q245260",
+        "subjectValue": "Conurbation",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q159313",
+        "objectValue": "urban agglomeration",
+        "anotherObject": "Q471822",
+        "anotherObjectValue": "megalopolis"
+    },
+    {
+        "subject": "Q245260",
+        "subjectValue": "Conurbation",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q104774089",
+        "objectValue": "urban cluster",
+        "anotherObject": "Q104774075",
+        "anotherObjectValue": "urbanized area"
+    },
+    {
+        "subject": "Q245260",
+        "subjectValue": "Conurbation",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q702492",
+        "objectValue": "urban area",
+        "anotherObject": "Q82794",
+        "anotherObjectValue": "geographic region"
+    },
+    {
+        "subject": "Q245260",
+        "subjectValue": "Conurbation",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q702492",
+        "objectValue": "urban area",
+        "anotherObject": "Q486972",
+        "anotherObjectValue": "human settlement"
+    },
+    {
+        "subject": "Q245260",
+        "subjectValue": "Conurbation",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q159313",
+        "objectValue": "urban agglomeration",
+        "anotherObject": "Q1907114",
+        "anotherObjectValue": "metropolitan area"
+    },
+    {
+        "subject": "Q3276230",
+        "subjectValue": "Lost lands",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q11081619",
+        "objectValue": "land",
+        "anotherObject": "Q82794",
+        "anotherObjectValue": "geographic region"
+    },
+    {
+        "subject": "Q3276230",
+        "subjectValue": "Lost lands",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q96088545",
+        "objectValue": "former geographical object",
+        "anotherObject": "Q15893266",
+        "anotherObjectValue": "former entity"
+    },
+    {
+        "subject": "Q1422929",
+        "subjectValue": "Primate city",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q515",
+        "objectValue": "city",
+        "anotherObject": "Q7930989",
+        "anotherObjectValue": "city or town"
+    },
+    {
+        "subject": "Q1422929",
+        "subjectValue": "Primate city",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q515",
+        "objectValue": "city",
+        "anotherObject": "Q124250988",
+        "anotherObjectValue": "urban settlement"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "subject": "Q837863",
+        "subjectValue": "Pure mathematics",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q964754",
+        "objectValue": "basic research",
+        "anotherObject": "Q42240",
+        "anotherObjectValue": "research"
+    },
+    {
+        "subject": "Q837863",
+        "subjectValue": "Pure mathematics",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q837863",
+        "subjectValue": "Pure mathematics",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q395",
+        "objectValue": "mathematics",
+        "anotherObject": "Q7991",
+        "anotherObjectValue": "natural science"
+    },
+    {
+        "subject": "Q5156019",
+        "subjectValue": "Comparison of vector algebra and geometric algebra",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q1720648",
+        "objectValue": "comparison",
+        "anotherObject": "Q1799072",
+        "anotherObjectValue": "method"
+    },
+    {
+        "subject": "Q858520",
+        "subjectValue": "Divisibility rule",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q8366",
+        "objectValue": "algorithm",
+        "anotherObject": "Q386724",
+        "anotherObjectValue": "work"
+    },
+    {
+        "subject": "Q858520",
+        "subjectValue": "Divisibility rule",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q8366",
+        "objectValue": "algorithm",
+        "anotherObject": "Q20920559",
+        "anotherObjectValue": "procedure"
+    },
+    {
+        "subject": "Q858520",
+        "subjectValue": "Divisibility rule",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q8366",
+        "objectValue": "algorithm",
+        "anotherObject": "Q7397",
+        "anotherObjectValue": "software"
+    },
+    {
+        "subject": "Q2298491",
+        "subjectValue": "Table of divisors",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q496946",
+        "objectValue": "table",
+        "anotherObject": "Q6504956",
+        "anotherObjectValue": "data visualization"
+    }
+]

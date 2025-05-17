@@ -1,0 +1,932 @@
+[
+    {
+        "subject": "Q816829",
+        "subjectValue": "Periodization",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q13582682",
+        "objectValue": "classification",
+        "anotherObject": "Q99194088",
+        "anotherObjectValue": "information handling"
+    },
+    {
+        "subject": "Q816829",
+        "subjectValue": "Periodization",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q13582682",
+        "objectValue": "classification",
+        "anotherObject": "Q3249551",
+        "anotherObjectValue": "process"
+    },
+    {
+        "subject": "Q816829",
+        "subjectValue": "Periodization",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q112613332",
+        "objectValue": "dating method",
+        "anotherObject": "Q88321276",
+        "anotherObjectValue": "determination method"
+    },
+    {
+        "subject": "Q816829",
+        "subjectValue": "Periodization",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q112613332",
+        "objectValue": "dating method",
+        "anotherObject": "Q46857",
+        "anotherObjectValue": "scientific method"
+    },
+    {
+        "subject": "Q816829",
+        "subjectValue": "Periodization",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q13582682",
+        "objectValue": "classification",
+        "anotherObject": "Q29182544",
+        "anotherObjectValue": "assignment"
+    },
+    {
+        "subject": "Q816829",
+        "subjectValue": "Periodization",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q33122512",
+        "anotherObjectValue": "social sciences and humanities"
+    },
+    {
+        "subject": "Q816829",
+        "subjectValue": "Periodization",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q113077601",
+        "anotherObjectValue": "history, heritage and archaeology"
+    },
+    {
+        "subject": "Q816829",
+        "subjectValue": "Periodization",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q1047113",
+        "objectValue": "field of study",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q30325332",
+        "subjectValue": "Administrative history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q81517619",
+        "objectValue": "branch of history",
+        "anotherObject": "Q109542218",
+        "anotherObjectValue": "class of parts"
+    },
+    {
+        "subject": "Q358120",
+        "subjectValue": "Historical anthropology",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q106720965",
+        "objectValue": "branch of anthropology",
+        "anotherObject": "Q24017414",
+        "anotherObjectValue": "second-order class"
+    },
+    {
+        "subject": "Q358120",
+        "subjectValue": "Historical anthropology",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q358120",
+        "subjectValue": "Historical anthropology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q23404",
+        "objectValue": "anthropology",
+        "anotherObject": "Q34749",
+        "anotherObjectValue": "social science"
+    },
+    {
+        "subject": "Q358120",
+        "subjectValue": "Historical anthropology",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q1047113",
+        "objectValue": "field of study",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q4781600",
+        "subjectValue": "Applied history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q4330518",
+        "anotherObjectValue": "object of study"
+    },
+    {
+        "subject": "Q4781600",
+        "subjectValue": "Applied history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q1190554",
+        "anotherObjectValue": "occurrence"
+    },
+    {
+        "subject": "Q4781600",
+        "subjectValue": "Applied history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q4781600",
+        "subjectValue": "Applied history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q5067949",
+        "anotherObjectValue": "chain of events"
+    },
+    {
+        "subject": "Q23498",
+        "subjectValue": "Archaeology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q80083",
+        "anotherObjectValue": "humanities"
+    },
+    {
+        "subject": "Q23498",
+        "subjectValue": "Archaeology",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q23498",
+        "subjectValue": "Archaeology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q65928774",
+        "objectValue": "historical science",
+        "anotherObject": "Q7991",
+        "anotherObjectValue": "natural science"
+    },
+    {
+        "subject": "Q23498",
+        "subjectValue": "Archaeology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q65928774",
+        "objectValue": "historical science",
+        "anotherObject": "Q1587903",
+        "anotherObjectValue": "human science"
+    },
+    {
+        "subject": "Q23498",
+        "subjectValue": "Archaeology",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q21071559",
+        "objectValue": "archology",
+        "anotherObject": "Q673699",
+        "anotherObjectValue": "arcology"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1757598",
+        "objectValue": "visual art education",
+        "anotherObject": "Q352842",
+        "anotherObjectValue": "teaching"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q98641248",
+        "objectValue": "curatorial studies",
+        "anotherObject": "Q460162",
+        "anotherObjectValue": "museology"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q944537",
+        "objectValue": "Geisteswissenschaften",
+        "anotherObject": "Q336",
+        "anotherObjectValue": "science"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q944537",
+        "objectValue": "Geisteswissenschaften",
+        "anotherObject": "Q1587903",
+        "anotherObjectValue": "human science"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1757598",
+        "objectValue": "visual art education",
+        "anotherObject": "Q8434",
+        "anotherObjectValue": "education"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q80083",
+        "objectValue": "humanities",
+        "anotherObject": "Q33122512",
+        "anotherObjectValue": "social sciences and humanities"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q80083",
+        "objectValue": "humanities",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q62302889",
+        "objectValue": "art practice",
+        "anotherObject": "Q1757598",
+        "anotherObjectValue": "visual art education"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q62302889",
+        "objectValue": "art practice",
+        "anotherObject": "Q4797224",
+        "anotherObjectValue": "art methodology"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q62302889",
+        "objectValue": "art practice",
+        "anotherObject": "Q7237362",
+        "anotherObjectValue": "practice research"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q50641",
+        "objectValue": "history of art",
+        "anotherObject": "Q1143546",
+        "anotherObjectValue": "cultural studies"
+    },
+    {
+        "subject": "Q770723",
+        "subjectValue": "Auxiliary sciences of history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q80083",
+        "anotherObjectValue": "humanities"
+    },
+    {
+        "subject": "Q770723",
+        "subjectValue": "Auxiliary sciences of history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q11790198",
+        "objectValue": "auxiliary science",
+        "anotherObject": "Q336",
+        "anotherObjectValue": "science"
+    },
+    {
+        "subject": "Q770723",
+        "subjectValue": "Auxiliary sciences of history",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q33122512",
+        "anotherObjectValue": "social sciences and humanities"
+    },
+    {
+        "subject": "Q770723",
+        "subjectValue": "Auxiliary sciences of history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q770723",
+        "subjectValue": "Auxiliary sciences of history",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q113077601",
+        "anotherObjectValue": "history, heritage and archaeology"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q10916116",
+        "objectValue": "history book",
+        "anotherObject": "Q571",
+        "anotherObjectValue": "book"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q10916116",
+        "objectValue": "history book",
+        "anotherObject": "Q1517777",
+        "anotherObjectValue": "historical non-fiction work"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q42515",
+        "objectValue": "cartography",
+        "anotherObject": "Q1071",
+        "anotherObjectValue": "geography"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q42515",
+        "objectValue": "cartography",
+        "anotherObject": "Q8008",
+        "anotherObjectValue": "earth science"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q223393",
+        "objectValue": "literary genre",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q1800439",
+        "subjectValue": "Church history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q846742",
+        "objectValue": "history of religions",
+        "anotherObject": "Q1066186",
+        "anotherObjectValue": "study of history"
+    },
+    {
+        "subject": "Q1800439",
+        "subjectValue": "Church history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q81517619",
+        "objectValue": "branch of history",
+        "anotherObject": "Q109542218",
+        "anotherObjectValue": "class of parts"
+    },
+    {
+        "subject": "Q1800439",
+        "subjectValue": "Church history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q1800439",
+        "subjectValue": "Church history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q216545",
+        "objectValue": "Christian theology",
+        "anotherObject": "Q34178",
+        "anotherObjectValue": "theology"
+    },
+    {
+        "subject": "Q1800439",
+        "subjectValue": "Church history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q17524420",
+        "objectValue": "aspect of history",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q2708569",
+        "subjectValue": "Comparative history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q4330518",
+        "anotherObjectValue": "object of study"
+    },
+    {
+        "subject": "Q2708569",
+        "subjectValue": "Comparative history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q1190554",
+        "anotherObjectValue": "occurrence"
+    },
+    {
+        "subject": "Q2708569",
+        "subjectValue": "Comparative history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q2708569",
+        "subjectValue": "Comparative history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q5067949",
+        "anotherObjectValue": "chain of events"
+    },
+    {
+        "subject": "Q935780",
+        "subjectValue": "Counterfactual history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q224989",
+        "objectValue": "alternate history",
+        "anotherObject": "Q136472",
+        "anotherObjectValue": "historical prose literature"
+    },
+    {
+        "subject": "Q935780",
+        "subjectValue": "Counterfactual history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q30277550",
+        "objectValue": "historiography",
+        "anotherObject": "Q213051",
+        "anotherObjectValue": "non-fiction"
+    },
+    {
+        "subject": "Q935780",
+        "subjectValue": "Counterfactual history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q30277550",
+        "objectValue": "historiography",
+        "anotherObject": "Q1145106",
+        "anotherObjectValue": "recorded history"
+    },
+    {
+        "subject": "Q935780",
+        "subjectValue": "Counterfactual history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q30277550",
+        "objectValue": "historiography",
+        "anotherObject": "Q17518870",
+        "anotherObjectValue": "group of literary works"
+    },
+    {
+        "subject": "Q935780",
+        "subjectValue": "Counterfactual history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q224989",
+        "objectValue": "alternate history",
+        "anotherObject": "Q2966834",
+        "anotherObjectValue": "chronokinesis"
+    },
+    {
+        "subject": "Q858517",
+        "subjectValue": "Cultural history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q80083",
+        "anotherObjectValue": "humanities"
+    },
+    {
+        "subject": "Q858517",
+        "subjectValue": "Cultural history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q4330518",
+        "anotherObjectValue": "object of study"
+    },
+    {
+        "subject": "Q858517",
+        "subjectValue": "Cultural history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1143546",
+        "objectValue": "cultural studies",
+        "anotherObject": "Q80083",
+        "anotherObjectValue": "humanities"
+    },
+    {
+        "subject": "Q858517",
+        "subjectValue": "Cultural history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q81517619",
+        "objectValue": "branch of history",
+        "anotherObject": "Q109542218",
+        "anotherObjectValue": "class of parts"
+    },
+    {
+        "subject": "Q858517",
+        "subjectValue": "Cultural history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1143546",
+        "objectValue": "cultural studies",
+        "anotherObject": "Q23010558",
+        "anotherObjectValue": "area, ethnic, cultural, gender, and group studies"
+    },
+    {
+        "subject": "Q858517",
+        "subjectValue": "Cultural history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q1190554",
+        "anotherObjectValue": "occurrence"
+    },
+    {
+        "subject": "Q858517",
+        "subjectValue": "Cultural history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q5067949",
+        "anotherObjectValue": "chain of events"
+    },
+    {
+        "subject": "Q858517",
+        "subjectValue": "Cultural history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1143546",
+        "objectValue": "cultural studies",
+        "anotherObject": "Q23404",
+        "anotherObjectValue": "anthropology"
+    },
+    {
+        "subject": "Q858517",
+        "subjectValue": "Cultural history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q17524420",
+        "objectValue": "aspect of history",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q119285919",
+        "subjectValue": "Dress history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q80083",
+        "anotherObjectValue": "humanities"
+    },
+    {
+        "subject": "Q119285919",
+        "subjectValue": "Dress history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q47398",
+        "subjectValue": "Economic history",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q8134",
+        "objectValue": "economics",
+        "anotherObject": "Q3475802",
+        "anotherObjectValue": "economic and social sciences"
+    },
+    {
+        "subject": "Q47398",
+        "subjectValue": "Economic history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q81517619",
+        "objectValue": "branch of history",
+        "anotherObject": "Q109542218",
+        "anotherObjectValue": "class of parts"
+    },
+    {
+        "subject": "Q47398",
+        "subjectValue": "Economic history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q47398",
+        "subjectValue": "Economic history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q5076869",
+        "objectValue": "history of the social sciences",
+        "anotherObject": "Q201486",
+        "anotherObjectValue": "history of science"
+    },
+    {
+        "subject": "Q47398",
+        "subjectValue": "Economic history",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q8134",
+        "objectValue": "economics",
+        "anotherObject": "Q34749",
+        "anotherObjectValue": "social science"
+    },
+    {
+        "subject": "Q47398",
+        "subjectValue": "Economic history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q11896198",
+        "objectValue": "history of economics",
+        "anotherObject": "Q268194",
+        "anotherObjectValue": "history of economic thought"
+    },
+    {
+        "subject": "Q1561862",
+        "subjectValue": "Environmental history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q4330518",
+        "anotherObjectValue": "object of study"
+    },
+    {
+        "subject": "Q1561862",
+        "subjectValue": "Environmental history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q1190554",
+        "anotherObjectValue": "occurrence"
+    },
+    {
+        "subject": "Q1561862",
+        "subjectValue": "Environmental history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q1561862",
+        "subjectValue": "Environmental history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q309",
+        "objectValue": "history",
+        "anotherObject": "Q5067949",
+        "anotherObjectValue": "chain of events"
+    },
+    {
+        "subject": "Q1561862",
+        "subjectValue": "Environmental history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q17524420",
+        "objectValue": "aspect of history",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q5404269",
+        "subjectValue": "Ethnic history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q81517619",
+        "objectValue": "branch of history",
+        "anotherObject": "Q109542218",
+        "anotherObjectValue": "class of parts"
+    },
+    {
+        "subject": "Q5404269",
+        "subjectValue": "Ethnic history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q908604",
+        "objectValue": "social history",
+        "anotherObject": "Q1066186",
+        "anotherObjectValue": "study of history"
+    },
+    {
+        "subject": "Q5404269",
+        "subjectValue": "Ethnic history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q908604",
+        "objectValue": "social history",
+        "anotherObject": "Q309",
+        "anotherObjectValue": "history"
+    },
+    {
+        "subject": "Q5404269",
+        "subjectValue": "Ethnic history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q132151",
+        "objectValue": "ethnography",
+        "anotherObject": "Q34749",
+        "anotherObjectValue": "social science"
+    },
+    {
+        "subject": "Q2181985",
+        "subjectValue": "Ethnohistory",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q80083",
+        "anotherObjectValue": "humanities"
+    },
+    {
+        "subject": "Q2181985",
+        "subjectValue": "Ethnohistory",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q81517619",
+        "objectValue": "branch of history",
+        "anotherObject": "Q109542218",
+        "anotherObjectValue": "class of parts"
+    },
+    {
+        "subject": "Q2181985",
+        "subjectValue": "Ethnohistory",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q2181985",
+        "subjectValue": "Ethnohistory",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q29051",
+        "objectValue": "social anthropology",
+        "anotherObject": "Q23404",
+        "anotherObjectValue": "anthropology"
+    },
+    {
+        "subject": "Q580130",
+        "subjectValue": "Historical demography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q80083",
+        "anotherObjectValue": "humanities"
+    },
+    {
+        "subject": "Q580130",
+        "subjectValue": "Historical demography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q37732",
+        "objectValue": "demography",
+        "anotherObject": "Q34749",
+        "anotherObjectValue": "social science"
+    },
+    {
+        "subject": "Q580130",
+        "subjectValue": "Historical demography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q37732",
+        "objectValue": "demography",
+        "anotherObject": "Q1071",
+        "anotherObjectValue": "geography"
+    },
+    {
+        "subject": "Q6031108",
+        "subjectValue": "Information history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q6031108",
+        "subjectValue": "Information history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q336",
+        "objectValue": "science",
+        "anotherObject": "Q105948247",
+        "anotherObjectValue": "knowledge system"
+    }
+]

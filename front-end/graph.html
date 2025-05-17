@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI模型测试</title>
+    <link rel="stylesheet" href="graph.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <!-- 添加Font Awesome图标库 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="./font/iconfont.css">
+    <!-- 引入 Axios -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- 引入 Chart.js -->
+    <script src="config.js"></script>
+</head>
+
+<body class="sidebar-visible">
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html"><i class="fas fa-home"></i> 评测榜单</a></li>
+                <li><a href="test.html"><i class="fas fa-vial"></i> 测试结果</a></li>
+                <li><a href="graph.html"><i class="fa fa-pie-chart" aria-hidden="true" /></i> 图表数据</a></li>
+                <li><a href="data.html" class="active"><i class="fa fa-info-circle" aria-hidden="true"></i> 数据集</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <button id="showSidebar" class="show-btn">☰</button>
+
+    <div class="container">
+        <div id="sidebar" class="sidebar">
+            <button id="hideSidebar" class="hide-btn">×</button>
+            <h3>选择测试模型</h3>
+            <select id="model" onchange="toggleInput()">
+                <option value="Qwen/Qwen-1_8B" selected>Qwen/Qwen-1_8B</option>
+                <option value="gpt-3.5">gpt2-medium</option>
+                <option value="claude">EleutherAI/gpt-neo-125M</option>
+                <option value="palm">PaLM</option>
+                <option value="llama">LLaMA</option>
+                <option value="bert">BERT</option>
+                <option value="custom">自定义模型</option>
+            </select>
+            <input type="text" id="customModel" style="display:none;" placeholder="请输入模型名称" />
+
+
+            <button type="button" class="btn-upload">提交</button>
+        </div>
+
+        <div class="main-content">
+            <h2>探索</h2>
+            <p>在这里您可以探索大模型的各种数据和结果。请使用左侧的选项来筛选您感兴趣的内容。</p>
+            <div id="result-socre">
+            </div>
+            <div id="results">
+                <div style="height: 500px; width: 100%; margin-bottom: 30px;">
+                    <canvas id="inverseChart"></canvas>
+                </div>
+                <div style="height: 500px; width: 100%; margin-bottom: 30px;">
+                    <canvas id="negationChart"></canvas>
+                </div>
+                <div style="height: 500px; width: 100%; margin-bottom: 30px;">
+                    <canvas id="compositeChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 大模型测试平台. 保留所有权利。</p>
+    </footer>
+
+    <script src="graph.js"></script>
+</body>
+
+</html>

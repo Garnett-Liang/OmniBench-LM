@@ -1,0 +1,282 @@
+[
+    {
+        "entity": "Q5571725",
+        "entityLabel": "Glossary of areas of mathematics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q63254493",
+        "valueLabel": "Wikimedia glossary list article"
+    },
+    {
+        "entity": "Q5571725",
+        "entityLabel": "Glossary of areas of mathematics",
+        "property": "P360",
+        "propertyLabel": "is a list of",
+        "value": "Q1936384",
+        "valueLabel": "area of mathematics"
+    },
+    {
+        "entity": "Q967960",
+        "entityLabel": "Mathematics Subject Classification",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q9111587",
+        "valueLabel": "Category:Mathematics Subject Classification"
+    },
+    {
+        "entity": "Q967960",
+        "entityLabel": "Mathematics Subject Classification",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q24249534",
+        "valueLabel": "specialised classification scheme"
+    },
+    {
+        "entity": "Q837863",
+        "entityLabel": "Pure mathematics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q4671286",
+        "valueLabel": "academic major"
+    },
+    {
+        "entity": "Q837863",
+        "entityLabel": "Pure mathematics",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q395",
+        "valueLabel": "mathematics"
+    },
+    {
+        "entity": "Q837863",
+        "entityLabel": "Pure mathematics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q837863",
+        "entityLabel": "Pure mathematics",
+        "property": "P461",
+        "propertyLabel": "opposite of",
+        "value": "Q33521",
+        "valueLabel": "applied mathematics"
+    },
+    {
+        "entity": "Q837863",
+        "entityLabel": "Pure mathematics",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q964754",
+        "valueLabel": "basic research"
+    },
+    {
+        "entity": "Q3240104",
+        "entityLabel": "Lists of mathematics topics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q3532100",
+        "entityLabel": "Index of accounting articles",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q3532100",
+        "entityLabel": "Index of accounting articles",
+        "property": "P360",
+        "propertyLabel": "is a list of",
+        "value": "Q15138389",
+        "valueLabel": "Wikimedia article page"
+    },
+    {
+        "entity": "Q7112546",
+        "entityLabel": "Outline of algebra",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q7112547",
+        "entityLabel": "Outline of algebraic structures",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q7112559",
+        "entityLabel": "Outline of arithmetic",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q7112574",
+        "entityLabel": "Outline of calculus",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q7112576",
+        "entityLabel": "Outline of category theory",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q217413",
+        "valueLabel": "category theory"
+    },
+    {
+        "entity": "Q7112576",
+        "entityLabel": "Outline of category theory",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q77544558",
+        "valueLabel": "category theory terminology"
+    },
+    {
+        "entity": "Q7112576",
+        "entityLabel": "Outline of category theory",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q17003192",
+        "entityLabel": "Index of combinatorics articles",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q7112584",
+        "entityLabel": "Outline of combinatorics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q5156019",
+        "entityLabel": "Comparison of vector algebra and geometric algebra",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q1720648",
+        "valueLabel": "comparison"
+    },
+    {
+        "entity": "Q6018859",
+        "entityLabel": "Index of cryptography articles",
+        "property": "P360",
+        "propertyLabel": "is a list of",
+        "value": "Q15138389",
+        "valueLabel": "Wikimedia article page"
+    },
+    {
+        "entity": "Q6018859",
+        "entityLabel": "Index of cryptography articles",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q1079958",
+        "entityLabel": "Differentiation rules",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q1079958",
+        "entityLabel": "Differentiation rules",
+        "property": "P1754",
+        "propertyLabel": "category related to list",
+        "value": "Q8376438",
+        "valueLabel": "Category:Differentiation rules"
+    },
+    {
+        "entity": "Q1079958",
+        "entityLabel": "Differentiation rules",
+        "property": "P360",
+        "propertyLabel": "is a list of",
+        "value": "Q90011163",
+        "valueLabel": "differentiation rule"
+    },
+    {
+        "entity": "Q7112619",
+        "entityLabel": "Outline of discrete mathematics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q7112619",
+        "entityLabel": "Outline of discrete mathematics",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q858520",
+        "entityLabel": "Divisibility rule",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q8366",
+        "valueLabel": "algorithm"
+    },
+    {
+        "entity": "Q858520",
+        "entityLabel": "Divisibility rule",
+        "property": "P921",
+        "propertyLabel": "main subject",
+        "value": "Q5284415",
+        "valueLabel": "divisibility"
+    },
+    {
+        "entity": "Q858520",
+        "entityLabel": "Divisibility rule",
+        "property": "P921",
+        "propertyLabel": "main subject",
+        "value": "Q50708",
+        "valueLabel": "divisor"
+    },
+    {
+        "entity": "Q858520",
+        "entityLabel": "Divisibility rule",
+        "property": "P2579",
+        "propertyLabel": "studied by",
+        "value": "Q620584",
+        "valueLabel": "mental calculation"
+    },
+    {
+        "entity": "Q2298491",
+        "entityLabel": "Table of divisors",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q496946",
+        "valueLabel": "table"
+    },
+    {
+        "entity": "Q2298491",
+        "entityLabel": "Table of divisors",
+        "property": "P1424",
+        "propertyLabel": "topic's main template",
+        "value": "Q26235059",
+        "valueLabel": "Q26235059"
+    }
+]

@@ -1,0 +1,662 @@
+[
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to the life and influence of Joseph Smith:\n\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.",
+        "subject": "Outline of Joseph Smith",
+        "predicate": "same_country",
+        "object": "Bibliography of Hillary Clinton",
+        "evidence": [
+            [
+                "Outline of Joseph Smith",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Hillary Clinton",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to the life and influence of Joseph Smith:\nThe following is a list of important scholarly resources related to Herbert Hoover, the 31st president of the United States. For recent work see Ellis W. Hawley (2018). For older studies see Patrick G. O\u2019Brien and Philip T. Rosen, (1981), 25\u201342, 83\u201399 and Patrick G. O\u2019Brien, (1988).",
+        "subject": "Outline of Joseph Smith",
+        "predicate": "same_country",
+        "object": "Bibliography of Herbert Hoover",
+        "evidence": [
+            [
+                "Outline of Joseph Smith",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Herbert Hoover",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.\nThe following outline is provided as an overview of and topical guide to the life and influence of Joseph Smith:",
+        "subject": "Bibliography of Hillary Clinton",
+        "predicate": "same_country",
+        "object": "Outline of Joseph Smith",
+        "evidence": [
+            [
+                "Outline of Joseph Smith",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Hillary Clinton",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.\nMany books, films and other works about Bobby Fischer have been created. Bobby Fischer was an American chess prodigy who rose to prominence during the 1950s and 1960s. In 1972, Fischer defeated the Soviet player Boris Spassky to become world champion. Soviet players had dominated chess for several years before Fischer's championship, a trend which continued after 1975 when Fischer refused to defend his title. Fischer's participation in the 1972 championship match increased American interest in chess, in the context of the Cold War.",
+        "subject": "Bibliography of Hillary Clinton",
+        "predicate": "same_country",
+        "object": "Bibliography of Bobby Fischer",
+        "evidence": [
+            [
+                "Bibliography of Hillary Clinton",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Bobby Fischer",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.\nThe following is a list of important scholarly resources related to Herbert Hoover, the 31st president of the United States. For recent work see Ellis W. Hawley (2018). For older studies see Patrick G. O\u2019Brien and Philip T. Rosen, (1981), 25\u201342, 83\u201399 and Patrick G. O\u2019Brien, (1988).",
+        "subject": "Bibliography of Hillary Clinton",
+        "predicate": "same_country",
+        "object": "Bibliography of Herbert Hoover",
+        "evidence": [
+            [
+                "Bibliography of Hillary Clinton",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Herbert Hoover",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "Many books, films and other works about Bobby Fischer have been created. Bobby Fischer was an American chess prodigy who rose to prominence during the 1950s and 1960s. In 1972, Fischer defeated the Soviet player Boris Spassky to become world champion. Soviet players had dominated chess for several years before Fischer's championship, a trend which continued after 1975 when Fischer refused to defend his title. Fischer's participation in the 1972 championship match increased American interest in chess, in the context of the Cold War.\nThe following outline is provided as an overview of and topical guide to the life and influence of Joseph Smith:",
+        "subject": "Bibliography of Bobby Fischer",
+        "predicate": "same_country",
+        "object": "Outline of Joseph Smith",
+        "evidence": [
+            [
+                "Outline of Joseph Smith",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Bobby Fischer",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "Many books, films and other works about Bobby Fischer have been created. Bobby Fischer was an American chess prodigy who rose to prominence during the 1950s and 1960s. In 1972, Fischer defeated the Soviet player Boris Spassky to become world champion. Soviet players had dominated chess for several years before Fischer's championship, a trend which continued after 1975 when Fischer refused to defend his title. Fischer's participation in the 1972 championship match increased American interest in chess, in the context of the Cold War.\n\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.",
+        "subject": "Bibliography of Bobby Fischer",
+        "predicate": "same_country",
+        "object": "Bibliography of Hillary Clinton",
+        "evidence": [
+            [
+                "Bibliography of Hillary Clinton",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Bobby Fischer",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "Many books, films and other works about Bobby Fischer have been created. Bobby Fischer was an American chess prodigy who rose to prominence during the 1950s and 1960s. In 1972, Fischer defeated the Soviet player Boris Spassky to become world champion. Soviet players had dominated chess for several years before Fischer's championship, a trend which continued after 1975 when Fischer refused to defend his title. Fischer's participation in the 1972 championship match increased American interest in chess, in the context of the Cold War.\nThe following is a list of important scholarly resources related to Herbert Hoover, the 31st president of the United States. For recent work see Ellis W. Hawley (2018). For older studies see Patrick G. O\u2019Brien and Philip T. Rosen, (1981), 25\u201342, 83\u201399 and Patrick G. O\u2019Brien, (1988).",
+        "subject": "Bibliography of Bobby Fischer",
+        "predicate": "same_country",
+        "object": "Bibliography of Herbert Hoover",
+        "evidence": [
+            [
+                "Bibliography of Bobby Fischer",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Herbert Hoover",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following is a list of important scholarly resources related to Herbert Hoover, the 31st president of the United States. For recent work see Ellis W. Hawley (2018). For older studies see Patrick G. O\u2019Brien and Philip T. Rosen, (1981), 25\u201342, 83\u201399 and Patrick G. O\u2019Brien, (1988).\nThe following outline is provided as an overview of and topical guide to the life and influence of Joseph Smith:",
+        "subject": "Bibliography of Herbert Hoover",
+        "predicate": "same_country",
+        "object": "Outline of Joseph Smith",
+        "evidence": [
+            [
+                "Outline of Joseph Smith",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Herbert Hoover",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following is a list of important scholarly resources related to Herbert Hoover, the 31st president of the United States. For recent work see Ellis W. Hawley (2018). For older studies see Patrick G. O\u2019Brien and Philip T. Rosen, (1981), 25\u201342, 83\u201399 and Patrick G. O\u2019Brien, (1988).\n\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.",
+        "subject": "Bibliography of Herbert Hoover",
+        "predicate": "same_country",
+        "object": "Bibliography of Hillary Clinton",
+        "evidence": [
+            [
+                "Bibliography of Hillary Clinton",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Herbert Hoover",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following is a list of important scholarly resources related to Herbert Hoover, the 31st president of the United States. For recent work see Ellis W. Hawley (2018). For older studies see Patrick G. O\u2019Brien and Philip T. Rosen, (1981), 25\u201342, 83\u201399 and Patrick G. O\u2019Brien, (1988).\nMany books, films and other works about Bobby Fischer have been created. Bobby Fischer was an American chess prodigy who rose to prominence during the 1950s and 1960s. In 1972, Fischer defeated the Soviet player Boris Spassky to become world champion. Soviet players had dominated chess for several years before Fischer's championship, a trend which continued after 1975 when Fischer refused to defend his title. Fischer's participation in the 1972 championship match increased American interest in chess, in the context of the Cold War.",
+        "subject": "Bibliography of Herbert Hoover",
+        "predicate": "same_country",
+        "object": "Bibliography of Bobby Fischer",
+        "evidence": [
+            [
+                "Bibliography of Bobby Fischer",
+                "country",
+                "United States"
+            ],
+            [
+                "Bibliography of Herbert Hoover",
+                "country",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Albert Einstein:\nThe following outline is provided as an overview of and topical guide to Henry Ford:",
+        "subject": "Outline of Albert Einstein",
+        "predicate": "same_instance_of",
+        "object": "Outline of Henry Ford",
+        "evidence": [
+            [
+                "Outline of Albert Einstein",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Henry Ford",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Albert Einstein:\nThe following outline is provided as an overview of and topical guide to the life and influence of Jesus.",
+        "subject": "Outline of Albert Einstein",
+        "predicate": "same_instance_of",
+        "object": "Outline of Jesus",
+        "evidence": [
+            [
+                "Outline of Albert Einstein",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Jesus",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Albert Einstein:\nThe following outline is provided as an overview of and topical guide to Gottfried Wilhelm Leibniz:",
+        "subject": "Outline of Albert Einstein",
+        "predicate": "same_instance_of",
+        "object": "Outline of Gottfried Wilhelm Leibniz",
+        "evidence": [
+            [
+                "Outline of Albert Einstein",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Gottfried Wilhelm Leibniz",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Albert Einstein:\nThe following outline is provided as an overview of and topical guide to Abraham Lincoln:",
+        "subject": "Outline of Albert Einstein",
+        "predicate": "same_instance_of",
+        "object": "Outline of Abraham Lincoln",
+        "evidence": [
+            [
+                "Outline of Albert Einstein",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Abraham Lincoln",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Albert Einstein:\nThe following outline is provided as an overview of and topical guide to Bob Marley:",
+        "subject": "Outline of Albert Einstein",
+        "predicate": "same_instance_of",
+        "object": "Outline of Bob Marley",
+        "evidence": [
+            [
+                "Outline of Albert Einstein",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Bob Marley",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Albert Einstein:\n\n\nThis list is of topics related to Prem Rawat (Maharaji).",
+        "subject": "Outline of Albert Einstein",
+        "predicate": "same_instance_of",
+        "object": "Outline of Prem Rawat",
+        "evidence": [
+            [
+                "Outline of Albert Einstein",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Prem Rawat",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Albert Einstein:\nThe following outline is provided as an overview of and topical guide to the life and legacy of William Shakespeare, an English poet, playwright, and actor who lived during the 17th century. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the \"Bard of Avon\".",
+        "subject": "Outline of Albert Einstein",
+        "predicate": "same_instance_of",
+        "object": "Outline of William Shakespeare",
+        "evidence": [
+            [
+                "Outline of Albert Einstein",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of William Shakespeare",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Albert Einstein:\nThe following outline is provided as an overview of and topical guide to the life and influence of Joseph Smith:",
+        "subject": "Outline of Albert Einstein",
+        "predicate": "same_instance_of",
+        "object": "Outline of Joseph Smith",
+        "evidence": [
+            [
+                "Outline of Albert Einstein",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Joseph Smith",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Henry Ford:\nThe following outline is provided as an overview of and topical guide to Albert Einstein:",
+        "subject": "Outline of Henry Ford",
+        "predicate": "same_instance_of",
+        "object": "Outline of Albert Einstein",
+        "evidence": [
+            [
+                "Outline of Albert Einstein",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Henry Ford",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Henry Ford:\nThe following outline is provided as an overview of and topical guide to the life and influence of Jesus.",
+        "subject": "Outline of Henry Ford",
+        "predicate": "same_instance_of",
+        "object": "Outline of Jesus",
+        "evidence": [
+            [
+                "Outline of Henry Ford",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Jesus",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to Henry Ford:\nThe following outline is provided as an overview of and topical guide to Gottfried Wilhelm Leibniz:",
+        "subject": "Outline of Henry Ford",
+        "predicate": "same_instance_of",
+        "object": "Outline of Gottfried Wilhelm Leibniz",
+        "evidence": [
+            [
+                "Outline of Henry Ford",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Gottfried Wilhelm Leibniz",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "This bibliography of George W. Bush is a list of published works, both books and films, about George W. Bush, the 43rd president of the United States.\n\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.",
+        "subject": "Bibliography of George W. Bush",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of Hillary Clinton",
+        "evidence": [
+            [
+                "Bibliography of George W. Bush",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Hillary Clinton",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "This bibliography of George W. Bush is a list of published works, both books and films, about George W. Bush, the 43rd president of the United States.\n\nThis is a list of books about Leonard Cohen.",
+        "subject": "Bibliography of George W. Bush",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of Leonard Cohen",
+        "evidence": [
+            [
+                "Bibliography of George W. Bush",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Leonard Cohen",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "This bibliography of George W. Bush is a list of published works, both books and films, about George W. Bush, the 43rd president of the United States.\nMany books, films and other works about Bobby Fischer have been created. Bobby Fischer was an American chess prodigy who rose to prominence during the 1950s and 1960s. In 1972, Fischer defeated the Soviet player Boris Spassky to become world champion. Soviet players had dominated chess for several years before Fischer's championship, a trend which continued after 1975 when Fischer refused to defend his title. Fischer's participation in the 1972 championship match increased American interest in chess, in the context of the Cold War.",
+        "subject": "Bibliography of George W. Bush",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of Bobby Fischer",
+        "evidence": [
+            [
+                "Bibliography of George W. Bush",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Bobby Fischer",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "This bibliography of George W. Bush is a list of published works, both books and films, about George W. Bush, the 43rd president of the United States.\nThis bibliography of Adolf Hitler is a list of some non-fiction texts in English written about and by him.",
+        "subject": "Bibliography of George W. Bush",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of Adolf Hitler",
+        "evidence": [
+            [
+                "Bibliography of George W. Bush",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Adolf Hitler",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.\nThis bibliography of George W. Bush is a list of published works, both books and films, about George W. Bush, the 43rd president of the United States.",
+        "subject": "Bibliography of Hillary Clinton",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of George W. Bush",
+        "evidence": [
+            [
+                "Bibliography of George W. Bush",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Hillary Clinton",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.\n\nThis is a list of books about Leonard Cohen.",
+        "subject": "Bibliography of Hillary Clinton",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of Leonard Cohen",
+        "evidence": [
+            [
+                "Bibliography of Hillary Clinton",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Leonard Cohen",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.\nMany books, films and other works about Bobby Fischer have been created. Bobby Fischer was an American chess prodigy who rose to prominence during the 1950s and 1960s. In 1972, Fischer defeated the Soviet player Boris Spassky to become world champion. Soviet players had dominated chess for several years before Fischer's championship, a trend which continued after 1975 when Fischer refused to defend his title. Fischer's participation in the 1972 championship match increased American interest in chess, in the context of the Cold War.",
+        "subject": "Bibliography of Hillary Clinton",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of Bobby Fischer",
+        "evidence": [
+            [
+                "Bibliography of Hillary Clinton",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Bobby Fischer",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.\nThis bibliography of Adolf Hitler is a list of some non-fiction texts in English written about and by him.",
+        "subject": "Bibliography of Hillary Clinton",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of Adolf Hitler",
+        "evidence": [
+            [
+                "Bibliography of Hillary Clinton",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Adolf Hitler",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books about Leonard Cohen.\nThis bibliography of George W. Bush is a list of published works, both books and films, about George W. Bush, the 43rd president of the United States.",
+        "subject": "Bibliography of Leonard Cohen",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of George W. Bush",
+        "evidence": [
+            [
+                "Bibliography of George W. Bush",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Leonard Cohen",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books about Leonard Cohen.\n\nThis is a list of books and scholarly articles by and about Hillary Clinton, as well as columns by her.",
+        "subject": "Bibliography of Leonard Cohen",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of Hillary Clinton",
+        "evidence": [
+            [
+                "Bibliography of Hillary Clinton",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Leonard Cohen",
+                "is a list of",
+                "book"
+            ]
+        ]
+    },
+    {
+        "category": "people",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of books about Leonard Cohen.\nMany books, films and other works about Bobby Fischer have been created. Bobby Fischer was an American chess prodigy who rose to prominence during the 1950s and 1960s. In 1972, Fischer defeated the Soviet player Boris Spassky to become world champion. Soviet players had dominated chess for several years before Fischer's championship, a trend which continued after 1975 when Fischer refused to defend his title. Fischer's participation in the 1972 championship match increased American interest in chess, in the context of the Cold War.",
+        "subject": "Bibliography of Leonard Cohen",
+        "predicate": "same_is_a_list_of",
+        "object": "Bibliography of Bobby Fischer",
+        "evidence": [
+            [
+                "Bibliography of Leonard Cohen",
+                "is a list of",
+                "book"
+            ],
+            [
+                "Bibliography of Bobby Fischer",
+                "is a list of",
+                "book"
+            ]
+        ]
+    }
+]

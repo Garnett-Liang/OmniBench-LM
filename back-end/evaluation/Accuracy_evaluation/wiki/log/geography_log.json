@@ -1,0 +1,562 @@
+[
+    {
+        "entity": "Q17014017",
+        "entityLabel": "Five themes of geography",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q16082057",
+        "valueLabel": "The New Student's Reference Work"
+    },
+    {
+        "entity": "Q3231442",
+        "entityLabel": "Philosophy of geography",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q19935939",
+        "valueLabel": "branch of geography"
+    },
+    {
+        "entity": "Q3231442",
+        "entityLabel": "Philosophy of geography",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q22811234",
+        "valueLabel": "branch of philosophy"
+    },
+    {
+        "entity": "Q901402",
+        "entityLabel": "Geographer",
+        "property": "P2283",
+        "propertyLabel": "uses",
+        "value": "Q66747519",
+        "valueLabel": "geographic terminology"
+    },
+    {
+        "entity": "Q901402",
+        "entityLabel": "Geographer",
+        "property": "P2354",
+        "propertyLabel": "has list",
+        "value": "Q3243996",
+        "valueLabel": "list of geographers"
+    },
+    {
+        "entity": "Q901402",
+        "entityLabel": "Geographer",
+        "property": "P6186",
+        "propertyLabel": "category for eponymous categories",
+        "value": "Q59576056",
+        "valueLabel": "Q59576056"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q42603",
+        "valueLabel": "priest"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P101",
+        "propertyLabel": "field of work",
+        "value": "Q115154803",
+        "valueLabel": "administration and management of the church"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P20",
+        "propertyLabel": "place of death",
+        "value": "Q598517",
+        "valueLabel": "Ochtin\u00e1"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q5",
+        "valueLabel": "human"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P101",
+        "propertyLabel": "field of work",
+        "value": "Q446760",
+        "valueLabel": "educational system"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P19",
+        "propertyLabel": "place of birth",
+        "value": "Q573368",
+        "valueLabel": "Klenovec"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P21",
+        "propertyLabel": "sex or gender",
+        "value": "Q6581097",
+        "valueLabel": "male"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q2073803",
+        "valueLabel": "national revival activist"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P101",
+        "propertyLabel": "field of work",
+        "value": "Q1071",
+        "valueLabel": "geography"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P101",
+        "propertyLabel": "field of work",
+        "value": "Q132151",
+        "valueLabel": "ethnography"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P140",
+        "propertyLabel": "religion or worldview",
+        "value": "Q75809",
+        "valueLabel": "Lutheranism"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q901402",
+        "valueLabel": "geographer"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q201788",
+        "valueLabel": "historian"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q3055126",
+        "valueLabel": "entomologist"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q96236305",
+        "valueLabel": "Lutheran pastor"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P101",
+        "propertyLabel": "field of work",
+        "value": "Q50675",
+        "valueLabel": "historiography"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q12347522",
+        "valueLabel": "ethnographer"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P27",
+        "propertyLabel": "country of citizenship",
+        "value": "Q28",
+        "valueLabel": "Hungary"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q1231865",
+        "valueLabel": "pedagogue"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P937",
+        "propertyLabel": "work location",
+        "value": "Q1068529",
+        "valueLabel": "Rimavsk\u00e1 Ba\u0148a"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q19222701",
+        "valueLabel": "Oesterreichische National-Encyklop\u00e4die"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P937",
+        "propertyLabel": "work location",
+        "value": "Q1069715",
+        "valueLabel": "Ratkov\u00e1"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q24237938",
+        "valueLabel": "Neuer Nekrolog der Deutschen"
+    },
+    {
+        "entity": "Q223602",
+        "entityLabel": "Ladislav Bartolomeides",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q665807",
+        "valueLabel": "Biographisches Lexikon des Kaiserthums Oesterreich"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q5",
+        "valueLabel": "human"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P185",
+        "propertyLabel": "doctoral student",
+        "value": "Q93086049",
+        "valueLabel": "Ludivine Eloy"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P108",
+        "propertyLabel": "employer",
+        "value": "Q835960",
+        "valueLabel": "University of S\u00e3o Paulo"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P184",
+        "propertyLabel": "doctoral advisor",
+        "value": "Q3310733",
+        "valueLabel": "Michel Rochefort"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P27",
+        "propertyLabel": "country of citizenship",
+        "value": "Q155",
+        "valueLabel": "Brazil"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P185",
+        "propertyLabel": "doctoral student",
+        "value": "Q86244118",
+        "valueLabel": "Nadine Dessay"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P39",
+        "propertyLabel": "position held",
+        "value": "Q3029430",
+        "valueLabel": "Director of Research at CNRS"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q1622272",
+        "valueLabel": "university teacher"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P735",
+        "propertyLabel": "given name",
+        "value": "Q18508906",
+        "valueLabel": "Herv\u00e9"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P69",
+        "propertyLabel": "educated at",
+        "value": "Q83259",
+        "valueLabel": "\u00c9cole Normale Sup\u00e9rieure"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P108",
+        "propertyLabel": "employer",
+        "value": "Q1394262",
+        "valueLabel": "Paris Nanterre University"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P734",
+        "propertyLabel": "family name",
+        "value": "Q88465197",
+        "valueLabel": "Th\u00e9ry"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P108",
+        "propertyLabel": "employer",
+        "value": "Q571293",
+        "valueLabel": "Sorbonne Nouvelle-Paris 3"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P106",
+        "propertyLabel": "occupation",
+        "value": "Q901402",
+        "valueLabel": "geographer"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P1412",
+        "propertyLabel": "languages spoken, written or signed",
+        "value": "Q150",
+        "valueLabel": "French"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P21",
+        "propertyLabel": "sex or gender",
+        "value": "Q6581097",
+        "valueLabel": "male"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P27",
+        "propertyLabel": "country of citizenship",
+        "value": "Q142",
+        "valueLabel": "France"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P69",
+        "propertyLabel": "educated at",
+        "value": "Q999763",
+        "valueLabel": "University of Paris 1 Pantheon-Sorbonne"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P19",
+        "propertyLabel": "place of birth",
+        "value": "Q626382",
+        "valueLabel": "Somain"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P108",
+        "propertyLabel": "employer",
+        "value": "Q280413",
+        "valueLabel": "National Center for Scientific Research"
+    },
+    {
+        "entity": "Q3134653",
+        "entityLabel": "Herv\u00e9 Th\u00e9ry",
+        "property": "P26",
+        "propertyLabel": "spouse",
+        "value": "Q114047409",
+        "valueLabel": "Neli Aparecida de Mello-Th\u00e9ry"
+    },
+    {
+        "entity": "Q6018899",
+        "entityLabel": "Index of geography articles",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q6018899",
+        "entityLabel": "Index of geography articles",
+        "property": "P360",
+        "propertyLabel": "is a list of",
+        "value": "Q15138389",
+        "valueLabel": "Wikimedia article page"
+    },
+    {
+        "entity": "Q7112647",
+        "entityLabel": "Outline of geography",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q1071",
+        "valueLabel": "geography"
+    },
+    {
+        "entity": "Q7112647",
+        "entityLabel": "Outline of geography",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q19891832",
+        "entityLabel": "Circumnavigation world record progression",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q688615",
+        "valueLabel": "world record"
+    },
+    {
+        "entity": "Q245260",
+        "entityLabel": "Conurbation",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q104774089",
+        "valueLabel": "urban cluster"
+    },
+    {
+        "entity": "Q245260",
+        "entityLabel": "Conurbation",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q702492",
+        "valueLabel": "urban area"
+    },
+    {
+        "entity": "Q245260",
+        "entityLabel": "Conurbation",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q8987137",
+        "valueLabel": "Category:Conurbations"
+    },
+    {
+        "entity": "Q245260",
+        "entityLabel": "Conurbation",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q159313",
+        "valueLabel": "urban agglomeration"
+    },
+    {
+        "entity": "Q5571817",
+        "entityLabel": "Glossary of geography terms (A\u2013M)",
+        "property": "P360",
+        "propertyLabel": "is a list of",
+        "value": "Q66747521",
+        "valueLabel": "geography term"
+    },
+    {
+        "entity": "Q5571817",
+        "entityLabel": "Glossary of geography terms (A\u2013M)",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q63254493",
+        "valueLabel": "Wikimedia glossary list article"
+    },
+    {
+        "entity": "Q5571817",
+        "entityLabel": "Glossary of geography terms (A\u2013M)",
+        "property": "P1754",
+        "propertyLabel": "category related to list",
+        "value": "Q7168963",
+        "valueLabel": "Category:Geography terminology"
+    },
+    {
+        "entity": "Q105393916",
+        "entityLabel": "Housing Affordability in Anglophone Countries",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q3245266",
+        "entityLabel": "Glossary of landforms",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q3276230",
+        "entityLabel": "Lost lands",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q11081619",
+        "valueLabel": "land"
+    },
+    {
+        "entity": "Q3276230",
+        "entityLabel": "Lost lands",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q6212052",
+        "valueLabel": "Q6212052"
+    },
+    {
+        "entity": "Q3276230",
+        "entityLabel": "Lost lands",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q96088545",
+        "valueLabel": "former geographical object"
+    },
+    {
+        "entity": "Q1422929",
+        "entityLabel": "Primate city",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q515",
+        "valueLabel": "city"
+    },
+    {
+        "entity": "Q52460518",
+        "entityLabel": "Lists of renamed places",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    }
+]

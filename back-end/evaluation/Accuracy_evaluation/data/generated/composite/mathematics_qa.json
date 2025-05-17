@@ -1,0 +1,491 @@
+[
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Nicholas A. M. Monk is a physicist and mathematician.\nHe is Alexander von Humboldt Foundation German Research Chair at AIMS Ghana and Professor of Mathematical Biology at the University of Sheffield and the University of Ghana. He is known for his works on mathematical biology, pattern formation, and dynamical systems. He earned his PhD in 1994 from Birkbeck College, University of London. His advisor was Basil Hiley.\nHarold Ramkissoon was a Trinidadian mathematician, academic, and science advocate known for his work in fluid dynamics. He served as Professor Emeritus of Mathematics at the University of the West Indies, and was an independent senator of the Parliament of Trinidad and Tobago.",
+        "subject": "Nicholas A. M. Monk",
+        "predicate": "same_sex_or_gender",
+        "object": "Harold Ramkissoon",
+        "evidence": [
+            [
+                "Nicholas A. M. Monk",
+                "sex or gender",
+                "male"
+            ],
+            [
+                "Harold Ramkissoon",
+                "sex or gender",
+                "male"
+            ]
+        ],
+        "question": "Does Nicholas A. M. Monk and Harold Ramkissoon have the same sex or gender?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Harold Ramkissoon was a Trinidadian mathematician, academic, and science advocate known for his work in fluid dynamics. He served as Professor Emeritus of Mathematics at the University of the West Indies, and was an independent senator of the Parliament of Trinidad and Tobago.\nNicholas A. M. Monk is a physicist and mathematician.\nHe is Alexander von Humboldt Foundation German Research Chair at AIMS Ghana and Professor of Mathematical Biology at the University of Sheffield and the University of Ghana. He is known for his works on mathematical biology, pattern formation, and dynamical systems. He earned his PhD in 1994 from Birkbeck College, University of London. His advisor was Basil Hiley.",
+        "subject": "Harold Ramkissoon",
+        "predicate": "same_sex_or_gender",
+        "object": "Nicholas A. M. Monk",
+        "evidence": [
+            [
+                "Nicholas A. M. Monk",
+                "sex or gender",
+                "male"
+            ],
+            [
+                "Harold Ramkissoon",
+                "sex or gender",
+                "male"
+            ]
+        ],
+        "question": "Does Harold Ramkissoon and Nicholas A. M. Monk have the same sex or gender?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\n\nThis page is an index of accounting topics.",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Index of accounting articles",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Index of accounting articles",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Does Lists of mathematics topics and Index of accounting articles have completely separate instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\n",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Index of combinatorics articles",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Index of combinatorics articles",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Statement: It's not true that Lists of mathematics topics and Index of combinatorics articles have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\n\nArticles related to cryptography include:",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Index of cryptography articles",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Index of cryptography articles",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Does Lists of mathematics topics and Index of cryptography articles have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\nThis article is a summary of differentiation rules, that is, rules for computing the derivative of a function in calculus.",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Differentiation rules",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Differentiation rules",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Lists of mathematics topics also related with Differentiation rules?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\n\nThis is a list of information theory topics.A Mathematical Theory of Communication\nalgorithmic information theory\narithmetic coding\nchannel capacity\nCommunication Theory of Secrecy Systems\nconditional entropy\nconditional quantum entropy\nconfusion and diffusion\ncross-entropy\ndata compression\nentropic uncertainty \nentropy encoding\nentropy \nFisher information\nHick's law\nHuffman coding\ninformation bottleneck method\ninformation theoretic security\ninformation theory\njoint entropy\nKullback–Leibler divergence\nlossless compression\nnegentropy\nnoisy-channel coding theorem \nprinciple of maximum entropy\nquantum information science\nrange encoding\nredundancy \nRényi entropy\nself-information\nShannon–Hartley theorem",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Index of information theory articles",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Index of information theory articles",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Does Lists of mathematics topics and Index of information theory articles have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\nThis article gives a table of some common Lie groups and their associated Lie algebras.",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Table of Lie groups",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Table of Lie groups",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Does Lists of mathematics topics and Table of Lie groups have completely separate instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\nIn mathematics, a Newtonian series, named after Isaac Newton, is a sum over a sequence  written in the form",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Table of Newtonian series",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Table of Newtonian series",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Is it true that Lists of mathematics topics and Table of Newtonian series have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\n\n\nThe tables contain the prime factorization of the natural numbers from 1 to 1000.",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Table of prime factors",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Table of prime factors",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Statement: It's not true that Lists of mathematics topics and Table of prime factors have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\nThe following table lists many specialized symbols commonly used in modern mathematics, ordered by their introduction date.",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Table of mathematical symbols by introduction date",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Table of mathematical symbols by introduction date",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Statement: It's not true that Lists of mathematics topics and Table of mathematical symbols by introduction date have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\nThe following outline is provided as an overview of and topical guide to trigonometry:",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Outline of trigonometry",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Outline of trigonometry",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Outline of trigonometry",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Lists of mathematics topics also related with Outline of trigonometry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "Lists of mathematics topics cover a variety of topics related to mathematics. Some of these lists link to hundreds of articles; some link only to a few. The template to the right includes links to alphabetical lists of all mathematical articles. This article brings together the same content organized in a manner better suited for browsing.\nLists cover aspects of basic and advanced mathematics, methodology, mathematical statements, integrals, general concepts, mathematical objects, and reference tables.\nThey also cover equations named after people, societies, mathematicians, journals, and meta-lists.\nThe following are important identities involving derivatives and integrals in vector calculus.",
+        "subject": "Lists of mathematics topics",
+        "predicate": "same_instance_of",
+        "object": "Vector calculus identities",
+        "evidence": [
+            [
+                "Lists of mathematics topics",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Vector calculus identities",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Lists of mathematics topics also related with Vector calculus identities?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "\nThis page is an index of accounting topics.\n\nArticles related to cryptography include:",
+        "subject": "Index of accounting articles",
+        "predicate": "same_is_a_list_of",
+        "object": "Index of cryptography articles",
+        "evidence": [
+            [
+                "Index of accounting articles",
+                "is a list of",
+                "Wikimedia article page"
+            ],
+            [
+                "Index of cryptography articles",
+                "is a list of",
+                "Wikimedia article page"
+            ]
+        ],
+        "question": "Is there any possibility for the is a list of of Index of accounting articles also related with Index of cryptography articles?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "\nThis page is an index of accounting topics.\n\nThis is a list of information theory topics.A Mathematical Theory of Communication\nalgorithmic information theory\narithmetic coding\nchannel capacity\nCommunication Theory of Secrecy Systems\nconditional entropy\nconditional quantum entropy\nconfusion and diffusion\ncross-entropy\ndata compression\nentropic uncertainty \nentropy encoding\nentropy \nFisher information\nHick's law\nHuffman coding\ninformation bottleneck method\ninformation theoretic security\ninformation theory\njoint entropy\nKullback–Leibler divergence\nlossless compression\nnegentropy\nnoisy-channel coding theorem \nprinciple of maximum entropy\nquantum information science\nrange encoding\nredundancy \nRényi entropy\nself-information\nShannon–Hartley theorem",
+        "subject": "Index of accounting articles",
+        "predicate": "same_is_a_list_of",
+        "object": "Index of information theory articles",
+        "evidence": [
+            [
+                "Index of accounting articles",
+                "is a list of",
+                "Wikimedia article page"
+            ],
+            [
+                "Index of information theory articles",
+                "is a list of",
+                "Wikimedia article page"
+            ]
+        ],
+        "question": "Statement: It's not true that Index of accounting articles and Index of information theory articles have the same is a list of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "\nThis page is an index of accounting topics.\n\nThis is a list of wave topics.",
+        "subject": "Index of accounting articles",
+        "predicate": "same_is_a_list_of",
+        "object": "Index of wave articles",
+        "evidence": [
+            [
+                "Index of accounting articles",
+                "is a list of",
+                "Wikimedia article page"
+            ],
+            [
+                "Index of wave articles",
+                "is a list of",
+                "Wikimedia article page"
+            ]
+        ],
+        "question": "Does Index of accounting articles and Index of wave articles share totally different is a list of?",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "\nArticles related to cryptography include:\n\nThis page is an index of accounting topics.",
+        "subject": "Index of cryptography articles",
+        "predicate": "same_is_a_list_of",
+        "object": "Index of accounting articles",
+        "evidence": [
+            [
+                "Index of accounting articles",
+                "is a list of",
+                "Wikimedia article page"
+            ],
+            [
+                "Index of cryptography articles",
+                "is a list of",
+                "Wikimedia article page"
+            ]
+        ],
+        "question": "Does Index of cryptography articles and Index of accounting articles share totally different is a list of?",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "\nArticles related to cryptography include:\n\nThis is a list of information theory topics.A Mathematical Theory of Communication\nalgorithmic information theory\narithmetic coding\nchannel capacity\nCommunication Theory of Secrecy Systems\nconditional entropy\nconditional quantum entropy\nconfusion and diffusion\ncross-entropy\ndata compression\nentropic uncertainty \nentropy encoding\nentropy \nFisher information\nHick's law\nHuffman coding\ninformation bottleneck method\ninformation theoretic security\ninformation theory\njoint entropy\nKullback–Leibler divergence\nlossless compression\nnegentropy\nnoisy-channel coding theorem \nprinciple of maximum entropy\nquantum information science\nrange encoding\nredundancy \nRényi entropy\nself-information\nShannon–Hartley theorem",
+        "subject": "Index of cryptography articles",
+        "predicate": "same_is_a_list_of",
+        "object": "Index of information theory articles",
+        "evidence": [
+            [
+                "Index of cryptography articles",
+                "is a list of",
+                "Wikimedia article page"
+            ],
+            [
+                "Index of information theory articles",
+                "is a list of",
+                "Wikimedia article page"
+            ]
+        ],
+        "question": "Is there any possibility for the is a list of of Index of cryptography articles also related with Index of information theory articles?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "\nArticles related to cryptography include:\n\nThis is a list of wave topics.",
+        "subject": "Index of cryptography articles",
+        "predicate": "same_is_a_list_of",
+        "object": "Index of wave articles",
+        "evidence": [
+            [
+                "Index of cryptography articles",
+                "is a list of",
+                "Wikimedia article page"
+            ],
+            [
+                "Index of wave articles",
+                "is a list of",
+                "Wikimedia article page"
+            ]
+        ],
+        "question": "Does Index of cryptography articles and Index of wave articles have the same is a list of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of information theory topics.A Mathematical Theory of Communication\nalgorithmic information theory\narithmetic coding\nchannel capacity\nCommunication Theory of Secrecy Systems\nconditional entropy\nconditional quantum entropy\nconfusion and diffusion\ncross-entropy\ndata compression\nentropic uncertainty \nentropy encoding\nentropy \nFisher information\nHick's law\nHuffman coding\ninformation bottleneck method\ninformation theoretic security\ninformation theory\njoint entropy\nKullback–Leibler divergence\nlossless compression\nnegentropy\nnoisy-channel coding theorem \nprinciple of maximum entropy\nquantum information science\nrange encoding\nredundancy \nRényi entropy\nself-information\nShannon–Hartley theorem\n\nThis page is an index of accounting topics.",
+        "subject": "Index of information theory articles",
+        "predicate": "same_is_a_list_of",
+        "object": "Index of accounting articles",
+        "evidence": [
+            [
+                "Index of accounting articles",
+                "is a list of",
+                "Wikimedia article page"
+            ],
+            [
+                "Index of information theory articles",
+                "is a list of",
+                "Wikimedia article page"
+            ]
+        ],
+        "question": "Statement: It's not true that Index of information theory articles and Index of accounting articles have the same is a list of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of information theory topics.A Mathematical Theory of Communication\nalgorithmic information theory\narithmetic coding\nchannel capacity\nCommunication Theory of Secrecy Systems\nconditional entropy\nconditional quantum entropy\nconfusion and diffusion\ncross-entropy\ndata compression\nentropic uncertainty \nentropy encoding\nentropy \nFisher information\nHick's law\nHuffman coding\ninformation bottleneck method\ninformation theoretic security\ninformation theory\njoint entropy\nKullback–Leibler divergence\nlossless compression\nnegentropy\nnoisy-channel coding theorem \nprinciple of maximum entropy\nquantum information science\nrange encoding\nredundancy \nRényi entropy\nself-information\nShannon–Hartley theorem\n\nArticles related to cryptography include:",
+        "subject": "Index of information theory articles",
+        "predicate": "same_is_a_list_of",
+        "object": "Index of cryptography articles",
+        "evidence": [
+            [
+                "Index of cryptography articles",
+                "is a list of",
+                "Wikimedia article page"
+            ],
+            [
+                "Index of information theory articles",
+                "is a list of",
+                "Wikimedia article page"
+            ]
+        ],
+        "question": "Does Index of information theory articles and Index of cryptography articles share totally different is a list of?",
+        "answer": "No."
+    },
+    {
+        "category": "mathematics",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is a list of information theory topics.A Mathematical Theory of Communication\nalgorithmic information theory\narithmetic coding\nchannel capacity\nCommunication Theory of Secrecy Systems\nconditional entropy\nconditional quantum entropy\nconfusion and diffusion\ncross-entropy\ndata compression\nentropic uncertainty \nentropy encoding\nentropy \nFisher information\nHick's law\nHuffman coding\ninformation bottleneck method\ninformation theoretic security\ninformation theory\njoint entropy\nKullback–Leibler divergence\nlossless compression\nnegentropy\nnoisy-channel coding theorem \nprinciple of maximum entropy\nquantum information science\nrange encoding\nredundancy \nRényi entropy\nself-information\nShannon–Hartley theorem\n\nThis is a list of wave topics.",
+        "subject": "Index of information theory articles",
+        "predicate": "same_is_a_list_of",
+        "object": "Index of wave articles",
+        "evidence": [
+            [
+                "Index of information theory articles",
+                "is a list of",
+                "Wikimedia article page"
+            ],
+            [
+                "Index of wave articles",
+                "is a list of",
+                "Wikimedia article page"
+            ]
+        ],
+        "question": "Is there any possibility for the is a list of of Index of information theory articles also related with Index of wave articles?",
+        "answer": "Yes."
+    }
+]

@@ -1,0 +1,750 @@
+[
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that École Normale Supérieure could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Does University of Paris 1 Pantheon-Sorbonne have the possibility to be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is it true that École Normale Supérieure could or could be be the alma mater of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Could University of Paris 1 Pantheon-Sorbonne be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Could École Normale Supérieure be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that University of Paris 1 Pantheon-Sorbonne could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Could École Normale Supérieure be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is it true that University of Paris 1 Pantheon-Sorbonne could or could be be the alma mater of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Does École Normale Supérieure have the possibility to be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that University of Paris 1 Pantheon-Sorbonne could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Could École Normale Supérieure be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Could University of Paris 1 Pantheon-Sorbonne be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Could École Normale Supérieure be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Statement: It's not true that University of Paris 1 Pantheon-Sorbonne could be be the alma mater of of Hervé Théry. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that École Normale Supérieure could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that University of Paris 1 Pantheon-Sorbonne could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Does École Normale Supérieure have the possibility to be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that University of Paris 1 Pantheon-Sorbonne could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Statement: It's not true that École Normale Supérieure could be be the alma mater of of Hervé Théry. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Does University of Paris 1 Pantheon-Sorbonne have the possibility to be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Does École Normale Supérieure have the possibility to be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Could University of Paris 1 Pantheon-Sorbonne be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Statement: It's not true that École Normale Supérieure could be be the alma mater of of Hervé Théry. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that University of Paris 1 Pantheon-Sorbonne could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Could École Normale Supérieure be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Could University of Paris 1 Pantheon-Sorbonne be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Does École Normale Supérieure have the possibility to be be the alma mater of of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is it true that University of Paris 1 Pantheon-Sorbonne could or could be be the alma mater of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is it true that École Normale Supérieure could or could be be the alma mater of Hervé Théry?",
+        "answer": "Yes."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Statement: It's not true that University of Paris 1 Pantheon-Sorbonne could be be the alma mater of of Hervé Théry. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that École Normale Supérieure could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that University of Paris 1 Pantheon-Sorbonne could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The École normale supérieure – PSL is a grande école in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "École Normale Supérieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Statement: It's not true that École Normale Supérieure could be be the alma mater of of Hervé Théry. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panthéon-Sorbonne University, also known as Paris 1 and Panthéon-Sorbonne University, is a public research university in Paris, France.\nHervé Théry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Hervé Théry",
+        "evidence": [
+            [
+                "Hervé Théry",
+                "educated at",
+                "École Normale Supérieure"
+            ],
+            [
+                "Hervé Théry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ],
+        "question": "Is there any possibility that University of Paris 1 Pantheon-Sorbonne could not be be the alma mater of of Hervé Théry?",
+        "answer": "No."
+    }
+]

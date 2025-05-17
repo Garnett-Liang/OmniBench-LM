@@ -1,0 +1,114 @@
+[
+    {
+        "category": "technology",
+        "reasoning": "Negation Inference",
+        "description": "Industrial technology is the use of engineering and manufacturing technology to make production faster, simpler, and more efficient. The industrial technology field employs creative and technically proficient individuals who can help a company achieve efficient and profitable productivity.\nAgricultural technology or agrotechnology is the use of technology in agriculture, horticulture, and aquaculture with the aim of improving yield, efficiency, and profitability. Agricultural technology can be products, services or applications derived from agriculture that improve various input and output processes.",
+        "subject": "Industrial technology",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "Agricultural technology",
+        "evidence": [
+            [
+                "Industrial technology",
+                "said to be the same as",
+                "manufacturing engineering"
+            ],
+            [
+                "Agricultural technology",
+                "said to be the same as",
+                "agricultural technology"
+            ]
+        ],
+        "question": "Is it true that Industrial technology can not be said to be the same as Agricultural technology?",
+        "answer": "Yes."
+    },
+    {
+        "category": "technology",
+        "reasoning": "Negation Inference",
+        "description": "Agricultural technology or agrotechnology is the use of technology in agriculture, horticulture, and aquaculture with the aim of improving yield, efficiency, and profitability. Agricultural technology can be products, services or applications derived from agriculture that improve various input and output processes.\nManufacturing engineering or production engineering is a branch of professional engineering that shares many common concepts and ideas with other fields of engineering such as mechanical, chemical, electrical, and industrial engineering. \nManufacturing engineering requires the ability to plan the practices of manufacturing; to research and to develop tools, processes, machines, and equipment; and to integrate the facilities and systems for producing quality products with the optimum expenditure of capital.",
+        "subject": "Agricultural technology",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "manufacturing engineering",
+        "evidence": [
+            [
+                "Agricultural technology",
+                "said to be the same as",
+                "agricultural technology"
+            ]
+        ],
+        "question": "Could Agricultural technology be said to be the same as of manufacturing engineering?",
+        "answer": "No."
+    },
+    {
+        "category": "technology",
+        "reasoning": "Negation Inference",
+        "description": "Big Tech, also known as the Tech Giants or Tech Titans, is a grouping of the largest IT companies in the world. The concept of Big Tech is similar to the grouping of dominant companies in other sectors. It typically refers to the Big Five United States tech companies: Alphabet, Amazon, Apple, Meta, and Microsoft; or the Magnificent Seven, which includes Nvidia and Tesla. Big Tech can also include Chinese companies such as Baidu, Alibaba, Tencent, and Xiaomi (BATX).\nManufacturing engineering or production engineering is a branch of professional engineering that shares many common concepts and ideas with other fields of engineering such as mechanical, chemical, electrical, and industrial engineering. \nManufacturing engineering requires the ability to plan the practices of manufacturing; to research and to develop tools, processes, machines, and equipment; and to integrate the facilities and systems for producing quality products with the optimum expenditure of capital.",
+        "subject": "Big Tech",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "manufacturing engineering",
+        "evidence": [
+            [
+                "Big Tech",
+                "said to be the same as",
+                "Big Tech (web)"
+            ]
+        ],
+        "question": "Statement: It's not true that Big Tech could be said to be the same as of manufacturing engineering. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "Yes."
+    },
+    {
+        "category": "technology",
+        "reasoning": "Negation Inference",
+        "description": "Big Tech, also known as the Tech Giants or Tech Titans, is a grouping of the largest IT companies in the world. The concept of Big Tech is similar to the grouping of dominant companies in other sectors. It typically refers to the Big Five United States tech companies: Alphabet, Amazon, Apple, Meta, and Microsoft; or the Magnificent Seven, which includes Nvidia and Tesla. Big Tech can also include Chinese companies such as Baidu, Alibaba, Tencent, and Xiaomi (BATX).\nAgricultural technology or agrotechnology is the use of technology in agriculture, horticulture, and aquaculture with the aim of improving yield, efficiency, and profitability. Agricultural technology can be products, services or applications derived from agriculture that improve various input and output processes.",
+        "subject": "Big Tech",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "Agricultural technology",
+        "evidence": [
+            [
+                "Agricultural technology",
+                "said to be the same as",
+                "agricultural technology"
+            ],
+            [
+                "Big Tech",
+                "said to be the same as",
+                "Big Tech (web)"
+            ]
+        ],
+        "question": "Statement: It's not true that Big Tech could be said to be the same as of Agricultural technology. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "Yes."
+    },
+    {
+        "category": "technology",
+        "reasoning": "Negation Inference",
+        "description": "Geomatics is defined in the ISO/TC 211 series of standards as the \"discipline concerned with the collection, distribution, storage, analysis, processing, presentation of geographic data or geographic information\". Under another definition, it consists of products, services and tools involved in the collection, integration and management of geographic (geospatial) data. Surveying engineering was the widely used name for geomatic(s) engineering in the past. Geomatics was placed by the UNESCO Encyclopedia of Life Support Systems under the branch of technical geography.\nBig Tech, also known as the Tech Giants or Tech Titans, is a grouping of the largest IT companies in the world. The concept of Big Tech is similar to the grouping of dominant companies in other sectors. It typically refers to the Big Five United States tech companies: Alphabet, Amazon, Apple, Meta, and Microsoft; or the Magnificent Seven, which includes Nvidia and Tesla. Big Tech can also include Chinese companies such as Baidu, Alibaba, Tencent, and Xiaomi (BATX).",
+        "subject": "Geomatics",
+        "predicate": "not_replaced_by",
+        "object": "Magnificent Seven",
+        "evidence": [
+            [
+                "Geomatics",
+                "replaced by",
+                "spatial science"
+            ]
+        ],
+        "question": "Is it true that Geomatics can not be replaced by Magnificent Seven?",
+        "answer": "Yes."
+    },
+    {
+        "category": "technology",
+        "reasoning": "Negation Inference",
+        "description": "Big Tech, also known as the Tech Giants or Tech Titans, is a grouping of the largest IT companies in the world. The concept of Big Tech is similar to the grouping of dominant companies in other sectors. It typically refers to the Big Five United States tech companies: Alphabet, Amazon, Apple, Meta, and Microsoft; or the Magnificent Seven, which includes Nvidia and Tesla. Big Tech can also include Chinese companies such as Baidu, Alibaba, Tencent, and Xiaomi (BATX).\nGeomatics is defined in the ISO/TC 211 series of standards as the \"discipline concerned with the collection, distribution, storage, analysis, processing, presentation of geographic data or geographic information\". Under another definition, it consists of products, services and tools involved in the collection, integration and management of geographic (geospatial) data. Surveying engineering was the widely used name for geomatic(s) engineering in the past. Geomatics was placed by the UNESCO Encyclopedia of Life Support Systems under the branch of technical geography.",
+        "subject": "Big Tech",
+        "predicate": "not_replaced_by",
+        "object": "spatial science",
+        "evidence": [
+            [
+                "Big Tech",
+                "replaced by",
+                "Magnificent Seven"
+            ]
+        ],
+        "question": "Could Big Tech be replaced by of spatial science?",
+        "answer": "No."
+    }
+]

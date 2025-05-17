@@ -1,0 +1,720 @@
+[
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nAt 78 years, 8 months and 26 days old, Donald Trump, the 45th and 47th president of the United States, is the oldest president at his second inauguration in the country's history. He previously became the oldest major-party presidential nominee five weeks after his 78th birthday. Should he serve to the end of his second presidency on January 20, 2029, he will become the oldest person ever to hold the office at 82 years, seven months, and six days old, sparking renewed discussion of his fitness as a president. Since the early days of Trump's 2016 presidential campaign, his physical and mental health have been debated. Trump was 70 years old when he first took office, surpassing Ronald Reagan as the oldest person to assume the presidency. During Trump's presidency, his age, weight, lifestyle, and history of heart disease raised questions about his physical health.",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_country",
+        "object": "age and health concerns about Donald Trump",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "country",
+                "United States"
+            ]
+        ],
+        "question": "Statement: It's not true that Age and health concerns about Joe Biden and age and health concerns about Donald Trump have the same country. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "At 78 years, 8 months and 26 days old, Donald Trump, the 45th and 47th president of the United States, is the oldest president at his second inauguration in the country's history. He previously became the oldest major-party presidential nominee five weeks after his 78th birthday. Should he serve to the end of his second presidency on January 20, 2029, he will become the oldest person ever to hold the office at 82 years, seven months, and six days old, sparking renewed discussion of his fitness as a president. Since the early days of Trump's 2016 presidential campaign, his physical and mental health have been debated. Trump was 70 years old when he first took office, surpassing Ronald Reagan as the oldest person to assume the presidency. During Trump's presidency, his age, weight, lifestyle, and history of heart disease raised questions about his physical health.\nJoe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.",
+        "subject": "age and health concerns about Donald Trump",
+        "predicate": "same_country",
+        "object": "Age and health concerns about Joe Biden",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "country",
+                "United States"
+            ]
+        ],
+        "question": "Is it true that age and health concerns about Donald Trump and Age and health concerns about Joe Biden have the same country?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nFor much of his adult life, Charles Darwin's health was repeatedly compromised by an uncommon combination of symptoms, leaving him severely debilitated for long periods of time. However, Darwin himself suggested that, in some ways, this may have helped his work: \"Even ill-health, though it has annihilated several years of my life, has saved me from the distractions of society and amusement.\"",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Health of Charles Darwin",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Health of Charles Darwin",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Health of Charles Darwin",
+                "instance of",
+                "health"
+            ]
+        ],
+        "question": "Is it true that Age and health concerns about Joe Biden and Health of Charles Darwin have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nThe health of Adolf Hitler, dictator of Germany from 1933 to 1945, has long been a subject of popular controversy. Both his physical and mental health have come under scrutiny.",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Health of Adolf Hitler",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Health of Adolf Hitler",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Health of Adolf Hitler",
+                "instance of",
+                "health"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Age and health concerns about Joe Biden also related with Health of Adolf Hitler?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nPope John Paul II entered the papacy in 1978 as an avid sportsman, enjoying hiking and swimming. The 58-year-old was extremely healthy and active for his age, jogging in the Vatican gardens. When the cost of installing a swimming pool in his summer residence was queried by cardinals, the pope joked that it was \"cheaper than another conclave\".",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Health of Pope John Paul II",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Health of Pope John Paul II",
+                "instance of",
+                "health"
+            ]
+        ],
+        "question": "Is it true that Age and health concerns about Joe Biden and Health of Pope John Paul II have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nAt 78 years, 8 months and 26 days old, Donald Trump, the 45th and 47th president of the United States, is the oldest president at his second inauguration in the country's history. He previously became the oldest major-party presidential nominee five weeks after his 78th birthday. Should he serve to the end of his second presidency on January 20, 2029, he will become the oldest person ever to hold the office at 82 years, seven months, and six days old, sparking renewed discussion of his fitness as a president. Since the early days of Trump's 2016 presidential campaign, his physical and mental health have been debated. Trump was 70 years old when he first took office, surpassing Ronald Reagan as the oldest person to assume the presidency. During Trump's presidency, his age, weight, lifestyle, and history of heart disease raised questions about his physical health.",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "age and health concerns about Donald Trump",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ]
+        ],
+        "question": "Is it true that Age and health concerns about Joe Biden and age and health concerns about Donald Trump have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nFrédéric Chopin's disease and the reason for his premature death at age 39 were frequently debated for over 150 years. Although he was diagnosed with and treated for tuberculosis throughout his lifetime, a number of alternative diagnoses have been suggested since his death in 1849. A comprehensive review of the possible causes of Chopin's illness was published in 2011. A visual examination of Chopin's heart, for which permission was finally given in 2014, indicated the likely cause of death as pericarditis, caused by tuberculosis. This has been disputed by pathologists who say that a visual examination alone cannot confirm such a disease.",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Health of Frédéric Chopin",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Health of Frédéric Chopin",
+                "instance of",
+                "certain aspects of a person's life"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Age and health concerns about Joe Biden also related with Health of Frédéric Chopin?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nFor much of his adult life, Charles Darwin's health was repeatedly compromised by an uncommon combination of symptoms, leaving him severely debilitated for long periods of time. However, Darwin himself suggested that, in some ways, this may have helped his work: \"Even ill-health, though it has annihilated several years of my life, has saved me from the distractions of society and amusement.\"",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Health of Charles Darwin",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Health of Charles Darwin",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Health of Charles Darwin",
+                "instance of",
+                "health"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Age and health concerns about Joe Biden also related with Health of Charles Darwin?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nThe health of Adolf Hitler, dictator of Germany from 1933 to 1945, has long been a subject of popular controversy. Both his physical and mental health have come under scrutiny.",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Health of Adolf Hitler",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Health of Adolf Hitler",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Health of Adolf Hitler",
+                "instance of",
+                "health"
+            ]
+        ],
+        "question": "Is it true that Age and health concerns about Joe Biden and Health of Adolf Hitler have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nThe question of whether the historical Jesus was in good mental health is a subject of consideration for multiple psychologists, philosophers, historians, and writers. The first person, after several other attempts at tackling the subject, who broadly and thoroughly questioned the mental health of Jesus was French psychologist Charles Binet-Sanglé, the chief physician of Paris and author of a four-volume work La Folie de Jésus. This view finds both supporters and opponents.",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Mental health of Jesus",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Mental health of Jesus",
+                "instance of",
+                "mental health"
+            ],
+            [
+                "Mental health of Jesus",
+                "instance of",
+                "certain aspects of a person's life"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Age and health concerns about Joe Biden also related with Mental health of Jesus?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nAbraham Lincoln's health has been the subject of both contemporaneous commentary and subsequent hypotheses by historians and scholars. Until middle age, his health was fairly good for the time. He contracted malaria in 1830 and 1835; the latter was the worse of the two cases. He contracted smallpox in 1863 during an 1863 to 1864 epidemic in Washington, D.C.",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Health of Abraham Lincoln",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Health of Abraham Lincoln",
+                "instance of",
+                "certain aspects of a person's life"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Age and health concerns about Joe Biden also related with Health of Abraham Lincoln?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\n\n\nSpeculations regarding the health of Vladimir Putin have been a regular occurrence since his rise to power. They include conjecture about severe and potentially terminal medical issues. This is largely speculation and cannot be accredited for authenticity.",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Claims of Vladimir Putin's incapacity and death",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Claims of Vladimir Putin's incapacity and death",
+                "instance of",
+                "certain aspects of a person's life"
+            ]
+        ],
+        "question": "Does Age and health concerns about Joe Biden and Claims of Vladimir Putin's incapacity and death share totally different instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Joe Biden was 78 years and 2 months old when he took office, then the oldest president ever at inauguration, and was the first president of the United States to turn 80 while in office. During the campaign for the 2024 United States presidential election, there was concern from the public and then-former President Donald Trump about his health and fitness for office. These concerns increased after a poor performance by Biden during a debate against Trump in the 2024 presidential election, which led a number of commentators and some Democratic lawmakers to call for Biden to drop out of the 2024 presidential race. He later withdrew his candidacy while continuing to serve as president until the conclusion of his term on January 20, 2025. When his term ended, Biden was 82 years and 2 months old, the oldest sitting president in United States history upon leaving office.\nFranklin D. Roosevelt, later the 32nd president of the United States from 1933 to 1945, began experiencing symptoms of a paralytic illness in 1921 when he was 39 years old. His main symptoms were fevers; symmetric, ascending paralysis; facial paralysis; bowel and bladder dysfunction; numbness and hyperesthesia; and a descending pattern of recovery. He was diagnosed with poliomyelitis and underwent years of therapy, including hydrotherapy at Warm Springs, Georgia. Roosevelt remained paralyzed from the waist down and relied on a wheelchair and leg braces for mobility, which he took efforts to conceal in public. In 1938, he founded the National Foundation for Infantile Paralysis, leading to the development of polio vaccines. Although historical accounts continue to refer to Roosevelt's case as polio, the diagnosis has been questioned in the context of modern medical science, with a competing diagnosis of Guillain–Barré syndrome being proposed.",
+        "subject": "Age and health concerns about Joe Biden",
+        "predicate": "same_instance_of",
+        "object": "Paralytic illness of Franklin D. Roosevelt",
+        "evidence": [
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "health"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "certain aspects of a person's life"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "concern"
+            ],
+            [
+                "Age and health concerns about Joe Biden",
+                "instance of",
+                "political conflict"
+            ],
+            [
+                "Paralytic illness of Franklin D. Roosevelt",
+                "instance of",
+                "certain aspects of a person's life"
+            ]
+        ],
+        "question": "Is it true that Age and health concerns about Joe Biden and Paralytic illness of Franklin D. Roosevelt have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "All types of asbestos fibers are known to cause serious health hazards in humans. The most common diseases associated with chronic exposure to asbestos are asbestosis and mesothelioma.\nCoal ash, also known as coal combustion residuals (CCRs), is the mineral residue that remains from burning coal. Exposure to coal ash and to the toxic substances it contains may pose a health risk to workers in coal-fired power plants and residents living near coal ash disposal sites.",
+        "subject": "Health impact of asbestos",
+        "predicate": "same_subclass_of",
+        "object": "Health effects of coal ash",
+        "evidence": [
+            [
+                "Health impact of asbestos",
+                "subclass of",
+                "intoxication"
+            ],
+            [
+                "Health effects of coal ash",
+                "subclass of",
+                "intoxication"
+            ]
+        ],
+        "question": "Does Health impact of asbestos and Health effects of coal ash share totally different subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "All types of asbestos fibers are known to cause serious health hazards in humans. The most common diseases associated with chronic exposure to asbestos are asbestosis and mesothelioma.\nHealth effects of pesticides may be acute or delayed in those who are exposed. Acute effects can include pesticide poisoning, which may be a medical emergency. Strong evidence exists for other, long-term negative health outcomes from pesticide exposure including birth defects, fetal death, neurodevelopmental disorder, cancer, and neurologic illness including Parkinson's disease. Toxicity of pesticides depend on the type of chemical, route of exposure, dosage, and timing of exposure.",
+        "subject": "Health impact of asbestos",
+        "predicate": "same_subclass_of",
+        "object": "Health effects of pesticides",
+        "evidence": [
+            [
+                "Health impact of asbestos",
+                "subclass of",
+                "intoxication"
+            ],
+            [
+                "Health effects of pesticides",
+                "subclass of",
+                "intoxication"
+            ],
+            [
+                "Health effects of pesticides",
+                "subclass of",
+                "environmental impact of pesticides"
+            ]
+        ],
+        "question": "Does Health impact of asbestos and Health effects of pesticides have the same subclass of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Coal ash, also known as coal combustion residuals (CCRs), is the mineral residue that remains from burning coal. Exposure to coal ash and to the toxic substances it contains may pose a health risk to workers in coal-fired power plants and residents living near coal ash disposal sites.\nAll types of asbestos fibers are known to cause serious health hazards in humans. The most common diseases associated with chronic exposure to asbestos are asbestosis and mesothelioma.",
+        "subject": "Health effects of coal ash",
+        "predicate": "same_subclass_of",
+        "object": "Health impact of asbestos",
+        "evidence": [
+            [
+                "Health impact of asbestos",
+                "subclass of",
+                "intoxication"
+            ],
+            [
+                "Health effects of coal ash",
+                "subclass of",
+                "intoxication"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Health effects of coal ash also related with Health impact of asbestos?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Coal ash, also known as coal combustion residuals (CCRs), is the mineral residue that remains from burning coal. Exposure to coal ash and to the toxic substances it contains may pose a health risk to workers in coal-fired power plants and residents living near coal ash disposal sites.\nHealth effects of pesticides may be acute or delayed in those who are exposed. Acute effects can include pesticide poisoning, which may be a medical emergency. Strong evidence exists for other, long-term negative health outcomes from pesticide exposure including birth defects, fetal death, neurodevelopmental disorder, cancer, and neurologic illness including Parkinson's disease. Toxicity of pesticides depend on the type of chemical, route of exposure, dosage, and timing of exposure.",
+        "subject": "Health effects of coal ash",
+        "predicate": "same_subclass_of",
+        "object": "Health effects of pesticides",
+        "evidence": [
+            [
+                "Health effects of coal ash",
+                "subclass of",
+                "intoxication"
+            ],
+            [
+                "Health effects of pesticides",
+                "subclass of",
+                "intoxication"
+            ],
+            [
+                "Health effects of pesticides",
+                "subclass of",
+                "environmental impact of pesticides"
+            ]
+        ],
+        "question": "Is it true that Health effects of coal ash and Health effects of pesticides have the same subclass of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "The effects of climate change on human health are profound because they increase heat-related illnesses and deaths, respiratory diseases, and the spread of infectious diseases. There is widespread agreement among researchers, health professionals and organizations that climate change is the biggest global health threat of the 21st century.\nElectromagnetic radiation can be classified into two types: ionizing radiation and non-ionizing radiation, based on the capability of a single photon with more than 10 eV energy to ionize atoms or break chemical bonds. Extreme ultraviolet and higher frequencies, such as X-rays or gamma rays are ionizing, and these pose their own special hazards: see radiation poisoning. The field strength of electromagnetic radiation is measured in volts per meter (V/m).",
+        "subject": "effects of climate change on human health",
+        "predicate": "same_subclass_of",
+        "object": "Electromagnetic radiation and health",
+        "evidence": [
+            [
+                "Electromagnetic radiation and health",
+                "subclass of",
+                "determinants of health"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of effects of climate change on human health also related with Electromagnetic radiation and health?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "The effects of climate change on human health are profound because they increase heat-related illnesses and deaths, respiratory diseases, and the spread of infectious diseases. There is widespread agreement among researchers, health professionals and organizations that climate change is the biggest global health threat of the 21st century.\nNoise health effects are the physical and psychological health consequences of regular exposure to consistent elevated sound levels. Noise from traffic, in particular, is considered by the World Health Organization to be one of the worst environmental stressors for humans, second only to air pollution. Elevated workplace or environmental noise can cause hearing impairment, tinnitus, hypertension, ischemic heart disease, annoyance, and sleep disturbance. Changes in the immune system and birth defects have been also attributed to noise exposure.",
+        "subject": "effects of climate change on human health",
+        "predicate": "same_subclass_of",
+        "object": "Health effects from noise",
+        "evidence": [
+            [
+                "Health effects from noise",
+                "subclass of",
+                "determinants of health"
+            ],
+            [
+                "Health effects from noise",
+                "subclass of",
+                "external causes of illness and death"
+            ]
+        ],
+        "question": "Does effects of climate change on human health and Health effects from noise have completely separate subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Electromagnetic radiation can be classified into two types: ionizing radiation and non-ionizing radiation, based on the capability of a single photon with more than 10 eV energy to ionize atoms or break chemical bonds. Extreme ultraviolet and higher frequencies, such as X-rays or gamma rays are ionizing, and these pose their own special hazards: see radiation poisoning. The field strength of electromagnetic radiation is measured in volts per meter (V/m).\nThe effects of climate change on human health are profound because they increase heat-related illnesses and deaths, respiratory diseases, and the spread of infectious diseases. There is widespread agreement among researchers, health professionals and organizations that climate change is the biggest global health threat of the 21st century.",
+        "subject": "Electromagnetic radiation and health",
+        "predicate": "same_subclass_of",
+        "object": "effects of climate change on human health",
+        "evidence": [
+            [
+                "Electromagnetic radiation and health",
+                "subclass of",
+                "determinants of health"
+            ]
+        ],
+        "question": "Is it true that Electromagnetic radiation and health and effects of climate change on human health have the same subclass of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Electromagnetic radiation can be classified into two types: ionizing radiation and non-ionizing radiation, based on the capability of a single photon with more than 10 eV energy to ionize atoms or break chemical bonds. Extreme ultraviolet and higher frequencies, such as X-rays or gamma rays are ionizing, and these pose their own special hazards: see radiation poisoning. The field strength of electromagnetic radiation is measured in volts per meter (V/m).\nNoise health effects are the physical and psychological health consequences of regular exposure to consistent elevated sound levels. Noise from traffic, in particular, is considered by the World Health Organization to be one of the worst environmental stressors for humans, second only to air pollution. Elevated workplace or environmental noise can cause hearing impairment, tinnitus, hypertension, ischemic heart disease, annoyance, and sleep disturbance. Changes in the immune system and birth defects have been also attributed to noise exposure.",
+        "subject": "Electromagnetic radiation and health",
+        "predicate": "same_subclass_of",
+        "object": "Health effects from noise",
+        "evidence": [
+            [
+                "Electromagnetic radiation and health",
+                "subclass of",
+                "determinants of health"
+            ],
+            [
+                "Health effects from noise",
+                "subclass of",
+                "determinants of health"
+            ],
+            [
+                "Health effects from noise",
+                "subclass of",
+                "external causes of illness and death"
+            ]
+        ],
+        "question": "Does Electromagnetic radiation and health and Health effects from noise have completely separate subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Noise health effects are the physical and psychological health consequences of regular exposure to consistent elevated sound levels. Noise from traffic, in particular, is considered by the World Health Organization to be one of the worst environmental stressors for humans, second only to air pollution. Elevated workplace or environmental noise can cause hearing impairment, tinnitus, hypertension, ischemic heart disease, annoyance, and sleep disturbance. Changes in the immune system and birth defects have been also attributed to noise exposure.\nThe effects of climate change on human health are profound because they increase heat-related illnesses and deaths, respiratory diseases, and the spread of infectious diseases. There is widespread agreement among researchers, health professionals and organizations that climate change is the biggest global health threat of the 21st century.",
+        "subject": "Health effects from noise",
+        "predicate": "same_subclass_of",
+        "object": "effects of climate change on human health",
+        "evidence": [
+            [
+                "Health effects from noise",
+                "subclass of",
+                "determinants of health"
+            ],
+            [
+                "Health effects from noise",
+                "subclass of",
+                "external causes of illness and death"
+            ]
+        ],
+        "question": "Statement: It's not true that Health effects from noise and effects of climate change on human health have the same subclass of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Noise health effects are the physical and psychological health consequences of regular exposure to consistent elevated sound levels. Noise from traffic, in particular, is considered by the World Health Organization to be one of the worst environmental stressors for humans, second only to air pollution. Elevated workplace or environmental noise can cause hearing impairment, tinnitus, hypertension, ischemic heart disease, annoyance, and sleep disturbance. Changes in the immune system and birth defects have been also attributed to noise exposure.\nElectromagnetic radiation can be classified into two types: ionizing radiation and non-ionizing radiation, based on the capability of a single photon with more than 10 eV energy to ionize atoms or break chemical bonds. Extreme ultraviolet and higher frequencies, such as X-rays or gamma rays are ionizing, and these pose their own special hazards: see radiation poisoning. The field strength of electromagnetic radiation is measured in volts per meter (V/m).",
+        "subject": "Health effects from noise",
+        "predicate": "same_subclass_of",
+        "object": "Electromagnetic radiation and health",
+        "evidence": [
+            [
+                "Electromagnetic radiation and health",
+                "subclass of",
+                "determinants of health"
+            ],
+            [
+                "Health effects from noise",
+                "subclass of",
+                "determinants of health"
+            ],
+            [
+                "Health effects from noise",
+                "subclass of",
+                "external causes of illness and death"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Health effects from noise also related with Electromagnetic radiation and health?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Composite Inference",
+        "description": "Health effects of pesticides may be acute or delayed in those who are exposed. Acute effects can include pesticide poisoning, which may be a medical emergency. Strong evidence exists for other, long-term negative health outcomes from pesticide exposure including birth defects, fetal death, neurodevelopmental disorder, cancer, and neurologic illness including Parkinson's disease. Toxicity of pesticides depend on the type of chemical, route of exposure, dosage, and timing of exposure.\nAll types of asbestos fibers are known to cause serious health hazards in humans. The most common diseases associated with chronic exposure to asbestos are asbestosis and mesothelioma.",
+        "subject": "Health effects of pesticides",
+        "predicate": "same_subclass_of",
+        "object": "Health impact of asbestos",
+        "evidence": [
+            [
+                "Health impact of asbestos",
+                "subclass of",
+                "intoxication"
+            ],
+            [
+                "Health effects of pesticides",
+                "subclass of",
+                "intoxication"
+            ],
+            [
+                "Health effects of pesticides",
+                "subclass of",
+                "environmental impact of pesticides"
+            ]
+        ],
+        "question": "Does Health effects of pesticides and Health impact of asbestos have the same subclass of?",
+        "answer": "Yes."
+    }
+]

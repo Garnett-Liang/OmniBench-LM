@@ -1,0 +1,1130 @@
+[
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q2465832",
+        "valueLabel": "branch of science"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q336",
+        "valueLabel": "science"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q1457332",
+        "valueLabel": "Category:Natural sciences"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q413",
+        "valueLabel": "physics"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q188847",
+        "valueLabel": "environmental science"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q864928",
+        "valueLabel": "life sciences"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P460",
+        "propertyLabel": "said to be the same as",
+        "value": "Q484591",
+        "valueLabel": "natural history"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q8008",
+        "valueLabel": "earth science"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q1195766",
+        "valueLabel": "space sciences"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q7094",
+        "valueLabel": "biochemistry"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q2329",
+        "valueLabel": "chemistry"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q420",
+        "valueLabel": "biology"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q19219752",
+        "valueLabel": "Meyers Konversations-Lexikon, 4th edition (1885\u20131890)"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q2522419",
+        "valueLabel": "hard science"
+    },
+    {
+        "entity": "Q7991",
+        "entityLabel": "Natural science",
+        "property": "P2578",
+        "propertyLabel": "is the study of",
+        "value": "Q7860",
+        "valueLabel": "nature"
+    },
+    {
+        "entity": "Q18392234",
+        "entityLabel": "Outline of natural science",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q85741989",
+        "entityLabel": "Anthropocene Working Group",
+        "property": "P749",
+        "propertyLabel": "parent organization",
+        "value": "Q402104",
+        "valueLabel": "International Commission on Stratigraphy"
+    },
+    {
+        "entity": "Q85741989",
+        "entityLabel": "Anthropocene Working Group",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q27493",
+        "valueLabel": "working group"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P131",
+        "propertyLabel": "located in the administrative territorial entity",
+        "value": "Q84",
+        "valueLabel": "London"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P749",
+        "propertyLabel": "parent organization",
+        "value": "Q189022",
+        "valueLabel": "Imperial College London"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P1365",
+        "propertyLabel": "replaces",
+        "value": "Q7373985",
+        "valueLabel": "Royal College of Science"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P355",
+        "propertyLabel": "has subsidiary",
+        "value": "Q96336768",
+        "valueLabel": "Department of Life Sciences, Imperial College London"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q180958",
+        "valueLabel": "faculty"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P355",
+        "propertyLabel": "has subsidiary",
+        "value": "Q60740266",
+        "valueLabel": "Department of Chemistry, Imperial College London"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P101",
+        "propertyLabel": "field of work",
+        "value": "Q7991",
+        "valueLabel": "natural science"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P5894",
+        "propertyLabel": "tuition fee",
+        "value": "31000",
+        "valueLabel": "31000"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P355",
+        "propertyLabel": "has subsidiary",
+        "value": "Q17986326",
+        "valueLabel": "Centre for Environmental Policy"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P17",
+        "propertyLabel": "country",
+        "value": "Q145",
+        "valueLabel": "United Kingdom"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P355",
+        "propertyLabel": "has subsidiary",
+        "value": "Q29025019",
+        "valueLabel": "Blackett Laboratory"
+    },
+    {
+        "entity": "Q16937419",
+        "entityLabel": "Imperial College Faculty of Natural Sciences",
+        "property": "P355",
+        "propertyLabel": "has subsidiary",
+        "value": "Q93263943",
+        "valueLabel": "Department of Mathematics, Imperial College London"
+    },
+    {
+        "entity": "Q6980609",
+        "entityLabel": "Natural Sciences Collections Association",
+        "property": "P2650",
+        "propertyLabel": "interested in",
+        "value": "Q1438125",
+        "valueLabel": "scientific collection"
+    },
+    {
+        "entity": "Q6980609",
+        "entityLabel": "Natural Sciences Collections Association",
+        "property": "P159",
+        "propertyLabel": "headquarters location",
+        "value": "Q145",
+        "valueLabel": "United Kingdom"
+    },
+    {
+        "entity": "Q6980609",
+        "entityLabel": "Natural Sciences Collections Association",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q708676",
+        "valueLabel": "charitable organization"
+    },
+    {
+        "entity": "Q6980609",
+        "entityLabel": "Natural Sciences Collections Association",
+        "property": "P8687",
+        "propertyLabel": "social media followers",
+        "value": "6336",
+        "valueLabel": "6336"
+    },
+    {
+        "entity": "Q6980609",
+        "entityLabel": "Natural Sciences Collections Association",
+        "property": "P101",
+        "propertyLabel": "field of work",
+        "value": "Q7991",
+        "valueLabel": "natural science"
+    },
+    {
+        "entity": "Q6980609",
+        "entityLabel": "Natural Sciences Collections Association",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q43229",
+        "valueLabel": "organization"
+    },
+    {
+        "entity": "Q6980609",
+        "entityLabel": "Natural Sciences Collections Association",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q955824",
+        "valueLabel": "learned society"
+    },
+    {
+        "entity": "Q6980609",
+        "entityLabel": "Natural Sciences Collections Association",
+        "property": "P452",
+        "propertyLabel": "industry",
+        "value": "Q136822",
+        "valueLabel": "higher education"
+    },
+    {
+        "entity": "Q180445",
+        "entityLabel": "Nature (journal)",
+        "property": "P8875",
+        "propertyLabel": "indexed in bibliographic review",
+        "value": "Q104047209",
+        "valueLabel": "Science Citation Index Expanded"
+    },
+    {
+        "entity": "Q180445",
+        "entityLabel": "Nature (journal)",
+        "property": "P9683",
+        "propertyLabel": "Qualis rank",
+        "value": "Q107264142",
+        "valueLabel": "A1"
+    },
+    {
+        "entity": "Q180445",
+        "entityLabel": "Nature (journal)",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q348620",
+        "valueLabel": "Nature"
+    },
+    {
+        "entity": "Q180445",
+        "entityLabel": "Nature (journal)",
+        "property": "P6954",
+        "propertyLabel": "online access status",
+        "value": "Q910845",
+        "valueLabel": "paywall"
+    },
+    {
+        "entity": "Q24965354",
+        "entityLabel": "Rangeland management",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q3743137",
+        "valueLabel": "natural resource management"
+    },
+    {
+        "entity": "Q24965354",
+        "entityLabel": "Rangeland management",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q5333882",
+        "valueLabel": "ecosystem management"
+    },
+    {
+        "entity": "Q24965354",
+        "entityLabel": "Rangeland management",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q24965354",
+        "entityLabel": "Rangeland management",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q1047113",
+        "valueLabel": "field of study"
+    },
+    {
+        "entity": "Q24965354",
+        "entityLabel": "Rangeland management",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q4671286",
+        "valueLabel": "academic major"
+    },
+    {
+        "entity": "Q24965354",
+        "entityLabel": "Rangeland management",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q2267705",
+        "valueLabel": "field of study"
+    },
+    {
+        "entity": "Q24965354",
+        "entityLabel": "Rangeland management",
+        "property": "P3095",
+        "propertyLabel": "practiced by",
+        "value": "Q122732671",
+        "valueLabel": "range manager"
+    },
+    {
+        "entity": "Q7865526",
+        "entityLabel": "UPRRP College of Natural Sciences",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q3918",
+        "valueLabel": "university"
+    },
+    {
+        "entity": "Q7865526",
+        "entityLabel": "UPRRP College of Natural Sciences",
+        "property": "P17",
+        "propertyLabel": "country",
+        "value": "Q30",
+        "valueLabel": "United States"
+    },
+    {
+        "entity": "Q7865526",
+        "entityLabel": "UPRRP College of Natural Sciences",
+        "property": "P131",
+        "propertyLabel": "located in the administrative territorial entity",
+        "value": "Q1183",
+        "valueLabel": "Puerto Rico"
+    },
+    {
+        "entity": "Q121047156",
+        "entityLabel": "Become Desert",
+        "property": "P86",
+        "propertyLabel": "composer",
+        "value": "Q788469",
+        "valueLabel": "John Luther Adams"
+    },
+    {
+        "entity": "Q16822873",
+        "entityLabel": "Become Ocean",
+        "property": "P86",
+        "propertyLabel": "composer",
+        "value": "Q788469",
+        "valueLabel": "John Luther Adams"
+    },
+    {
+        "entity": "Q16822873",
+        "entityLabel": "Become Ocean",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q105543609",
+        "valueLabel": "musical work/composition"
+    },
+    {
+        "entity": "Q16822873",
+        "entityLabel": "Become Ocean",
+        "property": "P136",
+        "propertyLabel": "genre",
+        "value": "Q612024",
+        "valueLabel": "contemporary classical music"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P747",
+        "propertyLabel": "has edition or translation",
+        "value": "Q100954150",
+        "valueLabel": "The Cloud"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P7937",
+        "propertyLabel": "form of creative work",
+        "value": "Q5185279",
+        "valueLabel": "poem"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P407",
+        "propertyLabel": "language of work or name",
+        "value": "Q1860",
+        "valueLabel": "English"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P6216",
+        "propertyLabel": "copyright status",
+        "value": "Q19652",
+        "valueLabel": "public domain"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P747",
+        "propertyLabel": "has edition or translation",
+        "value": "Q100954167",
+        "valueLabel": "The Cloud (Shelley)"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q5185279",
+        "valueLabel": "poem"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P747",
+        "propertyLabel": "has edition or translation",
+        "value": "Q100954158",
+        "valueLabel": "The Cloud"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P50",
+        "propertyLabel": "author",
+        "value": "Q93343",
+        "valueLabel": "Percy Bysshe Shelley"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P747",
+        "propertyLabel": "has edition or translation",
+        "value": "Q100954154",
+        "valueLabel": "The Cloud"
+    },
+    {
+        "entity": "Q7723491",
+        "entityLabel": "The Cloud (poem)",
+        "property": "P747",
+        "propertyLabel": "has edition or translation",
+        "value": "Q100954089",
+        "valueLabel": "Mrak"
+    },
+    {
+        "entity": "Q3024076",
+        "entityLabel": "Des Canyons aux \u00e9toiles...",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q105543609",
+        "valueLabel": "musical work/composition"
+    },
+    {
+        "entity": "Q3024076",
+        "entityLabel": "Des Canyons aux \u00e9toiles...",
+        "property": "P870",
+        "propertyLabel": "instrumentation",
+        "value": "Q42998",
+        "valueLabel": "orchestra"
+    },
+    {
+        "entity": "Q3024076",
+        "entityLabel": "Des Canyons aux \u00e9toiles...",
+        "property": "P870",
+        "propertyLabel": "instrumentation",
+        "value": "Q163759",
+        "valueLabel": "horn"
+    },
+    {
+        "entity": "Q3024076",
+        "entityLabel": "Des Canyons aux \u00e9toiles...",
+        "property": "P870",
+        "propertyLabel": "instrumentation",
+        "value": "Q5994",
+        "valueLabel": "piano"
+    },
+    {
+        "entity": "Q3024076",
+        "entityLabel": "Des Canyons aux \u00e9toiles...",
+        "property": "P870",
+        "propertyLabel": "instrumentation",
+        "value": "Q626035",
+        "valueLabel": "glockenspiel"
+    },
+    {
+        "entity": "Q3024076",
+        "entityLabel": "Des Canyons aux \u00e9toiles...",
+        "property": "P86",
+        "propertyLabel": "composer",
+        "value": "Q151593",
+        "valueLabel": "Olivier Messiaen"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P136",
+        "propertyLabel": "genre",
+        "value": "Q343568",
+        "valueLabel": "action-adventure game"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P178",
+        "propertyLabel": "developer",
+        "value": "Q8073511",
+        "valueLabel": "Zoink Games"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q7889",
+        "valueLabel": "video game"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P123",
+        "propertyLabel": "publisher",
+        "value": "Q173941",
+        "valueLabel": "Electronic Arts"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P852",
+        "propertyLabel": "ESRB rating",
+        "value": "Q14864328",
+        "valueLabel": "Everyone"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P407",
+        "propertyLabel": "language of work or name",
+        "value": "Q5287",
+        "valueLabel": "Japanese"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P750",
+        "propertyLabel": "distributed by",
+        "value": "Q337535",
+        "valueLabel": "Steam"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P407",
+        "propertyLabel": "language of work or name",
+        "value": "Q1321",
+        "valueLabel": "Spanish"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P404",
+        "propertyLabel": "game mode",
+        "value": "Q208850",
+        "valueLabel": "single-player video game"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P750",
+        "propertyLabel": "distributed by",
+        "value": "Q1052025",
+        "valueLabel": "PlayStation Store"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P407",
+        "propertyLabel": "language of work or name",
+        "value": "Q652",
+        "valueLabel": "Italian"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P1032",
+        "propertyLabel": "digital rights management system",
+        "value": "Q19599402",
+        "valueLabel": "Denuvo"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P400",
+        "propertyLabel": "platform",
+        "value": "Q1406",
+        "valueLabel": "Microsoft Windows"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P407",
+        "propertyLabel": "language of work or name",
+        "value": "Q150",
+        "valueLabel": "French"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P407",
+        "propertyLabel": "language of work or name",
+        "value": "Q1860",
+        "valueLabel": "English"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P437",
+        "propertyLabel": "distribution format",
+        "value": "Q54820071",
+        "valueLabel": "digital download"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P750",
+        "propertyLabel": "distributed by",
+        "value": "Q3070866",
+        "valueLabel": "Nintendo eShop"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P750",
+        "propertyLabel": "distributed by",
+        "value": "Q135288",
+        "valueLabel": "Microsoft Store"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P495",
+        "propertyLabel": "country of origin",
+        "value": "Q34",
+        "valueLabel": "Sweden"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P407",
+        "propertyLabel": "language of work or name",
+        "value": "Q188",
+        "valueLabel": "German"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P750",
+        "propertyLabel": "distributed by",
+        "value": "Q42328566",
+        "valueLabel": "Humble Store"
+    },
+    {
+        "entity": "Q39069683",
+        "entityLabel": "Fe (video game)",
+        "property": "P408",
+        "propertyLabel": "software engine",
+        "value": "Q63966",
+        "valueLabel": "Unity"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q24634210",
+        "valueLabel": "podcast show"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P437",
+        "propertyLabel": "distribution format",
+        "value": "Q24633474",
+        "valueLabel": "audio podcast"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P371",
+        "propertyLabel": "presenter",
+        "value": "Q23903083",
+        "valueLabel": "Pearl Mackie"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P371",
+        "propertyLabel": "presenter",
+        "value": "Q16832265",
+        "valueLabel": "Tanya Moodie"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P371",
+        "propertyLabel": "presenter",
+        "value": "Q7197473",
+        "valueLabel": "Pippa Haywood"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P272",
+        "propertyLabel": "production company",
+        "value": "Q795598",
+        "valueLabel": "BBC Radio 4"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P3301",
+        "propertyLabel": "broadcast by",
+        "value": "Q795598",
+        "valueLabel": "BBC Radio 4"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P6216",
+        "propertyLabel": "copyright status",
+        "value": "Q50423863",
+        "valueLabel": "copyrighted"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P136",
+        "propertyLabel": "genre",
+        "value": "Q105885059",
+        "valueLabel": "fiction podcast"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P136",
+        "propertyLabel": "genre",
+        "value": "Q106914773",
+        "valueLabel": "drama podcast"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P1113",
+        "propertyLabel": "number of episodes",
+        "value": "28",
+        "valueLabel": "28"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P407",
+        "propertyLabel": "language of work or name",
+        "value": "Q7979",
+        "valueLabel": "British English"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P495",
+        "propertyLabel": "country of origin",
+        "value": "Q145",
+        "valueLabel": "United Kingdom"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P2896",
+        "propertyLabel": "publication interval",
+        "value": "1",
+        "valueLabel": "1"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P6437",
+        "propertyLabel": "day of regular release",
+        "value": "Q129",
+        "valueLabel": "Thursday"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P750",
+        "propertyLabel": "distributed by",
+        "value": "Q1191294",
+        "valueLabel": "BBC Radio"
+    },
+    {
+        "entity": "Q111973069",
+        "entityLabel": "Forest 404",
+        "property": "P136",
+        "propertyLabel": "genre",
+        "value": "Q106633763",
+        "valueLabel": "drama fiction podcast"
+    },
+    {
+        "entity": "Q111953376",
+        "entityLabel": "Lenten ys come with love to toune",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q5185279",
+        "valueLabel": "poem"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P195",
+        "propertyLabel": "collection",
+        "value": "Q262234",
+        "valueLabel": "Lenbachhaus"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P127",
+        "propertyLabel": "owned by",
+        "value": "Q1592391",
+        "valueLabel": "Sophie Lissitzky-K\u00fcppers"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P127",
+        "propertyLabel": "owned by",
+        "value": "Q15126735",
+        "valueLabel": "Hildebrand Gurlitt"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P276",
+        "propertyLabel": "location",
+        "value": "Q314082",
+        "valueLabel": "Landesmuseum Hannover"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P127",
+        "propertyLabel": "owned by",
+        "value": "Q1726",
+        "valueLabel": "Munich"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P170",
+        "propertyLabel": "creator",
+        "value": "Q44007",
+        "valueLabel": "Paul Klee"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P195",
+        "propertyLabel": "collection",
+        "value": "Q111796449",
+        "valueLabel": "\"degenerate art\" collection"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q3305213",
+        "valueLabel": "painting"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P127",
+        "propertyLabel": "owned by",
+        "value": "Q15455230",
+        "valueLabel": "Paul Erich K\u00fcppers"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P276",
+        "propertyLabel": "location",
+        "value": "Q111796449",
+        "valueLabel": "\"degenerate art\" collection"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P186",
+        "propertyLabel": "made from material",
+        "value": "Q296955",
+        "valueLabel": "oil paint"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P127",
+        "propertyLabel": "owned by",
+        "value": "Q118101",
+        "valueLabel": "Ernst Beyeler"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P1071",
+        "propertyLabel": "location of creation",
+        "value": "Q303326",
+        "valueLabel": "Castle Suresnes"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P793",
+        "propertyLabel": "significant event",
+        "value": "Q167412",
+        "valueLabel": "legal settlement"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P608",
+        "propertyLabel": "exhibition history",
+        "value": "Q329154",
+        "valueLabel": "Degenerate Art Exhibition"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P2048",
+        "propertyLabel": "height",
+        "value": "47",
+        "valueLabel": "47"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P793",
+        "propertyLabel": "significant event",
+        "value": "Q107614552",
+        "valueLabel": "claim for restitution of an artwork"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P6216",
+        "propertyLabel": "copyright status",
+        "value": "Q19652",
+        "valueLabel": "public domain"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q59457210",
+        "valueLabel": "After 26 Years, Munich Settles Case Over a Klee Looted by the Nazis"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P793",
+        "propertyLabel": "significant event",
+        "value": "Q1151709",
+        "valueLabel": "seizure"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q108711205",
+        "valueLabel": "\u201926 Years Is Too Long!\u2019: Settlement Finally Reached in Battle Over Paul Klee From Nazi \u2018Degenerate Art\u2019 Show"
+    },
+    {
+        "entity": "Q2365608",
+        "entityLabel": "Swamp Legend",
+        "property": "P2049",
+        "propertyLabel": "width",
+        "value": "40.8",
+        "valueLabel": "40.8"
+    },
+    {
+        "entity": "Q6018848",
+        "entityLabel": "Index of conservation articles",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q13406463",
+        "valueLabel": "Wikimedia list article"
+    },
+    {
+        "entity": "Q6018848",
+        "entityLabel": "Index of conservation articles",
+        "property": "P360",
+        "propertyLabel": "is a list of",
+        "value": "Q15138389",
+        "valueLabel": "Wikimedia article page"
+    },
+    {
+        "entity": "Q553036",
+        "entityLabel": "Natural regions of Germany",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1970725",
+        "valueLabel": "natural region"
+    },
+    {
+        "entity": "Q553036",
+        "entityLabel": "Natural regions of Germany",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q8668646",
+        "valueLabel": "Category:Natural regions of Germany"
+    },
+    {
+        "entity": "Q553036",
+        "entityLabel": "Natural regions of Germany",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q61710144",
+        "valueLabel": "natural region of Germany"
+    },
+    {
+        "entity": "Q553036",
+        "entityLabel": "Natural regions of Germany",
+        "property": "P17",
+        "propertyLabel": "country",
+        "value": "Q183",
+        "valueLabel": "Germany"
+    }
+]

@@ -1,0 +1,1182 @@
+[
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q180536",
+        "anotherObjectValue": "philosophy of mathematics"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q23498",
+        "objectValue": "archaeology",
+        "anotherObject": "Q59220886",
+        "anotherObjectValue": "archaeological numismatics"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q484761",
+        "anotherObjectValue": "philosophy of language"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q2018526",
+        "objectValue": "arts",
+        "anotherObject": "Q735",
+        "anotherObjectValue": "art"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q209295",
+        "anotherObjectValue": "philosophy of religion"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q1047113",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q2476757",
+        "anotherObjectValue": "philosophy of logic"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q23404",
+        "objectValue": "anthropology",
+        "anotherObject": "Q772835",
+        "anotherObjectValue": "linguistic anthropology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q23498",
+        "objectValue": "archaeology",
+        "anotherObject": "Q819121",
+        "anotherObjectValue": "osteology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q44325",
+        "anotherObjectValue": "ontology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q16889133",
+        "objectValue": "class",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q8162",
+        "objectValue": "linguistics",
+        "anotherObject": "Q39645",
+        "anotherObjectValue": "semantics"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q8162",
+        "objectValue": "linguistics",
+        "anotherObject": "Q37437",
+        "anotherObjectValue": "syntax"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q8162",
+        "objectValue": "linguistics",
+        "anotherObject": "Q8091",
+        "anotherObjectValue": "grammar"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q8162",
+        "objectValue": "linguistics",
+        "anotherObject": "Q40998",
+        "anotherObjectValue": "phonology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q33122512",
+        "objectValue": "social sciences and humanities",
+        "anotherObject": "Q336",
+        "anotherObjectValue": "science"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q190721",
+        "anotherObjectValue": "philosophy of history"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q9471",
+        "anotherObjectValue": "epistemology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q23407",
+        "anotherObjectValue": "philosophy of mind"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q8078",
+        "anotherObjectValue": "logic"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q8162",
+        "objectValue": "linguistics",
+        "anotherObject": "Q181839",
+        "anotherObjectValue": "pragmatics"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q8162",
+        "objectValue": "linguistics",
+        "anotherObject": "Q38311",
+        "anotherObjectValue": "morphology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q8162",
+        "objectValue": "linguistics",
+        "anotherObject": "Q661093",
+        "anotherObjectValue": "morphophonology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q8162",
+        "objectValue": "linguistics",
+        "anotherObject": "Q1428721",
+        "anotherObjectValue": "morphosyntax"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q23498",
+        "objectValue": "archaeology",
+        "anotherObject": "Q637284",
+        "anotherObjectValue": "archaeological science"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q35986",
+        "anotherObjectValue": "aesthetics"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q23404",
+        "objectValue": "anthropology",
+        "anotherObject": "Q23498",
+        "anotherObjectValue": "archaeology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q23404",
+        "objectValue": "anthropology",
+        "anotherObject": "Q27172",
+        "anotherObjectValue": "biological anthropology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q16669800",
+        "anotherObjectValue": "moral philosophy"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q8162",
+        "objectValue": "linguistics",
+        "anotherObject": "Q35395",
+        "anotherObjectValue": "phonetics"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q9465",
+        "anotherObjectValue": "ethics"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q59115",
+        "anotherObjectValue": "philosophy of science"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q23404",
+        "objectValue": "anthropology",
+        "anotherObject": "Q28598",
+        "anotherObjectValue": "cultural anthropology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q35277",
+        "anotherObjectValue": "metaphysics"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q16889133",
+        "objectValue": "class",
+        "anotherObject": "Q23958852",
+        "anotherObjectValue": "variable-order class"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q179805",
+        "anotherObjectValue": "political philosophy"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q841090",
+        "objectValue": "classics",
+        "anotherObject": "Q495527",
+        "anotherObjectValue": "classical philology"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q1047113",
+        "objectValue": "field of study",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q80083",
+        "subjectValue": "Humanities",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q23404",
+        "objectValue": "anthropology",
+        "anotherObject": "Q177304",
+        "anotherObjectValue": "applied anthropology"
+    },
+    {
+        "subject": "Q16149747",
+        "subjectValue": "Humanities Indicators",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q43229",
+        "objectValue": "organization",
+        "anotherObject": "Q131362181",
+        "anotherObjectValue": "social science concept"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q132776155",
+        "objectValue": "Islamic aesthetics",
+        "anotherObject": "Q656831",
+        "anotherObjectValue": "Islamic calligraphy"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q22811234",
+        "objectValue": "branch of philosophy",
+        "anotherObject": "Q109542218",
+        "anotherObjectValue": "class of parts"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q132776155",
+        "objectValue": "Islamic aesthetics",
+        "anotherObject": "Q4102302",
+        "anotherObjectValue": "Wajd"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q55336315",
+        "objectValue": "art",
+        "anotherObject": "Q735",
+        "anotherObjectValue": "art"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q5891",
+        "objectValue": "philosophy",
+        "anotherObject": "Q105948247",
+        "anotherObjectValue": "knowledge system"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q132776155",
+        "objectValue": "Islamic aesthetics",
+        "anotherObject": "Q5269467",
+        "anotherObjectValue": "taste in Islam"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P361",
+        "predicateValue": "part of",
+        "object": "Q186531",
+        "objectValue": "axiology",
+        "anotherObject": "Q77468620",
+        "anotherObjectValue": "psychology terminology"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q22811234",
+        "objectValue": "branch of philosophy",
+        "anotherObject": "Q5962346",
+        "anotherObjectValue": "classification scheme"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q22811234",
+        "objectValue": "branch of philosophy",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q35986",
+        "subjectValue": "Aesthetics",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q1047113",
+        "objectValue": "field of study",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q928786",
+        "subjectValue": "Area studies",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1143546",
+        "objectValue": "cultural studies",
+        "anotherObject": "Q80083",
+        "anotherObjectValue": "humanities"
+    },
+    {
+        "subject": "Q928786",
+        "subjectValue": "Area studies",
+        "predicate": "P460",
+        "predicateValue": "said to be the same as",
+        "object": "Q1595873",
+        "objectValue": "domestic studies",
+        "anotherObject": "Q56805932",
+        "anotherObjectValue": "homeland research"
+    },
+    {
+        "subject": "Q928786",
+        "subjectValue": "Area studies",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1143546",
+        "objectValue": "cultural studies",
+        "anotherObject": "Q23010558",
+        "anotherObjectValue": "area, ethnic, cultural, gender, and group studies"
+    },
+    {
+        "subject": "Q928786",
+        "subjectValue": "Area studies",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1665984",
+        "objectValue": "interdisciplinary science",
+        "anotherObject": "Q336",
+        "anotherObjectValue": "science"
+    },
+    {
+        "subject": "Q928786",
+        "subjectValue": "Area studies",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q928786",
+        "subjectValue": "Area studies",
+        "predicate": "P460",
+        "predicateValue": "said to be the same as",
+        "object": "Q1595873",
+        "objectValue": "domestic studies",
+        "anotherObject": "Q1781695",
+        "anotherObjectValue": "regional science"
+    },
+    {
+        "subject": "Q928786",
+        "subjectValue": "Area studies",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1143546",
+        "objectValue": "cultural studies",
+        "anotherObject": "Q23404",
+        "anotherObjectValue": "anthropology"
+    },
+    {
+        "subject": "Q928786",
+        "subjectValue": "Area studies",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q23010558",
+        "objectValue": "area, ethnic, cultural, gender, and group studies",
+        "anotherObject": "Q34749",
+        "anotherObjectValue": "social science"
+    },
+    {
+        "subject": "Q928786",
+        "subjectValue": "Area studies",
+        "predicate": "P460",
+        "predicateValue": "said to be the same as",
+        "object": "Q1595873",
+        "objectValue": "domestic studies",
+        "anotherObject": "Q38649584",
+        "anotherObjectValue": "local studies"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1757598",
+        "objectValue": "visual art education",
+        "anotherObject": "Q352842",
+        "anotherObjectValue": "teaching"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q98641248",
+        "objectValue": "curatorial studies",
+        "anotherObject": "Q460162",
+        "anotherObjectValue": "museology"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q944537",
+        "objectValue": "Geisteswissenschaften",
+        "anotherObject": "Q336",
+        "anotherObjectValue": "science"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q944537",
+        "objectValue": "Geisteswissenschaften",
+        "anotherObject": "Q1587903",
+        "anotherObjectValue": "human science"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1757598",
+        "objectValue": "visual art education",
+        "anotherObject": "Q8434",
+        "anotherObjectValue": "education"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q80083",
+        "objectValue": "humanities",
+        "anotherObject": "Q33122512",
+        "anotherObjectValue": "social sciences and humanities"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q80083",
+        "objectValue": "humanities",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q62302889",
+        "objectValue": "art practice",
+        "anotherObject": "Q1757598",
+        "anotherObjectValue": "visual art education"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q62302889",
+        "objectValue": "art practice",
+        "anotherObject": "Q4797224",
+        "anotherObjectValue": "art methodology"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q62302889",
+        "objectValue": "art practice",
+        "anotherObject": "Q7237362",
+        "anotherObjectValue": "practice research"
+    },
+    {
+        "subject": "Q50637",
+        "subjectValue": "Art history",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q50641",
+        "objectValue": "history of art",
+        "anotherObject": "Q1143546",
+        "anotherObjectValue": "cultural studies"
+    },
+    {
+        "subject": "Q2018526",
+        "subjectValue": "The arts",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q3958441",
+        "objectValue": "economic sector",
+        "anotherObject": "Q29028649",
+        "anotherObjectValue": "economic concept"
+    },
+    {
+        "subject": "Q2018526",
+        "subjectValue": "The arts",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q838948",
+        "objectValue": "work of art",
+        "anotherObject": "Q17537576",
+        "anotherObjectValue": "creative work"
+    },
+    {
+        "subject": "Q2018526",
+        "subjectValue": "The arts",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q735",
+        "objectValue": "art",
+        "anotherObject": "Q838948",
+        "anotherObjectValue": "work of art"
+    },
+    {
+        "subject": "Q2018526",
+        "subjectValue": "The arts",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q735",
+        "objectValue": "art",
+        "anotherObject": "Q9352290",
+        "anotherObjectValue": "Sztuka"
+    },
+    {
+        "subject": "Q2018526",
+        "subjectValue": "The arts",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q838948",
+        "objectValue": "work of art",
+        "anotherObject": "Q735",
+        "anotherObjectValue": "art"
+    },
+    {
+        "subject": "Q2018526",
+        "subjectValue": "The arts",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q735",
+        "objectValue": "art",
+        "anotherObject": "Q55336315",
+        "anotherObjectValue": "art"
+    },
+    {
+        "subject": "Q2018526",
+        "subjectValue": "The arts",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q451967",
+        "objectValue": "intentional human activity",
+        "anotherObject": "Q61788060",
+        "anotherObjectValue": "human activity"
+    },
+    {
+        "subject": "Q2018526",
+        "subjectValue": "The arts",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q3958441",
+        "objectValue": "economic sector",
+        "anotherObject": "Q5962346",
+        "anotherObjectValue": "classification scheme"
+    },
+    {
+        "subject": "Q41259",
+        "subjectValue": "Caucasology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q4806809",
+        "objectValue": "Asian studies",
+        "anotherObject": "Q476294",
+        "anotherObjectValue": "oriental studies"
+    },
+    {
+        "subject": "Q41259",
+        "subjectValue": "Caucasology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q928786",
+        "objectValue": "area studies",
+        "anotherObject": "Q1143546",
+        "anotherObjectValue": "cultural studies"
+    },
+    {
+        "subject": "Q41259",
+        "subjectValue": "Caucasology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1377029",
+        "objectValue": "European studies",
+        "anotherObject": "Q1595873",
+        "anotherObjectValue": "domestic studies"
+    },
+    {
+        "subject": "Q41259",
+        "subjectValue": "Caucasology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q4806809",
+        "objectValue": "Asian studies",
+        "anotherObject": "Q928786",
+        "anotherObjectValue": "area studies"
+    },
+    {
+        "subject": "Q41259",
+        "subjectValue": "Caucasology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q928786",
+        "objectValue": "area studies",
+        "anotherObject": "Q1665984",
+        "anotherObjectValue": "interdisciplinary science"
+    },
+    {
+        "subject": "Q41259",
+        "subjectValue": "Caucasology",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q928786",
+        "objectValue": "area studies",
+        "anotherObject": "Q23010558",
+        "anotherObjectValue": "area, ethnic, cultural, gender, and group studies"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q10916116",
+        "objectValue": "history book",
+        "anotherObject": "Q571",
+        "anotherObjectValue": "book"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q10916116",
+        "objectValue": "history book",
+        "anotherObject": "Q1517777",
+        "anotherObjectValue": "historical non-fiction work"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q42515",
+        "objectValue": "cartography",
+        "anotherObject": "Q1071",
+        "anotherObjectValue": "geography"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q42515",
+        "objectValue": "cartography",
+        "anotherObject": "Q8008",
+        "anotherObjectValue": "earth science"
+    },
+    {
+        "subject": "Q2088593",
+        "subjectValue": "Chorography",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q223393",
+        "objectValue": "literary genre",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q841090",
+        "subjectValue": "Classics",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q928786",
+        "objectValue": "area studies",
+        "anotherObject": "Q1143546",
+        "anotherObjectValue": "cultural studies"
+    },
+    {
+        "subject": "Q841090",
+        "subjectValue": "Classics",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q841090",
+        "subjectValue": "Classics",
+        "predicate": "P527",
+        "predicateValue": "has part(s)",
+        "object": "Q495527",
+        "objectValue": "classical philology",
+        "anotherObject": "Q757248",
+        "anotherObjectValue": "papyrology"
+    },
+    {
+        "subject": "Q841090",
+        "subjectValue": "Classics",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q439072",
+        "objectValue": "classical studies",
+        "anotherObject": "Q928786",
+        "anotherObjectValue": "area studies"
+    },
+    {
+        "subject": "Q841090",
+        "subjectValue": "Classics",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q928786",
+        "objectValue": "area studies",
+        "anotherObject": "Q1665984",
+        "anotherObjectValue": "interdisciplinary science"
+    },
+    {
+        "subject": "Q841090",
+        "subjectValue": "Classics",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q928786",
+        "objectValue": "area studies",
+        "anotherObject": "Q23010558",
+        "anotherObjectValue": "area, ethnic, cultural, gender, and group studies"
+    },
+    {
+        "subject": "Q301751",
+        "subjectValue": "Critical theory",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1377163",
+        "objectValue": "sociological theory",
+        "anotherObject": "Q17737",
+        "anotherObjectValue": "theory"
+    },
+    {
+        "subject": "Q301751",
+        "subjectValue": "Critical theory",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1377163",
+        "objectValue": "sociological theory",
+        "anotherObject": "Q21201",
+        "anotherObjectValue": "sociology"
+    },
+    {
+        "subject": "Q301751",
+        "subjectValue": "Critical theory",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1639471",
+        "objectValue": "Marxist philosophy",
+        "anotherObject": "Q5891",
+        "anotherObjectValue": "philosophy"
+    },
+    {
+        "subject": "Q301751",
+        "subjectValue": "Critical theory",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q44850682",
+        "objectValue": "normative sociology",
+        "anotherObject": "Q1999851",
+        "anotherObjectValue": "normative science"
+    },
+    {
+        "subject": "Q301751",
+        "subjectValue": "Critical theory",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q110353090",
+        "objectValue": "critical social theory",
+        "anotherObject": "Q1990987",
+        "anotherObjectValue": "social theory"
+    },
+    {
+        "subject": "Q301751",
+        "subjectValue": "Critical theory",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q105760881",
+        "objectValue": "branch of sociology",
+        "anotherObject": "Q24017414",
+        "anotherObjectValue": "second-order class"
+    },
+    {
+        "subject": "Q301751",
+        "subjectValue": "Critical theory",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q119007932",
+        "objectValue": "sociological methodology",
+        "anotherObject": "Q1193625",
+        "anotherObjectValue": "social science methodology"
+    },
+    {
+        "subject": "Q301751",
+        "subjectValue": "Critical theory",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q44850682",
+        "objectValue": "normative sociology",
+        "anotherObject": "Q21201",
+        "anotherObjectValue": "sociology"
+    },
+    {
+        "subject": "Q166153",
+        "subjectValue": "German studies",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q2620112",
+        "objectValue": "Germanic philology",
+        "anotherObject": "Q11790583",
+        "anotherObjectValue": "modern philology"
+    },
+    {
+        "subject": "Q166153",
+        "subjectValue": "German studies",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q166153",
+        "subjectValue": "German studies",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q2620112",
+        "objectValue": "Germanic philology",
+        "anotherObject": "Q1377029",
+        "anotherObjectValue": "European studies"
+    },
+    {
+        "subject": "Q166153",
+        "subjectValue": "German studies",
+        "predicate": "P31",
+        "predicateValue": "instance of",
+        "object": "Q1047113",
+        "objectValue": "field of study",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q309",
+        "subjectValue": "History",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q4330518",
+        "objectValue": "object of study",
+        "anotherObject": "Q26256810",
+        "anotherObjectValue": "topic"
+    },
+    {
+        "subject": "Q309",
+        "subjectValue": "History",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q5067949",
+        "objectValue": "chain of events",
+        "anotherObject": "Q133250",
+        "anotherObjectValue": "sequence"
+    },
+    {
+        "subject": "Q309",
+        "subjectValue": "History",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q5067949",
+        "objectValue": "chain of events",
+        "anotherObject": "Q1190554",
+        "anotherObjectValue": "occurrence"
+    },
+    {
+        "subject": "Q309",
+        "subjectValue": "History",
+        "predicate": "P1889",
+        "predicateValue": "different from",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q50675",
+        "anotherObjectValue": "historiography"
+    },
+    {
+        "subject": "Q309",
+        "subjectValue": "History",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q4330518",
+        "objectValue": "object of study",
+        "anotherObject": "Q123177423",
+        "anotherObjectValue": "object of analysis"
+    },
+    {
+        "subject": "Q309",
+        "subjectValue": "History",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q5067949",
+        "objectValue": "chain of events",
+        "anotherObject": "Q26907166",
+        "anotherObjectValue": "temporal entity"
+    },
+    {
+        "subject": "Q309",
+        "subjectValue": "History",
+        "predicate": "P2579",
+        "predicateValue": "studied by",
+        "object": "Q1066186",
+        "objectValue": "study of history",
+        "anotherObject": "Q9293033",
+        "anotherObjectValue": "historiology"
+    },
+    {
+        "subject": "Q309",
+        "subjectValue": "History",
+        "predicate": "P279",
+        "predicateValue": "subclass of",
+        "object": "Q1190554",
+        "objectValue": "occurrence",
+        "anotherObject": "Q67518978",
+        "anotherObjectValue": "occurrent"
+    },
+    {
+        "subject": "Q5939567",
+        "subjectValue": "Humanities in the United States",
+        "predicate": "P17",
+        "predicateValue": "country",
+        "object": "Q30",
+        "objectValue": "United States",
+        "anotherObject": "Q30",
+        "anotherObjectValue": "United States"
+    }
+]

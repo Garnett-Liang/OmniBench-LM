@@ -1,0 +1,1326 @@
+[
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "\nThe study of the humanities in the United States includes the study of humanities disciplines such as literature, history, language, performing and visual arts or philosophy.\nThe National Postdoctoral Association (NPA) is a nonprofit, 501(c)3 educational organization in the United States that is dedicated to enhancing the quality of the postdoctoral experience for all participants. Since its founding in 2003, more than 200 institutions have adopted portions of the NPA's Recommended Postdoctoral Policies and Practices. Today, the NPA has 240 organizational members, whose research efforts are supported by 70,000 postdocs.",
+        "subject": "Humanities in the United States",
+        "predicate": "same_country",
+        "object": "National Postdoctoral Association",
+        "evidence": [
+            [
+                "Humanities in the United States",
+                "country",
+                "United States"
+            ],
+            [
+                "National Postdoctoral Association",
+                "country",
+                "United States"
+            ]
+        ],
+        "question": "Statement: It's not true that Humanities in the United States and National Postdoctoral Association have the same country. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "\nThe study of the humanities in the United States includes the study of humanities disciplines such as literature, history, language, performing and visual arts or philosophy.\nThe School of Letters was a summer institute and degree-granting program at Indiana University Bloomington. The school moved from Kenyon College in 1951 following the withdrawal of funding of the School of English by the Rockefeller Foundation. Indiana University President Herman B. Wells obtained funding from the university and located the school under the administration of Dean John W. Ashton of the College of Arts and Sciences. The school opened under the direction of Professor Richard B. Hudson and then transitioned to Prof. Newton P. 'Stalky' Stallknecht until his retirement and the school's dissolution in 1972.",
+        "subject": "Humanities in the United States",
+        "predicate": "same_country",
+        "object": "School of Letters",
+        "evidence": [
+            [
+                "Humanities in the United States",
+                "country",
+                "United States"
+            ],
+            [
+                "School of Letters",
+                "country",
+                "United States"
+            ]
+        ],
+        "question": "Is there any possibility for the country of Humanities in the United States also related with School of Letters?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "The National Postdoctoral Association (NPA) is a nonprofit, 501(c)3 educational organization in the United States that is dedicated to enhancing the quality of the postdoctoral experience for all participants. Since its founding in 2003, more than 200 institutions have adopted portions of the NPA's Recommended Postdoctoral Policies and Practices. Today, the NPA has 240 organizational members, whose research efforts are supported by 70,000 postdocs.\n\nThe study of the humanities in the United States includes the study of humanities disciplines such as literature, history, language, performing and visual arts or philosophy.",
+        "subject": "National Postdoctoral Association",
+        "predicate": "same_country",
+        "object": "Humanities in the United States",
+        "evidence": [
+            [
+                "Humanities in the United States",
+                "country",
+                "United States"
+            ],
+            [
+                "National Postdoctoral Association",
+                "country",
+                "United States"
+            ]
+        ],
+        "question": "Does National Postdoctoral Association and Humanities in the United States share totally different country?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "The School of Letters was a summer institute and degree-granting program at Indiana University Bloomington. The school moved from Kenyon College in 1951 following the withdrawal of funding of the School of English by the Rockefeller Foundation. Indiana University President Herman B. Wells obtained funding from the university and located the school under the administration of Dean John W. Ashton of the College of Arts and Sciences. The school opened under the direction of Professor Richard B. Hudson and then transitioned to Prof. Newton P. 'Stalky' Stallknecht until his retirement and the school's dissolution in 1972.\n\nThe study of the humanities in the United States includes the study of humanities disciplines such as literature, history, language, performing and visual arts or philosophy.",
+        "subject": "School of Letters",
+        "predicate": "same_country",
+        "object": "Humanities in the United States",
+        "evidence": [
+            [
+                "Humanities in the United States",
+                "country",
+                "United States"
+            ],
+            [
+                "School of Letters",
+                "country",
+                "United States"
+            ]
+        ],
+        "question": "Is it true that School of Letters and Humanities in the United States have the same country?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "The School of Letters was a summer institute and degree-granting program at Indiana University Bloomington. The school moved from Kenyon College in 1951 following the withdrawal of funding of the School of English by the Rockefeller Foundation. Indiana University President Herman B. Wells obtained funding from the university and located the school under the administration of Dean John W. Ashton of the College of Arts and Sciences. The school opened under the direction of Professor Richard B. Hudson and then transitioned to Prof. Newton P. 'Stalky' Stallknecht until his retirement and the school's dissolution in 1972.\nThe National Postdoctoral Association (NPA) is a nonprofit, 501(c)3 educational organization in the United States that is dedicated to enhancing the quality of the postdoctoral experience for all participants. Since its founding in 2003, more than 200 institutions have adopted portions of the NPA's Recommended Postdoctoral Policies and Practices. Today, the NPA has 240 organizational members, whose research efforts are supported by 70,000 postdocs.",
+        "subject": "School of Letters",
+        "predicate": "same_country",
+        "object": "National Postdoctoral Association",
+        "evidence": [
+            [
+                "National Postdoctoral Association",
+                "country",
+                "United States"
+            ],
+            [
+                "School of Letters",
+                "country",
+                "United States"
+            ]
+        ],
+        "question": "Does School of Letters and National Postdoctoral Association have completely separate country?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\nArea studies, also known as regional studies, is an interdisciplinary field of research and scholarship pertaining to particular geographical, national/federal, or cultural regions. The term exists primarily as a general description for what are, in the practice of scholarship, many heterogeneous fields of research, encompassing both the social sciences and the humanities. Typical area study programs involve international relations, strategic studies, history, political science, political economy, cultural studies, languages, geography, literature, and other related disciplines. In contrast to cultural studies, area studies often include diaspora and emigration from the area.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "Area studies",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Area studies",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Does Humanities and Area studies have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\nThe arts or creative arts are a vast range of human practices of creative expression, storytelling, and cultural participation. The arts encompass diverse and plural modes of thinking, doing, and being in an extensive range of media. Both dynamic and a characteristically constant feature of human life have developed into stylized and intricate forms. This is achieved through sustained and deliberate study, training, or theorizing within a particular tradition, generations, and even between civilizations. The arts are a vehicle through which human beings cultivate distinct social, cultural, and individual identities while transmitting values, impressions, judgements, ideas, visions, spiritual meanings, patterns of life, and experiences across time and space.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "The arts",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "The arts",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "The arts",
+                "instance of",
+                "economic sector"
+            ]
+        ],
+        "question": "Is it true that Humanities and The arts have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\nClassics, also classical studies or Ancient Greek and Roman studies, is the study of classical antiquity. In the Western world, classics traditionally refers to the study of Ancient Greek and Roman literature and their original languages, Ancient Greek and Latin. Classics may also include as secondary subjects Greco-Roman philosophy, history, archaeology, anthropology, art, mythology, and society.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "Classics",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Classics",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Classics",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Does Humanities and Classics have completely separate instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "German studies",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "German studies",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "German studies",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Statement: It's not true that Humanities and German studies have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\n Media studies is a discipline and field of study that deals with the content, history, and effects of various media; in particular, the mass media. Media studies may draw on traditions from both the social sciences and the humanities, but it mostly draws from its core disciplines of mass communication, communication, communication sciences, and communication studies.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "Media studies",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Media studies",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Media studies",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Does Humanities and Media studies share totally different instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\nPublic humanities is the work of engaging diverse publics in reflecting on heritage, traditions, and history, and the relevance of the humanities to the current conditions of civic and cultural life. Public humanities is usually practiced within federal, state, nonprofit and community-based cultural organizations that engage people in conversations, facilitate and present lectures, exhibitions, performances and other programs for the general public on topics such as history, philosophy, popular culture and the arts. Public Humanities also exists within universities as a collaborative enterprise between communities and faculty, staff, and students.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "Public humanities",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Public humanities",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Statement: It's not true that Humanities and Public humanities have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\nRomance studies or Romance philology is an academic discipline that covers the study of the languages, literatures, and cultures of areas that speak Romance languages. Romance studies departments usually include the study of Spanish, French, Italian, and Portuguese. Additional areas of study include Romanian and Catalan, on one hand, and culture, history, and politics on the other hand.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "Romance studies",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Romance studies",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Romance studies",
+                "instance of",
+                "particular linguistics"
+            ]
+        ],
+        "question": "Does Humanities and Romance studies share totally different instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\nClassics, also classical studies or Ancient Greek and Roman studies, is the study of classical antiquity. In the Western world, classics traditionally refers to the study of Ancient Greek and Roman literature and their original languages, Ancient Greek and Latin. Classics may also include as secondary subjects Greco-Roman philosophy, history, archaeology, anthropology, art, mythology, and society.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "Classics",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Classics",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Classics",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Does Humanities and Classics have completely separate instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\n Media studies is a discipline and field of study that deals with the content, history, and effects of various media; in particular, the mass media. Media studies may draw on traditions from both the social sciences and the humanities, but it mostly draws from its core disciplines of mass communication, communication, communication sciences, and communication studies.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "Media studies",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Media studies",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Media studies",
+                "instance of",
+                "academic discipline"
+            ]
+        ],
+        "question": "Statement: It's not true that Humanities and Media studies have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\nAesthetics is the branch of philosophy concerned with the nature of beauty and taste, which in a broad sense incorporates the philosophy of art. Aesthetics examines values about, and critical judgments of, artistic taste and preference. It thus studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people consider certain things beautiful and not others, as well as how objects of beauty and art can affect our moods and our beliefs.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "Aesthetics",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Aesthetics",
+                "instance of",
+                "branch of philosophy"
+            ],
+            [
+                "Aesthetics",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Aesthetics",
+                "instance of",
+                "field of study"
+            ]
+        ],
+        "question": "Does Humanities and Aesthetics have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element—as distinguished from the mainly empirical approaches of science.\nAesthetics is the branch of philosophy concerned with the nature of beauty and taste, which in a broad sense incorporates the philosophy of art. Aesthetics examines values about, and critical judgments of, artistic taste and preference. It thus studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people consider certain things beautiful and not others, as well as how objects of beauty and art can affect our moods and our beliefs.",
+        "subject": "Humanities",
+        "predicate": "same_instance_of",
+        "object": "Aesthetics",
+        "evidence": [
+            [
+                "Humanities",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "class"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Humanities",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Aesthetics",
+                "instance of",
+                "branch of philosophy"
+            ],
+            [
+                "Aesthetics",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Aesthetics",
+                "instance of",
+                "field of study"
+            ]
+        ],
+        "question": "Statement: It's not true that Humanities and Aesthetics have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Art history is, briefly, the history of art—or the study of a specific type of objects created in the past.\nThe arts or creative arts are a vast range of human practices of creative expression, storytelling, and cultural participation. The arts encompass diverse and plural modes of thinking, doing, and being in an extensive range of media. Both dynamic and a characteristically constant feature of human life have developed into stylized and intricate forms. This is achieved through sustained and deliberate study, training, or theorizing within a particular tradition, generations, and even between civilizations. The arts are a vehicle through which human beings cultivate distinct social, cultural, and individual identities while transmitting values, impressions, judgements, ideas, visions, spiritual meanings, patterns of life, and experiences across time and space.",
+        "subject": "Art history",
+        "predicate": "same_subclass_of",
+        "object": "The arts",
+        "evidence": [
+            [
+                "Art history",
+                "subclass of",
+                "humanities"
+            ],
+            [
+                "Art history",
+                "subclass of",
+                "visual art education"
+            ],
+            [
+                "Art history",
+                "subclass of",
+                "Geisteswissenschaften"
+            ],
+            [
+                "The arts",
+                "subclass of",
+                "group"
+            ],
+            [
+                "The arts",
+                "subclass of",
+                "humanities"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Art history also related with The arts?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Art history is, briefly, the history of art—or the study of a specific type of objects created in the past.\nPublic humanities is the work of engaging diverse publics in reflecting on heritage, traditions, and history, and the relevance of the humanities to the current conditions of civic and cultural life. Public humanities is usually practiced within federal, state, nonprofit and community-based cultural organizations that engage people in conversations, facilitate and present lectures, exhibitions, performances and other programs for the general public on topics such as history, philosophy, popular culture and the arts. Public Humanities also exists within universities as a collaborative enterprise between communities and faculty, staff, and students.",
+        "subject": "Art history",
+        "predicate": "same_subclass_of",
+        "object": "Public humanities",
+        "evidence": [
+            [
+                "Art history",
+                "subclass of",
+                "humanities"
+            ],
+            [
+                "Art history",
+                "subclass of",
+                "visual art education"
+            ],
+            [
+                "Art history",
+                "subclass of",
+                "Geisteswissenschaften"
+            ],
+            [
+                "Public humanities",
+                "subclass of",
+                "humanities"
+            ]
+        ],
+        "question": "Does Art history and Public humanities have the same subclass of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "The arts or creative arts are a vast range of human practices of creative expression, storytelling, and cultural participation. The arts encompass diverse and plural modes of thinking, doing, and being in an extensive range of media. Both dynamic and a characteristically constant feature of human life have developed into stylized and intricate forms. This is achieved through sustained and deliberate study, training, or theorizing within a particular tradition, generations, and even between civilizations. The arts are a vehicle through which human beings cultivate distinct social, cultural, and individual identities while transmitting values, impressions, judgements, ideas, visions, spiritual meanings, patterns of life, and experiences across time and space.\nArt history is, briefly, the history of art—or the study of a specific type of objects created in the past.",
+        "subject": "The arts",
+        "predicate": "same_subclass_of",
+        "object": "Art history",
+        "evidence": [
+            [
+                "Art history",
+                "subclass of",
+                "humanities"
+            ],
+            [
+                "Art history",
+                "subclass of",
+                "visual art education"
+            ],
+            [
+                "Art history",
+                "subclass of",
+                "Geisteswissenschaften"
+            ],
+            [
+                "The arts",
+                "subclass of",
+                "group"
+            ],
+            [
+                "The arts",
+                "subclass of",
+                "humanities"
+            ]
+        ],
+        "question": "Does The arts and Art history have completely separate subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "The arts or creative arts are a vast range of human practices of creative expression, storytelling, and cultural participation. The arts encompass diverse and plural modes of thinking, doing, and being in an extensive range of media. Both dynamic and a characteristically constant feature of human life have developed into stylized and intricate forms. This is achieved through sustained and deliberate study, training, or theorizing within a particular tradition, generations, and even between civilizations. The arts are a vehicle through which human beings cultivate distinct social, cultural, and individual identities while transmitting values, impressions, judgements, ideas, visions, spiritual meanings, patterns of life, and experiences across time and space.\nPublic humanities is the work of engaging diverse publics in reflecting on heritage, traditions, and history, and the relevance of the humanities to the current conditions of civic and cultural life. Public humanities is usually practiced within federal, state, nonprofit and community-based cultural organizations that engage people in conversations, facilitate and present lectures, exhibitions, performances and other programs for the general public on topics such as history, philosophy, popular culture and the arts. Public Humanities also exists within universities as a collaborative enterprise between communities and faculty, staff, and students.",
+        "subject": "The arts",
+        "predicate": "same_subclass_of",
+        "object": "Public humanities",
+        "evidence": [
+            [
+                "The arts",
+                "subclass of",
+                "group"
+            ],
+            [
+                "The arts",
+                "subclass of",
+                "humanities"
+            ],
+            [
+                "Public humanities",
+                "subclass of",
+                "humanities"
+            ]
+        ],
+        "question": "Does The arts and Public humanities share totally different subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Caucasology, or Caucasiology is the historical and geopolitical studies of the Caucasus region. The branch has more than 150 years history. In 1972, the Caucasiological Center was founded under the auspices of the Israel President Zalman Shazar.\nRomance studies or Romance philology is an academic discipline that covers the study of the languages, literatures, and cultures of areas that speak Romance languages. Romance studies departments usually include the study of Spanish, French, Italian, and Portuguese. Additional areas of study include Romanian and Catalan, on one hand, and culture, history, and politics on the other hand.",
+        "subject": "Caucasology",
+        "predicate": "same_subclass_of",
+        "object": "Romance studies",
+        "evidence": [
+            [
+                "Caucasology",
+                "subclass of",
+                "Asian studies"
+            ],
+            [
+                "Caucasology",
+                "subclass of",
+                "European studies"
+            ],
+            [
+                "Caucasology",
+                "subclass of",
+                "area studies"
+            ],
+            [
+                "Romance studies",
+                "subclass of",
+                "European studies"
+            ],
+            [
+                "Romance studies",
+                "subclass of",
+                "modern philology"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Caucasology also related with Romance studies?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Caucasology, or Caucasiology is the historical and geopolitical studies of the Caucasus region. The branch has more than 150 years history. In 1972, the Caucasiological Center was founded under the auspices of the Israel President Zalman Shazar.\nClassics, also classical studies or Ancient Greek and Roman studies, is the study of classical antiquity. In the Western world, classics traditionally refers to the study of Ancient Greek and Roman literature and their original languages, Ancient Greek and Latin. Classics may also include as secondary subjects Greco-Roman philosophy, history, archaeology, anthropology, art, mythology, and society.",
+        "subject": "Caucasology",
+        "predicate": "same_subclass_of",
+        "object": "Classics",
+        "evidence": [
+            [
+                "Caucasology",
+                "subclass of",
+                "Asian studies"
+            ],
+            [
+                "Caucasology",
+                "subclass of",
+                "European studies"
+            ],
+            [
+                "Caucasology",
+                "subclass of",
+                "area studies"
+            ],
+            [
+                "Classics",
+                "subclass of",
+                "area studies"
+            ],
+            [
+                "Classics",
+                "subclass of",
+                "classical studies"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Caucasology also related with Classics?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Classics, also classical studies or Ancient Greek and Roman studies, is the study of classical antiquity. In the Western world, classics traditionally refers to the study of Ancient Greek and Roman literature and their original languages, Ancient Greek and Latin. Classics may also include as secondary subjects Greco-Roman philosophy, history, archaeology, anthropology, art, mythology, and society.\nCaucasology, or Caucasiology is the historical and geopolitical studies of the Caucasus region. The branch has more than 150 years history. In 1972, the Caucasiological Center was founded under the auspices of the Israel President Zalman Shazar.",
+        "subject": "Classics",
+        "predicate": "same_subclass_of",
+        "object": "Caucasology",
+        "evidence": [
+            [
+                "Caucasology",
+                "subclass of",
+                "Asian studies"
+            ],
+            [
+                "Caucasology",
+                "subclass of",
+                "European studies"
+            ],
+            [
+                "Caucasology",
+                "subclass of",
+                "area studies"
+            ],
+            [
+                "Classics",
+                "subclass of",
+                "area studies"
+            ],
+            [
+                "Classics",
+                "subclass of",
+                "classical studies"
+            ]
+        ],
+        "question": "Does Classics and Caucasology share totally different subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Literary nonsense is a broad categorization of literature that balances elements that make sense with some that do not, with the effect of subverting language conventions or logical reasoning. Even though the most well-known form of literary nonsense is nonsense verse, the genre is present in many forms of literature.\nSatire is a genre of the visual, literary, and performing arts, usually in the form of fiction and less frequently non-fiction, in which vices, follies, abuses, and shortcomings are held up to ridicule, often with the intent of exposing or shaming the perceived flaws of individuals, corporations, government, or society itself into improvement. Although satire is usually meant to be humorous, its greater purpose is often constructive social criticism, using wit to draw attention to both particular and wider issues in society.",
+        "subject": "Literary nonsense",
+        "predicate": "same_subclass_of",
+        "object": "Satire",
+        "evidence": [
+            [
+                "Literary nonsense",
+                "subclass of",
+                "humor"
+            ],
+            [
+                "Satire",
+                "subclass of",
+                "humor"
+            ]
+        ],
+        "question": "Statement: It's not true that Literary nonsense and Satire have the same subclass of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Public humanities is the work of engaging diverse publics in reflecting on heritage, traditions, and history, and the relevance of the humanities to the current conditions of civic and cultural life. Public humanities is usually practiced within federal, state, nonprofit and community-based cultural organizations that engage people in conversations, facilitate and present lectures, exhibitions, performances and other programs for the general public on topics such as history, philosophy, popular culture and the arts. Public Humanities also exists within universities as a collaborative enterprise between communities and faculty, staff, and students.\nArt history is, briefly, the history of art—or the study of a specific type of objects created in the past.",
+        "subject": "Public humanities",
+        "predicate": "same_subclass_of",
+        "object": "Art history",
+        "evidence": [
+            [
+                "Art history",
+                "subclass of",
+                "humanities"
+            ],
+            [
+                "Art history",
+                "subclass of",
+                "visual art education"
+            ],
+            [
+                "Art history",
+                "subclass of",
+                "Geisteswissenschaften"
+            ],
+            [
+                "Public humanities",
+                "subclass of",
+                "humanities"
+            ]
+        ],
+        "question": "Does Public humanities and Art history have the same subclass of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Public humanities is the work of engaging diverse publics in reflecting on heritage, traditions, and history, and the relevance of the humanities to the current conditions of civic and cultural life. Public humanities is usually practiced within federal, state, nonprofit and community-based cultural organizations that engage people in conversations, facilitate and present lectures, exhibitions, performances and other programs for the general public on topics such as history, philosophy, popular culture and the arts. Public Humanities also exists within universities as a collaborative enterprise between communities and faculty, staff, and students.\nThe arts or creative arts are a vast range of human practices of creative expression, storytelling, and cultural participation. The arts encompass diverse and plural modes of thinking, doing, and being in an extensive range of media. Both dynamic and a characteristically constant feature of human life have developed into stylized and intricate forms. This is achieved through sustained and deliberate study, training, or theorizing within a particular tradition, generations, and even between civilizations. The arts are a vehicle through which human beings cultivate distinct social, cultural, and individual identities while transmitting values, impressions, judgements, ideas, visions, spiritual meanings, patterns of life, and experiences across time and space.",
+        "subject": "Public humanities",
+        "predicate": "same_subclass_of",
+        "object": "The arts",
+        "evidence": [
+            [
+                "The arts",
+                "subclass of",
+                "group"
+            ],
+            [
+                "The arts",
+                "subclass of",
+                "humanities"
+            ],
+            [
+                "Public humanities",
+                "subclass of",
+                "humanities"
+            ]
+        ],
+        "question": "Does Public humanities and The arts have completely separate subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Romance studies or Romance philology is an academic discipline that covers the study of the languages, literatures, and cultures of areas that speak Romance languages. Romance studies departments usually include the study of Spanish, French, Italian, and Portuguese. Additional areas of study include Romanian and Catalan, on one hand, and culture, history, and politics on the other hand.\nCaucasology, or Caucasiology is the historical and geopolitical studies of the Caucasus region. The branch has more than 150 years history. In 1972, the Caucasiological Center was founded under the auspices of the Israel President Zalman Shazar.",
+        "subject": "Romance studies",
+        "predicate": "same_subclass_of",
+        "object": "Caucasology",
+        "evidence": [
+            [
+                "Caucasology",
+                "subclass of",
+                "Asian studies"
+            ],
+            [
+                "Caucasology",
+                "subclass of",
+                "European studies"
+            ],
+            [
+                "Caucasology",
+                "subclass of",
+                "area studies"
+            ],
+            [
+                "Romance studies",
+                "subclass of",
+                "European studies"
+            ],
+            [
+                "Romance studies",
+                "subclass of",
+                "modern philology"
+            ]
+        ],
+        "question": "Does Romance studies and Caucasology have completely separate subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Aesthetics is the branch of philosophy concerned with the nature of beauty and taste, which in a broad sense incorporates the philosophy of art. Aesthetics examines values about, and critical judgments of, artistic taste and preference. It thus studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people consider certain things beautiful and not others, as well as how objects of beauty and art can affect our moods and our beliefs.\nThe arts or creative arts are a vast range of human practices of creative expression, storytelling, and cultural participation. The arts encompass diverse and plural modes of thinking, doing, and being in an extensive range of media. Both dynamic and a characteristically constant feature of human life have developed into stylized and intricate forms. This is achieved through sustained and deliberate study, training, or theorizing within a particular tradition, generations, and even between civilizations. The arts are a vehicle through which human beings cultivate distinct social, cultural, and individual identities while transmitting values, impressions, judgements, ideas, visions, spiritual meanings, patterns of life, and experiences across time and space.",
+        "subject": "Aesthetics",
+        "predicate": "same_described_by_source",
+        "object": "The arts",
+        "evidence": [
+            [
+                "Aesthetics",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Desktop Encyclopedic Dictionary"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "Lean Logic"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "Armenian Soviet Encyclopedia, vol. 2"
+            ]
+        ],
+        "question": "Is it true that Aesthetics and The arts have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Aesthetics is the branch of philosophy concerned with the nature of beauty and taste, which in a broad sense incorporates the philosophy of art. Aesthetics examines values about, and critical judgments of, artistic taste and preference. It thus studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people consider certain things beautiful and not others, as well as how objects of beauty and art can affect our moods and our beliefs.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "Aesthetics",
+        "predicate": "same_described_by_source",
+        "object": "philosophy",
+        "evidence": [
+            [
+                "Aesthetics",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Desktop Encyclopedic Dictionary"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ]
+        ],
+        "question": "Statement: It's not true that Aesthetics and philosophy have the same described by source. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Aesthetics is the branch of philosophy concerned with the nature of beauty and taste, which in a broad sense incorporates the philosophy of art. Aesthetics examines values about, and critical judgments of, artistic taste and preference. It thus studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people consider certain things beautiful and not others, as well as how objects of beauty and art can affect our moods and our beliefs.\nSatire is a genre of the visual, literary, and performing arts, usually in the form of fiction and less frequently non-fiction, in which vices, follies, abuses, and shortcomings are held up to ridicule, often with the intent of exposing or shaming the perceived flaws of individuals, corporations, government, or society itself into improvement. Although satire is usually meant to be humorous, its greater purpose is often constructive social criticism, using wit to draw attention to both particular and wider issues in society.",
+        "subject": "Aesthetics",
+        "predicate": "same_described_by_source",
+        "object": "Satire",
+        "evidence": [
+            [
+                "Aesthetics",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Desktop Encyclopedic Dictionary"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Jewish Encyclopedia of Brockhaus and Efron"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Armenian Soviet Encyclopedia"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Metropolitan Museum of Art Tagging Vocabulary"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ]
+        ],
+        "question": "Is there any possibility for the described by source of Aesthetics also related with Satire?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "Aesthetics is the branch of philosophy concerned with the nature of beauty and taste, which in a broad sense incorporates the philosophy of art. Aesthetics examines values about, and critical judgments of, artistic taste and preference. It thus studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people consider certain things beautiful and not others, as well as how objects of beauty and art can affect our moods and our beliefs.\nTragicomedy is a literary genre that blends aspects of both tragic and comic forms. Most often seen in dramatic literature, the term can describe either a tragic play which contains enough comic elements to lighten the overall mood or a serious play with a happy ending. Tragicomedy, as its name implies, invokes the intended response of both the tragedy and the comedy in the audience, the former being a genre based on human suffering that invokes an accompanying catharsis and the latter being a genre intended to be humorous or amusing by inducing laughter.",
+        "subject": "Aesthetics",
+        "predicate": "same_described_by_source",
+        "object": "tragicomedy",
+        "evidence": [
+            [
+                "Aesthetics",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Desktop Encyclopedic Dictionary"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ]
+        ],
+        "question": "Does Aesthetics and tragicomedy share totally different described by source?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "The arts or creative arts are a vast range of human practices of creative expression, storytelling, and cultural participation. The arts encompass diverse and plural modes of thinking, doing, and being in an extensive range of media. Both dynamic and a characteristically constant feature of human life have developed into stylized and intricate forms. This is achieved through sustained and deliberate study, training, or theorizing within a particular tradition, generations, and even between civilizations. The arts are a vehicle through which human beings cultivate distinct social, cultural, and individual identities while transmitting values, impressions, judgements, ideas, visions, spiritual meanings, patterns of life, and experiences across time and space.\nAesthetics is the branch of philosophy concerned with the nature of beauty and taste, which in a broad sense incorporates the philosophy of art. Aesthetics examines values about, and critical judgments of, artistic taste and preference. It thus studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people consider certain things beautiful and not others, as well as how objects of beauty and art can affect our moods and our beliefs.",
+        "subject": "The arts",
+        "predicate": "same_described_by_source",
+        "object": "Aesthetics",
+        "evidence": [
+            [
+                "Aesthetics",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Desktop Encyclopedic Dictionary"
+            ],
+            [
+                "Aesthetics",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "Lean Logic"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "Armenian Soviet Encyclopedia, vol. 2"
+            ]
+        ],
+        "question": "Does The arts and Aesthetics share totally different described by source?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "The arts or creative arts are a vast range of human practices of creative expression, storytelling, and cultural participation. The arts encompass diverse and plural modes of thinking, doing, and being in an extensive range of media. Both dynamic and a characteristically constant feature of human life have developed into stylized and intricate forms. This is achieved through sustained and deliberate study, training, or theorizing within a particular tradition, generations, and even between civilizations. The arts are a vehicle through which human beings cultivate distinct social, cultural, and individual identities while transmitting values, impressions, judgements, ideas, visions, spiritual meanings, patterns of life, and experiences across time and space.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "The arts",
+        "predicate": "same_described_by_source",
+        "object": "philosophy",
+        "evidence": [
+            [
+                "The arts",
+                "described by source",
+                "Lean Logic"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "The Domestic Encyclopædia; Or, A Dictionary Of Facts, And Useful Knowledge"
+            ],
+            [
+                "The arts",
+                "described by source",
+                "Armenian Soviet Encyclopedia, vol. 2"
+            ]
+        ],
+        "question": "Statement: It's not true that The arts and philosophy have the same described by source. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "History is the systematic study of the past. As an academic discipline, it analyzes and interprets evidence to construct narratives about what happened and explain why it happened, focusing primarily on the human past. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline. Similar debates surround the purpose of history, for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past. In a slightly different sense, the term history refers not to an academic field but to the past itself or to individual texts about the past.\nIn semiotics, a parergon is a supplementary issue or embellishment.",
+        "subject": "history",
+        "predicate": "same_described_by_source",
+        "object": "Parergon",
+        "evidence": [
+            [
+                "Parergon",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ]
+        ],
+        "question": "Does history and Parergon share totally different described by source?",
+        "answer": "No."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "History is the systematic study of the past. As an academic discipline, it analyzes and interprets evidence to construct narratives about what happened and explain why it happened, focusing primarily on the human past. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline. Similar debates surround the purpose of history, for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past. In a slightly different sense, the term history refers not to an academic field but to the past itself or to individual texts about the past.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "history",
+        "predicate": "same_described_by_source",
+        "object": "philosophy",
+        "evidence": [],
+        "question": "Does history and philosophy have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "History is the systematic study of the past. As an academic discipline, it analyzes and interprets evidence to construct narratives about what happened and explain why it happened, focusing primarily on the human past. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline. Similar debates surround the purpose of history, for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past. In a slightly different sense, the term history refers not to an academic field but to the past itself or to individual texts about the past.\nSatire is a genre of the visual, literary, and performing arts, usually in the form of fiction and less frequently non-fiction, in which vices, follies, abuses, and shortcomings are held up to ridicule, often with the intent of exposing or shaming the perceived flaws of individuals, corporations, government, or society itself into improvement. Although satire is usually meant to be humorous, its greater purpose is often constructive social criticism, using wit to draw attention to both particular and wider issues in society.",
+        "subject": "history",
+        "predicate": "same_described_by_source",
+        "object": "Satire",
+        "evidence": [
+            [
+                "Satire",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Jewish Encyclopedia of Brockhaus and Efron"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Armenian Soviet Encyclopedia"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Metropolitan Museum of Art Tagging Vocabulary"
+            ],
+            [
+                "Satire",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ]
+        ],
+        "question": "Is there any possibility for the described by source of history also related with Satire?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "History is the systematic study of the past. As an academic discipline, it analyzes and interprets evidence to construct narratives about what happened and explain why it happened, focusing primarily on the human past. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline. Similar debates surround the purpose of history, for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past. In a slightly different sense, the term history refers not to an academic field but to the past itself or to individual texts about the past.\nTragicomedy is a literary genre that blends aspects of both tragic and comic forms. Most often seen in dramatic literature, the term can describe either a tragic play which contains enough comic elements to lighten the overall mood or a serious play with a happy ending. Tragicomedy, as its name implies, invokes the intended response of both the tragedy and the comedy in the audience, the former being a genre based on human suffering that invokes an accompanying catharsis and the latter being a genre intended to be humorous or amusing by inducing laughter.",
+        "subject": "history",
+        "predicate": "same_described_by_source",
+        "object": "tragicomedy",
+        "evidence": [],
+        "question": "Is it true that history and tragicomedy have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "society",
+        "reasoning": "Composite Inference",
+        "description": "In semiotics, a parergon is a supplementary issue or embellishment.\nHistory is the systematic study of the past. As an academic discipline, it analyzes and interprets evidence to construct narratives about what happened and explain why it happened, focusing primarily on the human past. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline. Similar debates surround the purpose of history, for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past. In a slightly different sense, the term history refers not to an academic field but to the past itself or to individual texts about the past.",
+        "subject": "Parergon",
+        "predicate": "same_described_by_source",
+        "object": "history",
+        "evidence": [
+            [
+                "Parergon",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ]
+        ],
+        "question": "Is it true that Parergon and history have the same described by source?",
+        "answer": "Yes."
+    }
+]

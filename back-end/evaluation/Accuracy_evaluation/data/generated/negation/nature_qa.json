@@ -1,0 +1,87 @@
+[
+    {
+        "category": "nature",
+        "reasoning": "Negation Inference",
+        "description": "The Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.\nPuerto Rico, officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Located about 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic in the Greater Antilles and the U.S. Virgin Islands in the Lesser Antilles, it consists of the eponymous main island and numerous smaller islands, including Vieques, Culebra, and Mona. With approximately 3.2 million residents, it is divided into 78 municipalities, of which the most populous is the capital municipality of San Juan, followed by those within the San Juan metropolitan area. Spanish and English are the official languages of the government, though Spanish predominates.",
+        "subject": "Imperial College Faculty of Natural Sciences",
+        "predicate": "not_located_in_the_administrative_territorial_entity",
+        "object": "Puerto Rico",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "located in the administrative territorial entity",
+                "London"
+            ]
+        ],
+        "question": "Could Imperial College Faculty of Natural Sciences not be located in the administrative territorial entity of Puerto Rico?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Negation Inference",
+        "description": "The College of Natural Sciences of the University of Puerto Rico, Río Piedras, was established in 1943. It is one of several colleges that make up the University of Puerto Rico, Rio Piedras campus. Facundo Bueso Sanllehí was its first dean. It is located in the city of San Juan, the capital of Puerto Rico.\nLondon is the capital and largest city of both England and the United Kingdom, with a population of 8,866,180 in 2022. Its wider metropolitan area is the largest in Western Europe, with a population of 14.9 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the centuries-long host of the national government and parliament. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century, the name \"London\" has referred to the metropolis around the City of London, historically split between the counties of Middlesex, Essex, Surrey, Kent, and Hertfordshire, which since 1965 has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.",
+        "subject": "UPRRP College of Natural Sciences",
+        "predicate": "not_located_in_the_administrative_territorial_entity",
+        "object": "London",
+        "evidence": [
+            [
+                "UPRRP College of Natural Sciences",
+                "located in the administrative territorial entity",
+                "Puerto Rico"
+            ]
+        ],
+        "question": "Is it true that UPRRP College of Natural Sciences can not be located in the administrative territorial entity London?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Negation Inference",
+        "description": "\nNatural science or empirical science is one of the branches of science concerned with the description, understanding and prediction of natural phenomena, based on empirical evidence from observation and experimentation. Mechanisms such as peer review and reproducibility of findings are used to try to ensure the validity of scientific advances.\nThe geoid is the shape that the ocean surface would take under the influence of the gravity of Earth, including gravitational attraction and Earth's rotation, if other influences such as winds and tides were absent. This surface is extended through the continents. According to Carl Friedrich Gauss, who first described it, it is the \"mathematical figure of the Earth\", a smooth but irregular surface whose shape results from the uneven distribution of mass within and on the surface of Earth. It can be known only through extensive gravitational measurements and calculations. Despite being an important concept for almost 200 years in the history of geodesy and geophysics, it has been defined to high precision only since advances in satellite geodesy in the late 20th century.",
+        "subject": "Natural science",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "geoid",
+        "evidence": [
+            [
+                "Natural science",
+                "said to be the same as",
+                "natural history"
+            ]
+        ],
+        "question": "Is it true that Natural science can not be said to be the same as geoid?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Negation Inference",
+        "description": "In geodesy, the figure of the Earth is the size and shape used to model planet Earth. The kind of figure depends on application, including the precision needed for the model. A spherical Earth is a well-known historical approximation that is satisfactory for geography, astronomy and many other purposes. Several models with greater accuracy have been developed so that coordinate systems can serve the precise needs of navigation, surveying, cadastre, land use, and various other concerns.\nNatural history is a domain of inquiry involving organisms, including animals, fungi, and plants, in their natural environment, leaning more towards observational than experimental methods of study. A person who studies natural history is called a naturalist or natural historian.",
+        "subject": "Figure of the Earth",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "natural history",
+        "evidence": [
+            [
+                "Figure of the Earth",
+                "said to be the same as",
+                "geoid"
+            ]
+        ],
+        "question": "Could Figure of the Earth not be said to be the same as of natural history?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Negation Inference",
+        "description": "Rangeland management is a natural science that centers around the study of rangelands and the \"conservation and sustainable management [of Arid-Lands] for the benefit of current societies and future generations\". Range management is defined by Holechek et al. as the \"manipulation of rangeland components to obtain optimum combination of goods and services for society on a sustained basis\". The United Nations (UN) has declared 2026 the International Year of Rangelands and Pastoralists, with the Food and Agriculture Organization leading the initiative.\nEarth science or geoscience includes all fields of natural science related to the planet Earth. This is a branch of science dealing with the physical, chemical, and biological complex constitutions and synergistic linkages of Earth's four spheres: the biosphere, hydrosphere/cryosphere, atmosphere, and geosphere. Earth science can be considered to be a branch of planetary science but with a much older history.",
+        "subject": "Rangeland management",
+        "predicate": "not_practiced_by",
+        "object": "earth scientist",
+        "evidence": [
+            [
+                "Rangeland management",
+                "practiced by",
+                "range manager"
+            ]
+        ],
+        "question": "Statement: It's not true that Rangeland management could be practiced by of earth scientist. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "Yes."
+    }
+]

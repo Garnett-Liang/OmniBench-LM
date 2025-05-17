@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI大模型测试评分 - 主页</title>
+    <link rel="stylesheet" href="home.css">
+    <!-- 添加Font Awesome图标库 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="./font/iconfont.css">
+    <script src="config.js"></script>
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html"><i class="fas fa-home"></i> 评测榜单</a></li>
+                <li><a href="test.html"><i class="fas fa-vial"></i> 测试结果</a></li>
+                <li><a href="graph.html"><i class="fa fa-pie-chart" aria-hidden="true" /></i> 图表数据</a></li>
+                <li><a href="data.html" class="active"><i class="fa fa-info-circle" aria-hidden="true"></i> 数据集</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1 id="page-title"><i class="fas fa-robot"></i> AI大模型测试评分</h1>
+
+        <div id="top-models" class="top-models">
+            <!-- Top models will be dynamically inserted here -->
+        </div>
+
+        <div id="model-list" class="model-list">
+            <!-- 内容将通过 JavaScript 动态添加 -->
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 大模型测试平台. 保留所有权利。</p>
+    </footer>
+    <script src="home.js" defer></script>
+
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+[
+    {
+        "category": "society",
+        "reasoning": "Inverse Function Inference",
+        "description": "A literary genre is a category of literature. Genres may be determined by literary technique, tone, content, or length. They generally move from more abstract, encompassing classes, which are then further sub-divided into more concrete distinctions. The distinctions between genres and categories are flexible and loosely defined, and even the rules designating genres change over time and are fairly unstable.\nLiterature is any collection of written work, but it is also used more narrowly for writings specifically considered to be an art form, especially novels, plays, and poems. It includes both print and digital writing. In recent centuries, the definition has expanded to include oral literature, much of which has been transcribed. Literature is a method of recording, preserving, and transmitting knowledge and entertainment. It can also have a social, psychological, spiritual, or political role.",
+        "subject": "literary genre",
+        "predicate": "be_the_natural_reservoir_in",
+        "object": "literature",
+        "evidence": [],
+        "question": "Is there any possibility that literary genre could not be be the natural reservoir in of literature?",
+        "answer": "No."
+    }
+]

@@ -1,0 +1,1138 @@
+[
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Dii Consentes, also known as Di or Dei Consentes, or The Harmonious Gods, is an ancient list of twelve major deities, six gods and six goddesses, in the pantheon of Ancient Rome. Their gilt statues stood in the Roman Forum, and later apparently in the Porticus Deorum Consentium.\nIn ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon, commonly considered to be Zeus, Poseidon, Hera, Demeter, Aphrodite, Athena, Artemis, Apollo, Ares, Hephaestus, Hermes, and either Hestia or Dionysus. They were called Olympians because, according to tradition, they resided on Mount Olympus.",
+        "subject": "Dii Consentes",
+        "predicate": "same_instance_of",
+        "object": "Twelve Olympians",
+        "evidence": [
+            [
+                "Dii Consentes",
+                "instance of",
+                "group of deities"
+            ],
+            [
+                "Twelve Olympians",
+                "instance of",
+                "group of mythical characters"
+            ],
+            [
+                "Twelve Olympians",
+                "instance of",
+                "dodecad"
+            ],
+            [
+                "Twelve Olympians",
+                "instance of",
+                "group of deities"
+            ]
+        ],
+        "question": "Is it true that Dii Consentes and Twelve Olympians have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "Federal List of Extremist Materials is a list of works that are banned in the Russian Federation, primarily based on the Russian Internet Restriction Bill. It is compiled by the Ministry of Justice of the Russian Federation. Producing, storing or distributing the materials on the list is an offense in Russia.\nThe New 7 Wonders of the World was a campaign started in 2001 to choose Wonders of the World from a selection of 200 existing monuments. The popularity poll via free web-based voting and telephone voting was led by Canadian-Swiss Bernard Weber and organized by the New 7 Wonders Foundation (N7W) based in Zurich, Switzerland, with winners announced on 7 July 2007 at Estádio da Luz in Lisbon. The poll was considered unscientific partly because it was possible for people to cast multiple votes. According to John Zogby, founder and current President/CEO of the Utica, New York–based polling organization Zogby International, New 7 Wonders Foundation drove \"the largest poll on record\".",
+        "subject": "Federal List of Extremist Materials",
+        "predicate": "same_instance_of",
+        "object": "New 7 Wonders of the World",
+        "evidence": [
+            [
+                "Federal List of Extremist Materials",
+                "instance of",
+                "list"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "list"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "group of structures or buildings"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "seven wonders"
+            ]
+        ],
+        "question": "Is it true that Federal List of Extremist Materials and New 7 Wonders of the World have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "In Buddhism, the Four Noble Truths are \"the truths of the noble one ,\" a statement of how things really are when they are seen correctly. The four truths aredukkha. Dukkha is an innate characteristic of transient existence; nothing is forever, this is painful;\nsamudaya : together with this transient world and its pain, there is also thirst, craving for and attachment to this transient, unsatisfactory existence;\nnirodha : the attachment to this transient world and its pain can be severed or contained by the confinement or letting go of this craving;\nmarga : the Noble Eightfold Path is the path leading to the confinement of this desire and attachment, and the release from dukkha.\nThe Three Treasures or Three Jewels are basic virtues in Taoism. Although the Tao Te Ching originally used sanbao to mean \"compassion\", \"frugality\", and \"humility\", the term was later used to translate the Three Jewels in Chinese Buddhism, and to mean the Three Treasures in Traditional Chinese Medicine.",
+        "subject": "Four Noble Truths",
+        "predicate": "same_instance_of",
+        "object": "Three Treasures (Taoism)",
+        "evidence": [
+            [
+                "Four Noble Truths",
+                "instance of",
+                "religious concept"
+            ],
+            [
+                "Four Noble Truths",
+                "instance of",
+                "satya"
+            ],
+            [
+                "Three Treasures (Taoism)",
+                "instance of",
+                "religious concept"
+            ]
+        ],
+        "question": "Is it true that Four Noble Truths and Three Treasures (Taoism) have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "In Buddhism, the Four Noble Truths are \"the truths of the noble one ,\" a statement of how things really are when they are seen correctly. The four truths aredukkha. Dukkha is an innate characteristic of transient existence; nothing is forever, this is painful;\nsamudaya : together with this transient world and its pain, there is also thirst, craving for and attachment to this transient, unsatisfactory existence;\nnirodha : the attachment to this transient world and its pain can be severed or contained by the confinement or letting go of this craving;\nmarga : the Noble Eightfold Path is the path leading to the confinement of this desire and attachment, and the release from dukkha.\nThe Three Turnings of the Wheel of Dharma is a Mahāyāna Buddhist framework for classifying and understanding the teachings of the Buddhist Sūtras and the teachings of Buddha Śākyamuni in general. This classification system first appears in the Saṃdhinirmocana Sūtra and in the works of the Yogācāra school. This classification system later became prevalent in various modified forms in Tibetan Buddhism as well as in East Asian Buddhism.",
+        "subject": "Four Noble Truths",
+        "predicate": "same_instance_of",
+        "object": "Three Turnings of the Wheel of Dharma",
+        "evidence": [
+            [
+                "Four Noble Truths",
+                "instance of",
+                "religious concept"
+            ],
+            [
+                "Four Noble Truths",
+                "instance of",
+                "satya"
+            ],
+            [
+                "Three Turnings of the Wheel of Dharma",
+                "instance of",
+                "religious concept"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Four Noble Truths also related with Three Turnings of the Wheel of Dharma?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "New 7 Wonders of Nature (2007–2011) was an initiative started in 2007 to create a list of seven natural wonders chosen by people through a global poll. It was the second in a series of Internet-based polls led by Swiss-born Canadian Bernard Weber and organized by the New 7 Wonders Foundation a Swiss-based foundation which Weber founded. The initiative followed an earlier New 7 Wonders of the World campaign and attracted 100 million votes from around the world before voting finished on November 11, 2011.\nThe Seven Wonders of the Ancient World, also known as the Seven Wonders of the World or simply the Seven Wonders, is a list of seven notable structures present during classical antiquity. The first known list of seven wonders dates back to the 2nd–1st century BC.",
+        "subject": "New 7 Wonders of Nature",
+        "predicate": "same_instance_of",
+        "object": "Seven Wonders of the Ancient World",
+        "evidence": [
+            [
+                "New 7 Wonders of Nature",
+                "instance of",
+                "Wonders of the World"
+            ],
+            [
+                "New 7 Wonders of Nature",
+                "instance of",
+                "seven wonders"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "instance of",
+                "Wonders of the World"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "instance of",
+                "seven wonders"
+            ]
+        ],
+        "question": "Statement: It's not true that New 7 Wonders of Nature and Seven Wonders of the Ancient World have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "New 7 Wonders of Nature (2007–2011) was an initiative started in 2007 to create a list of seven natural wonders chosen by people through a global poll. It was the second in a series of Internet-based polls led by Swiss-born Canadian Bernard Weber and organized by the New 7 Wonders Foundation a Swiss-based foundation which Weber founded. The initiative followed an earlier New 7 Wonders of the World campaign and attracted 100 million votes from around the world before voting finished on November 11, 2011.\nThe New 7 Wonders of the World was a campaign started in 2001 to choose Wonders of the World from a selection of 200 existing monuments. The popularity poll via free web-based voting and telephone voting was led by Canadian-Swiss Bernard Weber and organized by the New 7 Wonders Foundation (N7W) based in Zurich, Switzerland, with winners announced on 7 July 2007 at Estádio da Luz in Lisbon. The poll was considered unscientific partly because it was possible for people to cast multiple votes. According to John Zogby, founder and current President/CEO of the Utica, New York–based polling organization Zogby International, New 7 Wonders Foundation drove \"the largest poll on record\".",
+        "subject": "New 7 Wonders of Nature",
+        "predicate": "same_instance_of",
+        "object": "New 7 Wonders of the World",
+        "evidence": [
+            [
+                "New 7 Wonders of Nature",
+                "instance of",
+                "Wonders of the World"
+            ],
+            [
+                "New 7 Wonders of Nature",
+                "instance of",
+                "seven wonders"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "list"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "group of structures or buildings"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "seven wonders"
+            ]
+        ],
+        "question": "Does New 7 Wonders of Nature and New 7 Wonders of the World share totally different instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "New 7 Wonders of Nature (2007–2011) was an initiative started in 2007 to create a list of seven natural wonders chosen by people through a global poll. It was the second in a series of Internet-based polls led by Swiss-born Canadian Bernard Weber and organized by the New 7 Wonders Foundation a Swiss-based foundation which Weber founded. The initiative followed an earlier New 7 Wonders of the World campaign and attracted 100 million votes from around the world before voting finished on November 11, 2011.\nThe Seven Wonders of the Ancient World, also known as the Seven Wonders of the World or simply the Seven Wonders, is a list of seven notable structures present during classical antiquity. The first known list of seven wonders dates back to the 2nd–1st century BC.",
+        "subject": "New 7 Wonders of Nature",
+        "predicate": "same_instance_of",
+        "object": "Seven Wonders of the Ancient World",
+        "evidence": [
+            [
+                "New 7 Wonders of Nature",
+                "instance of",
+                "Wonders of the World"
+            ],
+            [
+                "New 7 Wonders of Nature",
+                "instance of",
+                "seven wonders"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "instance of",
+                "Wonders of the World"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "instance of",
+                "seven wonders"
+            ]
+        ],
+        "question": "Does New 7 Wonders of Nature and Seven Wonders of the Ancient World have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The New 7 Wonders of the World was a campaign started in 2001 to choose Wonders of the World from a selection of 200 existing monuments. The popularity poll via free web-based voting and telephone voting was led by Canadian-Swiss Bernard Weber and organized by the New 7 Wonders Foundation (N7W) based in Zurich, Switzerland, with winners announced on 7 July 2007 at Estádio da Luz in Lisbon. The poll was considered unscientific partly because it was possible for people to cast multiple votes. According to John Zogby, founder and current President/CEO of the Utica, New York–based polling organization Zogby International, New 7 Wonders Foundation drove \"the largest poll on record\".\nFederal List of Extremist Materials is a list of works that are banned in the Russian Federation, primarily based on the Russian Internet Restriction Bill. It is compiled by the Ministry of Justice of the Russian Federation. Producing, storing or distributing the materials on the list is an offense in Russia.",
+        "subject": "New 7 Wonders of the World",
+        "predicate": "same_instance_of",
+        "object": "Federal List of Extremist Materials",
+        "evidence": [
+            [
+                "Federal List of Extremist Materials",
+                "instance of",
+                "list"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "list"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "group of structures or buildings"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "seven wonders"
+            ]
+        ],
+        "question": "Does New 7 Wonders of the World and Federal List of Extremist Materials have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The New 7 Wonders of the World was a campaign started in 2001 to choose Wonders of the World from a selection of 200 existing monuments. The popularity poll via free web-based voting and telephone voting was led by Canadian-Swiss Bernard Weber and organized by the New 7 Wonders Foundation (N7W) based in Zurich, Switzerland, with winners announced on 7 July 2007 at Estádio da Luz in Lisbon. The poll was considered unscientific partly because it was possible for people to cast multiple votes. According to John Zogby, founder and current President/CEO of the Utica, New York–based polling organization Zogby International, New 7 Wonders Foundation drove \"the largest poll on record\".\nThe Seven Wonders of the Ancient World, also known as the Seven Wonders of the World or simply the Seven Wonders, is a list of seven notable structures present during classical antiquity. The first known list of seven wonders dates back to the 2nd–1st century BC.",
+        "subject": "New 7 Wonders of the World",
+        "predicate": "same_instance_of",
+        "object": "Seven Wonders of the Ancient World",
+        "evidence": [
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "list"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "group of structures or buildings"
+            ],
+            [
+                "New 7 Wonders of the World",
+                "instance of",
+                "seven wonders"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "instance of",
+                "Wonders of the World"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "instance of",
+                "seven wonders"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of New 7 Wonders of the World also related with Seven Wonders of the Ancient World?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Nine Lyric or Melic Poets were a canonical group of ancient Greek poets esteemed by the scholars of Hellenistic Alexandria as worthy of critical study. In the Palatine Anthology it is said that they established lyric song.\nThe Nine Saints were a group of missionaries who were important in the initial growth of Christianity in what is now Ethiopia during the late 5th century. The names of the Nine Saints are:Abba Aftse\nAbba Alef\nAbba Aragawi\nAbba Garima \nAbba Guba\nAbba Liqanos\nAbba Pantelewon\nAbba Tsahma\nAbba Yem'ata",
+        "subject": "Nine Lyric Poets",
+        "predicate": "same_instance_of",
+        "object": "Nine Saints",
+        "evidence": [
+            [
+                "Nine Lyric Poets",
+                "instance of",
+                "group of humans"
+            ],
+            [
+                "Nine Lyric Poets",
+                "instance of",
+                "art movement"
+            ],
+            [
+                "Nine Saints",
+                "instance of",
+                "group of humans"
+            ]
+        ],
+        "question": "Statement: It's not true that Nine Lyric Poets and Nine Saints have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Nine Lyric or Melic Poets were a canonical group of ancient Greek poets esteemed by the scholars of Hellenistic Alexandria as worthy of critical study. In the Palatine Anthology it is said that they established lyric song.\nThe Thirty-Six Immortals of Poetry  are a group of Japanese poets of the Asuka, Nara, and Heian periods selected by Fujiwara no Kintō as exemplars of Japanese poetic ability. The oldest surviving collection of the 36 poets' works is Nishi Honganji Sanju-rokunin Kashu of 1113. Similar groups of Japanese poets include the Kamakura period Nyōbō Sanjūrokkasen (女房三十六歌仙), composed by court ladies exclusively, and the Chūko Sanjūrokkasen (中古三十六歌仙), or Thirty-Six Heian-era Immortals of Poetry, selected by Fujiwara no Norikane (1107–1165). This list superseded an older group called the Six Immortals of Poetry.",
+        "subject": "Nine Lyric Poets",
+        "predicate": "same_instance_of",
+        "object": "Thirty-Six Immortals of Poetry",
+        "evidence": [
+            [
+                "Nine Lyric Poets",
+                "instance of",
+                "group of humans"
+            ],
+            [
+                "Nine Lyric Poets",
+                "instance of",
+                "art movement"
+            ],
+            [
+                "Thirty-Six Immortals of Poetry",
+                "instance of",
+                "group of humans"
+            ]
+        ],
+        "question": "Does Nine Lyric Poets and Thirty-Six Immortals of Poetry share totally different instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The seven deadly sins function as a grouping classification of major vices within the teachings of Christianity. According to the standard list, the seven deadly sins in Roman Catholic Church are pride, greed, wrath, envy, lust, gluttony, and sloth. \n\n\nSeven Social Sins is a list by Frederic Donaldson that Mohandas Karamchand Gandhi published in his weekly newspaper Young India on 22 October 1925. Later he gave this same list written on a piece of paper to his grandson, Arun Gandhi, on their final day together shortly before his assassination.",
+        "subject": "Seven deadly sins",
+        "predicate": "same_subclass_of",
+        "object": "Seven Social Sins",
+        "evidence": [
+            [
+                "Seven deadly sins",
+                "subclass of",
+                "sin"
+            ],
+            [
+                "Seven deadly sins",
+                "subclass of",
+                "vice"
+            ],
+            [
+                "Seven Social Sins",
+                "subclass of",
+                "vice"
+            ]
+        ],
+        "question": "Does Seven deadly sins and Seven Social Sins have completely separate subclass of?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "\n\nSeven Social Sins is a list by Frederic Donaldson that Mohandas Karamchand Gandhi published in his weekly newspaper Young India on 22 October 1925. Later he gave this same list written on a piece of paper to his grandson, Arun Gandhi, on their final day together shortly before his assassination.\nThe seven deadly sins function as a grouping classification of major vices within the teachings of Christianity. According to the standard list, the seven deadly sins in Roman Catholic Church are pride, greed, wrath, envy, lust, gluttony, and sloth. ",
+        "subject": "Seven Social Sins",
+        "predicate": "same_subclass_of",
+        "object": "Seven deadly sins",
+        "evidence": [
+            [
+                "Seven deadly sins",
+                "subclass of",
+                "sin"
+            ],
+            [
+                "Seven deadly sins",
+                "subclass of",
+                "vice"
+            ],
+            [
+                "Seven Social Sins",
+                "subclass of",
+                "vice"
+            ]
+        ],
+        "question": "Is there any possibility for the subclass of of Seven Social Sins also related with Seven deadly sins?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Dii Consentes, also known as Di or Dei Consentes, or The Harmonious Gods, is an ancient list of twelve major deities, six gods and six goddesses, in the pantheon of Ancient Rome. Their gilt statues stood in the Roman Forum, and later apparently in the Porticus Deorum Consentium.\nIn ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon, commonly considered to be Zeus, Poseidon, Hera, Demeter, Aphrodite, Athena, Artemis, Apollo, Ares, Hephaestus, Hermes, and either Hestia or Dionysus. They were called Olympians because, according to tradition, they resided on Mount Olympus.",
+        "subject": "Dii Consentes",
+        "predicate": "same_has_part_s_",
+        "object": "Twelve Olympians",
+        "evidence": [
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Juno"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Vesta"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Minerva"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Ceres"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Diana"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Venus"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Mars"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Mercury"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Jupiter"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Neptune"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Vulcan"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Apollo"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Hermes"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Poseidon"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Hephaestus"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Athena"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Artemis"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Hestia"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Hera"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Apollo"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Aphrodite"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Ares"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Zeus"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Demeter"
+            ]
+        ],
+        "question": "Is it true that Dii Consentes and Twelve Olympians have the same has part s ?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon, commonly considered to be Zeus, Poseidon, Hera, Demeter, Aphrodite, Athena, Artemis, Apollo, Ares, Hephaestus, Hermes, and either Hestia or Dionysus. They were called Olympians because, according to tradition, they resided on Mount Olympus.\nThe Dii Consentes, also known as Di or Dei Consentes, or The Harmonious Gods, is an ancient list of twelve major deities, six gods and six goddesses, in the pantheon of Ancient Rome. Their gilt statues stood in the Roman Forum, and later apparently in the Porticus Deorum Consentium.",
+        "subject": "Twelve Olympians",
+        "predicate": "same_has_part_s_",
+        "object": "Dii Consentes",
+        "evidence": [
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Juno"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Vesta"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Minerva"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Ceres"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Diana"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Venus"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Mars"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Mercury"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Jupiter"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Neptune"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Vulcan"
+            ],
+            [
+                "Dii Consentes",
+                "has part(s)",
+                "Apollo"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Hermes"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Poseidon"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Hephaestus"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Athena"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Artemis"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Hestia"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Hera"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Apollo"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Aphrodite"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Ares"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Zeus"
+            ],
+            [
+                "Twelve Olympians",
+                "has part(s)",
+                "Demeter"
+            ]
+        ],
+        "question": "Does Twelve Olympians and Dii Consentes have completely separate has part s ?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "In Buddhism, the Four Noble Truths are \"the truths of the noble one ,\" a statement of how things really are when they are seen correctly. The four truths aredukkha. Dukkha is an innate characteristic of transient existence; nothing is forever, this is painful;\nsamudaya : together with this transient world and its pain, there is also thirst, craving for and attachment to this transient, unsatisfactory existence;\nnirodha : the attachment to this transient world and its pain can be severed or contained by the confinement or letting go of this craving;\nmarga : the Noble Eightfold Path is the path leading to the confinement of this desire and attachment, and the release from dukkha.\nThe Three Turnings of the Wheel of Dharma is a Mahāyāna Buddhist framework for classifying and understanding the teachings of the Buddhist Sūtras and the teachings of Buddha Śākyamuni in general. This classification system first appears in the Saṃdhinirmocana Sūtra and in the works of the Yogācāra school. This classification system later became prevalent in various modified forms in Tibetan Buddhism as well as in East Asian Buddhism.",
+        "subject": "Four Noble Truths",
+        "predicate": "same_facet_of",
+        "object": "Three Turnings of the Wheel of Dharma",
+        "evidence": [
+            [
+                "Four Noble Truths",
+                "facet of",
+                "Buddhism"
+            ],
+            [
+                "Four Noble Truths",
+                "facet of",
+                "Buddha's first sermon"
+            ],
+            [
+                "Three Turnings of the Wheel of Dharma",
+                "facet of",
+                "dharmachakra"
+            ],
+            [
+                "Three Turnings of the Wheel of Dharma",
+                "facet of",
+                "Buddhism"
+            ]
+        ],
+        "question": "Does Four Noble Truths and Three Turnings of the Wheel of Dharma share totally different facet of?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Three Turnings of the Wheel of Dharma is a Mahāyāna Buddhist framework for classifying and understanding the teachings of the Buddhist Sūtras and the teachings of Buddha Śākyamuni in general. This classification system first appears in the Saṃdhinirmocana Sūtra and in the works of the Yogācāra school. This classification system later became prevalent in various modified forms in Tibetan Buddhism as well as in East Asian Buddhism.\nIn Buddhism, the Four Noble Truths are \"the truths of the noble one ,\" a statement of how things really are when they are seen correctly. The four truths aredukkha. Dukkha is an innate characteristic of transient existence; nothing is forever, this is painful;\nsamudaya : together with this transient world and its pain, there is also thirst, craving for and attachment to this transient, unsatisfactory existence;\nnirodha : the attachment to this transient world and its pain can be severed or contained by the confinement or letting go of this craving;\nmarga : the Noble Eightfold Path is the path leading to the confinement of this desire and attachment, and the release from dukkha.",
+        "subject": "Three Turnings of the Wheel of Dharma",
+        "predicate": "same_facet_of",
+        "object": "Four Noble Truths",
+        "evidence": [
+            [
+                "Four Noble Truths",
+                "facet of",
+                "Buddhism"
+            ],
+            [
+                "Four Noble Truths",
+                "facet of",
+                "Buddha's first sermon"
+            ],
+            [
+                "Three Turnings of the Wheel of Dharma",
+                "facet of",
+                "dharmachakra"
+            ],
+            [
+                "Three Turnings of the Wheel of Dharma",
+                "facet of",
+                "Buddhism"
+            ]
+        ],
+        "question": "Does Three Turnings of the Wheel of Dharma and Four Noble Truths have completely separate facet of?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Dii Consentes, also known as Di or Dei Consentes, or The Harmonious Gods, is an ancient list of twelve major deities, six gods and six goddesses, in the pantheon of Ancient Rome. Their gilt statues stood in the Roman Forum, and later apparently in the Porticus Deorum Consentium.\nThe Seven Wonders of the Ancient World, also known as the Seven Wonders of the World or simply the Seven Wonders, is a list of seven notable structures present during classical antiquity. The first known list of seven wonders dates back to the 2nd–1st century BC.",
+        "subject": "Dii Consentes",
+        "predicate": "same_described_by_source",
+        "object": "Seven Wonders of the Ancient World",
+        "evidence": [
+            [
+                "Dii Consentes",
+                "described by source",
+                "Pauly–Wissowa"
+            ],
+            [
+                "Dii Consentes",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Dii Consentes",
+                "described by source",
+                "Real'nyj slovar' klassicheskih drevnostej po Ljubkeru"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The New Student's Reference Work"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Armenian Soviet Encyclopedia, vol. 1"
+            ]
+        ],
+        "question": "Does Dii Consentes and Seven Wonders of the Ancient World have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Dii Consentes, also known as Di or Dei Consentes, or The Harmonious Gods, is an ancient list of twelve major deities, six gods and six goddesses, in the pantheon of Ancient Rome. Their gilt statues stood in the Roman Forum, and later apparently in the Porticus Deorum Consentium.\nIn ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon, commonly considered to be Zeus, Poseidon, Hera, Demeter, Aphrodite, Athena, Artemis, Apollo, Ares, Hephaestus, Hermes, and either Hestia or Dionysus. They were called Olympians because, according to tradition, they resided on Mount Olympus.",
+        "subject": "Dii Consentes",
+        "predicate": "same_described_by_source",
+        "object": "Twelve Olympians",
+        "evidence": [
+            [
+                "Dii Consentes",
+                "described by source",
+                "Pauly–Wissowa"
+            ],
+            [
+                "Dii Consentes",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Dii Consentes",
+                "described by source",
+                "Real'nyj slovar' klassicheskih drevnostej po Ljubkeru"
+            ],
+            [
+                "Twelve Olympians",
+                "described by source",
+                "Real'nyj slovar' klassicheskih drevnostej po Ljubkeru"
+            ]
+        ],
+        "question": "Is it true that Dii Consentes and Twelve Olympians have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "From the time of Plato through the Middle Ages, the quadrivium was a grouping of four subjects or arts—arithmetic, geometry, music, and astronomy—that formed a second curricular stage following preparatory work in the trivium, consisting of grammar, logic, and rhetoric. Together, the  trivium and the quadrivium comprised the seven liberal arts, and formed the basis of a liberal arts education in Western society until gradually displaced as a curricular structure by the studia humanitatis and its later offshoots, beginning with Petrarch in the 14th century. The seven classical arts were considered \"thinking skills\" and were distinguished from practical arts, such as medicine and architecture.\nThe trivium is the lower division of the seven liberal arts and comprises grammar, logic, and rhetoric.",
+        "subject": "Quadrivium",
+        "predicate": "same_described_by_source",
+        "object": "trivium",
+        "evidence": [
+            [
+                "Quadrivium",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ],
+            [
+                "Quadrivium",
+                "described by source",
+                "New International Encyclopedia"
+            ],
+            [
+                "Quadrivium",
+                "described by source",
+                "Catholic Encyclopedia (1913)/Seven Liberal Arts"
+            ],
+            [
+                "Quadrivium",
+                "described by source",
+                "The Republic"
+            ]
+        ],
+        "question": "Does Quadrivium and trivium have completely separate described by source?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The seven deadly sins function as a grouping classification of major vices within the teachings of Christianity. According to the standard list, the seven deadly sins in Roman Catholic Church are pride, greed, wrath, envy, lust, gluttony, and sloth. \nThe seven hills of Rome east of the river Tiber form the geographical heart of Rome, within the walls of the city.",
+        "subject": "Seven deadly sins",
+        "predicate": "same_described_by_source",
+        "object": "Seven hills of Rome",
+        "evidence": [
+            [
+                "Seven deadly sins",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven hills of Rome",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ]
+        ],
+        "question": "Is there any possibility for the described by source of Seven deadly sins also related with Seven hills of Rome?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The seven deadly sins function as a grouping classification of major vices within the teachings of Christianity. According to the standard list, the seven deadly sins in Roman Catholic Church are pride, greed, wrath, envy, lust, gluttony, and sloth. \nThe Seven Wonders of the Ancient World, also known as the Seven Wonders of the World or simply the Seven Wonders, is a list of seven notable structures present during classical antiquity. The first known list of seven wonders dates back to the 2nd–1st century BC.",
+        "subject": "Seven deadly sins",
+        "predicate": "same_described_by_source",
+        "object": "Seven Wonders of the Ancient World",
+        "evidence": [
+            [
+                "Seven deadly sins",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The New Student's Reference Work"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Armenian Soviet Encyclopedia, vol. 1"
+            ]
+        ],
+        "question": "Does Seven deadly sins and Seven Wonders of the Ancient World have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The seven hills of Rome east of the river Tiber form the geographical heart of Rome, within the walls of the city.\nThe seven deadly sins function as a grouping classification of major vices within the teachings of Christianity. According to the standard list, the seven deadly sins in Roman Catholic Church are pride, greed, wrath, envy, lust, gluttony, and sloth. ",
+        "subject": "Seven hills of Rome",
+        "predicate": "same_described_by_source",
+        "object": "Seven deadly sins",
+        "evidence": [
+            [
+                "Seven deadly sins",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven hills of Rome",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ]
+        ],
+        "question": "Does Seven hills of Rome and Seven deadly sins have completely separate described by source?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The seven hills of Rome east of the river Tiber form the geographical heart of Rome, within the walls of the city.\nThe Seven Wonders of the Ancient World, also known as the Seven Wonders of the World or simply the Seven Wonders, is a list of seven notable structures present during classical antiquity. The first known list of seven wonders dates back to the 2nd–1st century BC.",
+        "subject": "Seven hills of Rome",
+        "predicate": "same_described_by_source",
+        "object": "Seven Wonders of the Ancient World",
+        "evidence": [
+            [
+                "Seven hills of Rome",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The New Student's Reference Work"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Armenian Soviet Encyclopedia, vol. 1"
+            ]
+        ],
+        "question": "Statement: It's not true that Seven hills of Rome and Seven Wonders of the Ancient World have the same described by source. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Seven Wonders of the Ancient World, also known as the Seven Wonders of the World or simply the Seven Wonders, is a list of seven notable structures present during classical antiquity. The first known list of seven wonders dates back to the 2nd–1st century BC.\nThe Dii Consentes, also known as Di or Dei Consentes, or The Harmonious Gods, is an ancient list of twelve major deities, six gods and six goddesses, in the pantheon of Ancient Rome. Their gilt statues stood in the Roman Forum, and later apparently in the Porticus Deorum Consentium.",
+        "subject": "Seven Wonders of the Ancient World",
+        "predicate": "same_described_by_source",
+        "object": "Dii Consentes",
+        "evidence": [
+            [
+                "Dii Consentes",
+                "described by source",
+                "Pauly–Wissowa"
+            ],
+            [
+                "Dii Consentes",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Dii Consentes",
+                "described by source",
+                "Real'nyj slovar' klassicheskih drevnostej po Ljubkeru"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The New Student's Reference Work"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Armenian Soviet Encyclopedia, vol. 1"
+            ]
+        ],
+        "question": "Is it true that Seven Wonders of the Ancient World and Dii Consentes have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Seven Wonders of the Ancient World, also known as the Seven Wonders of the World or simply the Seven Wonders, is a list of seven notable structures present during classical antiquity. The first known list of seven wonders dates back to the 2nd–1st century BC.\nThe seven deadly sins function as a grouping classification of major vices within the teachings of Christianity. According to the standard list, the seven deadly sins in Roman Catholic Church are pride, greed, wrath, envy, lust, gluttony, and sloth. ",
+        "subject": "Seven Wonders of the Ancient World",
+        "predicate": "same_described_by_source",
+        "object": "Seven deadly sins",
+        "evidence": [
+            [
+                "Seven deadly sins",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The New Student's Reference Work"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Armenian Soviet Encyclopedia, vol. 1"
+            ]
+        ],
+        "question": "Does Seven Wonders of the Ancient World and Seven deadly sins share totally different described by source?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The Seven Wonders of the Ancient World, also known as the Seven Wonders of the World or simply the Seven Wonders, is a list of seven notable structures present during classical antiquity. The first known list of seven wonders dates back to the 2nd–1st century BC.\nThe seven hills of Rome east of the river Tiber form the geographical heart of Rome, within the walls of the city.",
+        "subject": "Seven Wonders of the Ancient World",
+        "predicate": "same_described_by_source",
+        "object": "Seven hills of Rome",
+        "evidence": [
+            [
+                "Seven hills of Rome",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Small Brockhaus and Efron Encyclopedic Dictionary"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The Nuttall Encyclopædia"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "The New Student's Reference Work"
+            ],
+            [
+                "Seven Wonders of the Ancient World",
+                "described by source",
+                "Armenian Soviet Encyclopedia, vol. 1"
+            ]
+        ],
+        "question": "Is it true that Seven Wonders of the Ancient World and Seven hills of Rome have the same described by source?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Composite Inference",
+        "description": "The trivium is the lower division of the seven liberal arts and comprises grammar, logic, and rhetoric.\nFrom the time of Plato through the Middle Ages, the quadrivium was a grouping of four subjects or arts—arithmetic, geometry, music, and astronomy—that formed a second curricular stage following preparatory work in the trivium, consisting of grammar, logic, and rhetoric. Together, the  trivium and the quadrivium comprised the seven liberal arts, and formed the basis of a liberal arts education in Western society until gradually displaced as a curricular structure by the studia humanitatis and its later offshoots, beginning with Petrarch in the 14th century. The seven classical arts were considered \"thinking skills\" and were distinguished from practical arts, such as medicine and architecture.",
+        "subject": "trivium",
+        "predicate": "same_described_by_source",
+        "object": "Quadrivium",
+        "evidence": [
+            [
+                "Quadrivium",
+                "described by source",
+                "Meyers Konversations-Lexikon, 4th edition (1885–1890)"
+            ],
+            [
+                "Quadrivium",
+                "described by source",
+                "New International Encyclopedia"
+            ],
+            [
+                "Quadrivium",
+                "described by source",
+                "Catholic Encyclopedia (1913)/Seven Liberal Arts"
+            ],
+            [
+                "Quadrivium",
+                "described by source",
+                "The Republic"
+            ]
+        ],
+        "question": "Is there any possibility for the described by source of trivium also related with Quadrivium?",
+        "answer": "Yes."
+    }
+]

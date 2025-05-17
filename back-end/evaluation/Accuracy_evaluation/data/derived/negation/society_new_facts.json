@@ -1,0 +1,501 @@
+[
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Humanities are academic disciplines that study aspects of human society and culture, including certain fundamental questions asked by humans. During the Renaissance, the term \"humanities\" referred to the study of classical literature and language, as opposed to the study of religion, or \"divinity\". The study of the humanities was a key part of the secular curriculum in universities at the time. Today, the humanities are more frequently defined as any fields of study outside of natural sciences, social sciences, formal sciences, and applied sciences. They use methods that are primarily critical, speculative, or interpretative and have a significant historical element\u2014as distinguished from the mainly empirical approaches of science.\nA civilization is any complex society characterized by the development of the state, social stratification, urbanization, and symbolic systems of communication beyond signed or spoken languages.",
+        "subject": "Humanities",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "civilization",
+        "evidence": [
+            [
+                "Humanities",
+                "said to be the same as",
+                "human science"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Area studies, also known as regional studies, is an interdisciplinary field of research and scholarship pertaining to particular geographical, national/federal, or cultural regions. The term exists primarily as a general description for what are, in the practice of scholarship, many heterogeneous fields of research, encompassing both the social sciences and the humanities. Typical area study programs involve international relations, strategic studies, history, political science, political economy, cultural studies, languages, geography, literature, and other related disciplines. In contrast to cultural studies, area studies often include diaspora and emigration from the area.\nHuman science studies the philosophical, biological, social, justice, and cultural aspects of human life. Human science aims to expand the understanding of the human world through a broad interdisciplinary approach. It encompasses a wide range of fields - including history, philosophy, sociology, psychology, justice studies, evolutionary biology, biochemistry, neurosciences, folkloristics, and anthropology. It is the study and interpretation of the experiences, activities, constructs, and artifacts associated with human beings. The study of human sciences attempts to expand and enlighten the human being's knowledge of its existence, its interrelationship with other species and systems, and the development of artifacts to perpetuate the human expression and thought. It is the study of human phenomena. The study of the human experience is historical and current in nature. It requires the evaluation and interpretation of the historic human experience and the analysis of current human activity to gain an understanding of human phenomena and to project the outlines of human evolution. Human science is an objective, informed critique of human existence and how it relates to reality.Underlying human science is the relationship between various humanistic modes of inquiry within fields such as history, sociology, folkloristics, anthropology, and economics and advances in such things as genetics, evolutionary biology, and the social sciences for the purpose of understanding our lives in a rapidly changing world. Its use of an empirical methodology that encompasses psychological experience in contrasts with the purely positivistic approach typical of the natural sciences which exceeds all methods not based solely on sensory observations. Modern approaches in the human sciences integrate an understanding of human structure, function on and adaptation with a broader exploration of what it means to be human. The term is also used to distinguish not only the content of a field of study from that of the natural science, but also its methodology.",
+        "subject": "Area studies",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "human science",
+        "evidence": [
+            [
+                "Area studies",
+                "said to be the same as",
+                "domestic studies"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Area studies, also known as regional studies, is an interdisciplinary field of research and scholarship pertaining to particular geographical, national/federal, or cultural regions. The term exists primarily as a general description for what are, in the practice of scholarship, many heterogeneous fields of research, encompassing both the social sciences and the humanities. Typical area study programs involve international relations, strategic studies, history, political science, political economy, cultural studies, languages, geography, literature, and other related disciplines. In contrast to cultural studies, area studies often include diaspora and emigration from the area.\nA civilization is any complex society characterized by the development of the state, social stratification, urbanization, and symbolic systems of communication beyond signed or spoken languages.",
+        "subject": "Area studies",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "civilization",
+        "evidence": [
+            [
+                "Area studies",
+                "said to be the same as",
+                "domestic studies"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": " Media studies is a discipline and field of study that deals with the content, history, and effects of various media; in particular, the mass media. Media studies may draw on traditions from both the social sciences and the humanities, but it mostly draws from its core disciplines of mass communication, communication, communication sciences, and communication studies.\nHuman science studies the philosophical, biological, social, justice, and cultural aspects of human life. Human science aims to expand the understanding of the human world through a broad interdisciplinary approach. It encompasses a wide range of fields - including history, philosophy, sociology, psychology, justice studies, evolutionary biology, biochemistry, neurosciences, folkloristics, and anthropology. It is the study and interpretation of the experiences, activities, constructs, and artifacts associated with human beings. The study of human sciences attempts to expand and enlighten the human being's knowledge of its existence, its interrelationship with other species and systems, and the development of artifacts to perpetuate the human expression and thought. It is the study of human phenomena. The study of the human experience is historical and current in nature. It requires the evaluation and interpretation of the historic human experience and the analysis of current human activity to gain an understanding of human phenomena and to project the outlines of human evolution. Human science is an objective, informed critique of human existence and how it relates to reality.Underlying human science is the relationship between various humanistic modes of inquiry within fields such as history, sociology, folkloristics, anthropology, and economics and advances in such things as genetics, evolutionary biology, and the social sciences for the purpose of understanding our lives in a rapidly changing world. Its use of an empirical methodology that encompasses psychological experience in contrasts with the purely positivistic approach typical of the natural sciences which exceeds all methods not based solely on sensory observations. Modern approaches in the human sciences integrate an understanding of human structure, function on and adaptation with a broader exploration of what it means to be human. The term is also used to distinguish not only the content of a field of study from that of the natural science, but also its methodology.",
+        "subject": "Media studies",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "human science",
+        "evidence": [
+            [
+                "Media studies",
+                "said to be the same as",
+                "media science"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": " Media studies is a discipline and field of study that deals with the content, history, and effects of various media; in particular, the mass media. Media studies may draw on traditions from both the social sciences and the humanities, but it mostly draws from its core disciplines of mass communication, communication, communication sciences, and communication studies.\nA civilization is any complex society characterized by the development of the state, social stratification, urbanization, and symbolic systems of communication beyond signed or spoken languages.",
+        "subject": "Media studies",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "civilization",
+        "evidence": [
+            [
+                "Media studies",
+                "said to be the same as",
+                "media science"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "The term world community is used primarily in political and humanitarian contexts to describe an international aggregate of nation states of widely varying types. In most connotations, the term is used to convey meanings attached to consensus or inclusion of all people in all lands and their governments.\nHuman science studies the philosophical, biological, social, justice, and cultural aspects of human life. Human science aims to expand the understanding of the human world through a broad interdisciplinary approach. It encompasses a wide range of fields - including history, philosophy, sociology, psychology, justice studies, evolutionary biology, biochemistry, neurosciences, folkloristics, and anthropology. It is the study and interpretation of the experiences, activities, constructs, and artifacts associated with human beings. The study of human sciences attempts to expand and enlighten the human being's knowledge of its existence, its interrelationship with other species and systems, and the development of artifacts to perpetuate the human expression and thought. It is the study of human phenomena. The study of the human experience is historical and current in nature. It requires the evaluation and interpretation of the historic human experience and the analysis of current human activity to gain an understanding of human phenomena and to project the outlines of human evolution. Human science is an objective, informed critique of human existence and how it relates to reality.Underlying human science is the relationship between various humanistic modes of inquiry within fields such as history, sociology, folkloristics, anthropology, and economics and advances in such things as genetics, evolutionary biology, and the social sciences for the purpose of understanding our lives in a rapidly changing world. Its use of an empirical methodology that encompasses psychological experience in contrasts with the purely positivistic approach typical of the natural sciences which exceeds all methods not based solely on sensory observations. Modern approaches in the human sciences integrate an understanding of human structure, function on and adaptation with a broader exploration of what it means to be human. The term is also used to distinguish not only the content of a field of study from that of the natural science, but also its methodology.",
+        "subject": "World community",
+        "predicate": "not_said_to_be_the_same_as",
+        "object": "human science",
+        "evidence": [
+            [
+                "World community",
+                "said to be the same as",
+                "civilization"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "History is the systematic study of the past. As an academic discipline, it analyzes and interprets evidence to construct narratives about what happened and explain why it happened, focusing primarily on the human past. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline. Similar debates surround the purpose of history, for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past. In a slightly different sense, the term history refers not to an academic field but to the past itself or to individual texts about the past.\nCultural evolution is an evolutionary theory of social change. It follows from the definition of culture as \"information capable of affecting individuals' behavior that they acquire from other members of their species through teaching, imitation and other forms of social transmission\". Cultural evolution is the change of this information over time.",
+        "subject": "history",
+        "predicate": "not_studied_in",
+        "object": "cultural evolution",
+        "evidence": []
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "History is the systematic study of the past. As an academic discipline, it analyzes and interprets evidence to construct narratives about what happened and explain why it happened, focusing primarily on the human past. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline. Similar debates surround the purpose of history, for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past. In a slightly different sense, the term history refers not to an academic field but to the past itself or to individual texts about the past.\nSociocultural evolution, sociocultural evolutionism or social evolution are theories of sociobiology and cultural evolution that describe how societies and culture change over time. Whereas sociocultural development traces processes that tend to increase the complexity of a society or culture, sociocultural evolution also considers process that can lead to decreases in complexity (degeneration) or that can produce variation or proliferation without any seemingly significant changes in complexity (cladogenesis). Sociocultural evolution is \"the process by which structural reorganization is affected through time, eventually producing a form or structure that is qualitatively different from the ancestral form\".",
+        "subject": "history",
+        "predicate": "not_studied_in",
+        "object": "sociocultural evolution",
+        "evidence": []
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Social change is the alteration of the social order of a society which may include changes in social institutions, social behaviours or social relations. Sustained at a larger scale, it may lead to social transformation or societal transformation.\nHistory is the systematic study of the past. As an academic discipline, it analyzes and interprets evidence to construct narratives about what happened and explain why it happened, focusing primarily on the human past. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline. Similar debates surround the purpose of history, for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past. In a slightly different sense, the term history refers not to an academic field but to the past itself or to individual texts about the past.",
+        "subject": "Social change",
+        "predicate": "not_studied_in",
+        "object": "study of history",
+        "evidence": [
+            [
+                "Social change",
+                "studied in",
+                "cultural evolution"
+            ],
+            [
+                "Social change",
+                "studied in",
+                "sociocultural evolution"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Social change is the alteration of the social order of a society which may include changes in social institutions, social behaviours or social relations. Sustained at a larger scale, it may lead to social transformation or societal transformation.\nHistory is the systematic study of the past. As an academic discipline, it analyzes and interprets evidence to construct narratives about what happened and explain why it happened, focusing primarily on the human past. Some theorists categorize history as a social science, while others see it as part of the humanities or consider it a hybrid discipline. Similar debates surround the purpose of history, for example, whether its main aim is theoretical, to uncover the truth, or practical, to learn lessons from the past. In a slightly different sense, the term history refers not to an academic field but to the past itself or to individual texts about the past.",
+        "subject": "Social change",
+        "predicate": "not_studied_in",
+        "object": "study of history",
+        "evidence": [
+            [
+                "Social change",
+                "studied in",
+                "cultural evolution"
+            ],
+            [
+                "Social change",
+                "studied in",
+                "sociocultural evolution"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Area studies, also known as regional studies, is an interdisciplinary field of research and scholarship pertaining to particular geographical, national/federal, or cultural regions. The term exists primarily as a general description for what are, in the practice of scholarship, many heterogeneous fields of research, encompassing both the social sciences and the humanities. Typical area study programs involve international relations, strategic studies, history, political science, political economy, cultural studies, languages, geography, literature, and other related disciplines. In contrast to cultural studies, area studies often include diaspora and emigration from the area.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Area studies",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Area studies",
+                "practiced by",
+                "scholar of area studies"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Area studies, also known as regional studies, is an interdisciplinary field of research and scholarship pertaining to particular geographical, national/federal, or cultural regions. The term exists primarily as a general description for what are, in the practice of scholarship, many heterogeneous fields of research, encompassing both the social sciences and the humanities. Typical area study programs involve international relations, strategic studies, history, political science, political economy, cultural studies, languages, geography, literature, and other related disciplines. In contrast to cultural studies, area studies often include diaspora and emigration from the area.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "Area studies",
+        "predicate": "not_practiced_by",
+        "object": "germanist",
+        "evidence": [
+            [
+                "Area studies",
+                "practiced by",
+                "scholar of area studies"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Area studies, also known as regional studies, is an interdisciplinary field of research and scholarship pertaining to particular geographical, national/federal, or cultural regions. The term exists primarily as a general description for what are, in the practice of scholarship, many heterogeneous fields of research, encompassing both the social sciences and the humanities. Typical area study programs involve international relations, strategic studies, history, political science, political economy, cultural studies, languages, geography, literature, and other related disciplines. In contrast to cultural studies, area studies often include diaspora and emigration from the area.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "Area studies",
+        "predicate": "not_practiced_by",
+        "object": "philosopher",
+        "evidence": [
+            [
+                "Area studies",
+                "practiced by",
+                "scholar of area studies"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Art history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "Art history",
+        "predicate": "not_practiced_by",
+        "object": "germanist",
+        "evidence": [
+            [
+                "Art history",
+                "practiced by",
+                "art historian"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Caucasology, or Caucasiology is the historical and geopolitical studies of the Caucasus region. The branch has more than 150 years history. In 1972, the Caucasiological Center was founded under the auspices of the Israel President Zalman Shazar.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Caucasology",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Caucasology",
+                "practiced by",
+                "Caucasologist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Caucasology, or Caucasiology is the historical and geopolitical studies of the Caucasus region. The branch has more than 150 years history. In 1972, the Caucasiological Center was founded under the auspices of the Israel President Zalman Shazar.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "Caucasology",
+        "predicate": "not_practiced_by",
+        "object": "germanist",
+        "evidence": [
+            [
+                "Caucasology",
+                "practiced by",
+                "Caucasologist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Caucasology, or Caucasiology is the historical and geopolitical studies of the Caucasus region. The branch has more than 150 years history. In 1972, the Caucasiological Center was founded under the auspices of the Israel President Zalman Shazar.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "Caucasology",
+        "predicate": "not_practiced_by",
+        "object": "philosopher",
+        "evidence": [
+            [
+                "Caucasology",
+                "practiced by",
+                "Caucasologist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Classics, also classical studies or Ancient Greek and Roman studies, is the study of classical antiquity. In the Western world, classics traditionally refers to the study of Ancient Greek and Roman literature and their original languages, Ancient Greek and Latin. Classics may also include as secondary subjects Greco-Roman philosophy, history, archaeology, anthropology, art, mythology, and society.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Classics",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Classics",
+                "practiced by",
+                "classical scholar"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Classics, also classical studies or Ancient Greek and Roman studies, is the study of classical antiquity. In the Western world, classics traditionally refers to the study of Ancient Greek and Roman literature and their original languages, Ancient Greek and Latin. Classics may also include as secondary subjects Greco-Roman philosophy, history, archaeology, anthropology, art, mythology, and society.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "Classics",
+        "predicate": "not_practiced_by",
+        "object": "germanist",
+        "evidence": [
+            [
+                "Classics",
+                "practiced by",
+                "classical scholar"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Classics, also classical studies or Ancient Greek and Roman studies, is the study of classical antiquity. In the Western world, classics traditionally refers to the study of Ancient Greek and Roman literature and their original languages, Ancient Greek and Latin. Classics may also include as secondary subjects Greco-Roman philosophy, history, archaeology, anthropology, art, mythology, and society.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "Classics",
+        "predicate": "not_practiced_by",
+        "object": "philosopher",
+        "evidence": [
+            [
+                "Classics",
+                "practiced by",
+                "classical scholar"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "German studies",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "German studies",
+                "practiced by",
+                "germanist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "German studies",
+        "predicate": "not_practiced_by",
+        "object": "philosopher",
+        "evidence": [
+            [
+                "German studies",
+                "practiced by",
+                "germanist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": " Media studies is a discipline and field of study that deals with the content, history, and effects of various media; in particular, the mass media. Media studies may draw on traditions from both the social sciences and the humanities, but it mostly draws from its core disciplines of mass communication, communication, communication sciences, and communication studies.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Media studies",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Media studies",
+                "practiced by",
+                "media scholar"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": " Media studies is a discipline and field of study that deals with the content, history, and effects of various media; in particular, the mass media. Media studies may draw on traditions from both the social sciences and the humanities, but it mostly draws from its core disciplines of mass communication, communication, communication sciences, and communication studies.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "Media studies",
+        "predicate": "not_practiced_by",
+        "object": "germanist",
+        "evidence": [
+            [
+                "Media studies",
+                "practiced by",
+                "media scholar"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": " Media studies is a discipline and field of study that deals with the content, history, and effects of various media; in particular, the mass media. Media studies may draw on traditions from both the social sciences and the humanities, but it mostly draws from its core disciplines of mass communication, communication, communication sciences, and communication studies.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "Media studies",
+        "predicate": "not_practiced_by",
+        "object": "philosopher",
+        "evidence": [
+            [
+                "Media studies",
+                "practiced by",
+                "media scholar"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Philosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "philosophy",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": []
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Philosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "philosophy",
+        "predicate": "not_practiced_by",
+        "object": "germanist",
+        "evidence": []
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Philosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "philosophy",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": []
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Philosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "philosophy",
+        "predicate": "not_practiced_by",
+        "object": "germanist",
+        "evidence": []
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Romance studies or Romance philology is an academic discipline that covers the study of the languages, literatures, and cultures of areas that speak Romance languages. Romance studies departments usually include the study of Spanish, French, Italian, and Portuguese. Additional areas of study include Romanian and Catalan, on one hand, and culture, history, and politics on the other hand.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Romance studies",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Romance studies",
+                "practiced by",
+                "romanist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Romance studies or Romance philology is an academic discipline that covers the study of the languages, literatures, and cultures of areas that speak Romance languages. Romance studies departments usually include the study of Spanish, French, Italian, and Portuguese. Additional areas of study include Romanian and Catalan, on one hand, and culture, history, and politics on the other hand.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "Romance studies",
+        "predicate": "not_practiced_by",
+        "object": "germanist",
+        "evidence": [
+            [
+                "Romance studies",
+                "practiced by",
+                "romanist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Romance studies or Romance philology is an academic discipline that covers the study of the languages, literatures, and cultures of areas that speak Romance languages. Romance studies departments usually include the study of Spanish, French, Italian, and Portuguese. Additional areas of study include Romanian and Catalan, on one hand, and culture, history, and politics on the other hand.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "Romance studies",
+        "predicate": "not_practiced_by",
+        "object": "philosopher",
+        "evidence": [
+            [
+                "Romance studies",
+                "practiced by",
+                "romanist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Satire is a genre of the visual, literary, and performing arts, usually in the form of fiction and less frequently non-fiction, in which vices, follies, abuses, and shortcomings are held up to ridicule, often with the intent of exposing or shaming the perceived flaws of individuals, corporations, government, or society itself into improvement. Although satire is usually meant to be humorous, its greater purpose is often constructive social criticism, using wit to draw attention to both particular and wider issues in society.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Satire",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Satire",
+                "practiced by",
+                "satirist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Satire is a genre of the visual, literary, and performing arts, usually in the form of fiction and less frequently non-fiction, in which vices, follies, abuses, and shortcomings are held up to ridicule, often with the intent of exposing or shaming the perceived flaws of individuals, corporations, government, or society itself into improvement. Although satire is usually meant to be humorous, its greater purpose is often constructive social criticism, using wit to draw attention to both particular and wider issues in society.\n\nGerman studies, also often known as German philology, is the field of humanities that researches, documents and disseminates German language and literature in both its historic and present forms. Academic departments of German studies often include classes on German culture, German history, and German politics in addition to the language and literature component. Common German names for the field are Germanistik, Deutsche Philologie, and Deutsche Sprachwissenschaft und Literaturwissenschaft. In English, the terms Germanistics or Germanics are sometimes used, but the subject is more often referred to as German studies, German language and literature, or German philology.",
+        "subject": "Satire",
+        "predicate": "not_practiced_by",
+        "object": "germanist",
+        "evidence": [
+            [
+                "Satire",
+                "practiced by",
+                "satirist"
+            ]
+        ]
+    },
+    {
+        "category": "society",
+        "reasoning": "Negation Inference",
+        "description": "Satire is a genre of the visual, literary, and performing arts, usually in the form of fiction and less frequently non-fiction, in which vices, follies, abuses, and shortcomings are held up to ridicule, often with the intent of exposing or shaming the perceived flaws of individuals, corporations, government, or society itself into improvement. Although satire is usually meant to be humorous, its greater purpose is often constructive social criticism, using wit to draw attention to both particular and wider issues in society.\nPhilosophy is a systematic study of general and fundamental questions concerning topics like existence, reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its methods and assumptions.",
+        "subject": "Satire",
+        "predicate": "not_practiced_by",
+        "object": "philosopher",
+        "evidence": [
+            [
+                "Satire",
+                "practiced by",
+                "satirist"
+            ]
+        ]
+    }
+]

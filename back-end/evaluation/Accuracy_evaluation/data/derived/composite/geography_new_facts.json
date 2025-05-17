@@ -1,0 +1,547 @@
+[
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "The Grande M\u00e9daille d'Or des Explorations et Voyages de D\u00e9couverte has been awarded since 1829 by the Soci\u00e9t\u00e9 de G\u00e9ographie of France for journeys whose outcomes have enhanced geographical knowledge.\nThe Prix International de G\u00e9ographie Vautrin-Lud, known in English as the Vautrin Lud Prize, is the highest award in the field of geography. Established in 1991, the award is named after the 16th Century French scholar Vautrin Lud, who first named, in 1507, the new continent explored by Amerigo Vespucci \"America\". The award is given in the autumn of each year at the International Geography Festival in Saint-Di\u00e9-des-Vosges, France and decided upon by a five-person international jury.",
+        "subject": "Grande M\u00e9daille d'Or des Explorations",
+        "predicate": "same_country",
+        "object": "Vautrin Lud Prize",
+        "evidence": [
+            [
+                "Grande M\u00e9daille d'Or des Explorations",
+                "country",
+                "France"
+            ],
+            [
+                "Vautrin Lud Prize",
+                "country",
+                "France"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "The Prix International de G\u00e9ographie Vautrin-Lud, known in English as the Vautrin Lud Prize, is the highest award in the field of geography. Established in 1991, the award is named after the 16th Century French scholar Vautrin Lud, who first named, in 1507, the new continent explored by Amerigo Vespucci \"America\". The award is given in the autumn of each year at the International Geography Festival in Saint-Di\u00e9-des-Vosges, France and decided upon by a five-person international jury.\nThe Grande M\u00e9daille d'Or des Explorations et Voyages de D\u00e9couverte has been awarded since 1829 by the Soci\u00e9t\u00e9 de G\u00e9ographie of France for journeys whose outcomes have enhanced geographical knowledge.",
+        "subject": "Vautrin Lud Prize",
+        "predicate": "same_country",
+        "object": "Grande M\u00e9daille d'Or des Explorations",
+        "evidence": [
+            [
+                "Grande M\u00e9daille d'Or des Explorations",
+                "country",
+                "France"
+            ],
+            [
+                "Vautrin Lud Prize",
+                "country",
+                "France"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "Ladislav Bohuslav Bartolomeides or L\u00e1szl\u00f3 Bartholomaeides was a Slovak preacher, geographer, translator, teacher, and writer. A major work was on the caves of Gemer and he also translated from other languages to write textbooks in Slovak on a range of subjects, notably on world geography.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "Ladislav Bartolomeides",
+        "predicate": "same_sex_or_gender",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Ladislav Bartolomeides",
+                "sex or gender",
+                "male"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "sex or gender",
+                "male"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "Herv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.\nLadislav Bohuslav Bartolomeides or L\u00e1szl\u00f3 Bartholomaeides was a Slovak preacher, geographer, translator, teacher, and writer. A major work was on the caves of Gemer and he also translated from other languages to write textbooks in Slovak on a range of subjects, notably on world geography.",
+        "subject": "Herv\u00e9 Th\u00e9ry",
+        "predicate": "same_sex_or_gender",
+        "object": "Ladislav Bartolomeides",
+        "evidence": [
+            [
+                "Ladislav Bartolomeides",
+                "sex or gender",
+                "male"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "sex or gender",
+                "male"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "Herv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.\nLadislav Bohuslav Bartolomeides or L\u00e1szl\u00f3 Bartholomaeides was a Slovak preacher, geographer, translator, teacher, and writer. A major work was on the caves of Gemer and he also translated from other languages to write textbooks in Slovak on a range of subjects, notably on world geography.",
+        "subject": "Herv\u00e9 Th\u00e9ry",
+        "predicate": "same_instance_of",
+        "object": "Ladislav Bartolomeides",
+        "evidence": [
+            [
+                "Ladislav Bartolomeides",
+                "instance of",
+                "human"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "instance of",
+                "human"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This page is a list of geography topics.\nThe 16th Annual Demographia International Housing Affordability Survey: 2020 analyzed affordability in 7 Anglophone countries and Hong Kong. Among this sample, the housing markets with the least affordable real estate prices are Hong Kong, Vancouver, and Sydney. The top three housing markets with the most affordable real estate prices based on major housing markets are Rochester, New York, Cleveland, Ohio, and Oklahoma City, Oklahoma. This survey was performed by Demographia, a global analysis firm.",
+        "subject": "Index of geography articles",
+        "predicate": "same_instance_of",
+        "object": "Housing Affordability in Anglophone Countries",
+        "evidence": [
+            [
+                "Index of geography articles",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Housing Affordability in Anglophone Countries",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This page is a list of geography topics.\n\nLandforms are categorized by characteristic physical attributes such as their creating process, shape, elevation, slope, orientation, rock exposure, and soil type.",
+        "subject": "Index of geography articles",
+        "predicate": "same_instance_of",
+        "object": "Glossary of landforms",
+        "evidence": [
+            [
+                "Index of geography articles",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Glossary of landforms",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This page is a list of geography topics.\n\nThese are lists of renamed places by country, sorted by continent.",
+        "subject": "Index of geography articles",
+        "predicate": "same_instance_of",
+        "object": "Lists of renamed places",
+        "evidence": [
+            [
+                "Index of geography articles",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Lists of renamed places",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This page is a list of geography topics.\nThis is a comprehensive list of rivers, organized primarily by continent and country.",
+        "subject": "Index of geography articles",
+        "predicate": "same_instance_of",
+        "object": "Lists of rivers",
+        "evidence": [
+            [
+                "Index of geography articles",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Lists of rivers",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This page is a list of geography topics.\nThis is a list of lists of countries and territories by various criteria. A country or territory is a geographical area, either in the sense of nation or state.",
+        "subject": "Index of geography articles",
+        "predicate": "same_instance_of",
+        "object": "Lists of sovereign states and dependent territories",
+        "evidence": [
+            [
+                "Index of geography articles",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Lists of sovereign states and dependent territories",
+                "instance of",
+                "Wikimedia list of lists"
+            ],
+            [
+                "Lists of sovereign states and dependent territories",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This page is a list of geography topics.\n",
+        "subject": "Index of geography articles",
+        "predicate": "same_instance_of",
+        "object": "Lists of things named after places",
+        "evidence": [
+            [
+                "Index of geography articles",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Lists of things named after places",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "The 16th Annual Demographia International Housing Affordability Survey: 2020 analyzed affordability in 7 Anglophone countries and Hong Kong. Among this sample, the housing markets with the least affordable real estate prices are Hong Kong, Vancouver, and Sydney. The top three housing markets with the most affordable real estate prices based on major housing markets are Rochester, New York, Cleveland, Ohio, and Oklahoma City, Oklahoma. This survey was performed by Demographia, a global analysis firm.\nThis page is a list of geography topics.",
+        "subject": "Housing Affordability in Anglophone Countries",
+        "predicate": "same_instance_of",
+        "object": "Index of geography articles",
+        "evidence": [
+            [
+                "Index of geography articles",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Housing Affordability in Anglophone Countries",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "The 16th Annual Demographia International Housing Affordability Survey: 2020 analyzed affordability in 7 Anglophone countries and Hong Kong. Among this sample, the housing markets with the least affordable real estate prices are Hong Kong, Vancouver, and Sydney. The top three housing markets with the most affordable real estate prices based on major housing markets are Rochester, New York, Cleveland, Ohio, and Oklahoma City, Oklahoma. This survey was performed by Demographia, a global analysis firm.\n\nLandforms are categorized by characteristic physical attributes such as their creating process, shape, elevation, slope, orientation, rock exposure, and soil type.",
+        "subject": "Housing Affordability in Anglophone Countries",
+        "predicate": "same_instance_of",
+        "object": "Glossary of landforms",
+        "evidence": [
+            [
+                "Housing Affordability in Anglophone Countries",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Glossary of landforms",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "The 16th Annual Demographia International Housing Affordability Survey: 2020 analyzed affordability in 7 Anglophone countries and Hong Kong. Among this sample, the housing markets with the least affordable real estate prices are Hong Kong, Vancouver, and Sydney. The top three housing markets with the most affordable real estate prices based on major housing markets are Rochester, New York, Cleveland, Ohio, and Oklahoma City, Oklahoma. This survey was performed by Demographia, a global analysis firm.\n\nThese are lists of renamed places by country, sorted by continent.",
+        "subject": "Housing Affordability in Anglophone Countries",
+        "predicate": "same_instance_of",
+        "object": "Lists of renamed places",
+        "evidence": [
+            [
+                "Housing Affordability in Anglophone Countries",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Lists of renamed places",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "The 16th Annual Demographia International Housing Affordability Survey: 2020 analyzed affordability in 7 Anglophone countries and Hong Kong. Among this sample, the housing markets with the least affordable real estate prices are Hong Kong, Vancouver, and Sydney. The top three housing markets with the most affordable real estate prices based on major housing markets are Rochester, New York, Cleveland, Ohio, and Oklahoma City, Oklahoma. This survey was performed by Demographia, a global analysis firm.\nThis is a comprehensive list of rivers, organized primarily by continent and country.",
+        "subject": "Housing Affordability in Anglophone Countries",
+        "predicate": "same_instance_of",
+        "object": "Lists of rivers",
+        "evidence": [
+            [
+                "Housing Affordability in Anglophone Countries",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Lists of rivers",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "Ladislav Bohuslav Bartolomeides or L\u00e1szl\u00f3 Bartholomaeides was a Slovak preacher, geographer, translator, teacher, and writer. A major work was on the caves of Gemer and he also translated from other languages to write textbooks in Slovak on a range of subjects, notably on world geography.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "Ladislav Bartolomeides",
+        "predicate": "same_occupation",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "priest"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "national revival activist"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "geographer"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "historian"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "entomologist"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "Lutheran pastor"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "ethnographer"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "pedagogue"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "occupation",
+                "university teacher"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "occupation",
+                "geographer"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "Herv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.\nLadislav Bohuslav Bartolomeides or L\u00e1szl\u00f3 Bartholomaeides was a Slovak preacher, geographer, translator, teacher, and writer. A major work was on the caves of Gemer and he also translated from other languages to write textbooks in Slovak on a range of subjects, notably on world geography.",
+        "subject": "Herv\u00e9 Th\u00e9ry",
+        "predicate": "same_occupation",
+        "object": "Ladislav Bartolomeides",
+        "evidence": [
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "priest"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "national revival activist"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "geographer"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "historian"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "entomologist"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "Lutheran pastor"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "ethnographer"
+            ],
+            [
+                "Ladislav Bartolomeides",
+                "occupation",
+                "pedagogue"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "occupation",
+                "university teacher"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "occupation",
+                "geographer"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This is a timeline of geopolitical changes around the world between 1500 and 1899. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territorial ownership such as the annexation, occupation, cession, concession, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of major military campaigns, but changes in the course of specific battles and day-to-day operations are generally not included.\nThis is a timeline of country and capital changes around the world since 2000. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territory such as the annexation, cession, concession, occupation, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of military campaigns. However, those changes in the course of specific battles and day-to-day operations are generally not included in this list. Changes in airspace and maritime territory are included only when they are subject to a dispute.",
+        "subject": "Timeline of geopolitical changes (1500\u20131899)",
+        "predicate": "same_facet_of",
+        "object": "Timeline of geopolitical changes (2000\u2013present)",
+        "evidence": [
+            [
+                "Timeline of geopolitical changes (1500\u20131899)",
+                "facet of",
+                "geopolitics"
+            ],
+            [
+                "Timeline of geopolitical changes (2000\u2013present)",
+                "facet of",
+                "geopolitics"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This is a timeline of geopolitical changes around the world between 1500 and 1899. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territorial ownership such as the annexation, occupation, cession, concession, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of major military campaigns, but changes in the course of specific battles and day-to-day operations are generally not included.\nThis is a timeline of geopolitical changes around the world prior to 1500. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territorial ownership such as the annexation, occupation, cession, concession, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of major military campaigns, but changes in the course of specific battles and day-to-day operations are generally not included.",
+        "subject": "Timeline of geopolitical changes (1500\u20131899)",
+        "predicate": "same_facet_of",
+        "object": "Timeline of geopolitical changes (before 1500)",
+        "evidence": [
+            [
+                "Timeline of geopolitical changes (1500\u20131899)",
+                "facet of",
+                "geopolitics"
+            ],
+            [
+                "Timeline of geopolitical changes (before 1500)",
+                "facet of",
+                "geopolitics"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This is a timeline of country and capital changes around the world since 2000. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territory such as the annexation, cession, concession, occupation, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of military campaigns. However, those changes in the course of specific battles and day-to-day operations are generally not included in this list. Changes in airspace and maritime territory are included only when they are subject to a dispute.\nThis is a timeline of geopolitical changes around the world between 1500 and 1899. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territorial ownership such as the annexation, occupation, cession, concession, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of major military campaigns, but changes in the course of specific battles and day-to-day operations are generally not included.",
+        "subject": "Timeline of geopolitical changes (2000\u2013present)",
+        "predicate": "same_facet_of",
+        "object": "Timeline of geopolitical changes (1500\u20131899)",
+        "evidence": [
+            [
+                "Timeline of geopolitical changes (1500\u20131899)",
+                "facet of",
+                "geopolitics"
+            ],
+            [
+                "Timeline of geopolitical changes (2000\u2013present)",
+                "facet of",
+                "geopolitics"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This is a timeline of country and capital changes around the world since 2000. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territory such as the annexation, cession, concession, occupation, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of military campaigns. However, those changes in the course of specific battles and day-to-day operations are generally not included in this list. Changes in airspace and maritime territory are included only when they are subject to a dispute.\nThis is a timeline of geopolitical changes around the world prior to 1500. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territorial ownership such as the annexation, occupation, cession, concession, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of major military campaigns, but changes in the course of specific battles and day-to-day operations are generally not included.",
+        "subject": "Timeline of geopolitical changes (2000\u2013present)",
+        "predicate": "same_facet_of",
+        "object": "Timeline of geopolitical changes (before 1500)",
+        "evidence": [
+            [
+                "Timeline of geopolitical changes (2000\u2013present)",
+                "facet of",
+                "geopolitics"
+            ],
+            [
+                "Timeline of geopolitical changes (before 1500)",
+                "facet of",
+                "geopolitics"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This is a timeline of geopolitical changes around the world prior to 1500. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territorial ownership such as the annexation, occupation, cession, concession, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of major military campaigns, but changes in the course of specific battles and day-to-day operations are generally not included.\nThis is a timeline of geopolitical changes around the world between 1500 and 1899. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territorial ownership such as the annexation, occupation, cession, concession, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of major military campaigns, but changes in the course of specific battles and day-to-day operations are generally not included.",
+        "subject": "Timeline of geopolitical changes (before 1500)",
+        "predicate": "same_facet_of",
+        "object": "Timeline of geopolitical changes (1500\u20131899)",
+        "evidence": [
+            [
+                "Timeline of geopolitical changes (1500\u20131899)",
+                "facet of",
+                "geopolitics"
+            ],
+            [
+                "Timeline of geopolitical changes (before 1500)",
+                "facet of",
+                "geopolitics"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Composite Inference",
+        "description": "This is a timeline of geopolitical changes around the world prior to 1500. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territorial ownership such as the annexation, occupation, cession, concession, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of major military campaigns, but changes in the course of specific battles and day-to-day operations are generally not included.\nThis is a timeline of country and capital changes around the world since 2000. It includes dates of declarations of independence, changes in country name, changes of capital city or name, and changes in territory such as the annexation, cession, concession, occupation, or secession of land. Territorial conquests as a result of war are included on the timeline at the conclusion of military campaigns. However, those changes in the course of specific battles and day-to-day operations are generally not included in this list. Changes in airspace and maritime territory are included only when they are subject to a dispute.",
+        "subject": "Timeline of geopolitical changes (before 1500)",
+        "predicate": "same_facet_of",
+        "object": "Timeline of geopolitical changes (2000\u2013present)",
+        "evidence": [
+            [
+                "Timeline of geopolitical changes (2000\u2013present)",
+                "facet of",
+                "geopolitics"
+            ],
+            [
+                "Timeline of geopolitical changes (before 1500)",
+                "facet of",
+                "geopolitics"
+            ]
+        ]
+    }
+]

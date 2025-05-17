@@ -1,0 +1,114 @@
+{
+  "id": "4738659",
+  "name": "大模型",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "344007",
+      "name": "加载失败",
+      "font_class": "jiazaishibai",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "1239930",
+      "name": "加载",
+      "font_class": "jiazai",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "1315275",
+      "name": "Loading",
+      "font_class": "91jiazai",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "5147163",
+      "name": "质检结果",
+      "font_class": "zhijianjieguo",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8679369",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "10593834",
+      "name": "工具箱,辅助工具_jurassic",
+      "font_class": "jurassic_toolkit",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "12103194",
+      "name": "工具",
+      "font_class": "gongju",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "12694060",
+      "name": "校验结果查询",
+      "font_class": "xiaoyanjieguochaxun",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "18170209",
+      "name": "气泡加载",
+      "font_class": "loading-full",
+      "unicode": "e987",
+      "unicode_decimal": 59783
+    },
+    {
+      "icon_id": "18404266",
+      "name": "加载",
+      "font_class": "jiazai1",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "20104527",
+      "name": "校验结果",
+      "font_class": "xiaoyanjieguo",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "28410554",
+      "name": "加载中（大小）",
+      "font_class": "a-jiazaizhongdaxiao",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "39645034",
+      "name": "主页房子家",
+      "font_class": "a-homezhuyefangzijia",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "39793985",
+      "name": "房子家",
+      "font_class": "Home",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "40654745",
+      "name": "主页",
+      "font_class": "zhuye1",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    }
+  ]
+}

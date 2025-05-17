@@ -1,0 +1,112 @@
+[
+    {
+        "subject": "Q17073664",
+        "subjectValue": "Inca technology",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q17524420",
+        "objectValue": "aspect of history",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q17073664",
+        "subjectValue": "Inca technology",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q11016",
+        "objectValue": "technology",
+        "anotherObject": "Q34104",
+        "anotherObjectValue": "science and technology"
+    },
+    {
+        "subject": "Q7112702",
+        "subjectValue": "Prehistoric technology",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q11016",
+        "objectValue": "technology",
+        "anotherObject": "Q34104",
+        "anotherObjectValue": "science and technology"
+    },
+    {
+        "subject": "Q7112702",
+        "subjectValue": "Prehistoric technology",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q112057532",
+        "objectValue": "type of technology",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q9031060",
+        "subjectValue": "History of timekeeping devices in Egypt",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q17524420",
+        "objectValue": "aspect of history",
+        "anotherObject": "Q19478619",
+        "anotherObjectValue": "metaclass"
+    },
+    {
+        "subject": "Q4787070",
+        "subjectValue": "Architectural technology",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q4787070",
+        "subjectValue": "Architectural technology",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q11016",
+        "objectValue": "technology",
+        "anotherObject": "Q34104",
+        "anotherObjectValue": "science and technology"
+    },
+    {
+        "subject": "Q16930522",
+        "subjectValue": "Creative technology",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q11862829",
+        "objectValue": "academic discipline",
+        "anotherObject": "Q110402867",
+        "anotherObjectValue": "knowledge classification"
+    },
+    {
+        "subject": "Q5357718",
+        "subjectValue": "Electrical engineering technology",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q11016",
+        "objectValue": "technology",
+        "anotherObject": "Q34104",
+        "anotherObjectValue": "science and technology"
+    },
+    {
+        "subject": "Q5375154",
+        "subjectValue": "Enabling technology",
+        "predicate": "P1269",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "Q932522",
+        "objectValue": "strategic planning",
+        "anotherObject": "Q376657",
+        "anotherObjectValue": "strategic management"
+    },
+    {
+        "subject": "Q5375154",
+        "subjectValue": "Enabling technology",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q11016",
+        "objectValue": "technology",
+        "anotherObject": "Q34104",
+        "anotherObjectValue": "science and technology"
+    }
+]

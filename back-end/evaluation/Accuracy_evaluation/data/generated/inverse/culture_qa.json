@@ -1,0 +1,229 @@
+[
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "Politeness is the practical application of good manners or etiquette so as not to offend others and to put them at ease. It is a culturally defined phenomenon, and therefore what is considered polite in one culture can sometimes be quite rude or simply eccentric in another cultural context.\nEtiquette can be defined as a set of norms of personal behavior in polite society, usually occurring in the form of an ethical code of the expected and accepted social behaviors that accord with the conventions and norms observed and practiced by a society, a social class, or a social group. In modern English usage, the French word étiquette dates from the year 1750 and also originates from the French word for \"ticket,\" possibly symbolizing a person’s entry into society through proper behavior. There are many important historical figures that have helped to shape the meaning of the term as well as provide varying perspectives.",
+        "subject": "politeness",
+        "predicate": "be_the_use_of",
+        "object": "Etiquette",
+        "evidence": [
+            [
+                "Etiquette",
+                "has use",
+                "politeness"
+            ]
+        ],
+        "question": "Statement: It's not true that politeness could be be the use of of Etiquette. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "Politeness is the practical application of good manners or etiquette so as not to offend others and to put them at ease. It is a culturally defined phenomenon, and therefore what is considered polite in one culture can sometimes be quite rude or simply eccentric in another cultural context.\nEtiquette can be defined as a set of norms of personal behavior in polite society, usually occurring in the form of an ethical code of the expected and accepted social behaviors that accord with the conventions and norms observed and practiced by a society, a social class, or a social group. In modern English usage, the French word étiquette dates from the year 1750 and also originates from the French word for \"ticket,\" possibly symbolizing a person’s entry into society through proper behavior. There are many important historical figures that have helped to shape the meaning of the term as well as provide varying perspectives.",
+        "subject": "politeness",
+        "predicate": "be_the_use_of",
+        "object": "Etiquette",
+        "evidence": [
+            [
+                "Etiquette",
+                "has use",
+                "politeness"
+            ]
+        ],
+        "question": "Is there any possibility that politeness could not be be the use of of Etiquette?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "Politeness is the practical application of good manners or etiquette so as not to offend others and to put them at ease. It is a culturally defined phenomenon, and therefore what is considered polite in one culture can sometimes be quite rude or simply eccentric in another cultural context.\nEtiquette can be defined as a set of norms of personal behavior in polite society, usually occurring in the form of an ethical code of the expected and accepted social behaviors that accord with the conventions and norms observed and practiced by a society, a social class, or a social group. In modern English usage, the French word étiquette dates from the year 1750 and also originates from the French word for \"ticket,\" possibly symbolizing a person’s entry into society through proper behavior. There are many important historical figures that have helped to shape the meaning of the term as well as provide varying perspectives.",
+        "subject": "politeness",
+        "predicate": "be_the_use_of",
+        "object": "Etiquette",
+        "evidence": [
+            [
+                "Etiquette",
+                "has use",
+                "politeness"
+            ]
+        ],
+        "question": "Statement: It's not true that politeness could be be the use of of Etiquette. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "Evidence for a proposition is what supports the proposition. It is usually understood as an indication that the proposition is true. The exact definition and role of evidence vary across different fields. In epistemology, evidence is what justifies beliefs or what makes it rational to hold a certain doxastic attitude. For example, a perceptual experience of a tree may serve as evidence to justify the belief that there is a tree. In this role, evidence is usually understood as a private mental state. In phenomenology, evidence is limited to intuitive knowledge, often associated with the controversial assumption that it provides indubitable access to truth.\nCredibility comprises the objective and subjective components of the believability of a source or message. Credibility is deemed essential in many fields to establish expertise. It plays a crucial role in journalism, teaching, science, medicine, business leadership, and social media.",
+        "subject": "evidence",
+        "predicate": "be_the_natural_reservoir_in",
+        "object": "Credibility",
+        "evidence": [
+            [
+                "Credibility",
+                "has characteristic",
+                "evidence"
+            ],
+            [
+                "Credibility",
+                "has characteristic",
+                "subjectivity"
+            ]
+        ],
+        "question": "Is there any possibility that evidence could not be be the natural reservoir in of Credibility?",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "\nThe distinction between subjectivity and objectivity is a basic idea of philosophy, particularly epistemology and metaphysics. Various understandings of this distinction have evolved through the work of countless philosophers over centuries. One basic distinction is:Something is subjective if it is dependent on a mind. If a claim is true exclusively when considering the claim from the viewpoint of a sentient being, it is subjectively true. For example, one person may consider the weather to be pleasantly warm, and another person may consider the same weather to be too hot; both views are subjective.\nSomething is objective if it can be confirmed independently of a mind. If a claim is true even when considering it outside the viewpoint of a sentient being, then it may be labelled objectively true.\nCredibility comprises the objective and subjective components of the believability of a source or message. Credibility is deemed essential in many fields to establish expertise. It plays a crucial role in journalism, teaching, science, medicine, business leadership, and social media.",
+        "subject": "subjectivity",
+        "predicate": "be_the_natural_reservoir_in",
+        "object": "Credibility",
+        "evidence": [
+            [
+                "Credibility",
+                "has characteristic",
+                "evidence"
+            ],
+            [
+                "Credibility",
+                "has characteristic",
+                "subjectivity"
+            ]
+        ],
+        "question": "Does subjectivity have the possibility to be be the natural reservoir in of Credibility?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "Evidence for a proposition is what supports the proposition. It is usually understood as an indication that the proposition is true. The exact definition and role of evidence vary across different fields. In epistemology, evidence is what justifies beliefs or what makes it rational to hold a certain doxastic attitude. For example, a perceptual experience of a tree may serve as evidence to justify the belief that there is a tree. In this role, evidence is usually understood as a private mental state. In phenomenology, evidence is limited to intuitive knowledge, often associated with the controversial assumption that it provides indubitable access to truth.\nCredibility comprises the objective and subjective components of the believability of a source or message. Credibility is deemed essential in many fields to establish expertise. It plays a crucial role in journalism, teaching, science, medicine, business leadership, and social media.",
+        "subject": "evidence",
+        "predicate": "be_the_natural_reservoir_in",
+        "object": "Credibility",
+        "evidence": [
+            [
+                "Credibility",
+                "has characteristic",
+                "evidence"
+            ],
+            [
+                "Credibility",
+                "has characteristic",
+                "subjectivity"
+            ]
+        ],
+        "question": "Statement: It's not true that evidence could be be the natural reservoir in of Credibility. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "\nThe distinction between subjectivity and objectivity is a basic idea of philosophy, particularly epistemology and metaphysics. Various understandings of this distinction have evolved through the work of countless philosophers over centuries. One basic distinction is:Something is subjective if it is dependent on a mind. If a claim is true exclusively when considering the claim from the viewpoint of a sentient being, it is subjectively true. For example, one person may consider the weather to be pleasantly warm, and another person may consider the same weather to be too hot; both views are subjective.\nSomething is objective if it can be confirmed independently of a mind. If a claim is true even when considering it outside the viewpoint of a sentient being, then it may be labelled objectively true.\nCredibility comprises the objective and subjective components of the believability of a source or message. Credibility is deemed essential in many fields to establish expertise. It plays a crucial role in journalism, teaching, science, medicine, business leadership, and social media.",
+        "subject": "subjectivity",
+        "predicate": "be_the_natural_reservoir_in",
+        "object": "Credibility",
+        "evidence": [
+            [
+                "Credibility",
+                "has characteristic",
+                "evidence"
+            ],
+            [
+                "Credibility",
+                "has characteristic",
+                "subjectivity"
+            ]
+        ],
+        "question": "Could subjectivity be be the natural reservoir in of Credibility?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "Evidence for a proposition is what supports the proposition. It is usually understood as an indication that the proposition is true. The exact definition and role of evidence vary across different fields. In epistemology, evidence is what justifies beliefs or what makes it rational to hold a certain doxastic attitude. For example, a perceptual experience of a tree may serve as evidence to justify the belief that there is a tree. In this role, evidence is usually understood as a private mental state. In phenomenology, evidence is limited to intuitive knowledge, often associated with the controversial assumption that it provides indubitable access to truth.\nCredibility comprises the objective and subjective components of the believability of a source or message. Credibility is deemed essential in many fields to establish expertise. It plays a crucial role in journalism, teaching, science, medicine, business leadership, and social media.",
+        "subject": "evidence",
+        "predicate": "be_the_natural_reservoir_in",
+        "object": "Credibility",
+        "evidence": [
+            [
+                "Credibility",
+                "has characteristic",
+                "evidence"
+            ],
+            [
+                "Credibility",
+                "has characteristic",
+                "subjectivity"
+            ]
+        ],
+        "question": "Is it true that evidence could or could be be the natural reservoir in Credibility?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "\nThe distinction between subjectivity and objectivity is a basic idea of philosophy, particularly epistemology and metaphysics. Various understandings of this distinction have evolved through the work of countless philosophers over centuries. One basic distinction is:Something is subjective if it is dependent on a mind. If a claim is true exclusively when considering the claim from the viewpoint of a sentient being, it is subjectively true. For example, one person may consider the weather to be pleasantly warm, and another person may consider the same weather to be too hot; both views are subjective.\nSomething is objective if it can be confirmed independently of a mind. If a claim is true even when considering it outside the viewpoint of a sentient being, then it may be labelled objectively true.\nCredibility comprises the objective and subjective components of the believability of a source or message. Credibility is deemed essential in many fields to establish expertise. It plays a crucial role in journalism, teaching, science, medicine, business leadership, and social media.",
+        "subject": "subjectivity",
+        "predicate": "be_the_natural_reservoir_in",
+        "object": "Credibility",
+        "evidence": [
+            [
+                "Credibility",
+                "has characteristic",
+                "evidence"
+            ],
+            [
+                "Credibility",
+                "has characteristic",
+                "subjectivity"
+            ]
+        ],
+        "question": "Statement: It's not true that subjectivity could be be the natural reservoir in of Credibility. Please judge the truth of the above statement. If it is true, answer with Yes; otherwise, No.",
+        "answer": "No."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "Evidence for a proposition is what supports the proposition. It is usually understood as an indication that the proposition is true. The exact definition and role of evidence vary across different fields. In epistemology, evidence is what justifies beliefs or what makes it rational to hold a certain doxastic attitude. For example, a perceptual experience of a tree may serve as evidence to justify the belief that there is a tree. In this role, evidence is usually understood as a private mental state. In phenomenology, evidence is limited to intuitive knowledge, often associated with the controversial assumption that it provides indubitable access to truth.\nCredibility comprises the objective and subjective components of the believability of a source or message. Credibility is deemed essential in many fields to establish expertise. It plays a crucial role in journalism, teaching, science, medicine, business leadership, and social media.",
+        "subject": "evidence",
+        "predicate": "be_the_natural_reservoir_in",
+        "object": "Credibility",
+        "evidence": [
+            [
+                "Credibility",
+                "has characteristic",
+                "evidence"
+            ],
+            [
+                "Credibility",
+                "has characteristic",
+                "subjectivity"
+            ]
+        ],
+        "question": "Does evidence have the possibility to be be the natural reservoir in of Credibility?",
+        "answer": "Yes."
+    },
+    {
+        "category": "culture",
+        "reasoning": "Inverse Function Inference",
+        "description": "\nThe distinction between subjectivity and objectivity is a basic idea of philosophy, particularly epistemology and metaphysics. Various understandings of this distinction have evolved through the work of countless philosophers over centuries. One basic distinction is:Something is subjective if it is dependent on a mind. If a claim is true exclusively when considering the claim from the viewpoint of a sentient being, it is subjectively true. For example, one person may consider the weather to be pleasantly warm, and another person may consider the same weather to be too hot; both views are subjective.\nSomething is objective if it can be confirmed independently of a mind. If a claim is true even when considering it outside the viewpoint of a sentient being, then it may be labelled objectively true.\nCredibility comprises the objective and subjective components of the believability of a source or message. Credibility is deemed essential in many fields to establish expertise. It plays a crucial role in journalism, teaching, science, medicine, business leadership, and social media.",
+        "subject": "subjectivity",
+        "predicate": "be_the_natural_reservoir_in",
+        "object": "Credibility",
+        "evidence": [
+            [
+                "Credibility",
+                "has characteristic",
+                "evidence"
+            ],
+            [
+                "Credibility",
+                "has characteristic",
+                "subjectivity"
+            ]
+        ],
+        "question": "Does subjectivity have the possibility to be be the natural reservoir in of Credibility?",
+        "answer": "Yes."
+    }
+]

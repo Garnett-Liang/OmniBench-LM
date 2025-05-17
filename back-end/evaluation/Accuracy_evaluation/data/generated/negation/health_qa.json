@@ -1,0 +1,270 @@
+[
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "The question of whether the historical Jesus was in good mental health is a subject of consideration for multiple psychologists, philosophers, historians, and writers. The first person, after several other attempts at tackling the subject, who broadly and thoroughly questioned the mental health of Jesus was French psychologist Charles Binet-Sanglé, the chief physician of Paris and author of a four-volume work La Folie de Jésus. This view finds both supporters and opponents.\nExposure science is the study of the contact between humans and harmful agents within their environment – whether it be chemical, physical, biological, behavioural or mental stressors – with the aim of identifying the causes and preventions of the adverse health effects they result in. This can include exposure within the home, workplace, outdoors or any other environment an individual may encounter. The term 'exposure' is the umbrella term for many different types, ranging from ultraviolet exposure, exposure to the chemicals in the food we eat, to exposure to long working hours being the occupational factor most attributable to the burden of disease.",
+        "subject": "Mental health of Jesus",
+        "predicate": "not_studied_in",
+        "object": "exposure science",
+        "evidence": [
+            [
+                "Mental health of Jesus",
+                "studied in",
+                "psychopathology"
+            ]
+        ],
+        "question": "Could Mental health of Jesus not be studied in of exposure science?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "The question of whether the historical Jesus was in good mental health is a subject of consideration for multiple psychologists, philosophers, historians, and writers. The first person, after several other attempts at tackling the subject, who broadly and thoroughly questioned the mental health of Jesus was French psychologist Charles Binet-Sanglé, the chief physician of Paris and author of a four-volume work La Folie de Jésus. This view finds both supporters and opponents.\nIndustrial ecology (IE) is the study of material and energy flows through industrial systems. The global industrial economy can be modelled as a network of industrial processes that extract resources from the Earth and transform those resources into by-products, products and services which can be bought and sold to meet the needs of humanity. Industrial ecology seeks to quantify the material flows and document the industrial processes that make modern society function. Industrial ecologists are often concerned with the impacts that industrial activities have on the environment, with use of the planet's supply of natural resources, and with problems of waste disposal. Industrial ecology is a young but growing multidisciplinary field of research which combines aspects of engineering, economics, sociology, toxicology and the natural sciences.",
+        "subject": "Mental health of Jesus",
+        "predicate": "not_studied_in",
+        "object": "industrial ecology",
+        "evidence": [
+            [
+                "Mental health of Jesus",
+                "studied in",
+                "psychopathology"
+            ]
+        ],
+        "question": "Is it true that Mental health of Jesus can not be studied in industrial ecology?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "The question of whether the historical Jesus was in good mental health is a subject of consideration for multiple psychologists, philosophers, historians, and writers. The first person, after several other attempts at tackling the subject, who broadly and thoroughly questioned the mental health of Jesus was French psychologist Charles Binet-Sanglé, the chief physician of Paris and author of a four-volume work La Folie de Jésus. This view finds both supporters and opponents.\nAudiology is a branch of science that studies hearing, balance, and related disorders. Audiologists treat those with hearing loss and proactively prevent related damage. By employing various testing strategies, audiologists aim to determine whether someone has normal sensitivity to sounds. If hearing loss is identified, audiologists determine which portions of hearing are affected, to what degree, and where the lesion causing the hearing loss is found. If an audiologist determines that a hearing loss or vestibular abnormality is present, they will provide recommendations for interventions or rehabilitation.",
+        "subject": "Mental health of Jesus",
+        "predicate": "not_studied_in",
+        "object": "audiology",
+        "evidence": [
+            [
+                "Mental health of Jesus",
+                "studied in",
+                "psychopathology"
+            ]
+        ],
+        "question": "Could Mental health of Jesus not be studied in of audiology?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "Health effects are changes in health resulting from exposure to a source. Health effects are an important consideration in many areas, such as hygiene, pollution studies, occupational safety and health, ([nutrition]) and health sciences in general. Some of the major environmental sources of health effects are air pollution, water pollution, soil contamination, noise pollution and over-illumination.\nIndustrial ecology (IE) is the study of material and energy flows through industrial systems. The global industrial economy can be modelled as a network of industrial processes that extract resources from the Earth and transform those resources into by-products, products and services which can be bought and sold to meet the needs of humanity. Industrial ecology seeks to quantify the material flows and document the industrial processes that make modern society function. Industrial ecologists are often concerned with the impacts that industrial activities have on the environment, with use of the planet's supply of natural resources, and with problems of waste disposal. Industrial ecology is a young but growing multidisciplinary field of research which combines aspects of engineering, economics, sociology, toxicology and the natural sciences.",
+        "subject": "Health effect",
+        "predicate": "not_studied_in",
+        "object": "industrial ecology",
+        "evidence": [
+            [
+                "Health effect",
+                "studied in",
+                "exposure science"
+            ]
+        ],
+        "question": "Is it true that Health effect can not be studied in industrial ecology?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "Health effects are changes in health resulting from exposure to a source. Health effects are an important consideration in many areas, such as hygiene, pollution studies, occupational safety and health, ([nutrition]) and health sciences in general. Some of the major environmental sources of health effects are air pollution, water pollution, soil contamination, noise pollution and over-illumination.\nAudiology is a branch of science that studies hearing, balance, and related disorders. Audiologists treat those with hearing loss and proactively prevent related damage. By employing various testing strategies, audiologists aim to determine whether someone has normal sensitivity to sounds. If hearing loss is identified, audiologists determine which portions of hearing are affected, to what degree, and where the lesion causing the hearing loss is found. If an audiologist determines that a hearing loss or vestibular abnormality is present, they will provide recommendations for interventions or rehabilitation.",
+        "subject": "Health effect",
+        "predicate": "not_studied_in",
+        "object": "audiology",
+        "evidence": [
+            [
+                "Health effect",
+                "studied in",
+                "exposure science"
+            ]
+        ],
+        "question": "Could Health effect not be studied in of audiology?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "\n\nThe term built environment refers to human-made conditions and is often used in architecture, landscape architecture, urban planning, public health, sociology, and anthropology, among others. These curated spaces provide the setting for human activity and were created to fulfill human desires and needs. The term can refer to a plethora of components including the traditionally associated buildings, cities, public infrastructure, transportation, open space, as well as more conceptual components like farmlands, dammed rivers, wildlife management, and even domesticated animals.\nPsychopathology is the study of mental illness. It includes the signs and symptoms of all mental disorders. The field includes abnormal cognition, maladaptive behavior, and experiences which differ according to social norms. This discipline is an in-depth look into symptoms, behaviors, causes, course, development, categorization, treatments, strategies, and more.",
+        "subject": "Built environment",
+        "predicate": "not_studied_in",
+        "object": "psychopathology",
+        "evidence": [
+            [
+                "Built environment",
+                "studied in",
+                "built environment and design studies"
+            ],
+            [
+                "Built environment",
+                "studied in",
+                "industrial ecology"
+            ]
+        ],
+        "question": "Could Built environment be studied in of psychopathology?",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "\n\nThe term built environment refers to human-made conditions and is often used in architecture, landscape architecture, urban planning, public health, sociology, and anthropology, among others. These curated spaces provide the setting for human activity and were created to fulfill human desires and needs. The term can refer to a plethora of components including the traditionally associated buildings, cities, public infrastructure, transportation, open space, as well as more conceptual components like farmlands, dammed rivers, wildlife management, and even domesticated animals.\nExposure science is the study of the contact between humans and harmful agents within their environment – whether it be chemical, physical, biological, behavioural or mental stressors – with the aim of identifying the causes and preventions of the adverse health effects they result in. This can include exposure within the home, workplace, outdoors or any other environment an individual may encounter. The term 'exposure' is the umbrella term for many different types, ranging from ultraviolet exposure, exposure to the chemicals in the food we eat, to exposure to long working hours being the occupational factor most attributable to the burden of disease.",
+        "subject": "Built environment",
+        "predicate": "not_studied_in",
+        "object": "exposure science",
+        "evidence": [
+            [
+                "Built environment",
+                "studied in",
+                "built environment and design studies"
+            ],
+            [
+                "Built environment",
+                "studied in",
+                "industrial ecology"
+            ]
+        ],
+        "question": "Could Built environment not be studied in of exposure science?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "\n\nThe term built environment refers to human-made conditions and is often used in architecture, landscape architecture, urban planning, public health, sociology, and anthropology, among others. These curated spaces provide the setting for human activity and were created to fulfill human desires and needs. The term can refer to a plethora of components including the traditionally associated buildings, cities, public infrastructure, transportation, open space, as well as more conceptual components like farmlands, dammed rivers, wildlife management, and even domesticated animals.\nAudiology is a branch of science that studies hearing, balance, and related disorders. Audiologists treat those with hearing loss and proactively prevent related damage. By employing various testing strategies, audiologists aim to determine whether someone has normal sensitivity to sounds. If hearing loss is identified, audiologists determine which portions of hearing are affected, to what degree, and where the lesion causing the hearing loss is found. If an audiologist determines that a hearing loss or vestibular abnormality is present, they will provide recommendations for interventions or rehabilitation.",
+        "subject": "Built environment",
+        "predicate": "not_studied_in",
+        "object": "audiology",
+        "evidence": [
+            [
+                "Built environment",
+                "studied in",
+                "built environment and design studies"
+            ],
+            [
+                "Built environment",
+                "studied in",
+                "industrial ecology"
+            ]
+        ],
+        "question": "Could Built environment be studied in of audiology?",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "\n\nThe term built environment refers to human-made conditions and is often used in architecture, landscape architecture, urban planning, public health, sociology, and anthropology, among others. These curated spaces provide the setting for human activity and were created to fulfill human desires and needs. The term can refer to a plethora of components including the traditionally associated buildings, cities, public infrastructure, transportation, open space, as well as more conceptual components like farmlands, dammed rivers, wildlife management, and even domesticated animals.\nPsychopathology is the study of mental illness. It includes the signs and symptoms of all mental disorders. The field includes abnormal cognition, maladaptive behavior, and experiences which differ according to social norms. This discipline is an in-depth look into symptoms, behaviors, causes, course, development, categorization, treatments, strategies, and more.",
+        "subject": "Built environment",
+        "predicate": "not_studied_in",
+        "object": "psychopathology",
+        "evidence": [
+            [
+                "Built environment",
+                "studied in",
+                "built environment and design studies"
+            ],
+            [
+                "Built environment",
+                "studied in",
+                "industrial ecology"
+            ]
+        ],
+        "question": "Could Built environment not be studied in of psychopathology?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "\n\nThe term built environment refers to human-made conditions and is often used in architecture, landscape architecture, urban planning, public health, sociology, and anthropology, among others. These curated spaces provide the setting for human activity and were created to fulfill human desires and needs. The term can refer to a plethora of components including the traditionally associated buildings, cities, public infrastructure, transportation, open space, as well as more conceptual components like farmlands, dammed rivers, wildlife management, and even domesticated animals.\nExposure science is the study of the contact between humans and harmful agents within their environment – whether it be chemical, physical, biological, behavioural or mental stressors – with the aim of identifying the causes and preventions of the adverse health effects they result in. This can include exposure within the home, workplace, outdoors or any other environment an individual may encounter. The term 'exposure' is the umbrella term for many different types, ranging from ultraviolet exposure, exposure to the chemicals in the food we eat, to exposure to long working hours being the occupational factor most attributable to the burden of disease.",
+        "subject": "Built environment",
+        "predicate": "not_studied_in",
+        "object": "exposure science",
+        "evidence": [
+            [
+                "Built environment",
+                "studied in",
+                "built environment and design studies"
+            ],
+            [
+                "Built environment",
+                "studied in",
+                "industrial ecology"
+            ]
+        ],
+        "question": "Is there any possibility for Built environment to be studied in of exposure science?",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "\n\nThe term built environment refers to human-made conditions and is often used in architecture, landscape architecture, urban planning, public health, sociology, and anthropology, among others. These curated spaces provide the setting for human activity and were created to fulfill human desires and needs. The term can refer to a plethora of components including the traditionally associated buildings, cities, public infrastructure, transportation, open space, as well as more conceptual components like farmlands, dammed rivers, wildlife management, and even domesticated animals.\nAudiology is a branch of science that studies hearing, balance, and related disorders. Audiologists treat those with hearing loss and proactively prevent related damage. By employing various testing strategies, audiologists aim to determine whether someone has normal sensitivity to sounds. If hearing loss is identified, audiologists determine which portions of hearing are affected, to what degree, and where the lesion causing the hearing loss is found. If an audiologist determines that a hearing loss or vestibular abnormality is present, they will provide recommendations for interventions or rehabilitation.",
+        "subject": "Built environment",
+        "predicate": "not_studied_in",
+        "object": "audiology",
+        "evidence": [
+            [
+                "Built environment",
+                "studied in",
+                "built environment and design studies"
+            ],
+            [
+                "Built environment",
+                "studied in",
+                "industrial ecology"
+            ]
+        ],
+        "question": "Could Built environment not be studied in of audiology?",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "Noise health effects are the physical and psychological health consequences of regular exposure to consistent elevated sound levels. Noise from traffic, in particular, is considered by the World Health Organization to be one of the worst environmental stressors for humans, second only to air pollution. Elevated workplace or environmental noise can cause hearing impairment, tinnitus, hypertension, ischemic heart disease, annoyance, and sleep disturbance. Changes in the immune system and birth defects have been also attributed to noise exposure.\nPsychopathology is the study of mental illness. It includes the signs and symptoms of all mental disorders. The field includes abnormal cognition, maladaptive behavior, and experiences which differ according to social norms. This discipline is an in-depth look into symptoms, behaviors, causes, course, development, categorization, treatments, strategies, and more.",
+        "subject": "Health effects from noise",
+        "predicate": "not_studied_in",
+        "object": "psychopathology",
+        "evidence": [
+            [
+                "Health effects from noise",
+                "studied in",
+                "audiology"
+            ]
+        ],
+        "question": "Statement: It's not true that Health effects from noise could be studied in of psychopathology. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "Yes."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "Noise health effects are the physical and psychological health consequences of regular exposure to consistent elevated sound levels. Noise from traffic, in particular, is considered by the World Health Organization to be one of the worst environmental stressors for humans, second only to air pollution. Elevated workplace or environmental noise can cause hearing impairment, tinnitus, hypertension, ischemic heart disease, annoyance, and sleep disturbance. Changes in the immune system and birth defects have been also attributed to noise exposure.\nExposure science is the study of the contact between humans and harmful agents within their environment – whether it be chemical, physical, biological, behavioural or mental stressors – with the aim of identifying the causes and preventions of the adverse health effects they result in. This can include exposure within the home, workplace, outdoors or any other environment an individual may encounter. The term 'exposure' is the umbrella term for many different types, ranging from ultraviolet exposure, exposure to the chemicals in the food we eat, to exposure to long working hours being the occupational factor most attributable to the burden of disease.",
+        "subject": "Health effects from noise",
+        "predicate": "not_studied_in",
+        "object": "exposure science",
+        "evidence": [
+            [
+                "Health effects from noise",
+                "studied in",
+                "audiology"
+            ]
+        ],
+        "question": "Could Health effects from noise be studied in of exposure science?",
+        "answer": "No."
+    },
+    {
+        "category": "health",
+        "reasoning": "Negation Inference",
+        "description": "Noise health effects are the physical and psychological health consequences of regular exposure to consistent elevated sound levels. Noise from traffic, in particular, is considered by the World Health Organization to be one of the worst environmental stressors for humans, second only to air pollution. Elevated workplace or environmental noise can cause hearing impairment, tinnitus, hypertension, ischemic heart disease, annoyance, and sleep disturbance. Changes in the immune system and birth defects have been also attributed to noise exposure.\nIndustrial ecology (IE) is the study of material and energy flows through industrial systems. The global industrial economy can be modelled as a network of industrial processes that extract resources from the Earth and transform those resources into by-products, products and services which can be bought and sold to meet the needs of humanity. Industrial ecology seeks to quantify the material flows and document the industrial processes that make modern society function. Industrial ecologists are often concerned with the impacts that industrial activities have on the environment, with use of the planet's supply of natural resources, and with problems of waste disposal. Industrial ecology is a young but growing multidisciplinary field of research which combines aspects of engineering, economics, sociology, toxicology and the natural sciences.",
+        "subject": "Health effects from noise",
+        "predicate": "not_studied_in",
+        "object": "industrial ecology",
+        "evidence": [
+            [
+                "Health effects from noise",
+                "studied in",
+                "audiology"
+            ]
+        ],
+        "question": "Could Health effects from noise not be studied in of industrial ecology?",
+        "answer": "Yes."
+    }
+]

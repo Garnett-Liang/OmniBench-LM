@@ -1,0 +1,682 @@
+[
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "The \u00c9cole normale sup\u00e9rieure \u2013 PSL is a grande \u00e9cole in Paris, France. It is one of the constituent members of Paris Sciences et Lettres University (PSL). Its pupils, predominantly postgraduate students, generally have considerable freedom to structure their own curriculum and learning. Its pupils are generally referred to as normaliens, while its alumni are generally referred to as archicubes.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "\u00c9cole Normale Sup\u00e9rieure",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    },
+    {
+        "category": "geography",
+        "reasoning": "Inverse Function Inference",
+        "description": "Paris 1 Panth\u00e9on-Sorbonne University, also known as Paris 1 and Panth\u00e9on-Sorbonne University, is a public research university in Paris, France.\nHerv\u00e9 Th\u00e9ry is a French and Brazilian internationally renowned geographer. A specialist in Brazilian territorial dynamics, his research focuses on topics such as pioneer agricultural fronts, ecological tensions, and thematic cartography.",
+        "subject": "University of Paris 1 Pantheon-Sorbonne",
+        "predicate": "be_the_alma_mater_of",
+        "object": "Herv\u00e9 Th\u00e9ry",
+        "evidence": [
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "\u00c9cole Normale Sup\u00e9rieure"
+            ],
+            [
+                "Herv\u00e9 Th\u00e9ry",
+                "educated at",
+                "University of Paris 1 Pantheon-Sorbonne"
+            ]
+        ]
+    }
+]

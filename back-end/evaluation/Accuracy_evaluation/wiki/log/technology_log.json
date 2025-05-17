@@ -1,0 +1,210 @@
+[
+    {
+        "entity": "Q3823319",
+        "entityLabel": "Ancient Egyptian technology",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q7000786",
+        "valueLabel": "Category:Ancient Egyptian technology"
+    },
+    {
+        "entity": "Q4704909",
+        "entityLabel": "Ancient Greek technology",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q7036786",
+        "valueLabel": "Category:Ancient Greek technology"
+    },
+    {
+        "entity": "Q4704909",
+        "entityLabel": "Ancient Greek technology",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q11016",
+        "valueLabel": "technology"
+    },
+    {
+        "entity": "Q4704909",
+        "entityLabel": "Ancient Greek technology",
+        "property": "P2596",
+        "propertyLabel": "culture",
+        "value": "Q11772",
+        "valueLabel": "Ancient Greece"
+    },
+    {
+        "entity": "Q17073664",
+        "entityLabel": "Inca technology",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q11016",
+        "valueLabel": "technology"
+    },
+    {
+        "entity": "Q17073664",
+        "entityLabel": "Inca technology",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q17524420",
+        "valueLabel": "aspect of history"
+    },
+    {
+        "entity": "Q17073664",
+        "entityLabel": "Inca technology",
+        "property": "P17",
+        "propertyLabel": "country",
+        "value": "Q28573",
+        "valueLabel": "Inca Empire"
+    },
+    {
+        "entity": "Q3180036",
+        "entityLabel": "Medieval technology",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q8833357",
+        "valueLabel": "Category:Technology in the Middle Ages"
+    },
+    {
+        "entity": "Q3180036",
+        "entityLabel": "Medieval technology",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q11016",
+        "valueLabel": "technology"
+    },
+    {
+        "entity": "Q3180036",
+        "entityLabel": "Medieval technology",
+        "property": "P2348",
+        "propertyLabel": "time period",
+        "value": "Q12554",
+        "valueLabel": "Middle Ages"
+    },
+    {
+        "entity": "Q7112702",
+        "entityLabel": "Prehistoric technology",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q6864275",
+        "valueLabel": "Category:Prehistoric technology"
+    },
+    {
+        "entity": "Q7112702",
+        "entityLabel": "Prehistoric technology",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q112057532",
+        "valueLabel": "type of technology"
+    },
+    {
+        "entity": "Q7112702",
+        "entityLabel": "Prehistoric technology",
+        "property": "P1424",
+        "propertyLabel": "topic's main template",
+        "value": "Q18607664",
+        "valueLabel": "Template:Prehistoric technology"
+    },
+    {
+        "entity": "Q7112702",
+        "entityLabel": "Prehistoric technology",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q11016",
+        "valueLabel": "technology"
+    },
+    {
+        "entity": "Q15855916",
+        "entityLabel": "Outline of prehistoric technology",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q26884324",
+        "valueLabel": "Wikimedia outline article"
+    },
+    {
+        "entity": "Q15855916",
+        "entityLabel": "Outline of prehistoric technology",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q8792730",
+        "valueLabel": "Category:Primitive technology"
+    },
+    {
+        "entity": "Q9031060",
+        "entityLabel": "History of timekeeping devices in Egypt",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q17524420",
+        "valueLabel": "aspect of history"
+    },
+    {
+        "entity": "Q3499620",
+        "entityLabel": "Alternative technology",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q11016",
+        "valueLabel": "technology"
+    },
+    {
+        "entity": "Q16930522",
+        "entityLabel": "Creative technology",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q11862829",
+        "valueLabel": "academic discipline"
+    },
+    {
+        "entity": "Q1192297",
+        "entityLabel": "Disruptive innovation",
+        "property": "P61",
+        "propertyLabel": "discoverer or inventor",
+        "value": "Q5130292",
+        "valueLabel": "Clayton Christensen"
+    },
+    {
+        "entity": "Q1192297",
+        "entityLabel": "Disruptive innovation",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q17008061",
+        "valueLabel": "creative disruption"
+    },
+    {
+        "entity": "Q1192297",
+        "entityLabel": "Disruptive innovation",
+        "property": "P1542",
+        "propertyLabel": "has effect",
+        "value": "Q2956685",
+        "valueLabel": "disruption"
+    },
+    {
+        "entity": "Q1192297",
+        "entityLabel": "Disruptive innovation",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q376657",
+        "valueLabel": "strategic management"
+    },
+    {
+        "entity": "Q1192297",
+        "entityLabel": "Disruptive innovation",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q174165",
+        "valueLabel": "innovation"
+    },
+    {
+        "entity": "Q5375154",
+        "entityLabel": "Enabling technology",
+        "property": "P1269",
+        "propertyLabel": "facet of",
+        "value": "Q932522",
+        "valueLabel": "strategic planning"
+    },
+    {
+        "entity": "Q5375154",
+        "entityLabel": "Enabling technology",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q11016",
+        "valueLabel": "technology"
+    }
+]

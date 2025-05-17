@@ -1,0 +1,603 @@
+[
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "New Philology generally refers to a branch of Mexican ethnohistory and philology that uses colonial-era native language texts written by Indians to construct history from the indigenous point of view. The name New Philology was coined by James Lockhart to describe work that he and his doctoral students and scholarly collaborators in history, anthropology, and linguistics had pursued since the mid-1970s. Lockhart published a great many essays elaborating on the concept and content of the New Philology and Matthew Restall published a description of it in the Latin American Research Review.\nMarc L\u00e9opold Benjamin Bloch was a French historian. He was a founding member of the Annales School of French social history. Bloch specialised in medieval history and published widely on medieval France over the course of his career. As an academic, he worked at the University of Strasbourg, the University of Paris, and the University of Montpellier.",
+        "subject": "New Philology (Latin America)",
+        "predicate": "not_founded_by",
+        "object": "Marc Bloch",
+        "evidence": [
+            [
+                "New Philology (Latin America)",
+                "founded by",
+                "James Lockhart"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "New Philology generally refers to a branch of Mexican ethnohistory and philology that uses colonial-era native language texts written by Indians to construct history from the indigenous point of view. The name New Philology was coined by James Lockhart to describe work that he and his doctoral students and scholarly collaborators in history, anthropology, and linguistics had pursued since the mid-1970s. Lockhart published a great many essays elaborating on the concept and content of the New Philology and Matthew Restall published a description of it in the Latin American Research Review.\nLucien Paul Victor Febvre was a French historian best known for the role he played in establishing the Annales School of history. He was the initial editor of the Encyclop\u00e9die fran\u00e7aise together with Anatole de Monzie.",
+        "subject": "New Philology (Latin America)",
+        "predicate": "not_founded_by",
+        "object": "Lucien Febvre",
+        "evidence": [
+            [
+                "New Philology (Latin America)",
+                "founded by",
+                "James Lockhart"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "The Annales school is a group of historians associated with a style of historiography developed by French historians in the 20th century to stress long-term social history. It is named after its scholarly journal Annales. Histoire, Sciences Sociales, which remains the main source of scholarship, along with many books and monographs. The school has been influential in setting the agenda for historiography in France and numerous other countries, especially regarding the use of social scientific methods by historians, emphasizing social and economic rather than political or diplomatic themes.\nJames Lockhart was a U.S. historian of colonial Spanish America, especially the Nahua people and Nahuatl language.",
+        "subject": "Annales school",
+        "predicate": "not_founded_by",
+        "object": "James Lockhart",
+        "evidence": [
+            [
+                "Annales school",
+                "founded by",
+                "Marc Bloch"
+            ],
+            [
+                "Annales school",
+                "founded by",
+                "Lucien Febvre"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "The Annales school is a group of historians associated with a style of historiography developed by French historians in the 20th century to stress long-term social history. It is named after its scholarly journal Annales. Histoire, Sciences Sociales, which remains the main source of scholarship, along with many books and monographs. The school has been influential in setting the agenda for historiography in France and numerous other countries, especially regarding the use of social scientific methods by historians, emphasizing social and economic rather than political or diplomatic themes.\nJames Lockhart was a U.S. historian of colonial Spanish America, especially the Nahua people and Nahuatl language.",
+        "subject": "Annales school",
+        "predicate": "not_founded_by",
+        "object": "James Lockhart",
+        "evidence": [
+            [
+                "Annales school",
+                "founded by",
+                "Marc Bloch"
+            ],
+            [
+                "Annales school",
+                "founded by",
+                "Lucien Febvre"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Art history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.\nPolitical history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.",
+        "subject": "Art history",
+        "predicate": "not_practiced_by",
+        "object": "political historian",
+        "evidence": [
+            [
+                "Art history",
+                "practiced by",
+                "art historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Art history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "Art history",
+        "predicate": "not_practiced_by",
+        "object": "public historian",
+        "evidence": [
+            [
+                "Art history",
+                "practiced by",
+                "art historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Art history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "Art history",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": [
+            [
+                "Art history",
+                "practiced by",
+                "art historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Church history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Church history",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Church history",
+                "practiced by",
+                "church historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Church history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.\nPolitical history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.",
+        "subject": "Church history",
+        "predicate": "not_practiced_by",
+        "object": "political historian",
+        "evidence": [
+            [
+                "Church history",
+                "practiced by",
+                "church historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Church history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "Church history",
+        "predicate": "not_practiced_by",
+        "object": "public historian",
+        "evidence": [
+            [
+                "Church history",
+                "practiced by",
+                "church historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Church history or ecclesiastical history as an academic discipline studies the history of Christianity and the way the Christian Church has developed since its inception.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "Church history",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": [
+            [
+                "Church history",
+                "practiced by",
+                "church historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Cultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818\u20131897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Cultural history",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Cultural history",
+                "practiced by",
+                "cultural historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Cultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818\u20131897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.\nPolitical history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.",
+        "subject": "Cultural history",
+        "predicate": "not_practiced_by",
+        "object": "political historian",
+        "evidence": [
+            [
+                "Cultural history",
+                "practiced by",
+                "cultural historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Cultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818\u20131897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "Cultural history",
+        "predicate": "not_practiced_by",
+        "object": "public historian",
+        "evidence": [
+            [
+                "Cultural history",
+                "practiced by",
+                "cultural historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Cultural history records and interprets past events involving human beings through the social, cultural, and political milieu of or relating to the arts and manners that a group favors. Jacob Burckhardt (1818\u20131897) helped found cultural history as a discipline. Cultural history studies and interprets the record of human societies by denoting the various distinctive ways of living built up by a group of people under consideration. Cultural history involves the aggregate of past cultural activity, such as ceremony, class in practices, and the interaction with locales. It combines the approaches of anthropology and history to examine popular cultural traditions and cultural interpretations of historical experience.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "Cultural history",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": [
+            [
+                "Cultural history",
+                "practiced by",
+                "cultural historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Economic history is the study of history using methodological tools from economics or with a special attention to economic phenomena. Research is conducted using a combination of historical methods, statistical methods and the application of economic theory to historical situations and institutions. The field can encompass a wide variety of topics, including equality, finance, technology, labour, and business. It emphasizes historicizing the economy itself, analyzing it as a dynamic entity and attempting to provide insights into the way it is structured and conceived.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Economic history",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Economic history",
+                "practiced by",
+                "economic historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Economic history is the study of history using methodological tools from economics or with a special attention to economic phenomena. Research is conducted using a combination of historical methods, statistical methods and the application of economic theory to historical situations and institutions. The field can encompass a wide variety of topics, including equality, finance, technology, labour, and business. It emphasizes historicizing the economy itself, analyzing it as a dynamic entity and attempting to provide insights into the way it is structured and conceived.\nPolitical history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.",
+        "subject": "Economic history",
+        "predicate": "not_practiced_by",
+        "object": "political historian",
+        "evidence": [
+            [
+                "Economic history",
+                "practiced by",
+                "economic historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Economic history is the study of history using methodological tools from economics or with a special attention to economic phenomena. Research is conducted using a combination of historical methods, statistical methods and the application of economic theory to historical situations and institutions. The field can encompass a wide variety of topics, including equality, finance, technology, labour, and business. It emphasizes historicizing the economy itself, analyzing it as a dynamic entity and attempting to provide insights into the way it is structured and conceived.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "Economic history",
+        "predicate": "not_practiced_by",
+        "object": "public historian",
+        "evidence": [
+            [
+                "Economic history",
+                "practiced by",
+                "economic historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Economic history is the study of history using methodological tools from economics or with a special attention to economic phenomena. Research is conducted using a combination of historical methods, statistical methods and the application of economic theory to historical situations and institutions. The field can encompass a wide variety of topics, including equality, finance, technology, labour, and business. It emphasizes historicizing the economy itself, analyzing it as a dynamic entity and attempting to provide insights into the way it is structured and conceived.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "Economic history",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": [
+            [
+                "Economic history",
+                "practiced by",
+                "economic historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Environmental history is the study of human interaction with the natural world over time, emphasising the active role nature plays in influencing human affairs and vice versa.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Environmental history",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Environmental history",
+                "practiced by",
+                "environmental historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Environmental history is the study of human interaction with the natural world over time, emphasising the active role nature plays in influencing human affairs and vice versa.\nPolitical history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.",
+        "subject": "Environmental history",
+        "predicate": "not_practiced_by",
+        "object": "political historian",
+        "evidence": [
+            [
+                "Environmental history",
+                "practiced by",
+                "environmental historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Environmental history is the study of human interaction with the natural world over time, emphasising the active role nature plays in influencing human affairs and vice versa.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "Environmental history",
+        "predicate": "not_practiced_by",
+        "object": "public historian",
+        "evidence": [
+            [
+                "Environmental history",
+                "practiced by",
+                "environmental historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Environmental history is the study of human interaction with the natural world over time, emphasising the active role nature plays in influencing human affairs and vice versa.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "Environmental history",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": [
+            [
+                "Environmental history",
+                "practiced by",
+                "environmental historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Ethnohistory is the study of cultures and indigenous peoples customs by examining historical records as well as other sources of information on their lives and history. It is also the study of the history of various ethnic groups that may or may not still exist. The term is most commonly used in writing about the history of the Americas.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Ethnohistory",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Ethnohistory",
+                "practiced by",
+                "ethnohistorian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Ethnohistory is the study of cultures and indigenous peoples customs by examining historical records as well as other sources of information on their lives and history. It is also the study of the history of various ethnic groups that may or may not still exist. The term is most commonly used in writing about the history of the Americas.\nPolitical history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.",
+        "subject": "Ethnohistory",
+        "predicate": "not_practiced_by",
+        "object": "political historian",
+        "evidence": [
+            [
+                "Ethnohistory",
+                "practiced by",
+                "ethnohistorian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Ethnohistory is the study of cultures and indigenous peoples customs by examining historical records as well as other sources of information on their lives and history. It is also the study of the history of various ethnic groups that may or may not still exist. The term is most commonly used in writing about the history of the Americas.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "Ethnohistory",
+        "predicate": "not_practiced_by",
+        "object": "public historian",
+        "evidence": [
+            [
+                "Ethnohistory",
+                "practiced by",
+                "ethnohistorian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Ethnohistory is the study of cultures and indigenous peoples customs by examining historical records as well as other sources of information on their lives and history. It is also the study of the history of various ethnic groups that may or may not still exist. The term is most commonly used in writing about the history of the Americas.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "Ethnohistory",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": [
+            [
+                "Ethnohistory",
+                "practiced by",
+                "ethnohistorian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Political history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Political history",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Political history",
+                "practiced by",
+                "political historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Political history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "Political history",
+        "predicate": "not_practiced_by",
+        "object": "public historian",
+        "evidence": [
+            [
+                "Political history",
+                "practiced by",
+                "political historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Political history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "Political history",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": [
+            [
+                "Political history",
+                "practiced by",
+                "political historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Public history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Public history",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Public history",
+                "practiced by",
+                "public historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Public history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.\nPolitical history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.",
+        "subject": "Public history",
+        "predicate": "not_practiced_by",
+        "object": "political historian",
+        "evidence": [
+            [
+                "Public history",
+                "practiced by",
+                "public historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "Public history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "Public history",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": [
+            [
+                "Public history",
+                "practiced by",
+                "public historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "\n\nSocial history, often called \"history from below\", is a field of history that looks at the lived experience of the past. Historians who write social history are called social historians.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "social history",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": []
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "\n\nSocial history, often called \"history from below\", is a field of history that looks at the lived experience of the past. Historians who write social history are called social historians.\nPolitical history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.",
+        "subject": "social history",
+        "predicate": "not_practiced_by",
+        "object": "political historian",
+        "evidence": []
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "\n\nSocial history, often called \"history from below\", is a field of history that looks at the lived experience of the past. Historians who write social history are called social historians.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "social history",
+        "predicate": "not_practiced_by",
+        "object": "public historian",
+        "evidence": []
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "\n\nSocial history, often called \"history from below\", is a field of history that looks at the lived experience of the past. Historians who write social history are called social historians.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "social history",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": []
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.\nArt history is, briefly, the history of art\u2014or the study of a specific type of objects created in the past.",
+        "subject": "Urban history",
+        "predicate": "not_practiced_by",
+        "object": "art historian",
+        "evidence": [
+            [
+                "Urban history",
+                "practiced by",
+                "urban historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.\nPolitical history is the narrative and survey of political events, ideas, movements, organs of government, voters, parties and leaders. It is closely related to other fields of history, including diplomatic history, constitutional history, social history, people's history, and public history. Political history studies the organization and operation of power in large societies.",
+        "subject": "Urban history",
+        "predicate": "not_practiced_by",
+        "object": "political historian",
+        "evidence": [
+            [
+                "Urban history",
+                "practiced by",
+                "urban historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.\nPublic history is a broad range of activities undertaken by people with some training in the discipline of history who are generally working outside of specialized academic settings. Public history practice is deeply rooted in the areas of historic preservation, archival science, oral history, museum curatorship, and other related fields. The field has become increasingly professionalized in the United States and Canada since the late 1970s. Some of the most common settings for the practice of public history are museums, historic homes and historic sites, parks, battlefields, archives, film and television companies, new media, and all levels of government.",
+        "subject": "Urban history",
+        "predicate": "not_practiced_by",
+        "object": "public historian",
+        "evidence": [
+            [
+                "Urban history",
+                "practiced by",
+                "urban historian"
+            ]
+        ]
+    },
+    {
+        "category": "history",
+        "reasoning": "Negation Inference",
+        "description": "\nUrban history is a field of history that examines the historical nature of cities and towns, and the process of urbanization. The approach is often multidisciplinary, crossing boundaries into fields like social history, architectural history, urban sociology, urban geography, business history, and archaeology. Urbanization and industrialization were popular themes for 20th-century historians, often tied to an implicit model of modernization, or the transformation of rural traditional societies.\nA historian is a person who studies and writes about the past and is regarded as an authority on it. Historians are concerned with the continuous, methodical narrative and research of past events as relating to the human race; as well as the study of all history in time. Some historians are recognized by publications or training and experience. \"Historian\" became a professional occupation in the late nineteenth century as research universities were emerging in Germany and elsewhere.",
+        "subject": "Urban history",
+        "predicate": "not_practiced_by",
+        "object": "historian",
+        "evidence": [
+            [
+                "Urban history",
+                "practiced by",
+                "urban historian"
+            ]
+        ]
+    }
+]

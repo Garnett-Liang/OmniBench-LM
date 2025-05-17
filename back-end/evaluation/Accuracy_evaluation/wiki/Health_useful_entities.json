@@ -1,0 +1,70 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q123080564",
+        "entityLabel": "Age and health concerns about Joe Biden"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5104829",
+        "entityLabel": "Health of Fr\u00e9d\u00e9ric Chopin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5076726",
+        "entityLabel": "Health of Charles Darwin"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4356352",
+        "entityLabel": "Health of Adolf Hitler"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4684101",
+        "entityLabel": "Possible monorchism of Adolf Hitler"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q9389533",
+        "entityLabel": "Mental health of Jesus"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7229184",
+        "entityLabel": "Health of Pope John Paul II"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q3968625",
+        "entityLabel": "Health of Samuel Johnson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q17089900",
+        "entityLabel": "Health of Abraham Lincoln"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2578140",
+        "entityLabel": "Health and appearance of Michael Jackson"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6927913",
+        "entityLabel": "Mozart and smallpox"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q113518832",
+        "entityLabel": "Claims of Vladimir Putin's incapacity and death"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5491443",
+        "entityLabel": "Paralytic illness of Franklin D. Roosevelt"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7703619",
+        "entityLabel": "Terri Schiavo timeline"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5113246",
+        "entityLabel": "Asylum confinement of Christopher Smart"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q129155144",
+        "entityLabel": "Age and health concerns about Donald Trump"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q7932136",
+        "entityLabel": "Health of Vincent van Gogh"
+    }
+]

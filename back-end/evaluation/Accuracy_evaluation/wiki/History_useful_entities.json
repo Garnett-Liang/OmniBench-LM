@@ -1,0 +1,82 @@
+[
+    {
+        "entity": "http://www.wikidata.org/entity/Q816829",
+        "entityLabel": "Periodization"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q30325332",
+        "entityLabel": "Administrative history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q358120",
+        "entityLabel": "Historical anthropology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q4781600",
+        "entityLabel": "Applied history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q23498",
+        "entityLabel": "Archaeology"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q50637",
+        "entityLabel": "Art history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q770723",
+        "entityLabel": "Auxiliary sciences of history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2088593",
+        "entityLabel": "Chorography"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1800439",
+        "entityLabel": "Church history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2708569",
+        "entityLabel": "Comparative history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q935780",
+        "entityLabel": "Counterfactual history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q858517",
+        "entityLabel": "Cultural history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q10297573",
+        "entityLabel": "Demographic history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q119285919",
+        "entityLabel": "Dress history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q47398",
+        "entityLabel": "Economic history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q1561862",
+        "entityLabel": "Environmental history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q5404269",
+        "entityLabel": "Ethnic history"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q2181985",
+        "entityLabel": "Ethnohistory"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q580130",
+        "entityLabel": "Historical demography"
+    },
+    {
+        "entity": "http://www.wikidata.org/entity/Q6031108",
+        "entityLabel": "Information history"
+    }
+]

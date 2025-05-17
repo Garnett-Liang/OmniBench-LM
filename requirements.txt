@@ -1,0 +1,34 @@
+# Core Requirements
+flask==2.3.2
+flask-sqlalchemy==3.0.3
+flask-migrate==4.0.4
+flask-cors==3.0.10
+
+# AI/ML Dependencies
+torch==2.0.1
+transformers==4.30.0
+datasets==2.13.1
+sentence-transformers==2.2.2
+bert-score==0.3.13
+scikit-learn==1.2.2
+
+# Prolog Integration
+pyswip==0.2.10
+
+# Data Processing
+pandas==1.5.3
+numpy==1.24.3
+requests==2.28.2
+openpyxl==3.1.2  # For Excel file handling
+
+# Utilities
+tqdm==4.65.0
+psutil==5.9.5
+python-dotenv==1.0.0
+
+# Hugging Face Ecosystem
+huggingface-hub==0.15.1
+accelerate==0.21.0
+
+# Optional (for bad_code.py)
+instructor==0.2.6  # If using advanced LLM safety features

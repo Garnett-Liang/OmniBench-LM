@@ -1,0 +1,541 @@
+[
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to natural science:\nThe following outline is provided as an overview of and topical guide to the planet Earth:",
+        "subject": "Outline of natural science",
+        "predicate": "same_instance_of",
+        "object": "Outline of Earth",
+        "evidence": [
+            [
+                "Outline of natural science",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Earth",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Outline of natural science also related with Outline of Earth?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "Rangeland management is a natural science that centers around the study of rangelands and the \"conservation and sustainable management [of Arid-Lands] for the benefit of current societies and future generations\". Range management is defined by Holechek et al. as the \"manipulation of rangeland components to obtain optimum combination of goods and services for society on a sustained basis\". The United Nations (UN) has declared 2026 the International Year of Rangelands and Pastoralists, with the Food and Agriculture Organization leading the initiative.\n\nNatural science or empirical science is one of the branches of science concerned with the description, understanding and prediction of natural phenomena, based on empirical evidence from observation and experimentation. Mechanisms such as peer review and reproducibility of findings are used to try to ensure the validity of scientific advances.",
+        "subject": "Rangeland management",
+        "predicate": "same_instance_of",
+        "object": "Natural science",
+        "evidence": [
+            [
+                "Natural science",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Natural science",
+                "instance of",
+                "branch of science"
+            ],
+            [
+                "Rangeland management",
+                "instance of",
+                "academic discipline"
+            ],
+            [
+                "Rangeland management",
+                "instance of",
+                "field of study"
+            ],
+            [
+                "Rangeland management",
+                "instance of",
+                "academic major"
+            ],
+            [
+                "Rangeland management",
+                "instance of",
+                "field of study"
+            ]
+        ],
+        "question": "Is it true that Rangeland management and Natural science have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "Become Ocean is an orchestral composition by American composer John Luther Adams. The Seattle Symphony Orchestra commissioned the work and premiered it at Benaroya Hall, Seattle, on 20 and 22 June 2013. The work won the 2014 Pulitzer Prize for Music and the 2015 Grammy Award for Best Classical Contemporary Composition. In 2019, writers of The Guardian ranked it the 10th greatest work of art music since 2000.\nDes canyons aux étoiles... is a large twelve-movement orchestral work by the French composer Olivier Messiaen. American Alice Tully commissioned the piece in 1971 to celebrate the bicentenary of the United States Declaration of Independence in 1976.",
+        "subject": "Become Ocean",
+        "predicate": "same_instance_of",
+        "object": "Des Canyons aux étoiles...",
+        "evidence": [
+            [
+                "Become Ocean",
+                "instance of",
+                "musical work/composition"
+            ],
+            [
+                "Des Canyons aux étoiles...",
+                "instance of",
+                "musical work/composition"
+            ]
+        ],
+        "question": "Is there any possibility for the instance of of Become Ocean also related with Des Canyons aux étoiles...?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "Des canyons aux étoiles... is a large twelve-movement orchestral work by the French composer Olivier Messiaen. American Alice Tully commissioned the piece in 1971 to celebrate the bicentenary of the United States Declaration of Independence in 1976.\nBecome Ocean is an orchestral composition by American composer John Luther Adams. The Seattle Symphony Orchestra commissioned the work and premiered it at Benaroya Hall, Seattle, on 20 and 22 June 2013. The work won the 2014 Pulitzer Prize for Music and the 2015 Grammy Award for Best Classical Contemporary Composition. In 2019, writers of The Guardian ranked it the 10th greatest work of art music since 2000.",
+        "subject": "Des Canyons aux étoiles...",
+        "predicate": "same_instance_of",
+        "object": "Become Ocean",
+        "evidence": [
+            [
+                "Become Ocean",
+                "instance of",
+                "musical work/composition"
+            ],
+            [
+                "Des Canyons aux étoiles...",
+                "instance of",
+                "musical work/composition"
+            ]
+        ],
+        "question": "Does Des Canyons aux étoiles... and Become Ocean have completely separate instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "\nThis is an index of conservation topics. It is an alphabetical index of articles relating to conservation biology and conservation of the natural environment.\nThe Seven Wonders of Canada was a 2007 competition sponsored by CBC Television's The National and CBC Radio One's Sounds Like Canada. They sought to determine Canada's \"seven wonders\" by receiving nominations from viewers, and then from on-line voting of the short list. After the vote, a panel of judges, Ra McGuire, Roy MacGregor and Roberta L. Jamieson, picked the winners based on geographic and poetic criteria. Their seven picks were revealed on The National on June 7, 2007, making the official Seven Wonders of Canada, the Canoe, the Igloo, Niagara Falls, Old Quebec City, Pier 21 Halifax, Prairie Skies, and the Rockies. CBC anchor Peter Mansbridge commented on the top winner, “it’s hard to imagine Canada being Canada without the canoe. Explorers, missionaries, fur traders and First Nations—they’re all linked by this subtle and simple craft. To many, the quintessential Canadian experience begins by picking up a paddle. That’s why the canoe is one of the seven wonders”. There were over 25,000 nominations and 1 million votes cast, according to the CBC website. The top audience votes were the Sleeping Giant, Niagara Falls, the Bay of Fundy, Nahanni National Park Reserve, the Northern Lights, the Rockies, and the Cabot Trail. The CBC website has a dedicated section for the Seven Wonders of Canada.",
+        "subject": "Index of conservation articles",
+        "predicate": "same_instance_of",
+        "object": "Seven Wonders of Canada",
+        "evidence": [
+            [
+                "Index of conservation articles",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Seven Wonders of Canada",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Does Index of conservation articles and Seven Wonders of Canada have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The Seven Wonders of Canada was a 2007 competition sponsored by CBC Television's The National and CBC Radio One's Sounds Like Canada. They sought to determine Canada's \"seven wonders\" by receiving nominations from viewers, and then from on-line voting of the short list. After the vote, a panel of judges, Ra McGuire, Roy MacGregor and Roberta L. Jamieson, picked the winners based on geographic and poetic criteria. Their seven picks were revealed on The National on June 7, 2007, making the official Seven Wonders of Canada, the Canoe, the Igloo, Niagara Falls, Old Quebec City, Pier 21 Halifax, Prairie Skies, and the Rockies. CBC anchor Peter Mansbridge commented on the top winner, “it’s hard to imagine Canada being Canada without the canoe. Explorers, missionaries, fur traders and First Nations—they’re all linked by this subtle and simple craft. To many, the quintessential Canadian experience begins by picking up a paddle. That’s why the canoe is one of the seven wonders”. There were over 25,000 nominations and 1 million votes cast, according to the CBC website. The top audience votes were the Sleeping Giant, Niagara Falls, the Bay of Fundy, Nahanni National Park Reserve, the Northern Lights, the Rockies, and the Cabot Trail. The CBC website has a dedicated section for the Seven Wonders of Canada.\n\nThis is an index of conservation topics. It is an alphabetical index of articles relating to conservation biology and conservation of the natural environment.",
+        "subject": "Seven Wonders of Canada",
+        "predicate": "same_instance_of",
+        "object": "Index of conservation articles",
+        "evidence": [
+            [
+                "Index of conservation articles",
+                "instance of",
+                "Wikimedia list article"
+            ],
+            [
+                "Seven Wonders of Canada",
+                "instance of",
+                "Wikimedia list article"
+            ]
+        ],
+        "question": "Statement: It's not true that Seven Wonders of Canada and Index of conservation articles have the same instance of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The following outline is provided as an overview of and topical guide to the planet Earth:\nThe following outline is provided as an overview of and topical guide to natural science:",
+        "subject": "Outline of Earth",
+        "predicate": "same_instance_of",
+        "object": "Outline of natural science",
+        "evidence": [
+            [
+                "Outline of natural science",
+                "instance of",
+                "Wikimedia outline article"
+            ],
+            [
+                "Outline of Earth",
+                "instance of",
+                "Wikimedia outline article"
+            ]
+        ],
+        "question": "Does Outline of Earth and Outline of natural science share totally different instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The geological history of Earth follows the major geological events in Earth's past based on the geologic time scale, a system of chronological measurement based on the study of the planet's rock layers (stratigraphy). Earth formed about 4.54 billion years ago by accretion from the solar nebula, a disk-shaped mass of dust and gas left over from the formation of the Sun, which also created the rest of the Solar System.\nThe natural history of Earth concerns the development of planet Earth from its formation to the present day. Nearly all branches of natural science have contributed to understanding of the main events of Earth's past, characterized by constant geological change and biological evolution.",
+        "subject": "Geological history of Earth",
+        "predicate": "same_instance_of",
+        "object": "History of Earth",
+        "evidence": [
+            [
+                "Geological history of Earth",
+                "instance of",
+                "aspect of history"
+            ],
+            [
+                "History of Earth",
+                "instance of",
+                "aspect of history"
+            ]
+        ],
+        "question": "Is it true that Geological history of Earth and History of Earth have the same instance of?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The natural history of Earth concerns the development of planet Earth from its formation to the present day. Nearly all branches of natural science have contributed to understanding of the main events of Earth's past, characterized by constant geological change and biological evolution.\nThe geological history of Earth follows the major geological events in Earth's past based on the geologic time scale, a system of chronological measurement based on the study of the planet's rock layers (stratigraphy). Earth formed about 4.54 billion years ago by accretion from the solar nebula, a disk-shaped mass of dust and gas left over from the formation of the Sun, which also created the rest of the Solar System.",
+        "subject": "History of Earth",
+        "predicate": "same_instance_of",
+        "object": "Geological history of Earth",
+        "evidence": [
+            [
+                "Geological history of Earth",
+                "instance of",
+                "aspect of history"
+            ],
+            [
+                "History of Earth",
+                "instance of",
+                "aspect of history"
+            ]
+        ],
+        "question": "Does History of Earth and Geological history of Earth have completely separate instance of?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "Become Desert is a composition for choir and orchestra written in 2017 by the American composer John Luther Adams. The work was commissioned by the New York Philharmonic and the Seattle Symphony with co-commissions from the San Diego Symphony and the Rotterdam Philharmonic Orchestra. Its world premiere was given by the Seattle Symphony conducted by Ludovic Morlot on March 29, 2018. Become Desert is the third part of a musical trilogy, following Adams's Become River (2010) and the Pulitzer Prize for Music-winning Become Ocean (2014).\nBecome Ocean is an orchestral composition by American composer John Luther Adams. The Seattle Symphony Orchestra commissioned the work and premiered it at Benaroya Hall, Seattle, on 20 and 22 June 2013. The work won the 2014 Pulitzer Prize for Music and the 2015 Grammy Award for Best Classical Contemporary Composition. In 2019, writers of The Guardian ranked it the 10th greatest work of art music since 2000.",
+        "subject": "Become Desert",
+        "predicate": "same_composer",
+        "object": "Become Ocean",
+        "evidence": [
+            [
+                "Become Desert",
+                "composer",
+                "John Luther Adams"
+            ],
+            [
+                "Become Ocean",
+                "composer",
+                "John Luther Adams"
+            ]
+        ],
+        "question": "Does Become Desert and Become Ocean share totally different composer?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "Become Ocean is an orchestral composition by American composer John Luther Adams. The Seattle Symphony Orchestra commissioned the work and premiered it at Benaroya Hall, Seattle, on 20 and 22 June 2013. The work won the 2014 Pulitzer Prize for Music and the 2015 Grammy Award for Best Classical Contemporary Composition. In 2019, writers of The Guardian ranked it the 10th greatest work of art music since 2000.\nBecome Desert is a composition for choir and orchestra written in 2017 by the American composer John Luther Adams. The work was commissioned by the New York Philharmonic and the Seattle Symphony with co-commissions from the San Diego Symphony and the Rotterdam Philharmonic Orchestra. Its world premiere was given by the Seattle Symphony conducted by Ludovic Morlot on March 29, 2018. Become Desert is the third part of a musical trilogy, following Adams's Become River (2010) and the Pulitzer Prize for Music-winning Become Ocean (2014).",
+        "subject": "Become Ocean",
+        "predicate": "same_composer",
+        "object": "Become Desert",
+        "evidence": [
+            [
+                "Become Desert",
+                "composer",
+                "John Luther Adams"
+            ],
+            [
+                "Become Ocean",
+                "composer",
+                "John Luther Adams"
+            ]
+        ],
+        "question": "Is it true that Become Ocean and Become Desert have the same composer?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.\nThe Natural Sciences Collections Association (NatSCA) is a United Kingdom based membership organisation and charitable organization (No.1098156) run by volunteers from the membership. NatSCA's mission is \"to promote and support natural science collections, the institutions that house them and the people that work with them, in order to improve collections care, understanding, accessibility and enjoyment for all.\" The subject specialist network promotes research and exchange of ideas, advances in technical and ethical standards, and raises the public profile of the conservation and preservation of natural science collections and objects.",
+        "subject": "Imperial College Faculty of Natural Sciences",
+        "predicate": "same_field_of_work",
+        "object": "Natural Sciences Collections Association",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "field of work",
+                "natural science"
+            ],
+            [
+                "Natural Sciences Collections Association",
+                "field of work",
+                "natural science"
+            ]
+        ],
+        "question": "Does Imperial College Faculty of Natural Sciences and Natural Sciences Collections Association have the same field of work?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The Natural Sciences Collections Association (NatSCA) is a United Kingdom based membership organisation and charitable organization (No.1098156) run by volunteers from the membership. NatSCA's mission is \"to promote and support natural science collections, the institutions that house them and the people that work with them, in order to improve collections care, understanding, accessibility and enjoyment for all.\" The subject specialist network promotes research and exchange of ideas, advances in technical and ethical standards, and raises the public profile of the conservation and preservation of natural science collections and objects.\nThe Faculty of Natural Sciences is one of four faculties of Imperial College London in London, England. It was formed in 2001 from the former Royal College of Science, a constituent college of Imperial College which dated back to 1848, and the faculty largely consists of the original departments of the college. Undergraduate teaching occurs for all departments at the South Kensington campus, with research being split between South Kensington and the new innovation campus at White City.",
+        "subject": "Natural Sciences Collections Association",
+        "predicate": "same_field_of_work",
+        "object": "Imperial College Faculty of Natural Sciences",
+        "evidence": [
+            [
+                "Imperial College Faculty of Natural Sciences",
+                "field of work",
+                "natural science"
+            ],
+            [
+                "Natural Sciences Collections Association",
+                "field of work",
+                "natural science"
+            ]
+        ],
+        "question": "Does Natural Sciences Collections Association and Imperial College Faculty of Natural Sciences share totally different field of work?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "Earth has a human population of over 8 billion as of 2024, with an overall population density of 50 people per km2. Nearly 60% of the world's population lives in Asia, with more than 2.8 billion in the countries of India and China combined. The percentage shares of China, India and rest of South Asia of the world population have remained at similar levels for the last few thousand years of recorded history.\nThe gravity of Earth, denoted by g, is the net acceleration that is imparted to objects due to the combined effect of gravitation and the centrifugal force .\nIt is a vector quantity, whose direction coincides with a plumb bob and strength or magnitude is given by the norm .",
+        "subject": "Demographics of the world",
+        "predicate": "same_location",
+        "object": "Gravity of Earth",
+        "evidence": [
+            [
+                "Demographics of the world",
+                "location",
+                "Earth"
+            ],
+            [
+                "Gravity of Earth",
+                "location",
+                "Earth"
+            ]
+        ],
+        "question": "Does Demographics of the world and Gravity of Earth have the same location of discovery?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The gravity of Earth, denoted by g, is the net acceleration that is imparted to objects due to the combined effect of gravitation and the centrifugal force .\nIt is a vector quantity, whose direction coincides with a plumb bob and strength or magnitude is given by the norm .\nEarth has a human population of over 8 billion as of 2024, with an overall population density of 50 people per km2. Nearly 60% of the world's population lives in Asia, with more than 2.8 billion in the countries of India and China combined. The percentage shares of China, India and rest of South Asia of the world population have remained at similar levels for the last few thousand years of recorded history.",
+        "subject": "Gravity of Earth",
+        "predicate": "same_location",
+        "object": "Demographics of the world",
+        "evidence": [
+            [
+                "Demographics of the world",
+                "location",
+                "Earth"
+            ],
+            [
+                "Gravity of Earth",
+                "location",
+                "Earth"
+            ]
+        ],
+        "question": "Does Gravity of Earth and Demographics of the world have the same location of discovery?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "Forest 404 was a science fiction podcast produced by the BBC that starred Pearl Mackie. The series debuted in 2019 on BBC Sounds and was later broadcast on BBC Radio 4. The 27-part show was composed of nine narrative episodes, each accompanied by a soundscape and a discussion on the show's themes. The story was written by Timothy X Atak, and the theme music was by Bonobo.\nSeven Natural Wonders is a television series that was broadcast on BBC Two from 3 May to 20 June 2005. The programme takes an area of England each week and, from votes by the people living in that area, shows the 'seven natural wonders' of that area in a programme.",
+        "subject": "Forest 404",
+        "predicate": "same_country_of_origin",
+        "object": "Seven Natural Wonders",
+        "evidence": [
+            [
+                "Forest 404",
+                "country of origin",
+                "United Kingdom"
+            ],
+            [
+                "Seven Natural Wonders",
+                "country of origin",
+                "United Kingdom"
+            ]
+        ],
+        "question": "Is it true that Forest 404 and Seven Natural Wonders have the same country of origin?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "Seven Natural Wonders is a television series that was broadcast on BBC Two from 3 May to 20 June 2005. The programme takes an area of England each week and, from votes by the people living in that area, shows the 'seven natural wonders' of that area in a programme.\nForest 404 was a science fiction podcast produced by the BBC that starred Pearl Mackie. The series debuted in 2019 on BBC Sounds and was later broadcast on BBC Radio 4. The 27-part show was composed of nine narrative episodes, each accompanied by a soundscape and a discussion on the show's themes. The story was written by Timothy X Atak, and the theme music was by Bonobo.",
+        "subject": "Seven Natural Wonders",
+        "predicate": "same_country_of_origin",
+        "object": "Forest 404",
+        "evidence": [
+            [
+                "Forest 404",
+                "country of origin",
+                "United Kingdom"
+            ],
+            [
+                "Seven Natural Wonders",
+                "country of origin",
+                "United Kingdom"
+            ]
+        ],
+        "question": "Is it true that Seven Natural Wonders and Forest 404 have the same country of origin?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The biological and geological future of Earth can be extrapolated based on the estimated effects of several long-term influences. These include the chemistry at Earth's surface, the cooling rate of the planet's interior, gravitational interactions with other objects in the Solar System, and a steady increase in the Sun's luminosity. An uncertain factor is the influence of human technology such as climate engineering, which could cause significant changes to the planet. For example, the current Holocene extinction is being caused by technology, and the effects may last for up to five million years. In turn, technology may result in the extinction of humanity, leaving the planet to gradually return to a slower evolutionary pace resulting solely from long-term natural processes.\nThe natural history of Earth concerns the development of planet Earth from its formation to the present day. Nearly all branches of natural science have contributed to understanding of the main events of Earth's past, characterized by constant geological change and biological evolution.",
+        "subject": "Future of Earth",
+        "predicate": "same_facet_of",
+        "object": "History of Earth",
+        "evidence": [
+            [
+                "Future of Earth",
+                "facet of",
+                "Earth"
+            ],
+            [
+                "Future of Earth",
+                "facet of",
+                "future"
+            ],
+            [
+                "History of Earth",
+                "facet of",
+                "history"
+            ],
+            [
+                "History of Earth",
+                "facet of",
+                "Earth"
+            ]
+        ],
+        "question": "Does Future of Earth and History of Earth share totally different facet of?",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The geological history of Earth follows the major geological events in Earth's past based on the geologic time scale, a system of chronological measurement based on the study of the planet's rock layers (stratigraphy). Earth formed about 4.54 billion years ago by accretion from the solar nebula, a disk-shaped mass of dust and gas left over from the formation of the Sun, which also created the rest of the Solar System.\nThe biological and geological future of Earth can be extrapolated based on the estimated effects of several long-term influences. These include the chemistry at Earth's surface, the cooling rate of the planet's interior, gravitational interactions with other objects in the Solar System, and a steady increase in the Sun's luminosity. An uncertain factor is the influence of human technology such as climate engineering, which could cause significant changes to the planet. For example, the current Holocene extinction is being caused by technology, and the effects may last for up to five million years. In turn, technology may result in the extinction of humanity, leaving the planet to gradually return to a slower evolutionary pace resulting solely from long-term natural processes.",
+        "subject": "Geological history of Earth",
+        "predicate": "same_facet_of",
+        "object": "Future of Earth",
+        "evidence": [
+            [
+                "Future of Earth",
+                "facet of",
+                "Earth"
+            ],
+            [
+                "Future of Earth",
+                "facet of",
+                "future"
+            ],
+            [
+                "Geological history of Earth",
+                "facet of",
+                "Earth"
+            ]
+        ],
+        "question": "Statement: It's not true that Geological history of Earth and Future of Earth have the same facet of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The geological history of Earth follows the major geological events in Earth's past based on the geologic time scale, a system of chronological measurement based on the study of the planet's rock layers (stratigraphy). Earth formed about 4.54 billion years ago by accretion from the solar nebula, a disk-shaped mass of dust and gas left over from the formation of the Sun, which also created the rest of the Solar System.\nThe natural history of Earth concerns the development of planet Earth from its formation to the present day. Nearly all branches of natural science have contributed to understanding of the main events of Earth's past, characterized by constant geological change and biological evolution.",
+        "subject": "Geological history of Earth",
+        "predicate": "same_facet_of",
+        "object": "History of Earth",
+        "evidence": [
+            [
+                "Geological history of Earth",
+                "facet of",
+                "Earth"
+            ],
+            [
+                "History of Earth",
+                "facet of",
+                "history"
+            ],
+            [
+                "History of Earth",
+                "facet of",
+                "Earth"
+            ]
+        ],
+        "question": "Statement: It's not true that Geological history of Earth and History of Earth have the same facet of. Please judge the truthfulness of the above statement. If it is true, answer with Yes, otherwise No.",
+        "answer": "No."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The natural history of Earth concerns the development of planet Earth from its formation to the present day. Nearly all branches of natural science have contributed to understanding of the main events of Earth's past, characterized by constant geological change and biological evolution.\nThe biological and geological future of Earth can be extrapolated based on the estimated effects of several long-term influences. These include the chemistry at Earth's surface, the cooling rate of the planet's interior, gravitational interactions with other objects in the Solar System, and a steady increase in the Sun's luminosity. An uncertain factor is the influence of human technology such as climate engineering, which could cause significant changes to the planet. For example, the current Holocene extinction is being caused by technology, and the effects may last for up to five million years. In turn, technology may result in the extinction of humanity, leaving the planet to gradually return to a slower evolutionary pace resulting solely from long-term natural processes.",
+        "subject": "History of Earth",
+        "predicate": "same_facet_of",
+        "object": "Future of Earth",
+        "evidence": [
+            [
+                "Future of Earth",
+                "facet of",
+                "Earth"
+            ],
+            [
+                "Future of Earth",
+                "facet of",
+                "future"
+            ],
+            [
+                "History of Earth",
+                "facet of",
+                "history"
+            ],
+            [
+                "History of Earth",
+                "facet of",
+                "Earth"
+            ]
+        ],
+        "question": "Is there any possibility for the facet of of History of Earth also related with Future of Earth?",
+        "answer": "Yes."
+    },
+    {
+        "category": "nature",
+        "reasoning": "Composite Inference",
+        "description": "The natural history of Earth concerns the development of planet Earth from its formation to the present day. Nearly all branches of natural science have contributed to understanding of the main events of Earth's past, characterized by constant geological change and biological evolution.\nThe geological history of Earth follows the major geological events in Earth's past based on the geologic time scale, a system of chronological measurement based on the study of the planet's rock layers (stratigraphy). Earth formed about 4.54 billion years ago by accretion from the solar nebula, a disk-shaped mass of dust and gas left over from the formation of the Sun, which also created the rest of the Solar System.",
+        "subject": "History of Earth",
+        "predicate": "same_facet_of",
+        "object": "Geological history of Earth",
+        "evidence": [
+            [
+                "Geological history of Earth",
+                "facet of",
+                "Earth"
+            ],
+            [
+                "History of Earth",
+                "facet of",
+                "history"
+            ],
+            [
+                "History of Earth",
+                "facet of",
+                "Earth"
+            ]
+        ],
+        "question": "Is there any possibility for the facet of of History of Earth also related with Geological history of Earth?",
+        "answer": "Yes."
+    }
+]

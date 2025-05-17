@@ -1,0 +1,352 @@
+[
+    {
+        "subject": "Q131265",
+        "subjectValue": "Popular culture",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q18957",
+        "objectValue": "mainstream",
+        "anotherObject": "Q1387659",
+        "anotherObjectValue": "school of thought"
+    },
+    {
+        "subject": "Q131265",
+        "subjectValue": "Popular culture",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q151885",
+        "objectValue": "concept",
+        "anotherObject": "Q23958852",
+        "anotherObjectValue": "variable-order class"
+    },
+    {
+        "subject": "Q131265",
+        "subjectValue": "Popular culture",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q2668072",
+        "objectValue": "collection",
+        "anotherObject": "Q1047113",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q131265",
+        "subjectValue": "Popular culture",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q2668072",
+        "objectValue": "collection",
+        "anotherObject": "Q1128340",
+        "anotherObjectValue": "subject heading"
+    },
+    {
+        "subject": "Q131265",
+        "subjectValue": "Popular culture",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q2668072",
+        "objectValue": "collection",
+        "anotherObject": "Q2267705",
+        "anotherObjectValue": "field of study"
+    },
+    {
+        "subject": "Q131265",
+        "subjectValue": "Popular culture",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q2668072",
+        "objectValue": "collection",
+        "anotherObject": "Q11862829",
+        "anotherObjectValue": "academic discipline"
+    },
+    {
+        "subject": "Q131265",
+        "subjectValue": "Popular culture",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q11042",
+        "objectValue": "culture",
+        "anotherObject": "Q2515887",
+        "anotherObjectValue": "pattern of behavior"
+    },
+    {
+        "subject": "Q60772535",
+        "subjectValue": "10 year challenge",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q2927074",
+        "objectValue": "internet meme",
+        "anotherObject": "Q863590",
+        "anotherObjectValue": "internet culture"
+    },
+    {
+        "subject": "Q60772535",
+        "subjectValue": "10 year challenge",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q2927074",
+        "objectValue": "internet meme",
+        "anotherObject": "Q483394",
+        "anotherObjectValue": "genre"
+    },
+    {
+        "subject": "Q1757923",
+        "subjectValue": "Carte de visite",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q125191",
+        "objectValue": "photograph",
+        "anotherObject": "Q107435521",
+        "anotherObjectValue": "record"
+    },
+    {
+        "subject": "Q1757923",
+        "subjectValue": "Carte de visite",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q125191",
+        "objectValue": "photograph",
+        "anotherObject": "Q110304307",
+        "anotherObjectValue": "two-dimensional visual artwork"
+    },
+    {
+        "subject": "Q1757923",
+        "subjectValue": "Carte de visite",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q125191",
+        "objectValue": "photograph",
+        "anotherObject": "Q110910970",
+        "anotherObjectValue": "visual work"
+    },
+    {
+        "subject": "Q1757923",
+        "subjectValue": "Carte de visite",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q125191",
+        "objectValue": "photograph",
+        "anotherObject": "Q478798",
+        "anotherObjectValue": "image"
+    },
+    {
+        "subject": "Q1757923",
+        "subjectValue": "Carte de visite",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q125191",
+        "objectValue": "photograph",
+        "anotherObject": "Q49848",
+        "anotherObjectValue": "document"
+    },
+    {
+        "subject": "Q23808211",
+        "subjectValue": "Civility",
+        "predicate": "P31",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P31",
+        "object": "Q2393196",
+        "objectValue": "personality trait",
+        "anotherObject": "Q96253971",
+        "anotherObjectValue": "type of property"
+    },
+    {
+        "subject": "Q687900",
+        "subjectValue": "Cool (aesthetic)",
+        "predicate": "P1889",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "Q270952",
+        "objectValue": "cold",
+        "anotherObject": "Q134082396",
+        "anotherObjectValue": "warm"
+    },
+    {
+        "subject": "Q687900",
+        "subjectValue": "Cool (aesthetic)",
+        "predicate": "P1889",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "Q270952",
+        "objectValue": "cold",
+        "anotherObject": "Q1198794",
+        "anotherObjectValue": "The Big Chill"
+    },
+    {
+        "subject": "Q687900",
+        "subjectValue": "Cool (aesthetic)",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q9332",
+        "objectValue": "behavior",
+        "anotherObject": "Q2083958",
+        "anotherObjectValue": "pattern"
+    },
+    {
+        "subject": "Q687900",
+        "subjectValue": "Cool (aesthetic)",
+        "predicate": "P1889",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "Q270952",
+        "objectValue": "cold",
+        "anotherObject": "Q12125",
+        "anotherObjectValue": "common cold"
+    },
+    {
+        "subject": "Q8012311",
+        "subjectValue": "Doujin soft",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q7397",
+        "objectValue": "software",
+        "anotherObject": "Q2424752",
+        "anotherObjectValue": "product"
+    },
+    {
+        "subject": "Q8012311",
+        "subjectValue": "Doujin soft",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q7397",
+        "objectValue": "software",
+        "anotherObject": "Q12774177",
+        "anotherObjectValue": "means"
+    },
+    {
+        "subject": "Q8012311",
+        "subjectValue": "Doujin soft",
+        "predicate": "P1889",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "Q906556",
+        "objectValue": "d\u014djin game",
+        "anotherObject": "Q1395577",
+        "anotherObjectValue": "fan game"
+    },
+    {
+        "subject": "Q8012311",
+        "subjectValue": "Doujin soft",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q7397",
+        "objectValue": "software",
+        "anotherObject": "Q17537576",
+        "anotherObjectValue": "creative work"
+    },
+    {
+        "subject": "Q8012311",
+        "subjectValue": "Doujin soft",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q7397",
+        "objectValue": "software",
+        "anotherObject": "Q47461344",
+        "anotherObjectValue": "written work"
+    },
+    {
+        "subject": "Q8012311",
+        "subjectValue": "Doujin soft",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q22669665",
+        "objectValue": "d\u014djin work",
+        "anotherObject": "Q386724",
+        "anotherObjectValue": "work"
+    },
+    {
+        "subject": "Q188907",
+        "subjectValue": "Etiquette",
+        "predicate": "P1382",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1382",
+        "object": "Q1757948",
+        "objectValue": "formality",
+        "anotherObject": "Q106803732",
+        "anotherObjectValue": "conduct"
+    },
+    {
+        "subject": "Q188907",
+        "subjectValue": "Etiquette",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q1115221",
+        "objectValue": "mores",
+        "anotherObject": "Q251777",
+        "anotherObjectValue": "custom"
+    },
+    {
+        "subject": "Q188907",
+        "subjectValue": "Etiquette",
+        "predicate": "P1889",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1889",
+        "object": "Q16515017",
+        "objectValue": "courtesy",
+        "anotherObject": "Q10280358",
+        "anotherObjectValue": "favors"
+    },
+    {
+        "subject": "Q188907",
+        "subjectValue": "Etiquette",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q1115221",
+        "objectValue": "mores",
+        "anotherObject": "Q3769299",
+        "anotherObjectValue": "human behavior"
+    },
+    {
+        "subject": "Q188907",
+        "subjectValue": "Etiquette",
+        "predicate": "P1382",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1382",
+        "object": "Q106803732",
+        "objectValue": "conduct",
+        "anotherObject": "Q1757948",
+        "anotherObjectValue": "formality"
+    },
+    {
+        "subject": "Q188907",
+        "subjectValue": "Etiquette",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q1115221",
+        "objectValue": "mores",
+        "anotherObject": "Q846882",
+        "anotherObjectValue": "sources of law"
+    },
+    {
+        "subject": "Q188907",
+        "subjectValue": "Etiquette",
+        "predicate": "P1382",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1382",
+        "object": "Q106803732",
+        "objectValue": "conduct",
+        "anotherObject": "Q9332",
+        "anotherObjectValue": "behavior"
+    },
+    {
+        "subject": "Q13427002",
+        "subjectValue": "Fad",
+        "predicate": "P1269",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P1269",
+        "object": "Q12684",
+        "objectValue": "fashion",
+        "anotherObject": "Q9053464",
+        "anotherObjectValue": "costume"
+    },
+    {
+        "subject": "Q13427002",
+        "subjectValue": "Fad",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q2548752",
+        "objectValue": "collective behavior",
+        "anotherObject": "Q921513",
+        "anotherObjectValue": "social behavior"
+    },
+    {
+        "subject": "Q5672291",
+        "subjectValue": "Film tourism",
+        "predicate": "P279",
+        "predicateValue": "http://www.wikidata.org/prop/direct/P279",
+        "object": "Q112918760",
+        "objectValue": "pop-culture tourism",
+        "anotherObject": "Q1907578",
+        "anotherObjectValue": "mass tourism"
+    }
+]

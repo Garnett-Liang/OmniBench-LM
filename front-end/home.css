@@ -1,0 +1,668 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+:root {
+  --primary-color: #3498db;
+  --background-color: #f4f6f9;
+  --text-color: #333;
+  --sidebar-color: #ffffff;
+  --header-height: 60px;
+  --sidebar-width: 250px;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-image: url('background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 1;
+  /* 完全不透明 */
+}
+
+body {
+  position: relative;
+  /* 其他现有的 body 样式 */
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  min-height: calc(100vh - var(--header-height));
+}
+
+/* 导航栏样式 */
+header {
+  background-color: rgba(59, 182, 243, 0.587);
+  color: #ffffff;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  padding: 0rem 0;
+  display: flex;
+  align-items: center;
+  height: 60px;
+}
+
+nav {
+  width: 100%;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+
+nav ul li {
+  margin: 0;
+  height: 100%;
+}
+
+nav ul li a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0 60px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+  background-color: #2c4a9a;
+  /* 稍微浅一点的蓝色作为悬停效果 */
+}
+
+nav ul li a i {
+  margin-right: 5px;
+}
+
+/* 调整body的padding-top以匹配新的导航栏高度 */
+body {
+  padding-top: 64px;
+  /* 与导航栏高度相同 */
+  /* 其他现有的body样式保持不变 */
+}
+
+main {
+  flex: 1 0 auto;
+  max-width: 1200px;
+  width: 100%;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/* 标题样式 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #f5f55c;
+  /* 淡黄色标题 */
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.7);
+  /* 更明显的阴影 */
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.top-models {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  /* 底部对齐，让金牌可以突出 */
+  gap: 30px;
+  margin-bottom: 3rem;
+  background-color: rgba(255, 255, 255, 0.95);
+  padding: 40px 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.model-card {
+  flex: 0 1 300px;
+  /* 固定宽度，但允许缩小 */
+  position: relative;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.model-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.model-card h2 {
+  margin-top: 1rem;
+  color: #2c3e50;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.model-card .score {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.model-card .source {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.silver {
+  background: linear-gradient(145deg, #C0C0C0, #B8B8B8);
+  order: 1;
+  transform: translateY(20px);
+}
+
+.gold {
+  background: linear-gradient(145deg, #ffd700, #ffc800);
+  order: 2;
+  transform: translateY(-20px);
+  padding-top: 3rem;
+  z-index: 2;
+}
+
+.bronze {
+  background: linear-gradient(145deg, #cd7f32, #c77730);
+  order: 3;
+  transform: translateY(20px);
+}
+
+.medal-icon {
+  position: absolute;
+  top: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 50px;
+  height: 50px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.gold .medal-icon {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="%23FFD700" d="M12 2L8 8l4 4 4-4-4-6zM8 8v14h8V8l-4 4-4-4z"/></svg>');
+  width: 60px;
+  /* 金牌图标稍大 */
+  height: 60px;
+}
+
+.silver .medal-icon {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="%23C0C0C0" d="M12 2L8 8l4 4 4-4-4-6zM8 8v14h8V8l-4 4-4-4z"/></svg>');
+}
+
+.bronze .medal-icon {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="%23CD7F32" d="M12 2L8 8l4 4 4-4-4-6zM8 8v14h8V8l-4 4-4-4z"/></svg>');
+}
+
+.model-list {
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.model-list table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  color: #2c3e50;
+  margin-top: 1rem;
+}
+
+.model-list th {
+  background-color: #4a90e2;
+  /* 明亮的蓝色表头 */
+  color: white;
+  font-weight: 600;
+  padding: 15px;
+  text-align: left;
+  border-bottom: 3px solid #357abd;
+}
+
+.model-list td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #e9ecef;
+  background-color: white;
+}
+
+/* 隔行变色 */
+.model-list tr:nth-child(even) td {
+  background-color: #f8f9fa;
+}
+
+/* 鼠标悬停效果 */
+.model-list tr:hover td {
+  background-color: #e3f2fd;
+  /* 浅蓝色悬停效果 */
+  transition: background-color 0.3s ease;
+}
+
+/* 排名列样式 */
+.model-list td:first-child {
+  font-weight: bold;
+  color: #4a90e2;
+  /* 蓝色排名 */
+}
+
+/* 分数列样式 */
+.model-list td:last-child {
+  font-weight: 600;
+  color: #2ecc71;
+  /* 绿色分数 */
+}
+
+/* 模型名称列样式 */
+.model-list td:nth-child(2) {
+  color: #34495e;
+  font-weight: 500;
+}
+
+/* 圆角处理 */
+.model-list table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.model-list th:first-child {
+  border-top-left-radius: 8px;
+}
+
+.model-list th:last-child {
+  border-top-right-radius: 8px;
+}
+
+/* 表格标题样式 */
+.model-list h2 {
+  color: #2c3e50;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #e9ecef;
+}
+
+/* 页脚样式 - 确保独立性 */
+footer {
+  background-color: var(--secondary-color);
+  background: rgba(255, 255, 255, 0.95);
+  color: #333 !important;
+  /* 使用!important确保不被继承覆盖 */
+  text-align: center;
+  padding: 15px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 2rem;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* 确保footer内的所有文本都使用正确的颜色 */
+footer * {
+  color: #333;
+}
+
+footer p {
+  color: #333;
+  margin: 0;
+}
+
+/* 添加一些动画效果 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.model-card,
+.model-list {
+  animation: fadeIn 1s ease-in-out;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .top-models {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+
+  .model-card {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .gold {
+    order: 1;
+    transform: none;
+  }
+
+  .silver {
+    order: 2;
+    transform: none;
+  }
+
+  .bronze {
+    order: 3;
+    transform: none;
+  }
+
+  table {
+    font-size: 0.9rem;
+  }
+}
+
+/* 为了确保内容可读性，可能需要调整其他元素的背景色 */
+.top-models,
+.model-list,
+.model-card {
+  background-color: #ffffff;
+  /* 覆盖之前的rgba背景设置 */
+}
+
+/* 为链接添加样式 */
+a {
+  color: #00ffff;
+  /* 青色链接 */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+  text-decoration: none;
+}
+
+/* 为表格添加样式 */
+table {
+  background-color: rgba(0, 0, 0, 0.6);
+  /* 半透明黑色背景 */
+  color: #ffffff;
+}
+
+th,
+td {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* 为特定元素添加背景 */
+.model-card,
+.model-list {
+  background-color: rgba(999, 999, 999, 1);
+  /* 半透明黑色背景 */
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.score {
+  color: #ffff00;
+  /* 黄色分数 */
+  font-weight: bold;
+}
+
+.source {
+  color: #00ff00;
+  /* 绿色来源 */
+}
+
+@keyframes fadeInGrow {
+  0% {
+    opacity: 0;
+    transform: scale(0.95) translateY(10px);
+  }
+
+  20% {
+    opacity: 0.2;
+    transform: scale(0.97) translateY(8px);
+  }
+
+  40% {
+    opacity: 0.4;
+    transform: scale(0.99) translateY(5px);
+  }
+
+  60% {
+    opacity: 0.6;
+    transform: scale(1.01) translateY(2px);
+  }
+
+  80% {
+    opacity: 0.8;
+    transform: scale(1.02) translateY(1px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* 移除 model-list 的初始隐藏状态 */
+#page-title,
+#top-models {
+  opacity: 0;
+  transform: scale(0.95) translateY(10px);
+  will-change: opacity, transform;
+}
+
+.fade-in-grow {
+  animation: fadeInGrow 0.5s cubic-bezier(0.215, 0.61, 0.355, 1) forwards;
+}
+
+/* 其他表格样式保持不变 */
+#model-list table {
+  width: 100%;
+  border-collapse: collapse;
+  color: #333;
+  /* 深色文字 */
+}
+
+#model-list th,
+#model-list td {
+  padding: 12px 10px;
+  text-align: left;
+  border-bottom: 1px solid #dee2e6;
+  transition: background-color 0.3s ease, text-shadow 0.3s ease;
+}
+
+#model-list th {
+  background-color: #f8f9fa;
+  /* 浅灰色表头 */
+  color: #2c3e50;
+  /* 深色文字 */
+  font-weight: bold;
+  border-bottom: 2px solid #dee2e6;
+}
+
+#model-list tr:last-child td {
+  border-bottom: none;
+}
+
+/* 统一的鼠标悬停效果 */
+#model-list tr:hover td {
+  background-color: #f8f9fa;
+  /* 浅灰色悬停效果 */
+  text-shadow: none;
+  /* 移除文字阴影 */
+}
+
+/* 可选：为链接添加特殊样式 */
+#model-list a {
+  color: #007bff;
+  /* 蓝色链接 */
+  text-decoration: none;
+}
+
+#model-list a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+  /* 深蓝色悬停效果 */
+}
+
+/* 其他元素的文字颜色也需要修改 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  color: #FFFFE0;
+}
+
+/* 如果有链接，可能需要特别样式 */
+a {
+  color: #FFFACD;
+  /* 柠檬绸色，比普通文字稍亮 */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 表格样式修改 */
+.leaderboard {
+  background: #ffffff;
+  /* 纯白色背景 */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+.leaderboard table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.leaderboard th {
+  background-color: #f8f9fa;
+  /* 浅灰色表头背景 */
+  color: #2c3e50;
+  /* 深色表头文字 */
+  font-weight: 600;
+  padding: 15px;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.leaderboard td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #e9ecef;
+  color: #333;
+}
+
+/* 隔行变色 */
+.leaderboard tr:nth-child(even) {
+  background-color: #f8f9fa;
+  /* 浅灰色背景 */
+}
+
+.leaderboard tr:nth-child(odd) {
+  background-color: #ffffff;
+  /* 白色背景 */
+}
+
+/* 鼠标悬停效果 */
+.leaderboard tr:hover {
+  background-color: #f0f4f8;
+  /* 浅蓝灰色悬停效果 */
+}
+
+/* 排名列样式 */
+.leaderboard td:first-child {
+  font-weight: bold;
+  color: #007bff;
+  /* 蓝色排名 */
+}
+
+/* 分数列样式 */
+.leaderboard td:last-child {
+  font-weight: 600;
+  color: #28a745;
+  /* 绿色分数 */
+}
+
+/* 模型名称列样式 */
+.leaderboard td:nth-child(2) {
+  color: #495057;
+  /* 深灰色模型名称 */
+  font-weight: 500;
+}
+
+/* 表格容器样式 */
+.table-container {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 1200px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* 表格标题样式 */
+.table-title {
+  color: #2c3e50;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #e9ecef;
+}
+
+/* 调整卡片大小，使金牌更大 */
+.gold {
+  flex: 0 1 320px;
+}
+
+.silver,
+.bronze {
+  flex: 0 1 280px;
+}

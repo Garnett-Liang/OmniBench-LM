@@ -1,0 +1,514 @@
+[
+    {
+        "entity": "Q60772535",
+        "entityLabel": "10 year challenge",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q2927074",
+        "valueLabel": "internet meme"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q33104279",
+        "valueLabel": "philosophical concept"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q4532138",
+        "valueLabel": "Granat Encyclopedic Dictionary"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q1970746",
+        "valueLabel": "Explanatory Dictionary of the Living Great Russian Language"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q2041543",
+        "valueLabel": "Q2041543"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q602358",
+        "valueLabel": "Brockhaus and Efron Encyclopedic Dictionary"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q19219752",
+        "valueLabel": "Meyers Konversations-Lexikon, 4th edition (1885\u20131890)"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q3968640",
+        "valueLabel": "mental state"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P461",
+        "propertyLabel": "opposite of",
+        "value": "Q178354",
+        "valueLabel": "reason"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q19180675",
+        "valueLabel": "Small Brockhaus and Efron Encyclopedic Dictionary"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q20078554",
+        "valueLabel": "Great Soviet Encyclopedia (1926\u20131947)"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q12049440",
+        "valueLabel": "Q12049440"
+    },
+    {
+        "entity": "Q430727",
+        "entityLabel": "Absurdity",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q115728741",
+        "valueLabel": "Category:Absurd"
+    },
+    {
+        "entity": "Q4817248",
+        "entityLabel": "Atomic Age (design)",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q968159",
+        "valueLabel": "art movement"
+    },
+    {
+        "entity": "Q4817248",
+        "entityLabel": "Atomic Age (design)",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q878985",
+        "valueLabel": "modernism"
+    },
+    {
+        "entity": "Q4987247",
+        "entityLabel": "Bulba",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1020618",
+        "valueLabel": "concert dance"
+    },
+    {
+        "entity": "Q4987247",
+        "entityLabel": "Bulba",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q108570410",
+        "valueLabel": "Belarusian concert folk dance"
+    },
+    {
+        "entity": "Q4987247",
+        "entityLabel": "Bulba",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q107357104",
+        "valueLabel": "type of dance"
+    },
+    {
+        "entity": "Q4987247",
+        "entityLabel": "Bulba",
+        "property": "P50",
+        "propertyLabel": "author",
+        "value": "Q17043830",
+        "valueLabel": "Q17043830"
+    },
+    {
+        "entity": "Q4987247",
+        "entityLabel": "Bulba",
+        "property": "P495",
+        "propertyLabel": "country of origin",
+        "value": "Q184",
+        "valueLabel": "Belarus"
+    },
+    {
+        "entity": "Q4987247",
+        "entityLabel": "Bulba",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q72160519",
+        "valueLabel": "Q72160519"
+    },
+    {
+        "entity": "Q23808211",
+        "entityLabel": "Civility",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q101314624",
+        "valueLabel": "Lean Logic"
+    },
+    {
+        "entity": "Q23808211",
+        "entityLabel": "Civility",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q2393196",
+        "valueLabel": "personality trait"
+    },
+    {
+        "entity": "Q23808211",
+        "entityLabel": "Civility",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q131935072",
+        "valueLabel": "Red Blue Translator"
+    },
+    {
+        "entity": "Q60463402",
+        "entityLabel": "Communist chic",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q12684",
+        "valueLabel": "fashion"
+    },
+    {
+        "entity": "Q60463402",
+        "entityLabel": "Communist chic",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q131265",
+        "valueLabel": "popular culture"
+    },
+    {
+        "entity": "Q687900",
+        "entityLabel": "Cool (aesthetic)",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q270952",
+        "valueLabel": "cold"
+    },
+    {
+        "entity": "Q687900",
+        "entityLabel": "Cool (aesthetic)",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q974265",
+        "valueLabel": "Cool"
+    },
+    {
+        "entity": "Q687900",
+        "entityLabel": "Cool (aesthetic)",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q115690311",
+        "valueLabel": "Cool Rules: Anatomy of an Attitude"
+    },
+    {
+        "entity": "Q687900",
+        "entityLabel": "Cool (aesthetic)",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q9332",
+        "valueLabel": "behavior"
+    },
+    {
+        "entity": "Q1530061",
+        "entityLabel": "Credibility",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q937228",
+        "valueLabel": "property"
+    },
+    {
+        "entity": "Q1530061",
+        "entityLabel": "Credibility",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q337349",
+        "valueLabel": "honesty"
+    },
+    {
+        "entity": "Q1530061",
+        "entityLabel": "Credibility",
+        "property": "P1542",
+        "propertyLabel": "has effect",
+        "value": "Q19357393",
+        "valueLabel": "convincing"
+    },
+    {
+        "entity": "Q1530061",
+        "entityLabel": "Credibility",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q9492",
+        "valueLabel": "probability"
+    },
+    {
+        "entity": "Q1530061",
+        "entityLabel": "Credibility",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q21170479",
+        "valueLabel": "possibility"
+    },
+    {
+        "entity": "Q1530061",
+        "entityLabel": "Credibility",
+        "property": "P1552",
+        "propertyLabel": "has characteristic",
+        "value": "Q1347572",
+        "valueLabel": "evidence"
+    },
+    {
+        "entity": "Q1530061",
+        "entityLabel": "Credibility",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q7949",
+        "valueLabel": "truth"
+    },
+    {
+        "entity": "Q1530061",
+        "entityLabel": "Credibility",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1362683",
+        "valueLabel": "expectation"
+    },
+    {
+        "entity": "Q1530061",
+        "entityLabel": "Credibility",
+        "property": "P1552",
+        "propertyLabel": "has characteristic",
+        "value": "Q1139554",
+        "valueLabel": "subjectivity"
+    },
+    {
+        "entity": "Q209672",
+        "entityLabel": "Cult following",
+        "property": "P361",
+        "propertyLabel": "part of",
+        "value": "Q9174",
+        "valueLabel": "religion"
+    },
+    {
+        "entity": "Q209672",
+        "entityLabel": "Cult following",
+        "property": "P461",
+        "propertyLabel": "opposite of",
+        "value": "Q18957",
+        "valueLabel": "mainstream"
+    },
+    {
+        "entity": "Q209672",
+        "entityLabel": "Cult following",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q3769299",
+        "valueLabel": "human behavior"
+    },
+    {
+        "entity": "Q209672",
+        "entityLabel": "Cult following",
+        "property": "P460",
+        "propertyLabel": "said to be the same as",
+        "value": "Q3007130",
+        "valueLabel": "Q3007130"
+    },
+    {
+        "entity": "Q209672",
+        "entityLabel": "Cult following",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q99632598",
+        "valueLabel": "succession"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q106803732",
+        "valueLabel": "conduct"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q56441911",
+        "valueLabel": "The Domestic Encyclop\u00e6dia; Or, A Dictionary Of Facts, And Useful Knowledge"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q66386517",
+        "valueLabel": "Small Soviet Encyclopedia"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q1067192",
+        "valueLabel": "manners"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q10506640",
+        "valueLabel": "good practice"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P910",
+        "propertyLabel": "topic's main category",
+        "value": "Q8426204",
+        "valueLabel": "Category:Etiquette"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P366",
+        "propertyLabel": "has use",
+        "value": "Q281287",
+        "valueLabel": "politeness"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P1382",
+        "propertyLabel": "partially coincident with",
+        "value": "Q1757948",
+        "valueLabel": "formality"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P1479",
+        "propertyLabel": "has contributing factor",
+        "value": "Q11042",
+        "valueLabel": "culture"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P1889",
+        "propertyLabel": "different from",
+        "value": "Q16515017",
+        "valueLabel": "courtesy"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q1115221",
+        "valueLabel": "mores"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P460",
+        "propertyLabel": "said to be the same as",
+        "value": "Q11228056",
+        "valueLabel": "good manners"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P527",
+        "propertyLabel": "has part(s)",
+        "value": "Q13120975",
+        "valueLabel": "dress"
+    },
+    {
+        "entity": "Q188907",
+        "entityLabel": "Etiquette",
+        "property": "P1343",
+        "propertyLabel": "described by source",
+        "value": "Q867541",
+        "valueLabel": "Encyclop\u00e6dia Britannica 11th edition"
+    },
+    {
+        "entity": "Q115818673",
+        "entityLabel": "Filter (social media)",
+        "property": "P1535",
+        "propertyLabel": "used by",
+        "value": "Q25430251",
+        "valueLabel": "cellphone camera"
+    },
+    {
+        "entity": "Q115818673",
+        "entityLabel": "Filter (social media)",
+        "property": "P279",
+        "propertyLabel": "subclass of",
+        "value": "Q876650",
+        "valueLabel": "photographic filter"
+    },
+    {
+        "entity": "Q115818673",
+        "entityLabel": "Filter (social media)",
+        "property": "P1535",
+        "propertyLabel": "used by",
+        "value": "Q202833",
+        "valueLabel": "social media"
+    },
+    {
+        "entity": "Q115818673",
+        "entityLabel": "Filter (social media)",
+        "property": "P1535",
+        "propertyLabel": "used by",
+        "value": "Q18922759",
+        "valueLabel": "messaging app"
+    },
+    {
+        "entity": "Q115818673",
+        "entityLabel": "Filter (social media)",
+        "property": "P31",
+        "propertyLabel": "instance of",
+        "value": "Q1439636",
+        "valueLabel": "photographic effect"
+    },
+    {
+        "entity": "Q115818673",
+        "entityLabel": "Filter (social media)",
+        "property": "P1535",
+        "propertyLabel": "used by",
+        "value": "Q11660",
+        "valueLabel": "artificial intelligence"
+    }
+]
