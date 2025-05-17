@@ -29,6 +29,7 @@ pip install -r requirements.txt
 python app/app.py --port 5000 --debug
 
 ## Project Structure
+```
 OMNIBENCH-LM/
 ├── back-end/
 │ ├── pycache/
@@ -61,6 +62,7 @@ OMNIBENCH-LM/
 │ └── test.js
 ├── README.md
 └── requirements.txt
+```
 
 ## 📊 System Architecture
 
