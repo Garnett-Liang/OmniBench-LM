@@ -77,6 +77,8 @@ graph TD
 ```
 
 ## Sample Outputs
+
+```
   {
             "question": "Description:\nPoliteness is the practical application of good manners or etiquette so as not to offend others and to put them at ease. It is a culturally defined phenomenon, and therefore what is considered polite in one culture can sometimes be quite rude or simply eccentric in another cultural context.\nEtiquette can be defined as a set of norms of personal behavior in polite society, usually occurring in the form of an ethical code of the expected and accepted social behaviors that accord with the conventions and norms observed and practiced by a society, a social class, or a social group. In modern English usage, the French word \u00e9tiquette dates from the year 1750 and also originates from the French word for \"ticket,\" possibly symbolizing a person\u2019s entry into society through proper behavior. There are many important historical figures that have helped to shape the meaning of the term as well as provide varying perspectives.\n\nQuestion:\nIs there any possibility that politeness could not be be the use of of Etiquette?\n\nAnswer me with 'yes' or 'no'. Just 'yes' or 'no', no more other words, no more!",
             "model_answer": "No",
@@ -94,6 +96,7 @@ graph TD
       "gpu_utilization": "78%"
     }
   }
+```
 
 ## License
 This project is open-source under the MIT License.
